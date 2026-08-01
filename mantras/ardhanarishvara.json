@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "id": "ardhanarishvara",
+  "category": "ardhanarishvara",
+  "title": {
+    "hi": "अर्धनारीश्वर",
+    "en": "Ardhanarishvara"
+  },
+  "icon": "ardhanarishvara",
+  "sortOrder": 41,
+  "mantras": [
+    {
+      "id": "ardhanarishvara_mantra",
+      "title": {
+        "hi": "अर्धनारीश्वर मंत्र",
+        "en": "Ardhanarishvara Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ अर्धनारीश्वराय नमः॥",
+        "transliteration": "Om Ardhanārīśvarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शिव और माता पार्वती के संयुक्त स्वरूप अर्धनारीश्वर का प्रसिद्ध मंत्र।",
+        "en": "A revered mantra dedicated to Ardhanarishvara, the unified form of Lord Shiva and Goddess Parvati."
+      },
+      "meaning": {
+        "hi": "मैं अर्धनारीश्वर स्वरूप भगवान शिव-पार्वती को प्रणाम करता हूँ।",
+        "en": "I bow to Ardhanarishvara, the divine union of Shiva and Parvati."
+      },
+      "deities": [
+        "ardhanarishvara",
+        "shiva",
+        "parvati"
+      ],
+      "deityInfo": {
+        "primary": "ardhanarishvara",
+        "group": "shaiva",
+        "parent": "shiva_parvati"
+      },
+      "categories": [
+        "ardhanarishvara",
+        "shaiva"
+      ],
+      "keywords": {
+        "hi": [
+          "अर्धनारीश्वर",
+          "शिव पार्वती",
+          "शिव शक्ति"
+        ],
+        "en": [
+          "ardhanarishvara",
+          "shiva parvati",
+          "shiva shakti"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "संतुलन",
+          "सौहार्द",
+          "मानसिक शांति",
+          "दाम्पत्य सुख",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Balance",
+          "Harmony",
+          "Mental peace",
+          "Marital harmony",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "balance",
+        "harmony",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "shivratri"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शिव-शक्ति उपासना एवं ध्यान में।",
+        "en": "For Shiva-Shakti worship and meditation."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'अर्धनारीश्वराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Ardhanārīśvarāya' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "om_namah_shivaya",
+        "parvati_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

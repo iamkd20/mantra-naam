@@ -1,0 +1,805 @@
+{
+  "version": 1,
+  "category": "protection",
+  "title": {
+    "hi": "रक्षा मंत्र",
+    "en": "Protection Mantras"
+  },
+  "mantras": [
+    {
+      "id": "mahamrityunjaya_mantra",
+      "title": {
+        "hi": "महामृत्युंजय मंत्र",
+        "en": "Mahamrityunjaya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+        "transliteration": "Om Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭivardhanam Urvārukamiva Bandhanān Mṛtyor Mukṣīya Māmṛtāt"
+      },
+      "description": {
+        "hi": "भगवान त्र्यम्बक शिव का प्रसिद्ध वैदिक मंत्र, जो आरोग्य, दीर्घायु एवं आध्यात्मिक संरक्षण के लिए जपा जाता है।",
+        "en": "A renowned Vedic mantra of Lord Shiva for healing, longevity, and spiritual protection."
+      },
+      "meaning": {
+        "hi": "हम त्रिनेत्रधारी शिव की उपासना करते हैं। वे हमें मृत्यु के बंधन से मुक्त कर अमृतत्व प्रदान करें।",
+        "en": "We worship the three-eyed Lord Shiva. May He free us from mortality and grant immortality."
+      },
+      "deities": [
+        "shiva"
+      ],
+      "deityInfo": {
+        "primary": "shiva",
+        "group": "shaiva",
+        "parent": null
+      },
+      "categories": [
+        "healing",
+        "protection",
+        "shiva"
+      ],
+      "keywords": {
+        "hi": [
+          "महामृत्युंजय",
+          "त्र्यम्बक",
+          "शिव"
+        ],
+        "en": [
+          "mahamrityunjaya",
+          "tryambakam",
+          "shiva"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आरोग्य",
+          "दीर्घायु",
+          "रक्षा",
+          "मानसिक शांति",
+          "भय से मुक्ति",
+          "आध्यात्मिक शक्ति"
+        ],
+        "en": [
+          "Healing",
+          "Longevity",
+          "Protection",
+          "Peace",
+          "Freedom from fear",
+          "Spiritual strength"
+        ]
+      },
+      "purpose": [
+        "healing",
+        "protection",
+        "longevity"
+      ],
+      "recommendedTime": [
+        "brahma_muhurta",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "illness",
+        "pradosh"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "आरोग्य, संकट एवं शिव साधना में।",
+        "en": "For healing, difficult times, and Shiva worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'उर्वारुकमिव' एवं 'मृत्योर्मुक्षीय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Urvārukamiva' and 'Mṛtyor Mukṣīya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Rigveda 7.59.12",
+      "related": [
+        "om_namah_shivaya"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "garbha_rakshambika_mantra",
+      "title": {
+        "hi": "गर्भ रक्षाम्बिका मंत्र",
+        "en": "Garbha Rakshambika Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी गर्भरक्षाम्बिकायै नमः॥",
+        "transliteration": "Om Devī Garbharakṣāmbikāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माता गर्भरक्षाम्बिका की कृपा एवं सुरक्षित मातृत्व की प्रार्थना का मंत्र।",
+        "en": "A prayer to Goddess Garbha Rakshambika for maternal protection and safe pregnancy."
+      },
+      "meaning": {
+        "hi": "मैं माता गर्भरक्षाम्बिका को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Garbha Rakshambika."
+      },
+      "deities": [
+        "garbha_rakshambika"
+      ],
+      "deityInfo": {
+        "primary": "garbha_rakshambika",
+        "group": "shakti",
+        "parent": "parvati"
+      },
+      "categories": [
+        "healing",
+        "motherhood"
+      ],
+      "keywords": {
+        "hi": [
+          "गर्भ",
+          "रक्षाम्बिका",
+          "मातृत्व"
+        ],
+        "en": [
+          "garbha",
+          "rakshambika",
+          "motherhood"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मातृ संरक्षण",
+          "मानसिक शांति",
+          "भक्ति",
+          "सकारात्मकता",
+          "ईश्वर कृपा",
+          "आंतरिक विश्वास"
+        ],
+        "en": [
+          "Maternal protection",
+          "Peace",
+          "Devotion",
+          "Positivity",
+          "Divine grace",
+          "Inner confidence"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "motherhood",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गर्भावस्था के दौरान श्रद्धापूर्वक जप करें।",
+        "en": "Traditionally chanted prayerfully during pregnancy."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गर्भरक्षाम्बिकायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Garbharakṣāmbikāyai' clearly."
+      },
+      "tradition": "Shakta",
+      "source": "Traditional",
+      "related": [
+        "sarva_badha_mukti_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "santana_gopala_mantra",
+      "title": {
+        "hi": "संतान गोपाल मंत्र",
+        "en": "Santana Gopala Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं ग्लौं देवकीसुत गोविन्द वासुदेव जगत्पते। देहि मे तनयं कृष्ण त्वामहं शरणं गतः॥",
+        "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Glauṁ Devakīsuta Govinda Vāsudeva Jagatpate Dehi Me Tanayaṁ Kṛṣṇa Tvāmahaṁ Śaraṇaṁ Gataḥ"
+      },
+      "description": {
+        "hi": "भगवान बाल गोपाल की कृपा के लिए प्रसिद्ध संतान गोपाल मंत्र।",
+        "en": "A revered mantra invoking Lord Krishna as Santana Gopala."
+      },
+      "meaning": {
+        "hi": "हे देवकीनंदन कृष्ण! मैं आपकी शरण में हूँ, कृपया अपनी कृपा प्रदान करें।",
+        "en": "O Krishna, son of Devaki, I surrender unto You. Bestow Your divine blessings."
+      },
+      "deities": [
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "healing"
+      ],
+      "keywords": {
+        "hi": [
+          "संतान गोपाल",
+          "कृष्ण",
+          "गोविन्द"
+        ],
+        "en": [
+          "santana gopala",
+          "krishna",
+          "govinda"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "मानसिक शांति",
+          "पारिवारिक मंगल",
+          "सकारात्मकता",
+          "ईश्वर कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Family well-being",
+          "Positivity",
+          "Divine grace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "family",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "krishna_janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        108
+      ],
+      "usage": {
+        "hi": "श्रीकृष्ण उपासना में।",
+        "en": "For worship of Lord Krishna."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'देवकीसुत' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Devakīsuta' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "hare_krishna_mahamantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "bhaya_nasha_mantra",
+      "title": {
+        "hi": "भय नाश मंत्र",
+        "en": "Bhaya Nasha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते वासुदेवाय॥",
+        "transliteration": "Om Namo Bhagavate Vāsudevāya"
+      },
+      "description": {
+        "hi": "भगवान विष्णु का प्रसिद्ध मंत्र, जो भय के समय श्रद्धापूर्वक जपा जाता है।",
+        "en": "A celebrated mantra of Lord Vishnu often chanted with devotion during times of fear."
+      },
+      "meaning": {
+        "hi": "मैं भगवान वासुदेव को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Vasudeva."
+      },
+      "deities": [
+        "vishnu"
+      ],
+      "deityInfo": {
+        "primary": "vishnu",
+        "group": "vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "protection",
+        "vishnu"
+      ],
+      "keywords": {
+        "hi": [
+          "भय नाश",
+          "वासुदेव",
+          "विष्णु"
+        ],
+        "en": [
+          "fear removal",
+          "vasudeva",
+          "vishnu"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता",
+          "मानसिक शांति",
+          "भक्ति",
+          "आंतरिक शक्ति",
+          "सकारात्मकता",
+          "ईश्वर स्मरण"
+        ],
+        "en": [
+          "Fearlessness",
+          "Peace",
+          "Devotion",
+          "Inner strength",
+          "Positivity",
+          "Divine remembrance"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "peace",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "times_of_difficulty",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "भय अथवा चिंता के समय।",
+        "en": "During fear, anxiety, or difficult situations."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वासुदेवाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vāsudevāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_namo_bhagavate_vasudevaya"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "sarva_badha_mukti_mantra",
+      "title": {
+        "hi": "सर्व बाधा मुक्ति मंत्र",
+        "en": "Sarva Badha Mukti Mantra"
+      },
+      "mantra": {
+        "hi": "सर्वबाधा विनिर्मुक्तो धनधान्यसुतान्वितः। मनुष्यो मत्प्रसादेन भविष्यति न संशयः॥",
+        "transliteration": "Sarva Bādhā Vinirmukto Dhanadhānyasutānvitaḥ Manuṣyo Matprasādena Bhaviṣyati Na Saṁśayaḥ"
+      },
+      "description": {
+        "hi": "देवी महात्म्य का प्रसिद्ध मंत्र, जो समस्त बाधाओं से मुक्ति एवं मंगल की कामना के लिए जपा जाता है।",
+        "en": "A celebrated verse from the Devi Mahatmya, chanted for relief from obstacles and divine blessings."
+      },
+      "meaning": {
+        "hi": "मेरी कृपा से मनुष्य सभी बाधाओं से मुक्त होकर धन, धान्य एवं सुख से युक्त होगा।",
+        "en": "By My grace, one becomes free from obstacles and blessed with prosperity and well-being."
+      },
+      "deities": [
+        "durga"
+      ],
+      "deityInfo": {
+        "primary": "durga",
+        "group": "shakti",
+        "parent": "parvati"
+      },
+      "categories": [
+        "protection",
+        "durga"
+      ],
+      "keywords": {
+        "hi": [
+          "सर्व बाधा",
+          "दुर्गा",
+          "देवी महात्म्य"
+        ],
+        "en": [
+          "sarva badha",
+          "durga",
+          "devi mahatmya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बाधा निवारण",
+          "सुरक्षा",
+          "समृद्धि",
+          "मानसिक शांति",
+          "साहस",
+          "भक्ति"
+        ],
+        "en": [
+          "Obstacle removal",
+          "Protection",
+          "Prosperity",
+          "Peace",
+          "Courage",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "obstacle_removal",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "navratri"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "बाधा निवारण एवं देवी उपासना में।",
+        "en": "For removal of obstacles and Devi worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विनिर्मुक्तो' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vinirmukto' clearly."
+      },
+      "tradition": "Shakta",
+      "source": "Devi Mahatmya",
+      "related": [
+        "durga_gayatri",
+        "navagraha_shanti_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tantra_badha_nasha_mantra",
+      "title": {
+        "hi": "तंत्र बाधा नाश मंत्र",
+        "en": "Tantra Badha Nasha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे॥",
+        "transliteration": "Om Aiṁ Hrīṁ Klīṁ Cāmuṇḍāyai Vicce"
+      },
+      "description": {
+        "hi": "माँ चामुण्डा का प्रसिद्ध नवाक्षरी मंत्र, जिसे देवी उपासना में जपा जाता है।",
+        "en": "The renowned Navakshari mantra of Goddess Chamunda, recited in Devi worship."
+      },
+      "meaning": {
+        "hi": "मैं माँ चामुण्डा की शरण में हूँ और उनकी कृपा का आह्वान करता हूँ।",
+        "en": "I invoke the grace and protection of Goddess Chamunda."
+      },
+      "deities": [
+        "chamunda"
+      ],
+      "deityInfo": {
+        "primary": "chamunda",
+        "group": "shakti",
+        "parent": "durga"
+      },
+      "categories": [
+        "protection",
+        "shakti"
+      ],
+      "keywords": {
+        "hi": [
+          "चामुण्डा",
+          "नवाक्षरी",
+          "देवी"
+        ],
+        "en": [
+          "chamunda",
+          "navakshari",
+          "devi"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "सुरक्षा",
+          "साहस",
+          "भक्ति",
+          "आत्मिक शक्ति",
+          "मानसिक स्थिरता",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Protection",
+          "Courage",
+          "Devotion",
+          "Inner strength",
+          "Mental stability",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "courage",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning",
+        "night"
+      ],
+      "recommendedOccasion": [
+        "navratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        9,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "देवी उपासना में श्रद्धापूर्वक जप करें।",
+        "en": "Traditionally recited during Devi worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विच्चे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vicce' clearly."
+      },
+      "tradition": "Shakta",
+      "source": "Durga Saptashati",
+      "related": [
+        "chamunda_mantra",
+        "sarva_badha_mukti_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "annadosha_nivaran_mantra",
+      "title": {
+        "hi": "अन्नदोष निवारण मंत्र",
+        "en": "Annadosha Nivaran Mantra"
+      },
+      "mantra": {
+        "hi": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम्। ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना॥",
+        "transliteration": "Brahmārpaṇaṁ Brahma Havir Brahmāgnau Brahmaṇā Hutam Brahmaiva Tena Gantavyaṁ Brahmakarmasamādhinā"
+      },
+      "description": {
+        "hi": "भोजन से पूर्व उच्चारित किया जाने वाला गीता का प्रसिद्ध मंत्र।",
+        "en": "A famous verse from the Bhagavad Gita traditionally recited before meals."
+      },
+      "meaning": {
+        "hi": "यह सम्पूर्ण अर्पण, आहुति और यज्ञ ब्रह्मस्वरूप है।",
+        "en": "The offering, oblation, fire, and sacrificer are all manifestations of Brahman."
+      },
+      "deities": [
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "food",
+        "daily_prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "अन्न",
+          "भोजन मंत्र",
+          "गीता"
+        ],
+        "en": [
+          "food prayer",
+          "meal mantra",
+          "gita"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "कृतज्ञता",
+          "मानसिक शांति",
+          "सात्त्विकता",
+          "भक्ति",
+          "सकारात्मकता",
+          "आध्यात्मिक दृष्टि"
+        ],
+        "en": [
+          "Gratitude",
+          "Peace",
+          "Purity",
+          "Devotion",
+          "Positivity",
+          "Spiritual awareness"
+        ]
+      },
+      "purpose": [
+        "gratitude",
+        "purity",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "before_meal"
+      ],
+      "recommendedOccasion": [
+        "daily_meals"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "भोजन से पूर्व।",
+        "en": "Before meals."
+      },
+      "dailyRoutine": [
+        "before_meal"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ब्रह्मार्पणम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Brahmārpaṇam' clearly."
+      },
+      "tradition": "Vedanta",
+      "source": "Bhagavad Gita 4.24",
+      "related": [],
+      "isPopular": true
+    },
+    {
+      "id": "sudarshana_chakra_mantra",
+      "title": {
+        "hi": "सुदर्शन चक्र मंत्र",
+        "en": "Sudarshana Chakra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री सुदर्शनाय विद्महे महाज्वालाय धीमहि। तन्नः चक्रः प्रचोदयात्॥",
+        "transliteration": "Om Śrī Sudarśanāya Vidmahe Mahājvālāya Dhīmahi Tanno Cakraḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान विष्णु के सुदर्शन चक्र की उपासना का प्रसिद्ध गायत्री मंत्र।",
+        "en": "A renowned Gayatri mantra dedicated to Lord Vishnu's Sudarshana Chakra."
+      },
+      "meaning": {
+        "hi": "हम दिव्य सुदर्शन का ध्यान करते हैं। वह हमें सत्य एवं धर्म के मार्ग पर प्रेरित करे।",
+        "en": "We meditate upon the divine Sudarshana. May it guide us on the path of righteousness."
+      },
+      "deities": [
+        "sudarshana"
+      ],
+      "deityInfo": {
+        "primary": "sudarshana",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "protection",
+        "vishnu"
+      ],
+      "keywords": {
+        "hi": [
+          "सुदर्शन",
+          "चक्र",
+          "विष्णु"
+        ],
+        "en": [
+          "sudarshana",
+          "chakra",
+          "vishnu"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "सुरक्षा",
+          "भक्ति",
+          "साहस",
+          "मानसिक शक्ति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Protection",
+          "Devotion",
+          "Courage",
+          "Mental strength",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "ekadashi",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "विष्णु उपासना एवं दैनिक जप में।",
+        "en": "For Vishnu worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महाज्वालाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mahājvālāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_namo_bhagavate_vasudevaya"
+      ],
+      "isPopular": true
+    }
+  ]
+}

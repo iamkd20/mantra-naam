@@ -1,0 +1,2959 @@
+{
+  "version": 1,
+  "category": "daily",
+  "title": {
+    "hi": "दैनिक मंत्र",
+    "en": "Daily Mantras"
+  },
+  "mantras": [
+    {
+      "id": "om",
+      "title": {
+        "hi": "ॐ",
+        "en": "Om"
+      },
+      "mantra": {
+        "hi": "ॐ",
+        "transliteration": "Om"
+      },
+      "description": {
+        "hi": "ॐ (प्रणव) सम्पूर्ण सृष्टि का आदि एवं अनादि दिव्य नाद माना जाता है। यह ब्रह्म, चेतना तथा सम्पूर्ण ब्रह्माण्ड की एकता का प्रतीक है। ध्यान, जप तथा प्रत्येक वैदिक मंत्र के आरम्भ में इसका उच्चारण किया जाता है।",
+        "en": "Om (Pranava) is regarded as the primordial cosmic sound and the symbol of the Supreme Reality. It represents universal consciousness and is traditionally recited at the beginning of prayers, meditation, and Vedic mantras."
+      },
+      "meaning": {
+        "hi": "ॐ सम्पूर्ण ब्रह्माण्ड, परम सत्य तथा ईश्वर की अखण्ड चेतना का प्रतीक है।",
+        "en": "Om symbolizes the Supreme Reality, universal consciousness, and the eternal essence of creation."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "universal"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ",
+          "ओम्",
+          "प्रणव",
+          "ओं"
+        ],
+        "en": [
+          "om",
+          "aum",
+          "pranava",
+          "omkara"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मन को शांत करने में सहायक",
+          "ध्यान में एकाग्रता बढ़ाता है",
+          "आध्यात्मिक जागरूकता विकसित करता है",
+          "जप एवं पूजा का शुभ आरम्भ माना जाता है",
+          "आंतरिक संतुलन को प्रोत्साहित करता है",
+          "ईश्वर के प्रति श्रद्धा को गहरा करता है"
+        ],
+        "en": [
+          "Promotes inner peace",
+          "Supports meditation",
+          "Improves concentration",
+          "Creates a sacred beginning for prayer",
+          "Encourages spiritual awareness",
+          "Deepens devotion"
+        ]
+      },
+      "purpose": [
+        "meditation",
+        "spiritual_growth",
+        "daily_prayer",
+        "inner_peace"
+      ],
+      "recommendedTime": [
+        "anytime",
+        "brahma_muhurta",
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "meditation",
+        "beginning_of_prayer"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "ध्यान, जप एवं सभी मंत्रों के आरम्भ में",
+        "en": "At the beginning of meditation, prayer, and mantra chanting"
+      },
+      "dailyRoutine": [
+        "morning",
+        "meditation",
+        "daily_puja",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ओ' का दीर्घ उच्चारण करें तथा अंत में 'म्' का कंपन धीरे-धीरे समाप्त करें।",
+        "en": "Pronounce the long 'O' followed by a gentle resonating 'M'."
+      },
+      "tradition": "Universal, Vedic, Hindu",
+      "source": "Mandukya Upanishad, Vedas",
+      "related": [
+        "gayatri_mantra",
+        "om_namah_shivaya",
+        "mahamrityunjaya_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_namah_shivaya",
+      "title": {
+        "hi": "ॐ नमः शिवाय",
+        "en": "Om Namah Shivaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमः शिवाय",
+        "transliteration": "Om Namaḥ Śivāya"
+      },
+      "description": {
+        "hi": "ॐ नमः शिवाय भगवान शिव का प्रसिद्ध पंचाक्षरी मंत्र है। यह आत्मशुद्धि, आंतरिक शांति, वैराग्य तथा शिवतत्त्व से एकत्व स्थापित करने के लिए जपा जाता है।",
+        "en": "Om Namah Shivaya is the sacred Panchakshari Mantra dedicated to Lord Shiva. It is traditionally chanted for inner purification, peace, spiritual awakening, and devotion."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शिव को नमन करता हूँ।",
+        "en": "I bow to Lord Shiva."
+      },
+      "deities": [
+        "shiva"
+      ],
+      "deityInfo": {
+        "primary": "shiva",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "shiva"
+      ],
+      "keywords": {
+        "hi": [
+          "शिव",
+          "पंचाक्षरी",
+          "ॐ नमः शिवाय"
+        ],
+        "en": [
+          "shiva",
+          "panchakshari",
+          "om namah shivaya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मन को शांत करता है",
+          "भक्ति को गहरा करता है",
+          "आत्मचिंतन को बढ़ावा देता है",
+          "ध्यान में सहायक",
+          "आंतरिक संतुलन विकसित करता है",
+          "शिवभक्ति को मजबूत करता है"
+        ],
+        "en": [
+          "Promotes inner peace",
+          "Deepens devotion",
+          "Supports meditation",
+          "Encourages self-reflection",
+          "Builds inner balance",
+          "Strengthens devotion to Shiva"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "meditation",
+        "inner_peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "pradosha",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "shivaratri",
+        "meditation"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं शिव पूजा",
+        "en": "Daily chanting and Shiva worship"
+      },
+      "dailyRoutine": [
+        "morning",
+        "meditation",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नमः' में विसर्ग का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Namaḥ' with a soft visarga."
+      },
+      "tradition": "Shaiva",
+      "source": "Yajurveda, Shaiva Tradition",
+      "related": [
+        "mahamrityunjaya_mantra",
+        "om",
+        "shiva_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "mahamrityunjaya_mantra",
+      "title": {
+        "hi": "महामृत्युंजय मंत्र",
+        "en": "Mahamrityunjaya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+        "transliteration": "Om Tryambakaṁ Yajāmahe Sugandhiṁ Puṣṭivardhanam Urvārukamiva Bandhanān Mṛtyor Mukṣīya Mā'mṛtāt"
+      },
+      "description": {
+        "hi": "महामृत्युंजय मंत्र भगवान शिव को समर्पित एक महान वैदिक मंत्र है। इसका जप आरोग्य, दीर्घायु, मानसिक शक्ति तथा आध्यात्मिक कल्याण के लिए किया जाता है।",
+        "en": "The Mahamrityunjaya Mantra is a revered Vedic hymn dedicated to Lord Shiva. It is traditionally recited for health, longevity, spiritual strength, and inner healing."
+      },
+      "meaning": {
+        "hi": "हे त्रिनेत्रधारी भगवान! हमें मृत्यु एवं बंधनों से मुक्त कर अमृतस्वरूप सत्य की ओर ले चलें।",
+        "en": "O Three-Eyed Lord, liberate us from bondage and mortality, leading us toward immortality."
+      },
+      "deities": [
+        "shiva"
+      ],
+      "deityInfo": {
+        "primary": "shiva",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "shiva",
+        "vedic"
+      ],
+      "keywords": {
+        "hi": [
+          "महामृत्युंजय",
+          "त्र्यम्बकं",
+          "शिव"
+        ],
+        "en": [
+          "mahamrityunjaya",
+          "tryambakam",
+          "shiva"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति",
+          "आध्यात्मिक शक्ति",
+          "सकारात्मकता",
+          "धैर्य",
+          "शिवभक्ति",
+          "ध्यान में सहायक"
+        ],
+        "en": [
+          "Promotes peace",
+          "Supports spiritual strength",
+          "Encourages positivity",
+          "Builds resilience",
+          "Deepens devotion",
+          "Supports meditation"
+        ]
+      },
+      "purpose": [
+        "healing",
+        "protection",
+        "spiritual_growth",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "brahma_muhurta",
+        "morning",
+        "pradosha"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "shivaratri",
+        "healing_prayers"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        51,
+        108
+      ],
+      "usage": {
+        "hi": "आरोग्य, शांति एवं शिव उपासना",
+        "en": "Healing, peace, and Shiva worship"
+      },
+      "dailyRoutine": [
+        "morning",
+        "daily_puja",
+        "meditation"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "वैदिक स्वर एवं दीर्घ-ह्रस्व का ध्यान रखें।",
+        "en": "Maintain proper Vedic pronunciation and vowel lengths."
+      },
+      "tradition": "Vedic, Shaiva",
+      "source": "Rigveda 7.59.12",
+      "related": [
+        "om_namah_shivaya",
+        "gayatri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "gayatri_mantra",
+      "title": {
+        "hi": "गायत्री मंत्र",
+        "en": "Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+        "transliteration": "Om Bhūr Bhuvaḥ Svaḥ Tat Savitur Vareṇyaṁ Bhargo Devasya Dhīmahi Dhiyo Yo Naḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "गायत्री मंत्र वेदों का महान मंत्र है जो सविता देव की दिव्य चेतना एवं ज्ञान का आह्वान करता है।",
+        "en": "The Gayatri Mantra is one of the most revered Vedic prayers invoking the divine light of Savitr for wisdom and enlightenment."
+      },
+      "meaning": {
+        "hi": "हम उस परम दिव्य प्रकाश का ध्यान करते हैं जो हमारी बुद्धि को सत्य मार्ग की ओर प्रेरित करे।",
+        "en": "We meditate upon the divine light that inspires and guides our intellect toward truth."
+      },
+      "deities": [
+        "savitr"
+      ],
+      "deityInfo": {
+        "primary": "savitr",
+        "group": "vedic_deity",
+        "parent": "surya"
+      },
+      "categories": [
+        "daily",
+        "vedic"
+      ],
+      "keywords": {
+        "hi": [
+          "गायत्री",
+          "सविता",
+          "वेद"
+        ],
+        "en": [
+          "gayatri",
+          "savitr",
+          "veda"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि का विकास",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "मानसिक शांति",
+          "सकारात्मक सोच",
+          "ध्यान में सहायक"
+        ],
+        "en": [
+          "Enhances wisdom",
+          "Improves concentration",
+          "Supports spiritual growth",
+          "Promotes peace",
+          "Encourages positive thinking",
+          "Supports meditation"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "meditation",
+        "daily_prayer",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "sunrise",
+        "noon",
+        "sunset"
+      ],
+      "recommendedOccasion": [
+        "sandhya",
+        "daily_puja"
+      ],
+      "recommendedJapa": [
+        10,
+        28,
+        108
+      ],
+      "usage": {
+        "hi": "संध्यावंदन एवं दैनिक जप",
+        "en": "Sandhya worship and daily chanting"
+      },
+      "dailyRoutine": [
+        "morning",
+        "noon",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "वैदिक उच्चारण का विशेष ध्यान रखें।",
+        "en": "Proper Vedic pronunciation is recommended."
+      },
+      "tradition": "Vedic",
+      "source": "Rigveda 3.62.10",
+      "related": [
+        "om",
+        "mahamrityunjaya_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "guru_mantra",
+      "title": {
+        "hi": "गुरु मंत्र",
+        "en": "Guru Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गुरवे नमः",
+        "transliteration": "Om Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु मंत्र गुरु-तत्त्व के प्रति श्रद्धा, विनम्रता तथा ज्ञान की प्राप्ति के लिए जपा जाने वाला सरल एवं प्रभावशाली मंत्र है।",
+        "en": "The Guru Mantra is a simple and sacred invocation expressing reverence toward the Guru principle and seeking wisdom and guidance."
+      },
+      "meaning": {
+        "hi": "मैं गुरु को प्रणाम करता हूँ।",
+        "en": "I bow to the Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "guru"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु",
+          "गुरवे",
+          "गुरु मंत्र"
+        ],
+        "en": [
+          "guru",
+          "gurave",
+          "guru mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विनम्रता विकसित करता है",
+          "ज्ञान के प्रति श्रद्धा बढ़ाता है",
+          "ध्यान में सहायक",
+          "आध्यात्मिक मार्गदर्शन की भावना विकसित करता है",
+          "गुरुभक्ति को मजबूत करता है",
+          "आत्मचिंतन को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Cultivates humility",
+          "Deepens respect for knowledge",
+          "Supports meditation",
+          "Encourages spiritual guidance",
+          "Strengthens Guru devotion",
+          "Promotes self-reflection"
+        ]
+      },
+      "purpose": [
+        "guru_grace",
+        "wisdom",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_study",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "study",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        108
+      ],
+      "usage": {
+        "hi": "अध्ययन, ध्यान एवं गुरु स्मरण",
+        "en": "Before study, meditation, and Guru remembrance"
+      },
+      "dailyRoutine": [
+        "morning",
+        "before_study",
+        "meditation"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गुरवे' एवं 'नमः' का स्पष्ट उच्चारण करें।",
+        "en": "Clearly pronounce 'Gurave' and 'Namaḥ'."
+      },
+      "tradition": "Universal Hindu",
+      "source": "Guru Tradition",
+      "related": [
+        "gurur_brahma",
+        "gayatri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "gurur_brahma",
+      "title": {
+        "hi": "गुरुर्ब्रह्मा",
+        "en": "Gurur Brahma"
+      },
+      "mantra": {
+        "hi": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः॥",
+        "transliteration": "Gurur Brahmā Gurur Viṣṇuḥ Gurur Devo Maheśvaraḥ Guruḥ Sākṣāt Paraṁ Brahma Tasmai Śrī Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "यह प्रसिद्ध गुरु स्तुति गुरु को ब्रह्मा, विष्णु, महेश तथा परब्रह्म के स्वरूप के रूप में वंदन करती है। इसका पाठ ज्ञान, विनम्रता तथा गुरु-कृपा की भावना विकसित करने के लिए किया जाता है।",
+        "en": "This famous Guru Stotram reveres the Guru as the embodiment of Brahma, Vishnu, Shiva, and the Supreme Reality. It is recited to cultivate wisdom, humility, and devotion to the Guru."
+      },
+      "meaning": {
+        "hi": "गुरु ही ब्रह्मा हैं, गुरु ही विष्णु हैं, गुरु ही महेश्वर हैं। गुरु ही साक्षात् परब्रह्म हैं; ऐसे श्रीगुरु को मेरा प्रणाम।",
+        "en": "The Guru is Brahma, Vishnu, and Maheshwara; the Guru is indeed the Supreme Reality. Salutations to that revered Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "guru"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु",
+          "गुरुर्ब्रह्मा",
+          "गुरु स्तोत्र"
+        ],
+        "en": [
+          "guru",
+          "gurur brahma",
+          "guru stotram"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरुभक्ति विकसित करता है",
+          "ज्ञान के प्रति श्रद्धा बढ़ाता है",
+          "विनम्रता विकसित करता है",
+          "आध्यात्मिक मार्गदर्शन की भावना को प्रोत्साहित करता है",
+          "अध्ययन से पूर्व प्रेरणा देता है",
+          "आत्मचिंतन में सहायक"
+        ],
+        "en": [
+          "Deepens Guru devotion",
+          "Cultivates humility",
+          "Encourages respect for knowledge",
+          "Supports spiritual guidance",
+          "Inspires learning",
+          "Encourages self-reflection"
+        ]
+      },
+      "purpose": [
+        "guru_grace",
+        "wisdom",
+        "devotion",
+        "study"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_study",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "study",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन, पूजा एवं गुरु वंदना",
+        "en": "Before study, worship, and Guru reverence"
+      },
+      "dailyRoutine": [
+        "morning",
+        "before_study",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विष्णुः', 'महेश्वरः' एवं 'नमः' में विसर्ग का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce the visarga correctly in words such as 'Viṣṇuḥ', 'Maheśvaraḥ', and 'Namaḥ'."
+      },
+      "tradition": "Guru Tradition",
+      "source": "Guru Stotram",
+      "related": [
+        "guru_mantra",
+        "gayatri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "karagre_vasate_lakshmi",
+      "title": {
+        "hi": "कराग्रे वसते लक्ष्मी",
+        "en": "Karagre Vasate Lakshmi"
+      },
+      "mantra": {
+        "hi": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती। करमूले तु गोविन्दः प्रभाते करदर्शनम्॥",
+        "transliteration": "Karāgre Vasate Lakṣmīḥ Karamadhye Sarasvatī Karamūle Tu Govindaḥ Prabhāte Karadarśanam"
+      },
+      "description": {
+        "hi": "यह प्रातःकाल जागने के बाद हाथों के दर्शन करते समय बोला जाने वाला प्रसिद्ध श्लोक है। यह समृद्धि, ज्ञान और ईश्वर की कृपा का स्मरण कर दिन का शुभारम्भ कराता है।",
+        "en": "This famous morning verse is recited while looking at one's palms upon waking. It invokes prosperity, wisdom, and divine grace for an auspicious beginning to the day."
+      },
+      "meaning": {
+        "hi": "मेरे हाथों के अग्रभाग में लक्ष्मी, मध्य में सरस्वती और मूल में भगवान गोविन्द का निवास है; मैं प्रातः इनका दर्शन करता हूँ।",
+        "en": "At the fingertips resides Lakshmi, in the middle Saraswati, and at the base Govinda. I behold my hands in the morning with reverence."
+      },
+      "deities": [
+        "lakshmi",
+        "saraswati",
+        "vishnu"
+      ],
+      "deityInfo": {
+        "primary": "lakshmi",
+        "group": "daily_prayer",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "morning"
+      ],
+      "keywords": {
+        "hi": [
+          "कराग्रे",
+          "लक्ष्मी",
+          "सरस्वती",
+          "गोविन्द"
+        ],
+        "en": [
+          "karagre",
+          "lakshmi",
+          "saraswati",
+          "govinda"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "दिन का शुभारम्भ",
+          "सकारात्मक सोच विकसित करता है",
+          "समृद्धि एवं ज्ञान का स्मरण",
+          "कृतज्ञता की भावना बढ़ाता है",
+          "ईश्वर स्मरण को प्रोत्साहित करता है",
+          "दैनिक अनुशासन विकसित करता है"
+        ],
+        "en": [
+          "Creates an auspicious beginning",
+          "Promotes positive thinking",
+          "Invokes prosperity and wisdom",
+          "Cultivates gratitude",
+          "Encourages remembrance of God",
+          "Builds a healthy daily routine"
+        ]
+      },
+      "purpose": [
+        "morning_prayer",
+        "gratitude",
+        "prosperity",
+        "wisdom"
+      ],
+      "recommendedTime": [
+        "upon_waking"
+      ],
+      "recommendedOccasion": [
+        "start_of_day"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "प्रातः जागने के तुरंत बाद",
+        "en": "Immediately after waking up"
+      },
+      "dailyRoutine": [
+        "wake_up"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "शुद्ध संस्कृत उच्चारण के साथ शांत भाव से बोलें।",
+        "en": "Recite calmly with proper Sanskrit pronunciation."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Morning Prayer",
+      "related": [
+        "samudra_vasane_devi"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "samudra_vasane_devi",
+      "title": {
+        "hi": "समुद्रवसने देवि",
+        "en": "Samudra Vasane Devi"
+      },
+      "mantra": {
+        "hi": "समुद्रवसने देवि पर्वतस्तनमण्डिते। विष्णुपत्नि नमस्तुभ्यं पादस्पर्शं क्षमस्व मे॥",
+        "transliteration": "Samudra Vasane Devi Parvata Stana Maṇḍite Viṣṇupatni Namastubhyaṁ Pādasparśaṁ Kṣamasva Me"
+      },
+      "description": {
+        "hi": "यह पृथ्वी माता से क्षमा याचना का मंत्र है जिसे भूमि पर पैर रखने से पहले बोला जाता है।",
+        "en": "This prayer seeks forgiveness from Mother Earth before placing one's feet on the ground in the morning."
+      },
+      "meaning": {
+        "hi": "हे समुद्र रूपी वस्त्र धारण करने वाली, पर्वतों से सुशोभित एवं भगवान विष्णु की पत्नी पृथ्वी माता! आपको प्रणाम है, कृपया मेरे पादस्पर्श को क्षमा करें।",
+        "en": "O Mother Earth, clothed by the oceans, adorned by mountains, and consort of Lord Vishnu, I bow to you. Kindly forgive me for touching you with my feet."
+      },
+      "deities": [
+        "bhumi_devi"
+      ],
+      "deityInfo": {
+        "primary": "bhumi_devi",
+        "group": "devi",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "daily",
+        "morning"
+      ],
+      "keywords": {
+        "hi": [
+          "पृथ्वी",
+          "भूमि",
+          "समुद्रवसने"
+        ],
+        "en": [
+          "bhumi",
+          "earth",
+          "samudra vasane"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "प्रकृति के प्रति सम्मान विकसित करता है",
+          "विनम्रता सिखाता है",
+          "दिन का शुभारम्भ करता है",
+          "कृतज्ञता बढ़ाता है"
+        ],
+        "en": [
+          "Cultivates respect for nature",
+          "Develops humility",
+          "Creates an auspicious start",
+          "Encourages gratitude"
+        ]
+      },
+      "purpose": [
+        "gratitude",
+        "morning_prayer"
+      ],
+      "recommendedTime": [
+        "upon_waking"
+      ],
+      "recommendedOccasion": [
+        "before_getting_out_of_bed"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "भूमि पर पैर रखने से पहले",
+        "en": "Before touching the ground"
+      },
+      "dailyRoutine": [
+        "wake_up"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "शांत एवं श्रद्धापूर्वक उच्चारण करें।",
+        "en": "Recite slowly and reverently."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Morning Prayer",
+      "related": [
+        "karagre_vasate_lakshmi"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "gange_cha_yamune_chaiva",
+      "title": {
+        "hi": "गङ्गे च यमुने चैव",
+        "en": "Gange Cha Yamune Chaiva"
+      },
+      "mantra": {
+        "hi": "गङ्गे च यमुने चैव गोदावरि सरस्वति। नर्मदे सिन्धु कावेरी जलेऽस्मिन् सन्निधिं कुरु॥",
+        "transliteration": "Gaṅge Ca Yamune Caiva Godāvari Sarasvatī Narmade Sindhu Kāverī Jale'smin Sannidhiṁ Kuru"
+      },
+      "description": {
+        "hi": "यह स्नान से पूर्व जल में समस्त पवित्र नदियों का आह्वान करने वाला मंत्र है।",
+        "en": "This prayer invokes the sacred rivers of India into the water before bathing."
+      },
+      "meaning": {
+        "hi": "हे गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिन्धु और कावेरी! इस जल में अपनी पवित्र उपस्थिति प्रदान करें।",
+        "en": "O Ganga, Yamuna, Godavari, Saraswati, Narmada, Sindhu, and Kaveri, kindly sanctify this water with your presence."
+      },
+      "deities": [
+        "ganga"
+      ],
+      "deityInfo": {
+        "primary": "ganga",
+        "group": "river_deities",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "bath"
+      ],
+      "keywords": {
+        "hi": [
+          "गंगा",
+          "यमुना",
+          "स्नान"
+        ],
+        "en": [
+          "ganga",
+          "yamuna",
+          "bath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "स्नान को पवित्र भाव प्रदान करता है",
+          "आध्यात्मिक शुद्धता का स्मरण कराता है",
+          "भक्ति विकसित करता है"
+        ],
+        "en": [
+          "Sanctifies bathing",
+          "Encourages purity",
+          "Deepens devotion"
+        ]
+      },
+      "purpose": [
+        "purification",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "before_bath"
+      ],
+      "recommendedOccasion": [
+        "daily_bath"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "स्नान से पूर्व",
+        "en": "Before bathing"
+      },
+      "dailyRoutine": [
+        "bath"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "नदियों के नामों का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce the river names clearly."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Snana Mantra",
+      "related": [
+        "pavitra_snana_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "apavitrah_pavitro_va",
+      "title": {
+        "hi": "अपवित्रः पवित्रो वा",
+        "en": "Apavitrah Pavitro Va"
+      },
+      "mantra": {
+        "hi": "अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा। यः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरः शुचिः॥",
+        "transliteration": "Apavitraḥ Pavitro Vā Sarvāvasthāṁ Gato'pi Vā Yaḥ Smaret Puṇḍarīkākṣaṁ Sa Bāhyābhyantaraḥ Śuciḥ"
+      },
+      "description": {
+        "hi": "यह शुद्धिकरण मंत्र पूजा, जप अथवा किसी भी धार्मिक कार्य से पहले बोला जाता है।",
+        "en": "This purification mantra is traditionally recited before worship, mantra chanting, or any sacred ritual."
+      },
+      "meaning": {
+        "hi": "चाहे मनुष्य शुद्ध हो या अशुद्ध, किसी भी अवस्था में हो—जो भगवान पुण्डरीकाक्ष का स्मरण करता है, वह भीतर और बाहर दोनों प्रकार से पवित्र हो जाता है।",
+        "en": "Whether pure or impure, in whatever condition one may be, remembering Lord Pundarikaksha makes one pure both outwardly and inwardly."
+      },
+      "deities": [
+        "vishnu"
+      ],
+      "deityInfo": {
+        "primary": "vishnu",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "purification"
+      ],
+      "keywords": {
+        "hi": [
+          "शुद्धि",
+          "पुण्डरीकाक्ष",
+          "अपवित्र"
+        ],
+        "en": [
+          "purification",
+          "pundarikaksha",
+          "apavitrah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आंतरिक एवं बाह्य शुद्धि का स्मरण कराता है",
+          "पूजा से पूर्व मन को तैयार करता है",
+          "भक्ति विकसित करता है",
+          "एकाग्रता बढ़ाता है"
+        ],
+        "en": [
+          "Encourages inner purity",
+          "Prepares the mind for worship",
+          "Supports devotion",
+          "Improves focus"
+        ]
+      },
+      "purpose": [
+        "purification",
+        "daily_puja"
+      ],
+      "recommendedTime": [
+        "before_puja"
+      ],
+      "recommendedOccasion": [
+        "before_prayer"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "पूजा एवं जप से पूर्व",
+        "en": "Before worship and mantra chanting"
+      },
+      "dailyRoutine": [
+        "before_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'पुण्डरीकाक्षं' का स्पष्ट उच्चारण करें।",
+        "en": "Clearly pronounce 'Puṇḍarīkākṣam'."
+      },
+      "tradition": "Vaishnava, Smarta",
+      "source": "Traditional Purification Prayer",
+      "related": [
+        "gange_cha_yamune_chaiva"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "deepa_prajwalana_mantra",
+      "title": {
+        "hi": "दीप प्रज्वलन मंत्र",
+        "en": "Deepa Prajwalana Mantra"
+      },
+      "mantra": {
+        "hi": "शुभं करोति कल्याणम् आरोग्यं धनसम्पदाम्। शत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तुते॥",
+        "transliteration": "Śubhaṁ Karoti Kalyāṇam Ārogyaṁ Dhanasampadām Śatrubuddhi Vināśāya Dīpajyotir Namo'stute"
+      },
+      "description": {
+        "hi": "यह मंत्र दीप प्रज्वलित करते समय बोला जाता है। दीपक को ज्ञान, पवित्रता तथा ईश्वर की दिव्य ज्योति का प्रतीक माना गया है। यह मंत्र शुभता, स्वास्थ्य, समृद्धि तथा अज्ञान के नाश की प्रार्थना करता है।",
+        "en": "This mantra is recited while lighting a lamp. The sacred lamp symbolizes divine knowledge, purity, and the light of God. The prayer seeks auspiciousness, health, prosperity, and the removal of ignorance."
+      },
+      "meaning": {
+        "hi": "हे दीप-ज्योति! आप शुभ, कल्याण, आरोग्य एवं समृद्धि प्रदान करें तथा नकारात्मक एवं अशुभ विचारों का नाश करें। आपको मेरा प्रणाम।",
+        "en": "O Divine Lamp! Bestow auspiciousness, well-being, health, and prosperity. Destroy negative thoughts and ignorance. I bow to the sacred light."
+      },
+      "deities": [
+        "agni"
+      ],
+      "deityInfo": {
+        "primary": "agni",
+        "group": "vedic_deity",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "lamp",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "दीप",
+          "दीपक",
+          "दीप ज्योति",
+          "दीप प्रज्वलन",
+          "शुभं करोति"
+        ],
+        "en": [
+          "lamp",
+          "deepa",
+          "deepa prajwalana",
+          "lamp prayer",
+          "shubham karoti"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पूजा का शुभ आरम्भ करता है",
+          "सकारात्मक वातावरण बनाने में सहायक",
+          "ज्ञान एवं विवेक का स्मरण कराता है",
+          "भक्ति एवं श्रद्धा को प्रोत्साहित करता है",
+          "ध्यान से पूर्व मन को शांत करता है",
+          "दिव्य प्रकाश का प्रतीकात्मक स्मरण कराता है"
+        ],
+        "en": [
+          "Creates an auspicious beginning to worship",
+          "Promotes a positive atmosphere",
+          "Reminds one of wisdom and knowledge",
+          "Encourages devotion",
+          "Calms the mind before meditation",
+          "Symbolizes the Divine Light"
+        ]
+      },
+      "purpose": [
+        "daily_prayer",
+        "lamp_lighting",
+        "devotion",
+        "inner_peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "before_prayer",
+        "festival"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "दीप प्रज्वलित करते समय",
+        "en": "While lighting the sacred lamp"
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नमोऽस्तुते' में अवग्रह एवं संयुक्त शब्दों का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce compound Sanskrit words carefully, especially 'Namo'stute'."
+      },
+      "tradition": "Smarta, Hindu",
+      "source": "Traditional Deepa Prarthana",
+      "related": [
+        "shubham_karoti_kalyanam",
+        "apavitrah_pavitro_va"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shubham_karoti_kalyanam",
+      "title": {
+        "hi": "शुभं करोति कल्याणम्",
+        "en": "Shubham Karoti Kalyanam"
+      },
+      "mantra": {
+        "hi": "शुभं करोति कल्याणम् आरोग्यं धनसम्पदाम्। शत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तुते॥",
+        "transliteration": "Śubhaṁ Karoti Kalyāṇam Ārogyaṁ Dhanasampadām Śatrubuddhi Vināśāya Dīpajyotir Namo'stute"
+      },
+      "description": {
+        "hi": "यह दीप-ज्योति की स्तुति में गाया जाने वाला अत्यंत लोकप्रिय प्रार्थना मंत्र है। दीपक को ज्ञान, पवित्रता एवं ईश्वर के दिव्य प्रकाश का प्रतीक माना जाता है। यह मंत्र शुभता, आरोग्य, समृद्धि तथा अज्ञान के नाश की भावना को व्यक्त करता है।",
+        "en": "This is one of the most popular prayers offered to the sacred lamp. The lamp symbolizes divine light, wisdom, and purity. The prayer invokes auspiciousness, health, prosperity, and the removal of ignorance."
+      },
+      "meaning": {
+        "hi": "हे दिव्य दीप-ज्योति! आप शुभ, कल्याण, आरोग्य और समृद्धि प्रदान करें तथा अशुभ एवं अज्ञान का नाश करें। आपको मेरा प्रणाम।",
+        "en": "O Divine Light! Bestow auspiciousness, well-being, health, and prosperity. Remove negativity and ignorance. My salutations to the sacred flame."
+      },
+      "deities": [
+        "agni"
+      ],
+      "deityInfo": {
+        "primary": "agni",
+        "group": "vedic_deity",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "lamp",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "शुभं करोति",
+          "दीप ज्योति",
+          "दीपक",
+          "आरती",
+          "दीप प्रार्थना"
+        ],
+        "en": [
+          "shubham karoti",
+          "deepa jyoti",
+          "lamp prayer",
+          "evening prayer",
+          "deepa stuti"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शुभ एवं सकारात्मक वातावरण का निर्माण करता है",
+          "दैनिक पूजा में श्रद्धा बढ़ाता है",
+          "ज्ञान एवं विवेक का स्मरण कराता है",
+          "मन को शांत एवं एकाग्र बनाता है",
+          "दीप-पूजन की परंपरा को सुदृढ़ करता है",
+          "ईश्वर के दिव्य प्रकाश का अनुभव कराने में सहायक"
+        ],
+        "en": [
+          "Creates an auspicious atmosphere",
+          "Strengthens daily worship",
+          "Reminds one of divine wisdom",
+          "Calms and focuses the mind",
+          "Supports the tradition of lamp worship",
+          "Encourages contemplation of Divine Light"
+        ]
+      },
+      "purpose": [
+        "daily_prayer",
+        "lamp_lighting",
+        "devotion",
+        "auspiciousness",
+        "inner_peace"
+      ],
+      "recommendedTime": [
+        "sunrise",
+        "sunset",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "aarti",
+        "festival",
+        "before_prayer"
+      ],
+      "recommendedJapa": [
+        1,
+        3
+      ],
+      "usage": {
+        "hi": "दीप प्रज्वलित करने एवं आरती के समय",
+        "en": "During lamp lighting and Aarti"
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'धनसम्पदाम्' तथा 'नमोऽस्तुते' का स्पष्ट संस्कृत उच्चारण करें।",
+        "en": "Pronounce 'Dhanasampadām' and 'Namo'stute' clearly with proper Sanskrit pronunciation."
+      },
+      "tradition": "Smarta, Hindu",
+      "source": "Traditional Deepa Stuti",
+      "related": [
+        "deepa_prajwalana_mantra",
+        "apavitrah_pavitro_va"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "vakratunda_mahakaya",
+      "title": {
+        "hi": "वक्रतुण्ड महाकाय",
+        "en": "Vakratunda Mahakaya"
+      },
+      "mantra": {
+        "hi": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+        "transliteration": "Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha Nirvighnaṁ Kuru Me Deva Sarvakāryeṣu Sarvadā"
+      },
+      "description": {
+        "hi": "यह भगवान श्रीगणेश की अत्यंत लोकप्रिय प्रार्थना है। किसी भी शुभ कार्य, अध्ययन, यात्रा, परीक्षा, पूजा या नए कार्य के प्रारम्भ से पहले इसका पाठ किया जाता है। यह विघ्नों को दूर कर सफलता एवं मंगल की कामना व्यक्त करता है।",
+        "en": "This is one of the most popular prayers dedicated to Lord Ganesha. It is traditionally recited before beginning any auspicious activity, study, journey, worship, or important task to seek the removal of obstacles and divine blessings."
+      },
+      "meaning": {
+        "hi": "हे वक्रतुण्ड, विशाल स्वरूप एवं करोड़ों सूर्य के समान तेजस्वी प्रभु! कृपया मेरे सभी कार्यों को सदैव निर्विघ्न पूर्ण करें।",
+        "en": "O Lord with the curved trunk and mighty form, whose brilliance equals millions of suns, kindly remove all obstacles from my endeavors at all times."
+      },
+      "deities": [
+        "ganesha"
+      ],
+      "deityInfo": {
+        "primary": "ganesha",
+        "group": "ganapatya",
+        "parent": "shiva"
+      },
+      "categories": [
+        "daily",
+        "ganesha",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "वक्रतुण्ड",
+          "महाकाय",
+          "गणेश",
+          "विघ्नहर्ता",
+          "कार्य प्रारम्भ"
+        ],
+        "en": [
+          "vakratunda",
+          "mahakaya",
+          "ganesha",
+          "ganapati",
+          "remover of obstacles"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "नए कार्य के शुभारम्भ के लिए मंगलकारी",
+          "सकारात्मक एवं आत्मविश्वासी मनोभाव विकसित करता है",
+          "भगवान गणेश के प्रति भक्ति को गहरा करता है",
+          "एकाग्रता एवं मानसिक स्थिरता को प्रोत्साहित करता है",
+          "पूजा एवं अध्ययन से पूर्व मन को तैयार करता है",
+          "सफलता के लिए ईश्वर का स्मरण कराता है"
+        ],
+        "en": [
+          "Creates an auspicious beginning for new endeavors",
+          "Encourages confidence and positivity",
+          "Deepens devotion to Lord Ganesha",
+          "Supports focus and mental clarity",
+          "Prepares the mind before worship or study",
+          "Reminds one to seek divine blessings before action"
+        ]
+      },
+      "purpose": [
+        "new_beginning",
+        "obstacle_removal",
+        "daily_prayer",
+        "study",
+        "success",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_work",
+        "before_study",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "before_new_task",
+        "before_exam",
+        "before_travel",
+        "festival"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11,
+        21
+      ],
+      "usage": {
+        "hi": "किसी भी शुभ कार्य, अध्ययन, परीक्षा, यात्रा या पूजा के प्रारम्भ से पहले।",
+        "en": "Before beginning any auspicious activity, study, examination, journey, or worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "before_work",
+        "before_study",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वक्रतुण्ड', 'सूर्यकोटि' एवं 'निर्विघ्नं' का स्पष्ट संस्कृत उच्चारण करें।",
+        "en": "Pronounce 'Vakratuṇḍa', 'Sūryakoṭi', and 'Nirvighnam' carefully with proper Sanskrit pronunciation."
+      },
+      "tradition": "Ganapatya, Smarta",
+      "source": "Traditional Ganesha Prayer",
+      "related": [
+        "ganesha_beej_mantra",
+        "shuklambaradharam_vishnum",
+        "guru_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shuklambaradharam_vishnum",
+      "title": {
+        "hi": "शुक्लाम्बरधरं विष्णुम्",
+        "en": "Shuklambaradharam Vishnum"
+      },
+      "mantra": {
+        "hi": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्। प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥",
+        "transliteration": "Śuklāmbaradharaṁ Viṣṇuṁ Śaśivarṇaṁ Caturbhujam Prasannavadanaṁ Dhyāyet Sarvavighnopaśāntaye"
+      },
+      "description": {
+        "hi": "यह मंगलाचरण श्लोक किसी भी शुभ कार्य, पूजा, अध्ययन या आध्यात्मिक साधना के प्रारम्भ में बोला जाता है। यद्यपि इसमें 'विष्णुम्' शब्द आता है, परन्तु परंपरा में इसे विघ्नहर्ता श्रीगणेश की स्तुति के रूप में भी व्यापक रूप से स्वीकार किया गया है।",
+        "en": "This invocation is traditionally recited before beginning any auspicious activity, worship, study, or spiritual practice. Although the verse contains the word 'Vishnum', it is widely recited as an invocation to Lord Ganesha for the removal of obstacles."
+      },
+      "meaning": {
+        "hi": "श्वेत वस्त्र धारण करने वाले, चन्द्रमा के समान उज्ज्वल, चतुर्भुज एवं प्रसन्न मुख वाले प्रभु का ध्यान करता हूँ, जो सभी विघ्नों का नाश करते हैं।",
+        "en": "I meditate upon the Lord clad in white garments, radiant like the moon, four-armed, and ever smiling, who removes all obstacles."
+      },
+      "deities": [
+        "ganesha"
+      ],
+      "deityInfo": {
+        "primary": "ganesha",
+        "group": "ganapatya",
+        "parent": "shiva"
+      },
+      "categories": [
+        "daily",
+        "ganesha",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "शुक्लाम्बरधरं",
+          "गणेश",
+          "मंगलाचरण",
+          "विघ्न"
+        ],
+        "en": [
+          "shuklambaradharam",
+          "ganesha",
+          "invocation",
+          "obstacle removal"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शुभारम्भ के लिए मंगलकारी",
+          "मन को शांत करता है",
+          "पूजा से पूर्व एकाग्रता बढ़ाता है",
+          "भगवान गणेश का स्मरण कराता है",
+          "सकारात्मक भाव विकसित करता है",
+          "दैनिक उपासना के लिए उपयुक्त"
+        ],
+        "en": [
+          "Creates an auspicious beginning",
+          "Calms the mind",
+          "Improves focus before worship",
+          "Encourages remembrance of Ganesha",
+          "Promotes positivity",
+          "Ideal for daily prayer"
+        ]
+      },
+      "purpose": [
+        "new_beginning",
+        "daily_prayer",
+        "obstacle_removal",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_work",
+        "before_study",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "before_new_task",
+        "before_study"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "किसी भी शुभ कार्य या पूजा के प्रारम्भ में।",
+        "en": "Before any auspicious activity or worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "before_work",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शुक्लाम्बरधरं' एवं 'विघ्नोपशान्तये' का स्पष्ट उच्चारण करें।",
+        "en": "Clearly pronounce 'Śuklāmbaradharam' and 'Vighnopaśāntaye'."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Invocation",
+      "related": [
+        "vakratunda_mahakaya",
+        "ganesha_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "saraswati_namastubhyam",
+      "title": {
+        "hi": "सरस्वती नमस्तुभ्यम्",
+        "en": "Saraswati Namastubhyam"
+      },
+      "mantra": {
+        "hi": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि। विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा॥",
+        "transliteration": "Sarasvati Namastubhyaṁ Varade Kāmarūpiṇi Vidyārambhaṁ Kariṣyāmi Siddhir Bhavatu Me Sadā"
+      },
+      "description": {
+        "hi": "यह माता सरस्वती की प्रसिद्ध प्रार्थना है जिसे अध्ययन, परीक्षा, लेखन या किसी भी विद्या सम्बन्धी कार्य के प्रारम्भ में पढ़ा जाता है।",
+        "en": "This is a well-known prayer to Goddess Saraswati, traditionally recited before study, examinations, writing, or any pursuit of knowledge."
+      },
+      "meaning": {
+        "hi": "हे वर प्रदान करने वाली माँ सरस्वती! मैं विद्या का आरम्भ करता हूँ, कृपया मुझे सदैव सफलता प्रदान करें।",
+        "en": "O Goddess Saraswati, Bestower of blessings, I begin my pursuit of knowledge. May I always attain success."
+      },
+      "deities": [
+        "saraswati"
+      ],
+      "deityInfo": {
+        "primary": "saraswati",
+        "group": "devi",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "education",
+        "saraswati"
+      ],
+      "keywords": {
+        "hi": [
+          "सरस्वती",
+          "विद्या",
+          "अध्ययन",
+          "विद्यारम्भ"
+        ],
+        "en": [
+          "saraswati",
+          "study",
+          "education",
+          "learning"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "अध्ययन के प्रति प्रेरणा",
+          "एकाग्रता बढ़ाने में सहायक",
+          "ज्ञान के प्रति श्रद्धा विकसित करता है",
+          "विद्या का शुभारम्भ कराता है",
+          "आत्मविश्वास बढ़ाता है",
+          "माँ सरस्वती की भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Inspires learning",
+          "Supports concentration",
+          "Deepens respect for knowledge",
+          "Creates an auspicious beginning for study",
+          "Builds confidence",
+          "Strengthens devotion to Saraswati"
+        ]
+      },
+      "purpose": [
+        "education",
+        "wisdom",
+        "study",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_study"
+      ],
+      "recommendedOccasion": [
+        "study",
+        "exam",
+        "vidyarambham"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन या परीक्षा से पहले।",
+        "en": "Before studying or examinations."
+      },
+      "dailyRoutine": [
+        "before_study",
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विद्यारम्भं' एवं 'कामरूपिणि' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vidyārambham' and 'Kāmarūpiṇi' clearly."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Saraswati Prayer",
+      "related": [
+        "saraswati_beej_mantra",
+        "ya_kundendu_tusharahara_dhavala"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ya_kundendu_tusharahara_dhavala",
+      "title": {
+        "hi": "या कुन्देन्दुतुषारहारधवला",
+        "en": "Ya Kundendu Tusharahara Dhavala"
+      },
+      "mantra": {
+        "hi": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता। या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना॥ या ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता। सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा॥",
+        "transliteration": "Yā Kundendu Tuṣārahāra Dhavalā Yā Śubhravastrāvṛtā Yā Vīṇāvaradaṇḍamaṇḍitakarā Yā Śvetapadmāsanā Yā Brahmācyuta Śaṅkara Prabhṛtibhir Devaiḥ Sadā Vanditā Sā Māṁ Pātu Sarasvatī Bhagavatī Niḥśeṣajāḍyāpahā"
+      },
+      "description": {
+        "hi": "यह माँ सरस्वती की अत्यंत प्रसिद्ध स्तुति है जिसमें उन्हें ज्ञान, वाणी, संगीत एवं बुद्धि की अधिष्ठात्री देवी के रूप में वंदन किया गया है।",
+        "en": "This is one of the most revered hymns dedicated to Goddess Saraswati, praising Her as the Divine Goddess of wisdom, learning, speech, and music."
+      },
+      "meaning": {
+        "hi": "हे माँ सरस्वती! आप कुन्द पुष्प, चन्द्रमा और हिम के समान उज्ज्वल हैं। कृपया मेरी अज्ञानता दूर कर मुझे ज्ञान प्रदान करें।",
+        "en": "O Goddess Saraswati, radiant like jasmine, the moon, and snow, kindly remove my ignorance and bless me with wisdom."
+      },
+      "deities": [
+        "saraswati"
+      ],
+      "deityInfo": {
+        "primary": "saraswati",
+        "group": "devi",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "education",
+        "stotra"
+      ],
+      "keywords": {
+        "hi": [
+          "सरस्वती",
+          "वीणा",
+          "विद्या",
+          "ज्ञान"
+        ],
+        "en": [
+          "saraswati",
+          "wisdom",
+          "education",
+          "veena"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान एवं विवेक का विकास",
+          "अध्ययन में प्रेरणा",
+          "वाणी की शुद्धता",
+          "एकाग्रता बढ़ाने में सहायक",
+          "संगीत एवं कला के साधकों के लिए उपयुक्त",
+          "माँ सरस्वती की भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Promotes wisdom",
+          "Supports learning",
+          "Encourages eloquence",
+          "Improves concentration",
+          "Beneficial for arts and music",
+          "Deepens devotion to Saraswati"
+        ]
+      },
+      "purpose": [
+        "education",
+        "wisdom",
+        "arts",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning",
+        "before_study"
+      ],
+      "recommendedOccasion": [
+        "study",
+        "music_practice",
+        "vasant_panchami"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन, संगीत एवं कला अभ्यास से पहले।",
+        "en": "Before study, music, or artistic practice."
+      },
+      "dailyRoutine": [
+        "before_study",
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "समासयुक्त शब्दों का स्पष्ट एवं शुद्ध उच्चारण करें।",
+        "en": "Pronounce compound Sanskrit words carefully."
+      },
+      "tradition": "Smarta",
+      "source": "Saraswati Stotram",
+      "related": [
+        "saraswati_namastubhyam",
+        "saraswati_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brahmarpanam_brahma_havir",
+      "title": {
+        "hi": "ब्रह्मार्पणं ब्रह्म हविः",
+        "en": "Brahmarpanam Brahma Havir"
+      },
+      "mantra": {
+        "hi": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम्। ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना॥",
+        "transliteration": "Brahmārpaṇaṁ Brahma Havir Brahmāgnau Brahmaṇā Hutam Brahmaiva Tena Gantavyaṁ Brahmakarmasamādhinā"
+      },
+      "description": {
+        "hi": "यह श्रीमद्भगवद्गीता का प्रसिद्ध श्लोक है जिसे भोजन से पूर्व एवं यज्ञभाव से कर्म करने की भावना विकसित करने के लिए पढ़ा जाता है। यह समस्त कर्मों को परमात्मा को समर्पित करने का संदेश देता है।",
+        "en": "This celebrated verse from the Bhagavad Gita is traditionally recited before meals. It teaches that all actions and offerings are ultimately dedicated to the Supreme Reality."
+      },
+      "meaning": {
+        "hi": "अर्पण, हवि, अग्नि, यज्ञकर्ता और प्राप्त होने वाला फल—सब ब्रह्म ही हैं। जो इस भाव से कर्म करता है, वह ब्रह्म को प्राप्त होता है।",
+        "en": "The offering, the oblation, the sacred fire, the sacrificer, and the goal are all Brahman. One who performs actions with this understanding attains the Supreme."
+      },
+      "deities": [
+        "brahman"
+      ],
+      "deityInfo": {
+        "primary": "brahman",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "meal",
+        "gita"
+      ],
+      "keywords": {
+        "hi": [
+          "ब्रह्मार्पणम्",
+          "भोजन मंत्र",
+          "गीता",
+          "यज्ञ"
+        ],
+        "en": [
+          "brahmarpanam",
+          "meal prayer",
+          "bhagavad gita",
+          "yajna"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भोजन के प्रति कृतज्ञता विकसित करता है",
+          "निष्काम कर्म की भावना को प्रोत्साहित करता है",
+          "आध्यात्मिक दृष्टिकोण विकसित करता है",
+          "भोजन को प्रसाद भाव से ग्रहण करने में सहायक",
+          "मन को शांत करता है",
+          "भगवद्गीता के संदेश का स्मरण कराता है"
+        ],
+        "en": [
+          "Cultivates gratitude before meals",
+          "Encourages selfless action",
+          "Develops spiritual awareness",
+          "Promotes mindful eating",
+          "Calms the mind",
+          "Reminds one of the teachings of the Bhagavad Gita"
+        ]
+      },
+      "purpose": [
+        "gratitude",
+        "meal_prayer",
+        "spiritual_growth",
+        "mindfulness"
+      ],
+      "recommendedTime": [
+        "before_meal"
+      ],
+      "recommendedOccasion": [
+        "daily_meal"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "भोजन प्रारम्भ करने से पहले।",
+        "en": "Before beginning a meal."
+      },
+      "dailyRoutine": [
+        "before_meal"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ब्रह्मार्पणं' एवं 'ब्रह्मकर्मसमाधिना' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Brahmārpaṇam' and 'Brahmakarmasamādhinā' clearly."
+      },
+      "tradition": "Vedanta",
+      "source": "Bhagavad Gita 4.24",
+      "related": [
+        "annapurne_sadapurne",
+        "saha_navavatu"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "annapurne_sadapurne",
+      "title": {
+        "hi": "अन्नपूर्णे सदापूर्णे",
+        "en": "Annapurne Sadapurne"
+      },
+      "mantra": {
+        "hi": "अन्नपूर्णे सदापूर्णे शङ्करप्राणवल्लभे। ज्ञानवैराग्यसिद्ध्यर्थं भिक्षां देहि च पार्वति॥",
+        "transliteration": "Annapūrṇe Sadāpūrṇe Śaṅkaraprāṇavallabhe Jñānavairāgyasiddhyarthaṁ Bhikṣāṁ Dehi Ca Pārvatī"
+      },
+      "description": {
+        "hi": "यह माता अन्नपूर्णा की प्रसिद्ध प्रार्थना है। भोजन से पूर्व इसका पाठ अन्न के प्रति कृतज्ञता, विनम्रता तथा ज्ञान एवं वैराग्य की कामना के लिए किया जाता है।",
+        "en": "This is a well-known prayer to Goddess Annapurna. It is recited before meals to express gratitude for food while seeking wisdom and detachment."
+      },
+      "meaning": {
+        "hi": "हे माता अन्नपूर्णा! आप सदैव पूर्ण हैं और भगवान शंकर की प्रिय हैं। कृपया मुझे ज्ञान, वैराग्य तथा जीवन-निर्वाह के लिए आवश्यक कृपा प्रदान करें।",
+        "en": "O Goddess Annapurna, ever full and beloved of Lord Shiva, bless me with wisdom, detachment, and the nourishment necessary for life."
+      },
+      "deities": [
+        "annapurna"
+      ],
+      "deityInfo": {
+        "primary": "annapurna",
+        "group": "devi",
+        "parent": "parvati"
+      },
+      "categories": [
+        "daily",
+        "meal",
+        "devi"
+      ],
+      "keywords": {
+        "hi": [
+          "अन्नपूर्णा",
+          "भोजन",
+          "भिक्षां देहि",
+          "पार्वती"
+        ],
+        "en": [
+          "annapurna",
+          "meal prayer",
+          "food",
+          "parvati"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भोजन के प्रति कृतज्ञता विकसित करता है",
+          "विनम्रता की भावना बढ़ाता है",
+          "माता अन्नपूर्णा की भक्ति को गहरा करता है",
+          "संतोष की भावना विकसित करता है",
+          "आध्यात्मिक दृष्टिकोण को प्रोत्साहित करता है",
+          "प्रसाद भाव से भोजन ग्रहण करने में सहायक"
+        ],
+        "en": [
+          "Cultivates gratitude for food",
+          "Encourages humility",
+          "Deepens devotion to Annapurna",
+          "Promotes contentment",
+          "Supports spiritual awareness",
+          "Encourages mindful eating"
+        ]
+      },
+      "purpose": [
+        "gratitude",
+        "meal_prayer",
+        "devotion",
+        "contentment"
+      ],
+      "recommendedTime": [
+        "before_meal"
+      ],
+      "recommendedOccasion": [
+        "daily_meal",
+        "annapurna_puja"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "भोजन से पहले।",
+        "en": "Before meals."
+      },
+      "dailyRoutine": [
+        "before_meal"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ज्ञानवैराग्यसिद्ध्यर्थम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Jñānavairāgyasiddhyartham' carefully."
+      },
+      "tradition": "Shakta",
+      "source": "Annapurna Stotram",
+      "related": [
+        "brahmarpanam_brahma_havir",
+        "durga_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "saha_navavatu",
+      "title": {
+        "hi": "सह नाववतु",
+        "en": "Saha Navavatu"
+      },
+      "mantra": {
+        "hi": "ॐ सह नाववतु। सह नौ भुनक्तु। सह वीर्यं करवावहै। तेजस्विनावधीतमस्तु मा विद्विषावहै॥ ॐ शान्तिः शान्तिः शान्तिः॥",
+        "transliteration": "Om Saha Nāvavatu Saha Nau Bhunaktu Saha Vīryaṁ Karavāvahai Tejasvināvadhītamastu Mā Vidviṣāvahai Om Śāntiḥ Śāntiḥ Śāntiḥ"
+      },
+      "description": {
+        "hi": "यह उपनिषदों का प्रसिद्ध शांति मंत्र है जिसे गुरु एवं शिष्य अध्ययन प्रारम्भ करने से पहले एक साथ पढ़ते हैं। यह पारस्परिक सहयोग, ज्ञान और सद्भाव की भावना को प्रोत्साहित करता है।",
+        "en": "This famous Upanishadic peace prayer is traditionally recited by teachers and students before beginning study. It invokes harmony, cooperation, and shared pursuit of knowledge."
+      },
+      "meaning": {
+        "hi": "ईश्वर हम दोनों की रक्षा करें, हमारा पालन करें, हमें सामूहिक शक्ति प्रदान करें, हमारा अध्ययन तेजस्वी बने तथा हम एक-दूसरे से द्वेष न करें।",
+        "en": "May the Lord protect and nourish us both. May we work together with great energy, may our learning be brilliant, and may we never hate one another."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "education",
+        "peace"
+      ],
+      "keywords": {
+        "hi": [
+          "सह नाववतु",
+          "शांति मंत्र",
+          "उपनिषद",
+          "अध्ययन"
+        ],
+        "en": [
+          "saha navavatu",
+          "peace mantra",
+          "upanishad",
+          "study"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु-शिष्य समन्वय को प्रोत्साहित करता है",
+          "अध्ययन के लिए अनुकूल वातावरण बनाता है",
+          "सद्भाव एवं सहयोग की भावना विकसित करता है",
+          "एकाग्रता बढ़ाने में सहायक",
+          "मानसिक शांति प्रदान करता है",
+          "ज्ञान के प्रति सम्मान विकसित करता है"
+        ],
+        "en": [
+          "Promotes harmony between teacher and student",
+          "Creates a positive learning environment",
+          "Encourages cooperation",
+          "Supports concentration",
+          "Promotes peace",
+          "Deepens respect for knowledge"
+        ]
+      },
+      "purpose": [
+        "education",
+        "peace",
+        "cooperation",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "before_study"
+      ],
+      "recommendedOccasion": [
+        "study",
+        "teaching",
+        "spiritual_discourse"
+      ],
+      "recommendedJapa": [
+        1,
+        3
+      ],
+      "usage": {
+        "hi": "अध्ययन या प्रवचन प्रारम्भ करने से पहले।",
+        "en": "Before study sessions or spiritual discourses."
+      },
+      "dailyRoutine": [
+        "before_study"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "वैदिक उच्चारण एवं तीनों 'शान्तिः' का स्पष्ट उच्चारण करें।",
+        "en": "Use proper Vedic pronunciation, especially the three repetitions of 'Śāntiḥ'."
+      },
+      "tradition": "Upanishadic",
+      "source": "Taittiriya Upanishad",
+      "related": [
+        "guru_mantra",
+        "gurur_brahma",
+        "gayatri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "asato_ma_sadgamaya",
+      "title": {
+        "hi": "असतो मा सद्गमय",
+        "en": "Asato Ma Sadgamaya"
+      },
+      "mantra": {
+        "hi": "ॐ असतो मा सद्गमय। तमसो मा ज्योतिर्गमय। मृत्योर्माऽमृतं गमय॥ ॐ शान्तिः शान्तिः शान्तिः॥",
+        "transliteration": "Om Asato Mā Sadgamaya Tamaso Mā Jyotirgamaya Mṛtyor Mā Amṛtaṁ Gamaya Om Śāntiḥ Śāntiḥ Śāntiḥ"
+      },
+      "description": {
+        "hi": "यह बृहदारण्यक उपनिषद् का प्रसिद्ध शांति मंत्र है। इसमें असत्य से सत्य, अज्ञान के अंधकार से ज्ञान के प्रकाश तथा मृत्यु से अमरत्व की ओर ले जाने की प्रार्थना की जाती है।",
+        "en": "This celebrated peace mantra from the Brihadaranyaka Upanishad is a universal prayer seeking guidance from falsehood to truth, darkness to light, and mortality to immortality."
+      },
+      "meaning": {
+        "hi": "हे प्रभु! मुझे असत्य से सत्य की ओर, अंधकार से प्रकाश की ओर तथा मृत्यु से अमरत्व की ओर ले चलें।",
+        "en": "O Lord, lead me from falsehood to truth, from darkness to light, and from mortality to immortality."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "peace",
+        "upanishad"
+      ],
+      "keywords": {
+        "hi": [
+          "असतो मा",
+          "सद्गमय",
+          "उपनिषद",
+          "शांति मंत्र"
+        ],
+        "en": [
+          "asato ma",
+          "sadgamaya",
+          "peace mantra",
+          "upanishad"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक जागरूकता विकसित करता है",
+          "सत्य एवं सदाचार की प्रेरणा देता है",
+          "मानसिक शांति प्रदान करता है",
+          "ध्यान के लिए उपयुक्त",
+          "सकारात्मक सोच को प्रोत्साहित करता है",
+          "आत्मचिंतन को गहरा करता है"
+        ],
+        "en": [
+          "Encourages spiritual awareness",
+          "Inspires truthfulness",
+          "Promotes inner peace",
+          "Supports meditation",
+          "Encourages positive thinking",
+          "Deepens self-reflection"
+        ]
+      },
+      "purpose": [
+        "truth",
+        "wisdom",
+        "meditation",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "meditation",
+        "spiritual_discourse"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "ध्यान, प्रार्थना एवं शांति पाठ में।",
+        "en": "During meditation, prayer, and peace invocations."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "meditation"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'मृत्योर्माऽमृतं' का स्पष्ट एवं शुद्ध संस्कृत उच्चारण करें।",
+        "en": "Pronounce 'Mṛtyor Mā Amṛtam' carefully with proper Sanskrit pronunciation."
+      },
+      "tradition": "Upanishadic",
+      "source": "Brihadaranyaka Upanishad 1.3.28",
+      "related": [
+        "saha_navavatu",
+        "om_dyauh_shantih",
+        "shanti_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tvameva_mata_ca_pita",
+      "title": {
+        "hi": "त्वमेव माता च पिता",
+        "en": "Tvameva Mata Cha Pita"
+      },
+      "mantra": {
+        "hi": "त्वमेव माता च पिता त्वमेव। त्वमेव बन्धुश्च सखा त्वमेव। त्वमेव विद्या द्रविणं त्वमेव। त्वमेव सर्वं मम देवदेव॥",
+        "transliteration": "Tvameva Mātā Ca Pitā Tvameva Tvameva Bandhuśca Sakhā Tvameva Tvameva Vidyā Draviṇaṁ Tvameva Tvameva Sarvaṁ Mama Devadeva"
+      },
+      "description": {
+        "hi": "यह अत्यंत लोकप्रिय सार्वभौमिक प्रार्थना है जिसमें साधक भगवान को अपना माता, पिता, मित्र, बन्धु, ज्ञान तथा सर्वस्व मानकर पूर्ण समर्पण व्यक्त करता है।",
+        "en": "This universally loved prayer expresses complete surrender to the Divine, recognizing God as one's mother, father, friend, knowledge, wealth, and everything."
+      },
+      "meaning": {
+        "hi": "हे प्रभु! आप ही मेरे माता, पिता, मित्र, बन्धु, ज्ञान, धन और मेरे सर्वस्व हैं।",
+        "en": "O Lord, You alone are my mother, father, friend, relative, knowledge, wealth, and everything."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "devotion",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "त्वमेव",
+          "माता",
+          "पिता",
+          "समर्पण"
+        ],
+        "en": [
+          "tvameva",
+          "universal prayer",
+          "devotion",
+          "surrender"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ईश्वर के प्रति समर्पण विकसित करता है",
+          "भक्ति को गहरा करता है",
+          "कृतज्ञता की भावना बढ़ाता है",
+          "आंतरिक शांति प्रदान करता है",
+          "विश्वास एवं श्रद्धा को मजबूत करता है",
+          "दैनिक प्रार्थना के लिए उपयुक्त"
+        ],
+        "en": [
+          "Encourages surrender to God",
+          "Deepens devotion",
+          "Cultivates gratitude",
+          "Promotes inner peace",
+          "Strengthens faith",
+          "Ideal for daily prayer"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "gratitude",
+        "surrender",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "prayer",
+        "meditation"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "दैनिक प्रार्थना एवं पूजा में।",
+        "en": "During daily prayers and worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "daily_puja"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'द्रविणं' एवं 'देवदेव' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Draviṇam' and 'Devadeva' clearly."
+      },
+      "tradition": "Universal Hindu",
+      "source": "Traditional Prayer",
+      "related": [
+        "guru_mantra",
+        "kayena_vaca"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kayena_vaca",
+      "title": {
+        "hi": "कायेन वाचा",
+        "en": "Kayena Vacha"
+      },
+      "mantra": {
+        "hi": "कायेन वाचा मनसेन्द्रियैर्वा बुद्ध्यात्मना वा प्रकृतेः स्वभावात्। करोमि यद्यत् सकलं परस्मै नारायणायेति समर्पयामि॥",
+        "transliteration": "Kāyena Vācā Manasendriyairvā Buddhyātmanā Vā Prakṛteḥ Svabhāvāt Karomi Yadyat Sakalaṁ Parasmai Nārāyaṇāyeti Samarpayāmi"
+      },
+      "description": {
+        "hi": "यह समर्पण मंत्र शरीर, वाणी, मन, बुद्धि एवं इन्द्रियों द्वारा किए गए सभी कर्मों को भगवान नारायण को अर्पित करने की भावना व्यक्त करता है।",
+        "en": "This prayer expresses complete surrender by dedicating every action performed through body, speech, mind, intellect, and senses to Lord Narayana."
+      },
+      "meaning": {
+        "hi": "मैं शरीर, वाणी, मन, बुद्धि अथवा स्वभाव से जो भी कर्म करता हूँ, वह सब भगवान नारायण को समर्पित करता हूँ।",
+        "en": "Whatever I do through body, speech, mind, intellect, or natural tendencies, I dedicate it entirely to Lord Narayana."
+      },
+      "deities": [
+        "vishnu"
+      ],
+      "deityInfo": {
+        "primary": "vishnu",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "devotion",
+        "vishnu"
+      ],
+      "keywords": {
+        "hi": [
+          "कायेन वाचा",
+          "नारायण",
+          "समर्पण",
+          "कर्म"
+        ],
+        "en": [
+          "kayena vacha",
+          "narayana",
+          "dedication",
+          "karma"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समर्पण की भावना विकसित करता है",
+          "निष्काम कर्म की प्रेरणा देता है",
+          "विनम्रता बढ़ाता है",
+          "दैनिक जीवन में आध्यात्मिक दृष्टिकोण विकसित करता है",
+          "मन को शांत करता है",
+          "भगवान नारायण के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Cultivates surrender",
+          "Encourages selfless action",
+          "Promotes humility",
+          "Develops spiritual awareness",
+          "Calms the mind",
+          "Deepens devotion to Lord Narayana"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "karma_yoga",
+        "surrender",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening",
+        "after_work",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "end_of_day",
+        "meditation"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "पूजा के अंत में अथवा दिनभर के कर्म भगवान को समर्पित करते समय।",
+        "en": "At the end of worship or while dedicating one's daily actions to God."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "after_work"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'मनसेन्द्रियैर्वा' एवं 'समर्पयामि' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Manasendriyairvā' and 'Samarpayāmi' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional Samarpana Mantra",
+      "related": [
+        "tvameva_mata_ca_pita",
+        "brahmarpanam_brahma_havir"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "karacharana_kritam",
+      "title": {
+        "hi": "करचरण कृतं",
+        "en": "Karacharana Kritam"
+      },
+      "mantra": {
+        "hi": "करचरणकृतं वाक्कायजं कर्मजं वा। श्रवणनयनजं वा मानसं वापराधम्। विहितमविहितं वा सर्वमेतत्क्षमस्व। जय जय करुणाब्धे श्रीमहादेव शम्भो॥",
+        "transliteration": "Karacaraṇa Kṛtaṁ Vāk Kāyajaṁ Karmajaṁ Vā Śravaṇa Nayanajaṁ Vā Mānasaṁ Vāparādham Vihitam Avihitaṁ Vā Sarvam Etat Kṣamasva Jaya Jaya Karuṇābdhe Śrī Mahādeva Śambho"
+      },
+      "description": {
+        "hi": "यह भगवान शिव से क्षमा याचना का प्रसिद्ध प्रार्थना मंत्र है। पूजा के अंत में अथवा दिन समाप्त होने पर जाने-अनजाने में हुए सभी अपराधों के लिए क्षमा माँगने हेतु इसका पाठ किया जाता है।",
+        "en": "This is a well-known prayer seeking forgiveness from Lord Shiva. It is traditionally recited after worship or at the end of the day to ask forgiveness for all conscious and unconscious mistakes."
+      },
+      "meaning": {
+        "hi": "हे करुणामय भगवान शिव! हाथ, पैर, वाणी, शरीर, मन, नेत्र, कान या किसी भी प्रकार से जाने-अनजाने में हुए सभी अपराधों को क्षमा करें।",
+        "en": "O compassionate Lord Shiva, forgive all mistakes committed knowingly or unknowingly through my body, speech, mind, senses, or actions."
+      },
+      "deities": [
+        "shiva"
+      ],
+      "deityInfo": {
+        "primary": "shiva",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "forgiveness",
+        "shiva"
+      ],
+      "keywords": {
+        "hi": [
+          "करचरण कृतं",
+          "क्षमा प्रार्थना",
+          "शिव",
+          "अपराध"
+        ],
+        "en": [
+          "karacharana kritam",
+          "forgiveness prayer",
+          "shiva",
+          "kshama prarthana"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विनम्रता विकसित करता है",
+          "आत्मचिंतन को प्रोत्साहित करता है",
+          "भगवान शिव के प्रति समर्पण बढ़ाता है",
+          "मानसिक शांति प्रदान करता है",
+          "पूजा का सुंदर समापन करता है",
+          "क्षमा एवं करुणा की भावना विकसित करता है"
+        ],
+        "en": [
+          "Cultivates humility",
+          "Encourages self-reflection",
+          "Deepens devotion to Lord Shiva",
+          "Promotes inner peace",
+          "Provides a graceful conclusion to worship",
+          "Develops the spirit of forgiveness"
+        ]
+      },
+      "purpose": [
+        "forgiveness",
+        "self_reflection",
+        "devotion",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "evening",
+        "after_puja",
+        "before_sleep"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "end_of_day",
+        "shivaratri"
+      ],
+      "recommendedJapa": [
+        1,
+        3
+      ],
+      "usage": {
+        "hi": "पूजा के अंत में अथवा सोने से पहले।",
+        "en": "At the conclusion of worship or before sleep."
+      },
+      "dailyRoutine": [
+        "after_puja",
+        "before_sleep"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विहितमविहितं' एवं 'करुणाब्धे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vihitam Avihitam' and 'Karuṇābdhe' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional Shiva Kshama Prarthana",
+      "related": [
+        "om_namah_shivaya",
+        "mahamrityunjaya_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "sarve_bhavantu_sukhinah",
+      "title": {
+        "hi": "सर्वे भवन्तु सुखिनः",
+        "en": "Sarve Bhavantu Sukhinah"
+      },
+      "mantra": {
+        "hi": "सर्वे भवन्तु सुखिनः। सर्वे सन्तु निरामयाः। सर्वे भद्राणि पश्यन्तु। मा कश्चिद्दुःखभाग्भवेत्॥ ॐ शान्तिः शान्तिः शान्तिः॥",
+        "transliteration": "Sarve Bhavantu Sukhinaḥ Sarve Santu Nirāmayāḥ Sarve Bhadrāṇi Paśyantu Mā Kaścid Duḥkhabhāg Bhavet Om Śāntiḥ Śāntiḥ Śāntiḥ"
+      },
+      "description": {
+        "hi": "यह विश्वकल्याण की सार्वभौमिक प्रार्थना है। इसमें समस्त प्राणियों के सुख, स्वास्थ्य, मंगल एवं दुःखों की निवृत्ति की कामना की जाती है।",
+        "en": "This universal peace prayer wishes happiness, health, prosperity, and freedom from suffering for all beings."
+      },
+      "meaning": {
+        "hi": "सभी सुखी हों, सभी निरोग हों, सभी शुभ का दर्शन करें और किसी को भी दुःख का भागी न बनना पड़े।",
+        "en": "May everyone be happy, healthy, witness auspiciousness, and may no one suffer."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "peace",
+        "universal"
+      ],
+      "keywords": {
+        "hi": [
+          "सर्वे भवन्तु सुखिनः",
+          "विश्व शांति",
+          "कल्याण",
+          "शांति"
+        ],
+        "en": [
+          "sarve bhavantu sukhinah",
+          "universal prayer",
+          "peace",
+          "well-being"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "करुणा की भावना विकसित करता है",
+          "विश्व कल्याण की प्रेरणा देता है",
+          "सकारात्मक सोच को बढ़ाता है",
+          "ध्यान एवं प्रार्थना के लिए उपयुक्त",
+          "मन में शांति उत्पन्न करता है",
+          "सर्वभूत हित की भावना विकसित करता है"
+        ],
+        "en": [
+          "Cultivates compassion",
+          "Encourages universal goodwill",
+          "Promotes positive thinking",
+          "Ideal for meditation",
+          "Creates inner peace",
+          "Develops concern for all beings"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "compassion",
+        "universal_welfare",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "group_prayer",
+        "meditation"
+      ],
+      "recommendedJapa": [
+        1,
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "पूजा, ध्यान या प्रार्थना के अंत में।",
+        "en": "At the conclusion of prayer, meditation, or worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'निरामयाः' एवं 'दुःखभाग्भवेत्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Nirāmayāḥ' and 'Duḥkhabhāg Bhavet' clearly."
+      },
+      "tradition": "Universal Hindu",
+      "source": "Traditional Shanti Prayer",
+      "related": [
+        "lokah_samastah_sukhino_bhavantu",
+        "om_dyauh_shantih"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "lokah_samastah_sukhino_bhavantu",
+      "title": {
+        "hi": "लोकाः समस्ताः सुखिनो भवन्तु",
+        "en": "Lokah Samastah Sukhino Bhavantu"
+      },
+      "mantra": {
+        "hi": "लोकाः समस्ताः सुखिनो भवन्तु॥",
+        "transliteration": "Lokāḥ Samastāḥ Sukhino Bhavantu"
+      },
+      "description": {
+        "hi": "यह विश्वशांति एवं समस्त प्राणियों के कल्याण की अत्यंत प्रसिद्ध प्रार्थना है। योग, ध्यान तथा दैनिक प्रार्थना के अंत में इसका व्यापक रूप से पाठ किया जाता है।",
+        "en": "This famous universal prayer wishes happiness and peace for all beings. It is widely recited at the end of yoga, meditation, and daily prayers."
+      },
+      "meaning": {
+        "hi": "समस्त लोकों के सभी प्राणी सुखी हों।",
+        "en": "May all beings in all worlds be happy."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "peace",
+        "meditation"
+      ],
+      "keywords": {
+        "hi": [
+          "लोकाः समस्ताः",
+          "विश्व शांति",
+          "सुखिनो भवन्तु"
+        ],
+        "en": [
+          "lokah samastah",
+          "universal peace",
+          "all beings"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विश्व कल्याण की भावना विकसित करता है",
+          "करुणा एवं प्रेम को बढ़ाता है",
+          "ध्यान का सुंदर समापन करता है",
+          "सकारात्मक ऊर्जा उत्पन्न करता है",
+          "आंतरिक शांति को बढ़ाता है",
+          "निःस्वार्थ भावना विकसित करता है"
+        ],
+        "en": [
+          "Cultivates universal compassion",
+          "Promotes loving-kindness",
+          "Beautifully concludes meditation",
+          "Creates positive energy",
+          "Enhances inner peace",
+          "Encourages selflessness"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "compassion",
+        "meditation",
+        "universal_welfare"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "meditation",
+        "yoga",
+        "daily_puja"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        21
+      ],
+      "usage": {
+        "hi": "योग, ध्यान अथवा प्रार्थना के समापन पर।",
+        "en": "At the end of yoga, meditation, or prayer."
+      },
+      "dailyRoutine": [
+        "meditation",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'लोकाः' एवं 'सुखिनो' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Lokāḥ' and 'Sukhino' clearly."
+      },
+      "tradition": "Universal Hindu",
+      "source": "Traditional Universal Prayer",
+      "related": [
+        "sarve_bhavantu_sukhinah",
+        "shanti_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_dyauh_shantih",
+      "title": {
+        "hi": "ॐ द्यौः शान्तिः",
+        "en": "Om Dyauh Shantih"
+      },
+      "mantra": {
+        "hi": "ॐ द्यौः शान्तिरन्तरिक्षं शान्तिः। पृथिवी शान्तिरापः शान्तिरोषधयः शान्तिः। वनस्पतयः शान्तिर्विश्वे देवाः शान्तिर्ब्रह्म शान्तिः। सर्वं शान्तिः शान्तिरेव शान्तिः। सा मा शान्तिरेधि॥ ॐ शान्तिः शान्तिः शान्तिः॥",
+        "transliteration": "Om Dyauḥ Śāntir Antarikṣaṁ Śāntiḥ Pṛthivī Śāntir Āpaḥ Śāntir Oṣadhayaḥ Śāntiḥ Vanaspatayaḥ Śāntir Viśve Devāḥ Śāntir Brahma Śāntiḥ Sarvaṁ Śāntiḥ Śāntir Eva Śāntiḥ Sā Mā Śāntir Edhi Om Śāntiḥ Śāntiḥ Śāntiḥ"
+      },
+      "description": {
+        "hi": "यह वैदिक शांति मंत्र सम्पूर्ण ब्रह्माण्ड में शांति, संतुलन एवं सामंजस्य की कामना करता है। इसमें आकाश, पृथ्वी, जल, वनस्पति, देवताओं तथा सम्पूर्ण सृष्टि के कल्याण की प्रार्थना की जाती है।",
+        "en": "This Vedic peace invocation prays for harmony throughout the universe, including the heavens, earth, waters, plants, deities, and all existence."
+      },
+      "meaning": {
+        "hi": "आकाश, अंतरिक्ष, पृथ्वी, जल, औषधियाँ, वनस्पतियाँ, देवता, ब्रह्म तथा सम्पूर्ण सृष्टि में शांति स्थापित हो और वही शांति हम सभी को प्राप्त हो।",
+        "en": "May peace prevail in the heavens, space, earth, waters, herbs, trees, the gods, Brahman, and throughout the entire universe. May that peace be ours."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "peace",
+        "vedic"
+      ],
+      "keywords": {
+        "hi": [
+          "द्यौः शान्तिः",
+          "वैदिक शांति मंत्र",
+          "विश्व शांति",
+          "उपनिषद"
+        ],
+        "en": [
+          "dyauh shantih",
+          "vedic peace mantra",
+          "universal peace",
+          "shanti mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विश्व शांति की भावना विकसित करता है",
+          "ध्यान के लिए उपयुक्त",
+          "मानसिक शांति प्रदान करता है",
+          "प्रकृति के प्रति सम्मान बढ़ाता है",
+          "सामूहिक प्रार्थना के लिए श्रेष्ठ",
+          "आध्यात्मिक संतुलन विकसित करता है"
+        ],
+        "en": [
+          "Promotes universal peace",
+          "Ideal for meditation",
+          "Brings inner calm",
+          "Encourages reverence for nature",
+          "Suitable for group prayer",
+          "Supports spiritual harmony"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "meditation",
+        "universal_welfare",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening",
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_puja",
+        "meditation",
+        "group_prayer"
+      ],
+      "recommendedJapa": [
+        1,
+        3
+      ],
+      "usage": {
+        "hi": "पूजा, यज्ञ, ध्यान एवं शांति पाठ के अंत में।",
+        "en": "At the conclusion of worship, yajna, meditation, or peace prayers."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening",
+        "meditation"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "वैदिक स्वर एवं 'शान्तिः' के विसर्ग का स्पष्ट उच्चारण करें।",
+        "en": "Use proper Vedic pronunciation, especially for the repeated 'Śāntiḥ'."
+      },
+      "tradition": "Vedic",
+      "source": "Yajurveda",
+      "related": [
+        "shanti_mantra",
+        "sarve_bhavantu_sukhinah",
+        "asato_ma_sadgamaya"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shanti_mantra",
+      "title": {
+        "hi": "शांति मंत्र",
+        "en": "Shanti Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शान्तिः शान्तिः शान्तिः॥",
+        "transliteration": "Om Śāntiḥ Śāntiḥ Śāntiḥ"
+      },
+      "description": {
+        "hi": "यह संक्षिप्त शांति मंत्र अधिकांश वैदिक मंत्रों, स्तोत्रों एवं उपासना के अंत में बोला जाता है। तीन बार 'शान्तिः' का उच्चारण आध्यात्मिक, भौतिक तथा दैविक बाधाओं की शांति का प्रतीक माना जाता है।",
+        "en": "This short peace invocation concludes many Vedic prayers and hymns. The threefold repetition of 'Shanti' symbolizes peace from spiritual, physical, and divine disturbances."
+      },
+      "meaning": {
+        "hi": "सभी प्रकार की बाधाओं का निवारण हो तथा सम्पूर्ण जीवन में शांति स्थापित हो।",
+        "en": "May peace prevail by removing all forms of suffering and disturbances."
+      },
+      "deities": [
+        "all"
+      ],
+      "deityInfo": {
+        "primary": "all",
+        "group": "universal",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "peace"
+      ],
+      "keywords": {
+        "hi": [
+          "शांति",
+          "ॐ शान्तिः",
+          "शांति मंत्र"
+        ],
+        "en": [
+          "shanti",
+          "om shanti",
+          "peace mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति प्रदान करता है",
+          "ध्यान का सुंदर समापन करता है",
+          "तनाव कम करने में सहायक",
+          "सकारात्मक वातावरण बनाता है",
+          "आंतरिक संतुलन विकसित करता है",
+          "पूजा का शांतिपूर्ण समापन करता है"
+        ],
+        "en": [
+          "Promotes inner peace",
+          "Beautifully concludes meditation",
+          "Supports stress relief",
+          "Creates a peaceful atmosphere",
+          "Encourages inner balance",
+          "Ends worship on a serene note"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "meditation",
+        "daily_prayer"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "after_puja",
+        "after_meditation",
+        "group_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        21
+      ],
+      "usage": {
+        "hi": "किसी भी मंत्र, स्तोत्र या पूजा के समापन पर।",
+        "en": "At the conclusion of any prayer, hymn, or worship."
+      },
+      "dailyRoutine": [
+        "after_puja",
+        "meditation"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शान्तिः' के विसर्ग का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce the visarga in 'Śāntiḥ' clearly."
+      },
+      "tradition": "Universal Hindu",
+      "source": "Vedic Tradition",
+      "related": [
+        "om_dyauh_shantih",
+        "sarve_bhavantu_sukhinah",
+        "lokah_samastah_sukhino_bhavantu"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "pavitra_snana_mantra",
+      "title": {
+        "hi": "पवित्र स्नान मंत्र",
+        "en": "Sacred Bath Mantra"
+      },
+      "mantra": {
+        "hi": "गङ्गे च यमुने चैव गोदावरि सरस्वति। नर्मदे सिन्धु कावेरी जलेऽस्मिन् सन्निधिं कुरु॥",
+        "transliteration": "Gaṅge Ca Yamune Caiva Godāvari Sarasvatī Narmade Sindhu Kāverī Jale'smin Sannidhiṁ Kuru"
+      },
+      "description": {
+        "hi": "यह स्नान से पूर्व बोला जाने वाला पारंपरिक मंत्र है जिसमें भारत की सात पवित्र नदियों का आह्वान कर स्नान के जल को पवित्र माना जाता है।",
+        "en": "This traditional bathing prayer invokes the presence of India's seven sacred rivers before bathing, sanctifying the water."
+      },
+      "meaning": {
+        "hi": "हे गंगा, यमुना, गोदावरी, सरस्वती, नर्मदा, सिन्धु और कावेरी! कृपया इस जल में अपनी पवित्र उपस्थिति प्रदान करें।",
+        "en": "O Ganga, Yamuna, Godavari, Saraswati, Narmada, Sindhu, and Kaveri, kindly sanctify this water with your divine presence."
+      },
+      "deities": [
+        "ganga"
+      ],
+      "deityInfo": {
+        "primary": "ganga",
+        "group": "river_deities",
+        "parent": null
+      },
+      "categories": [
+        "daily",
+        "bath",
+        "purification"
+      ],
+      "keywords": {
+        "hi": [
+          "स्नान",
+          "गंगा",
+          "यमुना",
+          "पवित्र जल"
+        ],
+        "en": [
+          "bath",
+          "ganga",
+          "sacred rivers",
+          "purification"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "स्नान को आध्यात्मिक भाव प्रदान करता है",
+          "पवित्रता की भावना विकसित करता है",
+          "प्रकृति के प्रति सम्मान बढ़ाता है",
+          "दैनिक साधना के लिए मन तैयार करता है",
+          "आंतरिक एवं बाह्य शुद्धि का स्मरण कराता है",
+          "भक्ति को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Adds spiritual significance to bathing",
+          "Cultivates purity",
+          "Encourages reverence for nature",
+          "Prepares the mind for daily worship",
+          "Reminds one of inner and outer purification",
+          "Deepens devotion"
+        ]
+      },
+      "purpose": [
+        "purification",
+        "daily_prayer",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "before_bath"
+      ],
+      "recommendedOccasion": [
+        "daily_bath"
+      ],
+      "recommendedJapa": [
+        1
+      ],
+      "usage": {
+        "hi": "स्नान से पहले जल पर उच्चारण करें।",
+        "en": "Recite over the water before bathing."
+      },
+      "dailyRoutine": [
+        "before_bath"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "सभी पवित्र नदियों के नामों का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce the names of the sacred rivers clearly."
+      },
+      "tradition": "Smarta",
+      "source": "Traditional Snana Mantra",
+      "related": [
+        "gange_cha_yamune_chaiva",
+        "apavitrah_pavitro_va"
+      ],
+      "isPopular": true
+    }
+  ]
+}

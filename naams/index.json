@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": "popular_combos",
+      "name": {
+        "hi": "लोकप्रिय संयुक्त नाम जप",
+        "en": "Popular Combined Naam Jap"
+      },
+      "description": "",
+      "file": "combo.json"
+    },
+    {
+      "id": "devi",
+      "name": {
+        "hi": "देवी नाम जप",
+        "en": "Devi Naam Jap"
+      },
+      "description": "",
+      "file": "devi.json"
+    },
+    {
+      "id": "ganesha",
+      "name": {
+        "hi": "श्री गणेश नाम जप",
+        "en": "Shri Ganesha Naam Jap"
+      },
+      "description": "",
+      "file": "ganesh.json"
+    },
+    {
+      "id": "guru",
+      "name": {
+        "hi": "गुरु एवं संत नाम जप",
+        "en": "Guru & Saints Naam Jap"
+      },
+      "description": "",
+      "file": "guru.json"
+    },
+    {
+      "id": "hanuman",
+      "name": {
+        "hi": "हनुमान नाम जप",
+        "en": "Hanuman Naam Jap"
+      },
+      "description": "",
+      "file": "hanuman.json"
+    },
+    {
+      "id": "krishna",
+      "name": {
+        "hi": "श्री कृष्ण एवं राधा नाम जप",
+        "en": "Shri Krishna & Radha Naam Jap"
+      },
+      "description": "",
+      "file": "krishna.json"
+    },
+    {
+      "id": "navagraha",
+      "name": {
+        "hi": "सूर्य एवं नवग्रह नाम जप",
+        "en": "Surya & Navagraha Naam Jap"
+      },
+      "description": "",
+      "file": "navgrah.json"
+    },
+    {
+      "id": "popular",
+      "name": {
+        "hi": "लोकप्रिय नाम जप",
+        "en": "Popular Naam Jap"
+      },
+      "description": "The most widely chanted and revered divine names in Sanatana Dharma.",
+      "file": "popular.json"
+    },
+    {
+      "id": "ram",
+      "name": {
+        "hi": "श्री राम नाम जप",
+        "en": "Shri Ram Naam Jap"
+      },
+      "description": "",
+      "file": "ram.json"
+    },
+    {
+      "id": "regional",
+      "name": {
+        "hi": "क्षेत्रीय एवं विशेष आराध्य नाम जप",
+        "en": "Regional & Special Deities Naam Jap"
+      },
+      "description": "",
+      "file": "regional.json"
+    },
+    {
+      "id": "shiva",
+      "name": {
+        "hi": "शिव नाम जप",
+        "en": "Shiva Naam Jap"
+      },
+      "description": "",
+      "file": "shiv.json"
+    },
+    {
+      "id": "vishnu",
+      "name": {
+        "hi": "विष्णु एवं नारायण नाम जप",
+        "en": "Vishnu & Narayana Naam Jap"
+      },
+      "description": "",
+      "file": "vishnu.json"
+    }
+  ]
+}

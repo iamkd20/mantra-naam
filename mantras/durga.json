@@ -1,0 +1,1015 @@
+{
+  "version": 1,
+  "category": "extra_gayatri",
+  "title": {
+    "hi": "अतिरिक्त गायत्री मंत्र",
+    "en": "Extra Gayatri Mantras"
+  },
+  "mantras": [
+    {
+      "id": "navadurga_mantra",
+      "title": {
+        "hi": "नवदुर्गा मंत्र",
+        "en": "Navadurga Mantra"
+      },
+      "mantra": {
+        "hi": "प्रथमं शैलपुत्री च द्वितीयं ब्रह्मचारिणी। तृतीयं चन्द्रघण्टेति कूष्माण्डेति चतुर्थकम्॥\nपञ्चमं स्कन्दमातेति षष्ठं कात्यायनी तथा। सप्तमं कालरात्रिश्च महागौरीति चाष्टमम्॥\nनवमं सिद्धिदात्री च नवदुर्गाः प्रकीर्तिताः॥",
+        "transliteration": "Prathamaṁ Śailaputrī Ca Dvitīyaṁ Brahmacāriṇī, Tṛtīyaṁ Candraghaṇṭeti Kūṣmāṇḍeti Caturthakam. Pañcamaṁ Skandamāteti Ṣaṣṭhaṁ Kātyāyanī Tathā, Saptamaṁ Kālarātriśca Mahāgaurīti Cāṣṭamam. Navamaṁ Siddhidātrī Ca Navadurgāḥ Prakīrtitāḥ."
+      },
+      "description": {
+        "hi": "यह मंत्र नवदुर्गा के नौ दिव्य स्वरूपों का स्मरण कराता है। इसका जप विशेष रूप से नवरात्रि में किया जाता है।",
+        "en": "This mantra invokes the nine divine forms of Goddess Durga and is traditionally recited during Navaratri."
+      },
+      "meaning": {
+        "hi": "इस मंत्र में माँ दुर्गा के नौ स्वरूपों का क्रमशः स्मरण एवं वंदन किया गया है।",
+        "en": "The mantra sequentially remembers and venerates the nine manifestations of Goddess Durga."
+      },
+      "deities": [
+        "navadurga"
+      ],
+      "deityInfo": {
+        "primary": "navadurga",
+        "group": "durga",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "durga",
+        "navadurga"
+      ],
+      "keywords": {
+        "hi": [
+          "नवदुर्गा",
+          "नवरात्रि",
+          "दुर्गा",
+          "नौ देवियाँ"
+        ],
+        "en": [
+          "navadurga",
+          "navratri",
+          "durga",
+          "nine forms of durga"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "दुर्गा कृपा",
+          "साहस",
+          "रक्षा",
+          "भक्ति",
+          "सकारात्मक ऊर्जा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Grace of Durga",
+          "Courage",
+          "Protection",
+          "Devotion",
+          "Positive energy",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        1,
+        9,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि पूजन एवं दैनिक देवी उपासना में।",
+        "en": "During Navaratri worship and daily Devi devotion."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "नौ देवी स्वरूपों के नामों का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce the names of all nine forms clearly."
+      },
+      "tradition": "Shakta",
+      "source": "Devi Mahatmya Tradition",
+      "related": [
+        "durga_beej_mantra",
+        "durga_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shailaputri_mantra",
+      "title": {
+        "hi": "शैलपुत्री मंत्र",
+        "en": "Shailaputri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी शैलपुत्र्यै नमः॥",
+        "transliteration": "Om Devī Śailaputryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ शैलपुत्री नवदुर्गा का प्रथम स्वरूप हैं। वे स्थिरता, शक्ति और आध्यात्मिक आरम्भ की अधिष्ठात्री हैं।",
+        "en": "Goddess Shailaputri is the first form of Navadurga and represents stability, strength, and spiritual beginnings."
+      },
+      "meaning": {
+        "hi": "मैं पर्वतराज हिमालय की पुत्री माँ शैलपुत्री को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Shailaputri, the daughter of the Himalayas."
+      },
+      "deities": [
+        "shailaputri"
+      ],
+      "deityInfo": {
+        "primary": "shailaputri",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "shailaputri"
+      ],
+      "keywords": {
+        "hi": [
+          "शैलपुत्री",
+          "प्रथम नवरात्र",
+          "देवी शैलपुत्री"
+        ],
+        "en": [
+          "shailaputri",
+          "first navadurga",
+          "goddess shailaputri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मविश्वास",
+          "स्थिरता",
+          "साहस",
+          "आध्यात्मिक उन्नति",
+          "शक्ति",
+          "भक्ति"
+        ],
+        "en": [
+          "Confidence",
+          "Stability",
+          "Courage",
+          "Spiritual growth",
+          "Strength",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "strength",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "first_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के प्रथम दिन।",
+        "en": "On the first day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शैलपुत्र्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śailaputryai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra",
+        "durga_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brahmacharini_mantra",
+      "title": {
+        "hi": "ब्रह्मचारिणी मंत्र",
+        "en": "Brahmacharini Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी ब्रह्मचारिण्यै नमः॥",
+        "transliteration": "Om Devī Brahmacāriṇyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ ब्रह्मचारिणी नवदुर्गा का द्वितीय स्वरूप हैं। वे तप, संयम, ज्ञान और साधना की अधिष्ठात्री हैं।",
+        "en": "Goddess Brahmacharini is the second form of Navadurga and symbolizes penance, discipline, wisdom, and spiritual practice."
+      },
+      "meaning": {
+        "hi": "मैं तपस्विनी माँ ब्रह्मचारिणी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Brahmacharini, the embodiment of penance and austerity."
+      },
+      "deities": [
+        "brahmacharini"
+      ],
+      "deityInfo": {
+        "primary": "brahmacharini",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "brahmacharini"
+      ],
+      "keywords": {
+        "hi": [
+          "ब्रह्मचारिणी",
+          "द्वितीय नवरात्र",
+          "तपस्विनी"
+        ],
+        "en": [
+          "brahmacharini",
+          "second navadurga",
+          "penance"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "तप",
+          "धैर्य",
+          "ज्ञान",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "संयम"
+        ],
+        "en": [
+          "Penance",
+          "Patience",
+          "Wisdom",
+          "Concentration",
+          "Spiritual growth",
+          "Discipline"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "discipline",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "second_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के दूसरे दिन।",
+        "en": "On the second day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ब्रह्मचारिण्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Brahmacāriṇyai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "chandraghanta_mantra",
+      "title": {
+        "hi": "चन्द्रघण्टा मंत्र",
+        "en": "Chandraghanta Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी चन्द्रघण्टायै नमः॥",
+        "transliteration": "Om Devī Candraghaṇṭāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ चन्द्रघण्टा नवदुर्गा का तृतीय स्वरूप हैं। वे साहस, शौर्य, रक्षा एवं भय के नाश की अधिष्ठात्री हैं।",
+        "en": "Goddess Chandraghanta is the third form of Navadurga and represents courage, valor, protection, and the removal of fear."
+      },
+      "meaning": {
+        "hi": "मैं माँ चन्द्रघण्टा को प्रणाम करता हूँ, जो अपने भक्तों की रक्षा करती हैं।",
+        "en": "I bow to Goddess Chandraghanta, who protects Her devotees and removes fear."
+      },
+      "deities": [
+        "chandraghanta"
+      ],
+      "deityInfo": {
+        "primary": "chandraghanta",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "chandraghanta"
+      ],
+      "keywords": {
+        "hi": [
+          "चन्द्रघण्टा",
+          "तृतीय नवरात्र",
+          "देवी चन्द्रघण्टा"
+        ],
+        "en": [
+          "chandraghanta",
+          "third navadurga",
+          "goddess chandraghanta"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता",
+          "साहस",
+          "रक्षा",
+          "आत्मविश्वास",
+          "मानसिक शांति",
+          "शक्ति"
+        ],
+        "en": [
+          "Fearlessness",
+          "Courage",
+          "Protection",
+          "Confidence",
+          "Peace of mind",
+          "Strength"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "third_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के तीसरे दिन।",
+        "en": "On the third day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'चन्द्रघण्टायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Candraghaṇṭāyai' clearly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kushmanda_mantra",
+      "title": {
+        "hi": "कूष्माण्डा मंत्र",
+        "en": "Kushmanda Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कूष्माण्डायै नमः॥",
+        "transliteration": "Om Devī Kūṣmāṇḍāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कूष्माण्डा नवदुर्गा का चतुर्थ स्वरूप हैं। वे सृष्टि की आदिशक्ति एवं तेज, स्वास्थ्य और समृद्धि की अधिष्ठात्री हैं।",
+        "en": "Goddess Kushmanda is the fourth form of Navadurga and is revered as the cosmic creator, bestowing health, vitality, and prosperity."
+      },
+      "meaning": {
+        "hi": "मैं सृष्टि की आदिशक्ति माँ कूष्माण्डा को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Kushmanda, the primordial creative force of the universe."
+      },
+      "deities": [
+        "kushmanda"
+      ],
+      "deityInfo": {
+        "primary": "kushmanda",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "kushmanda"
+      ],
+      "keywords": {
+        "hi": [
+          "कूष्माण्डा",
+          "चतुर्थ नवरात्र",
+          "देवी कूष्माण्डा"
+        ],
+        "en": [
+          "kushmanda",
+          "fourth navadurga",
+          "goddess kushmanda"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "स्वास्थ्य",
+          "तेज",
+          "समृद्धि",
+          "ऊर्जा",
+          "आत्मबल",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Health",
+          "Vitality",
+          "Prosperity",
+          "Energy",
+          "Inner strength",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "health",
+        "prosperity",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "fourth_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के चौथे दिन।",
+        "en": "On the fourth day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कूष्माण्डायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kūṣmāṇḍāyai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "skandamata_mantra",
+      "title": {
+        "hi": "स्कन्दमाता मंत्र",
+        "en": "Skandamata Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी स्कन्दमातायै नमः॥",
+        "transliteration": "Om Devī Skandamātāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ स्कन्दमाता नवदुर्गा का पंचम स्वरूप हैं। वे मातृत्व, करुणा, संरक्षण एवं ज्ञान की अधिष्ठात्री हैं।",
+        "en": "Goddess Skandamata is the fifth form of Navadurga and symbolizes motherhood, compassion, protection, and wisdom."
+      },
+      "meaning": {
+        "hi": "मैं भगवान स्कन्द की माता देवी स्कन्दमाता को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Skandamata, the divine mother of Lord Skanda."
+      },
+      "deities": [
+        "skandamata"
+      ],
+      "deityInfo": {
+        "primary": "skandamata",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "skandamata"
+      ],
+      "keywords": {
+        "hi": [
+          "स्कन्दमाता",
+          "पंचम नवरात्र",
+          "देवी स्कन्दमाता"
+        ],
+        "en": [
+          "skandamata",
+          "fifth navadurga",
+          "goddess skandamata"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मातृत्व",
+          "परिवार का कल्याण",
+          "ज्ञान",
+          "करुणा",
+          "रक्षा",
+          "भक्ति"
+        ],
+        "en": [
+          "Motherhood",
+          "Family welfare",
+          "Wisdom",
+          "Compassion",
+          "Protection",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "family_wellbeing",
+        "knowledge",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "fifth_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के पाँचवें दिन।",
+        "en": "On the fifth day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'स्कन्दमातायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Skandamātāyai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "katyayani_mantra",
+      "title": {
+        "hi": "कात्यायनी मंत्र",
+        "en": "Katyayani Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कात्यायन्यै नमः॥",
+        "transliteration": "Om Devī Kātyāyanyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कात्यायनी नवदुर्गा का षष्ठ स्वरूप हैं। वे साहस, धर्म की विजय और दुष्टों के विनाश की अधिष्ठात्री हैं।",
+        "en": "Goddess Katyayani is the sixth form of Navadurga and represents courage, righteousness, and victory over evil."
+      },
+      "meaning": {
+        "hi": "मैं माँ कात्यायनी को प्रणाम करता हूँ जो धर्म की रक्षा करती हैं।",
+        "en": "I bow to Goddess Katyayani, who protects righteousness."
+      },
+      "deities": [
+        "katyayani"
+      ],
+      "deityInfo": {
+        "primary": "katyayani",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "katyayani"
+      ],
+      "keywords": {
+        "hi": [
+          "कात्यायनी",
+          "षष्ठ नवरात्र",
+          "देवी कात्यायनी"
+        ],
+        "en": [
+          "katyayani",
+          "sixth navadurga",
+          "goddess katyayani"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "रक्षा",
+          "विजय",
+          "आत्मविश्वास",
+          "भक्ति",
+          "धर्म पालन"
+        ],
+        "en": [
+          "Courage",
+          "Protection",
+          "Victory",
+          "Confidence",
+          "Devotion",
+          "Righteousness"
+        ]
+      },
+      "purpose": [
+        "victory",
+        "protection",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "sixth_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के छठे दिन।",
+        "en": "On the sixth day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कात्यायन्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kātyāyanyai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kalaratri_mantra",
+      "title": {
+        "hi": "कालरात्रि मंत्र",
+        "en": "Kalaratri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कालरात्र्यै नमः॥",
+        "transliteration": "Om Devī Kālarātryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कालरात्रि नवदुर्गा का सप्तम स्वरूप हैं। वे भय, अज्ञान और नकारात्मक शक्तियों का नाश करती हैं।",
+        "en": "Goddess Kalaratri is the seventh form of Navadurga and destroys fear, ignorance, and negative forces."
+      },
+      "meaning": {
+        "hi": "मैं माँ कालरात्रि को प्रणाम करता हूँ जो सभी भय का नाश करती हैं।",
+        "en": "I bow to Goddess Kalaratri, who removes all fear and darkness."
+      },
+      "deities": [
+        "kalaratri"
+      ],
+      "deityInfo": {
+        "primary": "kalaratri",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "kalaratri"
+      ],
+      "keywords": {
+        "hi": [
+          "कालरात्रि",
+          "सप्तम नवरात्र",
+          "देवी कालरात्रि"
+        ],
+        "en": [
+          "kalaratri",
+          "seventh navadurga",
+          "goddess kalaratri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता",
+          "रक्षा",
+          "नकारात्मकता का नाश",
+          "साहस",
+          "आध्यात्मिक शक्ति",
+          "आत्मबल"
+        ],
+        "en": [
+          "Fearlessness",
+          "Protection",
+          "Destroys negativity",
+          "Courage",
+          "Spiritual strength",
+          "Inner power"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "strength"
+      ],
+      "recommendedTime": [
+        "night"
+      ],
+      "recommendedOccasion": [
+        "seventh_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के सातवें दिन।",
+        "en": "On the seventh day of Navaratri."
+      },
+      "dailyRoutine": [
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कालरात्र्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kālarātryai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "mahagauri_mantra",
+      "title": {
+        "hi": "महागौरी मंत्र",
+        "en": "Mahagauri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी महागौर्यै नमः॥",
+        "transliteration": "Om Devī Mahāgauryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ महागौरी नवदुर्गा का अष्टम स्वरूप हैं। वे पवित्रता, करुणा, शांति एवं जीवन की शुद्धि की अधिष्ठात्री हैं।",
+        "en": "Goddess Mahagauri is the eighth form of Navadurga and represents purity, compassion, peace, and inner cleansing."
+      },
+      "meaning": {
+        "hi": "मैं माँ महागौरी को प्रणाम करता हूँ जो जीवन को पवित्र एवं मंगलमय बनाती हैं।",
+        "en": "I bow to Goddess Mahagauri, who blesses devotees with purity and auspiciousness."
+      },
+      "deities": [
+        "mahagauri"
+      ],
+      "deityInfo": {
+        "primary": "mahagauri",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "mahagauri"
+      ],
+      "keywords": {
+        "hi": [
+          "महागौरी",
+          "अष्टम नवरात्र",
+          "देवी महागौरी"
+        ],
+        "en": [
+          "mahagauri",
+          "eighth navadurga",
+          "goddess mahagauri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "मानसिक शांति",
+          "सौभाग्य",
+          "आध्यात्मिक उन्नति",
+          "करुणा",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Purity",
+          "Peace of mind",
+          "Good fortune",
+          "Spiritual growth",
+          "Compassion",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "purification",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "eighth_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के आठवें दिन।",
+        "en": "On the eighth day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महागौर्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mahāgauryai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "siddhidatri_mantra",
+      "title": {
+        "hi": "सिद्धिदात्री मंत्र",
+        "en": "Siddhidatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी सिद्धिदात्र्यै नमः॥",
+        "transliteration": "Om Devī Siddhidātryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ सिद्धिदात्री नवदुर्गा का नवम एवं अंतिम स्वरूप हैं। वे सिद्धि, ज्ञान, पूर्णता एवं दिव्य कृपा की अधिष्ठात्री हैं।",
+        "en": "Goddess Siddhidatri is the ninth and final form of Navadurga, bestowing spiritual attainments, wisdom, perfection, and divine grace."
+      },
+      "meaning": {
+        "hi": "मैं माँ सिद्धिदात्री को प्रणाम करता हूँ जो समस्त सिद्धियाँ एवं दिव्य कृपा प्रदान करती हैं।",
+        "en": "I bow to Goddess Siddhidatri, who grants all spiritual attainments and divine blessings."
+      },
+      "deities": [
+        "siddhidatri"
+      ],
+      "deityInfo": {
+        "primary": "siddhidatri",
+        "group": "navadurga",
+        "parent": "durga"
+      },
+      "categories": [
+        "durga",
+        "navadurga",
+        "siddhidatri"
+      ],
+      "keywords": {
+        "hi": [
+          "सिद्धिदात्री",
+          "नवम नवरात्र",
+          "देवी सिद्धिदात्री"
+        ],
+        "en": [
+          "siddhidatri",
+          "ninth navadurga",
+          "goddess siddhidatri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "सिद्धि",
+          "ज्ञान",
+          "आध्यात्मिक उन्नति",
+          "सफलता",
+          "भक्ति",
+          "दिव्य कृपा"
+        ],
+        "en": [
+          "Spiritual attainments",
+          "Wisdom",
+          "Spiritual growth",
+          "Success",
+          "Devotion",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "spiritual_growth",
+        "success"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "ninth_day_navaratri",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "नवरात्रि के नौवें दिन।",
+        "en": "On the ninth day of Navaratri."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सिद्धिदात्र्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Siddhidātryai' correctly."
+      },
+      "tradition": "Shakta",
+      "source": "Navadurga Tradition",
+      "related": [
+        "navadurga_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

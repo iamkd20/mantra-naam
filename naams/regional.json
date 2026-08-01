@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "category": "regional",
+  "title": {
+    "hi": "क्षेत्रीय एवं विशेष आराध्य नाम जप",
+    "en": "Regional & Special Deities Naam Jap"
+  },
+  "names": [
+    {
+      "id": "jagannatha",
+      "name": {
+        "hi": "जगन्नाथ",
+        "en": "Jagannath"
+      },
+      "deity": "jagannath",
+      "isPopular": true
+    },
+    {
+      "id": "jai_jagannatha",
+      "name": {
+        "hi": "जय जगन्नाथ",
+        "en": "Jai Jagannath"
+      },
+      "deity": "jagannath",
+      "isPopular": true
+    },
+    {
+      "id": "balabhadra",
+      "name": {
+        "hi": "बलभद्र",
+        "en": "Balabhadra"
+      },
+      "deity": "balabhadra",
+      "isPopular": false
+    },
+    {
+      "id": "subhadra",
+      "name": {
+        "hi": "सुभद्रा",
+        "en": "Subhadra"
+      },
+      "deity": "subhadra",
+      "isPopular": false
+    },
+    {
+      "id": "vitthala",
+      "name": {
+        "hi": "विठ्ठल",
+        "en": "Vitthala"
+      },
+      "deity": "vitthala",
+      "isPopular": true
+    },
+    {
+      "id": "panduranga",
+      "name": {
+        "hi": "पांडुरंग",
+        "en": "Panduranga"
+      },
+      "deity": "panduranga",
+      "isPopular": true
+    },
+    {
+      "id": "vithoba",
+      "name": {
+        "hi": "विठोबा",
+        "en": "Vithoba"
+      },
+      "deity": "vitthala",
+      "isPopular": true
+    },
+    {
+      "id": "rama_krishna_hari",
+      "name": {
+        "hi": "राम कृष्ण हरी",
+        "en": "Ram Krishna Hari"
+      },
+      "deity": "vitthala",
+      "isPopular": true
+    },
+    {
+      "id": "venkatesha",
+      "name": {
+        "hi": "वेंकटेश",
+        "en": "Venkatesha"
+      },
+      "deity": "venkatesha",
+      "isPopular": true
+    },
+    {
+      "id": "om_namo_venkateshaya",
+      "name": {
+        "hi": "ॐ नमो वेंकटेशाय",
+        "en": "Om Namo Venkateshaya"
+      },
+      "deity": "venkatesha",
+      "isPopular": true
+    },
+    {
+      "id": "srinivasa",
+      "name": {
+        "hi": "श्रीनिवास",
+        "en": "Srinivasa"
+      },
+      "deity": "srinivasa",
+      "isPopular": true
+    },
+    {
+      "id": "balaji",
+      "name": {
+        "hi": "बालाजी",
+        "en": "Balaji"
+      },
+      "deity": "venkatesha",
+      "isPopular": true
+    },
+    {
+      "id": "khatu_shyam",
+      "name": {
+        "hi": "खाटू श्याम",
+        "en": "Khatu Shyam"
+      },
+      "deity": "khatu_shyam",
+      "isPopular": true
+    },
+    {
+      "id": "shyam_baba",
+      "name": {
+        "hi": "श्याम बाबा",
+        "en": "Shyam Baba"
+      },
+      "deity": "khatu_shyam",
+      "isPopular": true
+    },
+    {
+      "id": "jai_shri_shyam",
+      "name": {
+        "hi": "जय श्री श्याम",
+        "en": "Jai Shri Shyam"
+      },
+      "deity": "khatu_shyam",
+      "isPopular": true
+    },
+    {
+      "id": "ayyappa",
+      "name": {
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
+      },
+      "deity": "ayyappa",
+      "isPopular": true
+    },
+    {
+      "id": "swamiye_saranam_ayyappa",
+      "name": {
+        "hi": "स्वामिये शरणम् अय्यप्पा",
+        "en": "Swamiye Saranam Ayyappa"
+      },
+      "deity": "ayyappa",
+      "isPopular": true
+    },
+    {
+      "id": "murugan",
+      "name": {
+        "hi": "मुरुगन",
+        "en": "Murugan"
+      },
+      "deity": "murugan",
+      "isPopular": true
+    },
+    {
+      "id": "subrahmanya",
+      "name": {
+        "hi": "सुब्रह्मण्य",
+        "en": "Subrahmanya"
+      },
+      "deity": "murugan",
+      "isPopular": true
+    },
+    {
+      "id": "shanmukha",
+      "name": {
+        "hi": "षण्मुख",
+        "en": "Shanmukha"
+      },
+      "deity": "murugan",
+      "isPopular": true
+    },
+    {
+      "id": "kartikeya",
+      "name": {
+        "hi": "कार्तिकेय",
+        "en": "Kartikeya"
+      },
+      "deity": "murugan",
+      "isPopular": true
+    },
+    {
+      "id": "hayagriva",
+      "name": {
+        "hi": "हयग्रीव",
+        "en": "Hayagriva"
+      },
+      "deity": "hayagriva",
+      "isPopular": true
+    },
+    {
+      "id": "nandi",
+      "name": {
+        "hi": "नन्दी",
+        "en": "Nandi"
+      },
+      "deity": "nandi",
+      "isPopular": true
+    },
+    {
+      "id": "ardhanarishvara",
+      "name": {
+        "hi": "अर्धनारीश्वर",
+        "en": "Ardhanarishvara"
+      },
+      "deity": "ardhanarishvara",
+      "isPopular": true
+    },
+    {
+      "id": "vishwakarma",
+      "name": {
+        "hi": "विश्वकर्मा",
+        "en": "Vishwakarma"
+      },
+      "deity": "vishwakarma",
+      "isPopular": true
+    },
+    {
+      "id": "dhanvantari",
+      "name": {
+        "hi": "धन्वंतरि",
+        "en": "Dhanvantari"
+      },
+      "deity": "dhanvantari",
+      "isPopular": true
+    }
+  ]
+}

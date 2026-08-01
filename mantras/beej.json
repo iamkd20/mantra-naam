@@ -1,0 +1,3765 @@
+{
+  "version": 1,
+  "category": "beej",
+  "title": {
+    "hi": "बीज मंत्र",
+    "en": "Beej Mantras"
+  },
+  "mantras": [
+    {
+      "id": "om",
+      "title": {
+        "hi": "ॐ",
+        "en": "Om"
+      },
+      "mantra": {
+        "hi": "ॐ",
+        "transliteration": "Om"
+      },
+      "description": {
+        "hi": "ॐ (प्रणव) सनातन धर्म का सर्वाधिक पवित्र बीज मंत्र है। यह सम्पूर्ण ब्रह्माण्ड की आद्य ध्वनि तथा परम ब्रह्म का प्रतीक माना जाता है। लगभग सभी वैदिक मंत्रों, उपनिषदों और अनेक स्तोत्रों का प्रारम्भ ॐ से होता है।",
+        "en": "Om (Pranava) is the most sacred Bija Mantra in Sanatana Dharma. It is regarded as the primordial cosmic sound and the symbol of the Supreme Reality (Brahman). Most Vedic mantras, Upanishadic chants, and sacred hymns traditionally begin with Om."
+      },
+      "meaning": {
+        "hi": "ॐ सम्पूर्ण सृष्टि, परम चेतना और ब्रह्म का प्रतीक है। इसके तीन अक्षर 'अ', 'उ' और 'म' क्रमशः सृष्टि, पालन और संहार का प्रतिनिधित्व करते हैं, जबकि इनके बाद का मौन परम सत्य का प्रतीक माना जाता है।",
+        "en": "Om represents the entirety of existence and the Supreme Consciousness. Its three sounds—A, U, and M—symbolize creation, preservation, and dissolution, while the silence that follows represents the transcendent Absolute."
+      },
+      "beej": {
+        "hi": "ॐ",
+        "transliteration": "Om",
+        "meaning": {
+          "hi": "प्रणव बीज; सम्पूर्ण ब्रह्माण्ड एवं परम ब्रह्म का मूल स्वरूप।",
+          "en": "Pranava Bija; the primordial vibration representing the entire universe and the Supreme Reality."
+        }
+      },
+      "deities": [
+        "all"
+      ],
+      "categories": [
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ",
+          "ओम्",
+          "ओं",
+          "प्रणव",
+          "प्रणव मंत्र",
+          "ओंकार"
+        ],
+        "en": [
+          "om",
+          "aum",
+          "omkara",
+          "omkar",
+          "pranava",
+          "pranava mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मन को शांत करता है",
+          "ध्यान में एकाग्रता बढ़ाता है",
+          "तनाव कम करने में सहायक माना जाता है",
+          "श्वास एवं मन के संतुलन में सहायता करता है",
+          "आध्यात्मिक साधना के लिए अनुकूल वातावरण बनाता है",
+          "सकारात्मक मानसिक ऊर्जा का विकास करता है"
+        ],
+        "en": [
+          "Calms the mind",
+          "Improves concentration during meditation",
+          "Traditionally believed to help reduce stress",
+          "Supports breath awareness and mental balance",
+          "Creates a favorable state for spiritual practice",
+          "Encourages positive mental energy"
+        ]
+      },
+      "purpose": [
+        "meditation",
+        "spiritual_growth",
+        "inner_peace",
+        "purification",
+        "mindfulness"
+      ],
+      "recommendedDay": [
+        "Everyday"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "Brahma Muhurta",
+        "Sunrise",
+        "Meditation",
+        "Anytime"
+      ],
+      "difficulty": "beginner",
+      "pronunciation": {
+        "hi": "उच्चारण 'ओम्' के रूप में करें। 'ओ' को लंबा बोलें और अंत में 'म्' की ध्वनि को धीरे-धीरे कंपन के साथ समाप्त करें।",
+        "en": "Pronounce it as a long 'O' followed by a gentle humming 'm' sound, allowing the vibration to naturally fade into silence."
+      },
+      "chakra": "all",
+      "element": "ether",
+      "color": "white",
+      "tradition": "Universal (Vedic, Yogic, Vedantic, Tantric)",
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। किसी विशेष दीक्षा की आवश्यकता नहीं होती।",
+        "en": "Suitable for practitioners of all levels and generally does not require formal initiation."
+      },
+      "related": [],
+      "isPopular": true
+    },
+    {
+      "id": "ganesha_beej_mantra",
+      "title": {
+        "hi": "गणेश बीज मंत्र",
+        "en": "Ganesha Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गं गणपतये नमः",
+        "transliteration": "Om Gaṁ Gaṇapataye Namaḥ"
+      },
+      "description": {
+        "hi": "गणेश बीज मंत्र भगवान श्री गणेश को समर्पित एक अत्यंत लोकप्रिय एवं शक्तिशाली मंत्र है। यह जीवन के विघ्नों को दूर करने, शुभारम्भ, बुद्धि, विवेक और सफलता की प्राप्ति के लिए जपा जाता है।",
+        "en": "The Ganesha Beej Mantra is one of the most revered mantras dedicated to Lord Ganesha. It is traditionally chanted before beginning any new undertaking to seek wisdom, remove obstacles, and invite auspiciousness."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान गणपति का आह्वान करता है और उनसे विघ्नों को दूर करने, बुद्धि प्रदान करने तथा कार्यों में सफलता देने की प्रार्थना करता है।",
+        "en": "This mantra invokes Lord Ganesha and seeks His blessings for the removal of obstacles, clarity of intellect, and success in all righteous endeavors."
+      },
+      "beej": {
+        "hi": "गं",
+        "transliteration": "Gaṁ",
+        "meaning": {
+          "hi": "‘गं’ भगवान गणेश का प्रमुख बीजाक्षर है, जो बुद्धि, स्थिरता, आरम्भ और विघ्न-निवारण का प्रतीक माना जाता है।",
+          "en": "'Gaṁ' is the principal bija syllable of Lord Ganesha, symbolizing wisdom, stability, auspicious beginnings, and the removal of obstacles."
+        }
+      },
+      "deities": [
+        "ganesha"
+      ],
+      "categories": [
+        "beej",
+        "ganesha"
+      ],
+      "keywords": {
+        "hi": [
+          "गणेश",
+          "गणपति",
+          "विघ्नहर्ता",
+          "गं",
+          "गणेश बीज",
+          "गणेश बीज मंत्र"
+        ],
+        "en": [
+          "ganesha",
+          "ganapati",
+          "gam",
+          "ganesha beej",
+          "ganesha beej mantra",
+          "vighnaharta"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "नए कार्यों में सफलता",
+          "विघ्नों को दूर करने में सहायक",
+          "बुद्धि एवं विवेक का विकास",
+          "एकाग्रता बढ़ाने में सहायक",
+          "आत्मविश्वास में वृद्धि",
+          "शुभता एवं मंगल का आह्वान"
+        ],
+        "en": [
+          "Invokes auspicious beginnings",
+          "Traditionally associated with the removal of obstacles",
+          "Supports wisdom and discernment",
+          "Improves focus and concentration",
+          "Builds confidence",
+          "Invites positive and auspicious energy"
+        ]
+      },
+      "purpose": [
+        "obstacle_removal",
+        "success",
+        "wisdom",
+        "education",
+        "new_beginning",
+        "prosperity"
+      ],
+      "recommendedDay": [
+        "Wednesday",
+        "Tuesday",
+        "Ganesh Chaturthi"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "Brahma Muhurta",
+        "Sunrise",
+        "Before starting new work"
+      ],
+      "difficulty": "beginner",
+      "pronunciation": {
+        "hi": "'गं' में 'ं' का उच्चारण अनुनासिक ध्वनि के साथ करें। 'गणपतये' में 'ण' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Gaṁ' with a soft nasal resonance. The retroflex 'ṇ' in 'Gaṇapataye' should be articulated clearly."
+      },
+      "chakra": "root",
+      "element": "earth",
+      "color": "red",
+      "tradition": "Universal (Vedic, Smarta, Ganapatya, Tantric)",
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है और सामान्यतः किसी विशेष दीक्षा की आवश्यकता नहीं होती।",
+        "en": "Suitable for practitioners of all levels and generally does not require formal initiation."
+      },
+      "related": [
+        "ganesha_gayatri",
+        "ganesha_moola_mantra",
+        "vakratunda_mahakaya"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shiva_beej_mantra",
+      "title": {
+        "hi": "शिव बीज मंत्र",
+        "en": "Shiva Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हौं नमः",
+        "transliteration": "Om Hauṁ Namaḥ"
+      },
+      "description": {
+        "hi": "शिव बीज मंत्र भगवान शिव की दिव्य चेतना का आह्वान करने वाला पवित्र मंत्र है। यह आंतरिक शांति, वैराग्य, आत्मज्ञान, आध्यात्मिक उन्नति तथा भय एवं नकारात्मकता से रक्षा के लिए जपा जाता है।",
+        "en": "The Shiva Beej Mantra is a sacred invocation of Lord Shiva's divine consciousness. It is traditionally chanted for inner peace, detachment, spiritual awakening, fearlessness, and protection from negativity."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान शिव को प्रणाम करते हुए उनकी कृपा, संरक्षण, आत्मबल और आध्यात्मिक ज्ञान की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Shiva and seeks His blessings for protection, inner strength, wisdom, and spiritual realization."
+      },
+      "beej": {
+        "hi": "हौं",
+        "transliteration": "Hauṁ",
+        "meaning": {
+          "hi": "'हौं' भगवान शिव का प्रमुख बीजाक्षर माना जाता है। यह शिव-तत्त्व, दिव्य चेतना, परिवर्तन और आत्मबोध का प्रतीक है।",
+          "en": "'Hauṁ' is the principal bija syllable associated with Lord Shiva. It symbolizes Shiva Tattva, divine consciousness, transformation, and self-realization."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "हौं"
+      ],
+      "deities": [
+        "shiva"
+      ],
+      "categories": [
+        "beej",
+        "shiva"
+      ],
+      "keywords": {
+        "hi": [
+          "शिव",
+          "महादेव",
+          "हौं",
+          "शिव बीज",
+          "शिव बीज मंत्र",
+          "शंकर",
+          "भोलेनाथ"
+        ],
+        "en": [
+          "shiva",
+          "mahadev",
+          "haum",
+          "haum mantra",
+          "shiva beej",
+          "shiva beej mantra",
+          "bholenath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मन को शांत करने में सहायक",
+          "ध्यान की गहराई बढ़ाने में सहायक",
+          "आत्मविश्वास एवं आत्मबल में वृद्धि",
+          "भय और नकारात्मक विचारों को कम करने में सहायक",
+          "आध्यात्मिक साधना को सुदृढ़ करता है",
+          "वैराग्य एवं आत्मचिंतन को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Promotes inner peace",
+          "Supports deeper meditation",
+          "Strengthens inner confidence",
+          "Traditionally believed to reduce fear and negativity",
+          "Encourages spiritual growth",
+          "Cultivates detachment and self-awareness"
+        ]
+      },
+      "purpose": [
+        "meditation",
+        "spiritual_growth",
+        "inner_peace",
+        "fearlessness",
+        "protection",
+        "self_realization"
+      ],
+      "recommendedDay": [
+        "Monday",
+        "Mahashivaratri",
+        "Pradosh Vrat"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "Brahma Muhurta",
+        "Sunrise",
+        "Sunset",
+        "During Meditation"
+      ],
+      "difficulty": "beginner",
+      "pronunciation": {
+        "hi": "'हौं' में 'औ' का उच्चारण स्पष्ट करें तथा अंत में अनुनासिक 'ं' की हल्की कंपन रखें।",
+        "en": "Pronounce 'Hauṁ' with a clear 'au' sound followed by a gentle nasal resonance."
+      },
+      "chakra": "third_eye",
+      "element": "ether",
+      "color": "blue",
+      "tradition": "Shaiva, Vedic, Smarta, Tantric",
+      "caution": {
+        "hi": "यह मंत्र सामान्य साधकों के लिए उपयुक्त है। श्रद्धा, शुद्ध उच्चारण और नियमितता के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best chanted with devotion, proper pronunciation, and regular practice."
+      },
+      "related": [
+        "mahamrityunjaya_mantra",
+        "panchakshari_mantra",
+        "shiva_gayatri",
+        "lingashtakam",
+        "rudrashtakam"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "vishnu_beej_mantra",
+      "title": {
+        "hi": "विष्णु बीज मंत्र",
+        "en": "Vishnu Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ वं विष्णवे नमः",
+        "transliteration": "Om Vaṁ Viṣṇave Namaḥ"
+      },
+      "description": {
+        "hi": "विष्णु बीज मंत्र भगवान विष्णु की पालन, संरक्षण और संतुलन प्रदान करने वाली दिव्य शक्ति का आह्वान करता है। यह जीवन में शांति, धर्म, समृद्धि तथा आध्यात्मिक संतुलन की कामना से जपा जाता है।",
+        "en": "The Vishnu Beej Mantra invokes Lord Vishnu, the divine preserver of the universe. It is traditionally chanted to seek peace, protection, righteousness, prosperity, and harmony in life."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान विष्णु को प्रणाम करते हुए उनके संरक्षण, कृपा, धर्मपालन और जीवन में संतुलन की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Vishnu and seeks His blessings for protection, righteous living, balance, and divine grace."
+      },
+      "beej": {
+        "hi": "वं",
+        "transliteration": "Vaṁ",
+        "meaning": {
+          "hi": "'वं' भगवान विष्णु से संबंधित बीजाक्षर माना जाता है। यह पालन, संतुलन, संरक्षण और जीवन के सामंजस्य का प्रतीक है।",
+          "en": "'Vaṁ' is traditionally associated with Lord Vishnu. It symbolizes preservation, harmony, protection, and the sustaining power of the universe."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "वं"
+      ],
+      "deities": [
+        "vishnu"
+      ],
+      "categories": [
+        "beej",
+        "vishnu"
+      ],
+      "keywords": {
+        "hi": [
+          "विष्णु",
+          "नारायण",
+          "वं",
+          "विष्णु बीज",
+          "विष्णु बीज मंत्र",
+          "हरि",
+          "श्रीहरि"
+        ],
+        "en": [
+          "vishnu",
+          "narayana",
+          "hari",
+          "vam",
+          "vishnu beej",
+          "vishnu beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "जीवन में संतुलन बनाए रखने में सहायक",
+          "मानसिक शांति का अनुभव",
+          "धैर्य एवं स्थिरता को प्रोत्साहित करता है",
+          "धार्मिक एवं आध्यात्मिक साधना में सहायक",
+          "भगवान विष्णु के प्रति भक्ति बढ़ाता है",
+          "सकारात्मक एवं सात्त्विक विचारों को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Promotes harmony and balance",
+          "Supports inner peace",
+          "Encourages patience and emotional stability",
+          "Supports spiritual practice",
+          "Deepens devotion to Lord Vishnu",
+          "Encourages positive and sattvic thinking"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "spiritual_growth",
+        "inner_peace",
+        "prosperity",
+        "devotion",
+        "balance"
+      ],
+      "recommendedDay": [
+        "Thursday",
+        "Ekadashi",
+        "Vaikuntha Ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "Brahma Muhurta",
+        "Sunrise",
+        "Morning Prayer"
+      ],
+      "difficulty": "beginner",
+      "pronunciation": {
+        "hi": "'वं' में 'व' का स्पष्ट उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'विष्णवे' में 'ष्ण' का सही संयुक्त उच्चारण करें।",
+        "en": "Pronounce 'Vaṁ' with a clear 'va' sound followed by a gentle nasal resonance. In 'Viṣṇave', articulate the conjunct 'ṣṇa' distinctly."
+      },
+      "chakra": "heart",
+      "element": "water",
+      "color": "blue",
+      "tradition": "Vaishnava, Vedic, Smarta",
+      "associatedAttributes": {
+        "vehicle": "Garuda",
+        "weapon": "Sudarshana Chakra",
+        "consort": "Lakshmi",
+        "abode": "Vaikuntha"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है और सामान्यतः किसी विशेष दीक्षा की आवश्यकता नहीं होती। श्रद्धा और नियमितता के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels and generally does not require formal initiation. Traditional practice emphasizes devotion and consistency."
+      },
+      "related": [
+        "vishnu_gayatri",
+        "om_namo_narayanaya",
+        "vishnu_sahasranama",
+        "narayana_kavacham"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_beej_mantra",
+      "title": {
+        "hi": "राम बीज मंत्र",
+        "en": "Rama Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ रां रामाय नमः",
+        "transliteration": "Om Rāṁ Rāmāya Namaḥ"
+      },
+      "description": {
+        "hi": "राम बीज मंत्र भगवान श्रीराम की मर्यादा, धर्म, करुणा, साहस और सत्य के दिव्य स्वरूप का आह्वान करता है। इसका जप मन को स्थिर करने, धर्ममय जीवन जीने तथा भक्ति एवं आत्मबल को विकसित करने के लिए किया जाता है।",
+        "en": "The Rama Beej Mantra invokes Lord Rama, the embodiment of righteousness, compassion, courage, and truth. It is traditionally chanted to cultivate devotion, inner strength, moral character, and mental peace."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान श्रीराम को नमस्कार करते हुए उनके आदर्श जीवन, धर्मपालन और दिव्य संरक्षण की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Rama and seeks His blessings for righteous living, divine protection, courage, and devotion."
+      },
+      "beej": {
+        "hi": "रां",
+        "transliteration": "Rāṁ",
+        "meaning": {
+          "hi": "'रां' भगवान श्रीराम से संबंधित बीजाक्षर माना जाता है। यह धर्म, आत्मबल, साहस, मर्यादा और आध्यात्मिक तेज का प्रतीक है।",
+          "en": "'Rāṁ' is traditionally associated with Lord Rama. It symbolizes righteousness, courage, inner strength, discipline, and spiritual radiance."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "रां"
+      ],
+      "deities": [
+        "rama"
+      ],
+      "categories": [
+        "beej",
+        "rama"
+      ],
+      "keywords": {
+        "hi": [
+          "राम",
+          "श्रीराम",
+          "रघुनाथ",
+          "रघुवीर",
+          "रां",
+          "राम बीज",
+          "राम बीज मंत्र"
+        ],
+        "en": [
+          "rama",
+          "shri rama",
+          "raam",
+          "raghunath",
+          "raghuveer",
+          "ram beej",
+          "rama beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मविश्वास एवं साहस को बढ़ाने में सहायक",
+          "मन को शांत एवं स्थिर करने में सहायक",
+          "भक्ति एवं सदाचार को प्रोत्साहित करता है",
+          "धर्ममय जीवन जीने की प्रेरणा देता है",
+          "नकारात्मक विचारों को कम करने में सहायक",
+          "आध्यात्मिक अनुशासन विकसित करने में सहायता करता है"
+        ],
+        "en": [
+          "Supports courage and inner confidence",
+          "Promotes peace and emotional stability",
+          "Encourages devotion and virtuous living",
+          "Inspires righteous conduct",
+          "Helps reduce negative thinking",
+          "Supports spiritual discipline"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "courage",
+        "protection",
+        "inner_peace",
+        "spiritual_growth",
+        "righteousness"
+      ],
+      "recommendedDay": [
+        "Thursday",
+        "Ram Navami",
+        "Everyday"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "Brahma Muhurta",
+        "Sunrise",
+        "Morning Prayer"
+      ],
+      "difficulty": "beginner",
+      "pronunciation": {
+        "hi": "'रां' में 'रा' का दीर्घ उच्चारण करें तथा अंत में अनुनासिक 'ं' का हल्का कंपन रखें। 'रामाय' का उच्चारण स्पष्ट एवं मधुर रखें।",
+        "en": "Pronounce 'Rāṁ' with a long 'Rā' followed by a gentle nasal resonance. 'Rāmāya' should be spoken clearly and smoothly."
+      },
+      "chakra": "heart",
+      "element": "fire",
+      "color": "golden_yellow",
+      "tradition": "Vaishnava, Ramanandi, Smarta",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Kodanda (Bow)",
+        "consort": "Sita",
+        "abode": "Ayodhya and Saket"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। श्रद्धा, नियमितता और भगवान श्रीराम के आदर्शों का स्मरण करते हुए जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best chanted with devotion, regularity, and remembrance of Lord Rama's ideals."
+      },
+      "related": [
+        "rama_gayatri",
+        "shri_ram_jaya_ram_jaya_jaya_ram",
+        "rama_taraka_mantra",
+        "rama_raksha_stotram",
+        "hanuman_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "krishna_beej_mantra",
+      "title": {
+        "hi": "कृष्ण बीज मंत्र",
+        "en": "Krishna Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्लीं कृष्णाय नमः",
+        "transliteration": "Om Klīṁ Kṛṣṇāya Namaḥ"
+      },
+      "description": {
+        "hi": "कृष्ण बीज मंत्र भगवान श्रीकृष्ण की दिव्य प्रेममयी, करुणामयी तथा आनन्दमयी शक्ति का आह्वान करता है। इसका जप भक्ति, प्रेम, आत्मिक आनन्द, मानसिक शांति तथा भगवान श्रीकृष्ण के प्रति समर्पण की भावना विकसित करने के लिए किया जाता है।",
+        "en": "The Krishna Beej Mantra invokes the divine love, compassion, wisdom, and bliss of Lord Krishna. It is traditionally chanted to cultivate devotion, inner joy, loving-kindness, and a deeper connection with the Divine."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान श्रीकृष्ण को प्रणाम करते हुए उनकी कृपा, प्रेम, ज्ञान और दिव्य मार्गदर्शन की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Krishna and seeks His blessings for divine love, wisdom, compassion, and spiritual guidance."
+      },
+      "beej": {
+        "hi": "क्लीं",
+        "transliteration": "Klīṁ",
+        "meaning": {
+          "hi": "'क्लीं' काम-बीज के रूप में प्रसिद्ध है, परन्तु वैष्णव परंपरा में यह भगवान श्रीकृष्ण की आकर्षण, प्रेम, भक्ति और दिव्य आनंद की शक्ति का भी प्रतीक माना जाता है।",
+          "en": "'Klīṁ' is widely known as the Kāma Bija. In Vaishnava traditions it is also associated with Lord Krishna's divine attraction, love, devotion, and bliss."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "क्लीं"
+      ],
+      "deities": [
+        "krishna"
+      ],
+      "categories": [
+        "beej",
+        "krishna"
+      ],
+      "keywords": {
+        "hi": [
+          "कृष्ण",
+          "श्रीकृष्ण",
+          "गोपाल",
+          "गोविन्द",
+          "माधव",
+          "क्लीं",
+          "कृष्ण बीज",
+          "कृष्ण बीज मंत्र"
+        ],
+        "en": [
+          "krishna",
+          "shri krishna",
+          "govinda",
+          "gopala",
+          "madhava",
+          "kleem",
+          "klim",
+          "krishna beej",
+          "krishna beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति और ईश्वर-प्रेम को बढ़ाने में सहायक",
+          "मन में आनंद और प्रसन्नता का संचार करता है",
+          "क्रोध और तनाव को कम करने में सहायक",
+          "हृदय में करुणा और प्रेम विकसित करता है",
+          "ध्यान और जप में एकाग्रता बढ़ाने में सहायक",
+          "भगवान श्रीकृष्ण के प्रति समर्पण की भावना को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Deepens devotion to Lord Krishna",
+          "Encourages inner joy and contentment",
+          "Traditionally believed to reduce stress and emotional agitation",
+          "Cultivates compassion and unconditional love",
+          "Supports concentration during meditation",
+          "Strengthens spiritual surrender and devotion"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "inner_peace",
+        "spiritual_growth",
+        "meditation",
+        "compassion"
+      ],
+      "recommendedDay": [
+        "Wednesday",
+        "Thursday",
+        "Janmashtami",
+        "Ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "evening",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'क्लीं' में 'क्ली' का उच्चारण दीर्घ करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'कृष्णाय' में 'ष्ण' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Klīṁ' with a long 'ee' sound followed by a gentle nasal resonance. In 'Kṛṣṇāya', articulate the conjunct 'ṣṇa' clearly."
+      },
+      "chakra": "heart",
+      "element": "water",
+      "color": "dark_blue",
+      "tradition": "Vaishnava, Gaudiya Vaishnava, Smarta",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Sudarshana Chakra",
+        "consort": "Radha",
+        "abode": "Goloka Vrindavan"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। श्रद्धा, प्रेम और नियमितता के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best chanted with devotion, love, and consistency."
+      },
+      "related": [
+        "radha_beej_mantra",
+        "krishna_gayatri",
+        "hare_krishna_maha_mantra",
+        "gopala_mantra",
+        "vishnu_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "radha_beej_mantra",
+      "title": {
+        "hi": "राधा बीज मंत्र",
+        "en": "Radha Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं राधिकायै नमः",
+        "transliteration": "Om Hrīṁ Rādhikāyai Namaḥ"
+      },
+      "description": {
+        "hi": "राधा बीज मंत्र श्रीराधा की दिव्य प्रेममयी, करुणामयी एवं भक्ति स्वरूप शक्ति का आह्वान करता है। यह भगवान श्रीकृष्ण के प्रति निष्काम प्रेम, समर्पण, भक्ति तथा हृदय की पवित्रता को जागृत करने के लिए जपा जाता है।",
+        "en": "The Radha Beej Mantra invokes the divine love, compassion, and devotional grace of Shri Radha. It is traditionally chanted to cultivate pure devotion, selfless love, humility, and spiritual surrender to Lord Krishna."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रीराधा को नमस्कार करते हुए उनके प्रेम, करुणा, भक्ति और दिव्य कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Shri Radha and seeks Her blessings for divine love, devotion, compassion, and spiritual grace."
+      },
+      "beej": {
+        "hi": "ह्रीं",
+        "transliteration": "Hrīṁ",
+        "meaning": {
+          "hi": "'ह्रीं' को महाशक्ति का प्रमुख बीजाक्षर माना जाता है। राधा उपासना में यह दिव्य प्रेम, भक्ति, करुणा और हृदय की पवित्रता का प्रतीक है।",
+          "en": "'Hrīṁ' is regarded as one of the principal bija syllables of Divine Shakti. In the worship of Radha, it symbolizes divine love, devotion, compassion, and purity of heart."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्रीं"
+      ],
+      "deities": [
+        "radha"
+      ],
+      "deityInfo": {
+        "primary": "radha",
+        "group": "vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "beej",
+        "radha"
+      ],
+      "keywords": {
+        "hi": [
+          "राधा",
+          "राधिका",
+          "श्रीराधा",
+          "ह्रीं",
+          "राधा बीज",
+          "राधा बीज मंत्र"
+        ],
+        "en": [
+          "radha",
+          "radhika",
+          "shri radha",
+          "hreem",
+          "hrim",
+          "radha beej",
+          "radha beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान श्रीकृष्ण के प्रति भक्ति बढ़ाने में सहायक",
+          "हृदय में प्रेम एवं करुणा विकसित करता है",
+          "मन को कोमल एवं शांत बनाता है",
+          "अहंकार कम करने में सहायक",
+          "भक्ति साधना को गहरा करता है",
+          "आंतरिक पवित्रता एवं विनम्रता को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Deepens devotion to Lord Krishna",
+          "Cultivates divine love and compassion",
+          "Promotes emotional peace",
+          "Encourages humility",
+          "Supports devotional meditation",
+          "Nurtures purity of heart and selfless love"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "compassion",
+        "inner_peace",
+        "spiritual_growth",
+        "meditation"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Radhashtami",
+        "Ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "sunset",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ह्रीं' में 'ह्री' का उच्चारण दीर्घ करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'राधिकायै' का उच्चारण स्पष्ट एवं मधुर रखें।",
+        "en": "Pronounce 'Hrīṁ' with a long 'ee' sound followed by a gentle nasal resonance. 'Rādhikāyai' should be spoken smoothly and clearly."
+      },
+      "chakra": "heart",
+      "element": "water",
+      "color": "pink",
+      "tradition": "Gaudiya Vaishnava, Vaishnava",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": null,
+        "consort": "Krishna",
+        "abode": "Goloka Vrindavan"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। श्रद्धा, विनम्रता और निष्काम भक्ति के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best chanted with humility, devotion, and selfless love."
+      },
+      "related": [
+        "krishna_beej_mantra",
+        "radha_krishnaya_namah",
+        "hare_krishna_maha_mantra",
+        "gopala_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "hanuman_beej_mantra",
+      "title": {
+        "hi": "हनुमान बीज मंत्र",
+        "en": "Hanuman Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं भ्रीं हनुमते श्रीरामदूताय नमः",
+        "transliteration": "Om Aiṁ Bhrīṁ Hanumate Śrī Rāmadūtāya Namaḥ"
+      },
+      "description": {
+        "hi": "हनुमान बीज मंत्र भगवान श्रीहनुमान की अद्भुत शक्ति, अटूट भक्ति, साहस, बुद्धि और दिव्य संरक्षण का आह्वान करता है। इसका जप भय से मुक्ति, आत्मबल, मानसिक दृढ़ता तथा श्रीराम के प्रति भक्ति को विकसित करने के लिए किया जाता है।",
+        "en": "The Hanuman Beej Mantra invokes the immense strength, unwavering devotion, courage, wisdom, and divine protection of Lord Hanuman. It is traditionally chanted to cultivate fearlessness, inner strength, devotion, and spiritual resilience."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान श्रीहनुमान को प्रणाम करते हुए उनकी शक्ति, कृपा, संरक्षण, बुद्धि तथा भगवान श्रीराम की भक्ति प्राप्त करने की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Hanuman and seeks His blessings for strength, wisdom, protection, courage, and unwavering devotion to Lord Rama."
+      },
+      "beej": {
+        "hi": "ऐं, भ्रीं",
+        "transliteration": "Aiṁ, Bhrīṁ",
+        "meaning": {
+          "hi": "'ऐं' ज्ञान एवं दिव्य बुद्धि का तथा 'भ्रीं' शक्ति, संरक्षण एवं आध्यात्मिक तेज का प्रतीक माना जाता है।",
+          "en": "'Aiṁ' symbolizes divine wisdom and knowledge, while 'Bhrīṁ' represents spiritual power, protection, and radiant energy."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ऐं",
+        "भ्रीं"
+      ],
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "vanara",
+        "parent": "shiva"
+      },
+      "categories": [
+        "beej",
+        "hanuman"
+      ],
+      "keywords": {
+        "hi": [
+          "हनुमान",
+          "बजरंगबली",
+          "मारुति",
+          "पवनपुत्र",
+          "रामदूत",
+          "ऐं",
+          "भ्रीं",
+          "हनुमान बीज",
+          "हनुमान बीज मंत्र"
+        ],
+        "en": [
+          "hanuman",
+          "bajrangbali",
+          "maruti",
+          "pavanputra",
+          "ramdoot",
+          "aim",
+          "bhreem",
+          "bhreem mantra",
+          "hanuman beej",
+          "hanuman beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस और आत्मबल बढ़ाने में सहायक",
+          "भय एवं नकारात्मकता से रक्षा की भावना विकसित करता है",
+          "भगवान श्रीराम के प्रति भक्ति को गहरा करता है",
+          "मानसिक दृढ़ता और आत्मविश्वास को प्रोत्साहित करता है",
+          "एकाग्रता एवं अनुशासन विकसित करने में सहायक",
+          "आध्यात्मिक साधना में स्थिरता प्रदान करता है"
+        ],
+        "en": [
+          "Supports courage and inner strength",
+          "Traditionally associated with protection from fear and negativity",
+          "Deepens devotion to Lord Rama",
+          "Encourages confidence and mental resilience",
+          "Supports focus and discipline",
+          "Strengthens spiritual practice"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "courage",
+        "devotion",
+        "spiritual_growth",
+        "strength"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Saturday",
+        "Hanuman Jayanti"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "sunset",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भ्रीं' में 'भ्री' का उच्चारण दीर्घ करें तथा अंत में अनुनासिक 'ं' का हल्का कंपन रखें। 'हनुमते' और 'रामदूताय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhrīṁ' with a long 'ee' sound followed by a gentle nasal resonance. Clearly articulate 'Hanumate' and 'Rāmadūtāya'."
+      },
+      "chakra": "heart",
+      "element": "air",
+      "color": "orange",
+      "tradition": "Ramanandi, Vaishnava, Shaiva, Smarta",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Gada (Mace)",
+        "consort": null,
+        "abode": "Kishkindha"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। श्रद्धा, ब्रह्मचर्य, सत्य और नियमित साधना के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best practiced with devotion, discipline, truthfulness, and regularity."
+      },
+      "related": [
+        "hanuman_gayatri",
+        "hanuman_moola_mantra",
+        "hanuman_chalisa",
+        "rama_beej_mantra",
+        "shiva_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "lakshmi_beej_mantra",
+      "title": {
+        "hi": "लक्ष्मी बीज मंत्र",
+        "en": "Lakshmi Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं महालक्ष्म्यै नमः",
+        "transliteration": "Om Śrīṁ Mahālakṣmyai Namaḥ"
+      },
+      "description": {
+        "hi": "लक्ष्मी बीज मंत्र माता महालक्ष्मी की समृद्धि, सौभाग्य, ऐश्वर्य, सौंदर्य और मंगलमयी कृपा का आह्वान करता है। इसका जप धन, समृद्धि, संतोष, पारिवारिक सुख तथा आध्यात्मिक एवं भौतिक उन्नति की कामना से किया जाता है।",
+        "en": "The Lakshmi Beej Mantra invokes the divine grace of Goddess Mahalakshmi, the bestower of prosperity, abundance, fortune, beauty, and auspiciousness. It is traditionally chanted for material well-being, inner contentment, prosperity, and spiritual abundance."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माता महालक्ष्मी को प्रणाम करते हुए उनकी कृपा, समृद्धि, सौभाग्य, संतोष और मंगलमय जीवन की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Mahalakshmi and seeks Her blessings for prosperity, abundance, good fortune, harmony, and a blessed life."
+      },
+      "beej": {
+        "hi": "श्रीं",
+        "transliteration": "Śrīṁ",
+        "meaning": {
+          "hi": "'श्रीं' महालक्ष्मी का प्रमुख बीजाक्षर है। यह समृद्धि, सौभाग्य, ऐश्वर्य, सौंदर्य, संतोष और दिव्य कृपा का प्रतीक माना जाता है।",
+          "en": "'Śrīṁ' is the principal bija syllable of Goddess Mahalakshmi. It symbolizes prosperity, abundance, beauty, auspiciousness, fulfillment, and divine grace."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "श्रीं"
+      ],
+      "deities": [
+        "lakshmi"
+      ],
+      "deityInfo": {
+        "primary": "lakshmi",
+        "group": "shakti",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "beej",
+        "lakshmi"
+      ],
+      "keywords": {
+        "hi": [
+          "लक्ष्मी",
+          "महालक्ष्मी",
+          "श्री",
+          "श्रीं",
+          "धन",
+          "समृद्धि",
+          "लक्ष्मी बीज",
+          "लक्ष्मी बीज मंत्र"
+        ],
+        "en": [
+          "lakshmi",
+          "mahalakshmi",
+          "shreem",
+          "shrim",
+          "prosperity",
+          "wealth",
+          "lakshmi beej",
+          "lakshmi beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समृद्धि एवं सौभाग्य की भावना को प्रोत्साहित करता है",
+          "संतोष एवं सकारात्मक सोच विकसित करने में सहायक",
+          "आर्थिक अनुशासन और कृतज्ञता की भावना को बढ़ावा देता है",
+          "गृहस्थ जीवन में मंगल और सामंजस्य की प्रार्थना हेतु जपा जाता है",
+          "आध्यात्मिक एवं भौतिक संतुलन विकसित करने में सहायक",
+          "माता महालक्ष्मी के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Traditionally associated with prosperity and abundance",
+          "Encourages gratitude and contentment",
+          "Supports a positive mindset toward wealth and well-being",
+          "Invokes auspiciousness and harmony in family life",
+          "Promotes balance between material and spiritual life",
+          "Deepens devotion to Goddess Lakshmi"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "wealth",
+        "abundance",
+        "devotion",
+        "inner_peace",
+        "spiritual_growth"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Diwali",
+        "Sharad Purnima",
+        "Varalakshmi Vratam"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'श्रीं' में 'श्री' का उच्चारण स्पष्ट एवं दीर्घ करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'महालक्ष्म्यै' का उच्चारण सावधानीपूर्वक करें।",
+        "en": "Pronounce 'Śrīṁ' with a long 'śrī' sound followed by a gentle nasal resonance. Clearly articulate 'Mahālakṣmyai'."
+      },
+      "chakra": "heart",
+      "element": "earth",
+      "color": "gold",
+      "tradition": "Vaishnava, Shakta, Smarta",
+      "associatedAttributes": {
+        "vehicle": "Owl",
+        "weapon": null,
+        "consort": "Vishnu",
+        "abode": "Vaikuntha"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। पारंपरिक मान्यता के अनुसार इसका जप सदाचार, दान, कृतज्ञता और शुद्ध आचरण के साथ करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best practiced with gratitude, generosity, ethical conduct, and regular devotion."
+      },
+      "related": [
+        "lakshmi_gayatri",
+        "mahalakshmi_mantra",
+        "kanakadhara_stotram",
+        "vishnu_beej_mantra",
+        "kubera_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "saraswati_beej_mantra",
+      "title": {
+        "hi": "सरस्वती बीज मंत्र",
+        "en": "Saraswati Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं सरस्वत्यै नमः",
+        "transliteration": "Om Aiṁ Sarasvatyai Namaḥ"
+      },
+      "description": {
+        "hi": "सरस्वती बीज मंत्र ज्ञान, विद्या, बुद्धि, वाणी, संगीत, कला तथा आध्यात्मिक विवेक की अधिष्ठात्री देवी माँ सरस्वती का आह्वान करता है। इसका जप विद्यार्थियों, शिक्षकों, कलाकारों, संगीतकारों तथा आध्यात्मिक साधकों द्वारा ज्ञान एवं प्रज्ञा की प्राप्ति के लिए किया जाता है।",
+        "en": "The Saraswati Beej Mantra invokes Goddess Saraswati, the divine embodiment of wisdom, knowledge, speech, music, arts, and learning. It is traditionally chanted by students, teachers, artists, musicians, and spiritual seekers for wisdom and intellectual clarity."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ सरस्वती को प्रणाम करते हुए ज्ञान, बुद्धि, वाणी की शुद्धता, स्मरण शक्ति तथा विवेक की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Saraswati and seeks Her blessings for wisdom, learning, pure speech, memory, creativity, and discernment."
+      },
+      "beej": {
+        "hi": "ऐं",
+        "transliteration": "Aiṁ",
+        "meaning": {
+          "hi": "'ऐं' माँ सरस्वती का प्रमुख बीजाक्षर है। यह ज्ञान, शिक्षा, वाणी, स्मरण शक्ति, बुद्धि तथा आध्यात्मिक प्रज्ञा का प्रतीक माना जाता है।",
+          "en": "'Aiṁ' is the principal bija syllable of Goddess Saraswati. It symbolizes wisdom, education, eloquence, memory, intelligence, and higher knowledge."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ऐं"
+      ],
+      "deities": [
+        "saraswati"
+      ],
+      "deityInfo": {
+        "primary": "saraswati",
+        "group": "shakti",
+        "parent": "brahma"
+      },
+      "categories": [
+        "beej",
+        "saraswati"
+      ],
+      "keywords": {
+        "hi": [
+          "सरस्वती",
+          "माँ सरस्वती",
+          "विद्या",
+          "ज्ञान",
+          "वाणी",
+          "ऐं",
+          "सरस्वती बीज",
+          "सरस्वती बीज मंत्र"
+        ],
+        "en": [
+          "saraswati",
+          "goddess saraswati",
+          "aim",
+          "education",
+          "knowledge",
+          "wisdom",
+          "saraswati beej",
+          "saraswati beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान एवं अध्ययन में एकाग्रता बढ़ाने में सहायक",
+          "स्मरण शक्ति विकसित करने में सहायक",
+          "वाणी की स्पष्टता एवं मधुरता को प्रोत्साहित करता है",
+          "संगीत, कला एवं रचनात्मकता को विकसित करने में सहायक",
+          "बुद्धि एवं विवेक को परिष्कृत करने में सहायक",
+          "आध्यात्मिक अध्ययन एवं स्वाध्याय के लिए अनुकूल माना जाता है"
+        ],
+        "en": [
+          "Supports learning and concentration",
+          "Helps strengthen memory",
+          "Encourages clear and graceful speech",
+          "Supports creativity in music, arts, and literature",
+          "Promotes wisdom and sound judgment",
+          "Fosters spiritual study and self-learning"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "education",
+        "meditation",
+        "spiritual_growth",
+        "creativity"
+      ],
+      "recommendedDay": [
+        "Thursday",
+        "Vasant Panchami",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "before_study"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ऐं' में 'ऐ' का स्पष्ट उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'सरस्वत्यै' का उच्चारण सावधानीपूर्वक करें।",
+        "en": "Pronounce 'Aiṁ' with a clear 'ai' sound followed by a gentle nasal resonance. Clearly articulate 'Sarasvatyai'."
+      },
+      "chakra": "throat",
+      "element": "ether",
+      "color": "white",
+      "tradition": "Vedic, Smarta, Shakta",
+      "associatedAttributes": {
+        "vehicle": "Swan",
+        "weapon": null,
+        "consort": "Brahma",
+        "abode": "Brahmaloka"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। पारंपरिक रूप से इसका जप अध्ययन, लेखन, संगीत या आध्यात्मिक साधना से पूर्व श्रद्धा एवं एकाग्रता के साथ करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best chanted with devotion and concentration before study, creative work, or spiritual practice."
+      },
+      "related": [
+        "saraswati_gayatri",
+        "ya_kundendu_tusharahara_dhavala",
+        "ganesha_beej_mantra",
+        "hayagriva_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "bagalamukhi_beej_mantra",
+      "title": {
+        "hi": "बगलामुखी बीज मंत्र",
+        "en": "Bagalamukhi Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्लीं बगलामुख्यै नमः",
+        "transliteration": "Om Hlīṁ Bagalāmukhyai Namaḥ"
+      },
+      "description": {
+        "hi": "बगलामुखी बीज मंत्र दशमहाविद्याओं में से एक माँ बगलामुखी का शक्तिशाली मंत्र है। यह शत्रुओं के दुष्प्रभाव, नकारात्मकता, विवाद तथा बाधाओं को शांत करने एवं आत्मसंयम, साहस और आध्यात्मिक संरक्षण की भावना विकसित करने के लिए जपा जाता है।",
+        "en": "The Bagalamukhi Beej Mantra is dedicated to Goddess Bagalamukhi, one of the Ten Mahavidyas. It is traditionally chanted to seek protection from negativity, overcome obstacles, cultivate self-control, and invoke divine strength."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ बगलामुखी को प्रणाम करते हुए उनकी दिव्य शक्ति, संरक्षण, साहस तथा नकारात्मक शक्तियों पर विजय की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Bagalamukhi and seeks Her blessings for protection, courage, self-mastery, and victory over negativity."
+      },
+      "beej": {
+        "hi": "ह्लीं",
+        "transliteration": "Hlīṁ",
+        "meaning": {
+          "hi": "'ह्लीं' माँ बगलामुखी का प्रमुख बीजाक्षर माना जाता है। यह स्तम्भन, संरक्षण, आत्मसंयम तथा दिव्य शक्ति का प्रतीक है।",
+          "en": "'Hlīṁ' is regarded as the principal bija syllable of Goddess Bagalamukhi. It symbolizes protective power, restraint, stability, and divine strength."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्लीं"
+      ],
+      "deities": [
+        "bagalamukhi"
+      ],
+      "deityInfo": {
+        "primary": "bagalamukhi",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "bagalamukhi"
+      ],
+      "keywords": {
+        "hi": [
+          "बगलामुखी",
+          "पीताम्बरा",
+          "ह्लीं",
+          "स्तम्भन",
+          "बगलामुखी बीज",
+          "बगलामुखी बीज मंत्र"
+        ],
+        "en": [
+          "bagalamukhi",
+          "baglamukhi",
+          "pitambara",
+          "hleem",
+          "hlim",
+          "bagalamukhi beej",
+          "bagalamukhi beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मसंयम एवं मानसिक स्थिरता विकसित करने में सहायक",
+          "नकारात्मक विचारों से रक्षा की भावना को प्रोत्साहित करता है",
+          "कठिन परिस्थितियों में साहस बनाए रखने में सहायक",
+          "आध्यात्मिक संरक्षण की भावना विकसित करता है",
+          "ध्यान एवं एकाग्रता में सहायक",
+          "आंतरिक शक्ति और आत्मविश्वास को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Supports self-control and mental stability",
+          "Traditionally associated with protection from negativity",
+          "Encourages courage during difficult situations",
+          "Promotes a sense of divine protection",
+          "Supports concentration during meditation",
+          "Strengthens inner confidence and resilience"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "meditation",
+        "inner_peace",
+        "spiritual_growth",
+        "self_control"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Thursday",
+        "Bagalamukhi Jayanti"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "night",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ह्लीं' में 'ह्ल' का संयुक्त उच्चारण स्पष्ट करें तथा 'ई' को दीर्घ बोलें। अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें।",
+        "en": "Pronounce 'Hlīṁ' with a clear conjunct 'hl', a long 'ee' sound, and a gentle nasal resonance at the end."
+      },
+      "chakra": "throat",
+      "element": "fire",
+      "color": "yellow",
+      "tradition": "Shakta Tantra, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Gada",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ बगलामुखी की उपासना तांत्रिक परंपराओं में विशेष स्थान रखती है। उन्नत साधनाओं का अभ्यास पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में करना उचित माना जाता है।",
+        "en": "Bagalamukhi worship holds a special place in Tantric traditions. Advanced practices are traditionally undertaken under the guidance of a qualified guru."
+      },
+      "related": [
+        "bagalamukhi_gayatri",
+        "bagalamukhi_moola_mantra",
+        "tripura_sundari_beej_mantra",
+        "tara_beej_mantra",
+        "kali_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "durga_beej_mantra",
+      "title": {
+        "hi": "दुर्गा बीज मंत्र",
+        "en": "Durga Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ दुं दुर्गायै नमः",
+        "transliteration": "Om Duṁ Durgāyai Namaḥ"
+      },
+      "description": {
+        "hi": "दुर्गा बीज मंत्र माँ दुर्गा की दिव्य शक्ति, संरक्षण, साहस और करुणा का आह्वान करता है। इसका जप भय, नकारात्मकता एवं मानसिक दुर्बलता पर विजय प्राप्त करने तथा आत्मबल, श्रद्धा और आध्यात्मिक उन्नति के लिए किया जाता है।",
+        "en": "The Durga Beej Mantra invokes the divine power, protection, courage, and compassion of Goddess Durga. It is traditionally chanted to cultivate inner strength, overcome fear and negativity, and seek spiritual growth and divine protection."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ दुर्गा को प्रणाम करते हुए उनके संरक्षण, साहस, शक्ति तथा जीवन की बाधाओं से रक्षा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Durga and seeks Her blessings for protection, courage, strength, and the removal of obstacles from one's path."
+      },
+      "beej": {
+        "hi": "दुं",
+        "transliteration": "Duṁ",
+        "meaning": {
+          "hi": "'दुं' माँ दुर्गा का प्रमुख बीजाक्षर माना जाता है। यह संरक्षण, साहस, दिव्य शक्ति तथा नकारात्मक शक्तियों से रक्षा का प्रतीक है।",
+          "en": "'Duṁ' is the principal bija syllable of Goddess Durga. It symbolizes divine protection, courage, strength, and the power to overcome negativity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "दुं"
+      ],
+      "deities": [
+        "durga"
+      ],
+      "deityInfo": {
+        "primary": "durga",
+        "group": "shakti",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "durga"
+      ],
+      "keywords": {
+        "hi": [
+          "दुर्गा",
+          "माँ दुर्गा",
+          "जगदम्बा",
+          "दुं",
+          "दुर्गा बीज",
+          "दुर्गा बीज मंत्र",
+          "चण्डिका"
+        ],
+        "en": [
+          "durga",
+          "maa durga",
+          "jagadamba",
+          "dum",
+          "dum mantra",
+          "durga beej",
+          "durga beej mantra",
+          "chandika"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मविश्वास एवं साहस बढ़ाने में सहायक",
+          "नकारात्मकता से संरक्षण की भावना विकसित करता है",
+          "भय एवं मानसिक अस्थिरता को कम करने में सहायक",
+          "ध्यान एवं आध्यात्मिक साधना में स्थिरता प्रदान करता है",
+          "माँ दुर्गा के प्रति भक्ति को गहरा करता है",
+          "आंतरिक शक्ति एवं धैर्य को प्रोत्साहित करता है"
+        ],
+        "en": [
+          "Supports courage and self-confidence",
+          "Traditionally associated with divine protection",
+          "Helps cultivate emotional resilience",
+          "Supports meditation and spiritual discipline",
+          "Deepens devotion to Goddess Durga",
+          "Encourages inner strength and perseverance"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "courage",
+        "spiritual_growth",
+        "devotion",
+        "inner_peace"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Friday",
+        "Navaratri",
+        "Durga Ashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "sunset"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'दुं' में 'दु' का स्पष्ट उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'दुर्गायै' का उच्चारण स्पष्ट एवं शुद्ध रखें।",
+        "en": "Pronounce 'Duṁ' with a clear 'du' sound followed by a gentle nasal resonance. Clearly articulate 'Durgāyai'."
+      },
+      "chakra": "solar_plexus",
+      "element": "fire",
+      "color": "red",
+      "tradition": "Shakta, Smarta, Vedic",
+      "associatedAttributes": {
+        "vehicle": "Lion",
+        "weapon": "Trident and Divine Weapons",
+        "consort": "Shiva",
+        "abode": "Mount Kailash"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी साधकों के लिए उपयुक्त है। श्रद्धा, शुद्ध आचरण एवं नियमित साधना के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for practitioners of all levels. Traditionally, it is best practiced with devotion, righteous conduct, and regular discipline."
+      },
+      "related": [
+        "durga_gayatri",
+        "argala_stotram",
+        "devi_kavacham",
+        "kali_beej_mantra",
+        "chamunda_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kali_beej_mantra",
+      "title": {
+        "hi": "काली बीज मंत्र",
+        "en": "Kali Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्रीं कालिकायै नमः",
+        "transliteration": "Om Krīṁ Kālikāyai Namaḥ"
+      },
+      "description": {
+        "hi": "काली बीज मंत्र माँ काली की दिव्य शक्ति, परिवर्तन, निर्भयता एवं अज्ञान के विनाश का आह्वान करता है। इसका जप आध्यात्मिक जागरण, आंतरिक परिवर्तन, भय पर विजय तथा दिव्य संरक्षण की भावना विकसित करने के लिए किया जाता है।",
+        "en": "The Kali Beej Mantra invokes the transformative power, fearlessness, and divine protection of Goddess Kali. It is traditionally chanted for spiritual awakening, inner transformation, courage, and liberation from ignorance."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ काली को प्रणाम करते हुए उनके संरक्षण, शक्ति, निर्भयता तथा आध्यात्मिक जागृति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Kali and seeks Her blessings for protection, strength, fearlessness, and spiritual awakening."
+      },
+      "beej": {
+        "hi": "क्रीं",
+        "transliteration": "Krīṁ",
+        "meaning": {
+          "hi": "'क्रीं' माँ काली का प्रमुख बीजाक्षर माना जाता है। यह परिवर्तन, शक्ति, आध्यात्मिक जागरण, अज्ञान के विनाश तथा मुक्ति का प्रतीक है।",
+          "en": "'Krīṁ' is the principal bija syllable of Goddess Kali. It symbolizes transformation, divine power, spiritual awakening, the destruction of ignorance, and liberation."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "क्रीं"
+      ],
+      "deities": [
+        "kali"
+      ],
+      "deityInfo": {
+        "primary": "kali",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "kali"
+      ],
+      "keywords": {
+        "hi": [
+          "काली",
+          "कालिका",
+          "महाकाली",
+          "क्रीं",
+          "काली बीज",
+          "काली बीज मंत्र",
+          "महाविद्या"
+        ],
+        "en": [
+          "kali",
+          "kalika",
+          "mahakali",
+          "kreem",
+          "krim",
+          "kali beej",
+          "kali beej mantra",
+          "mahavidya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता एवं आत्मबल विकसित करने में सहायक",
+          "आंतरिक परिवर्तन एवं आत्मचिंतन को प्रोत्साहित करता है",
+          "नकारात्मक प्रवृत्तियों से ऊपर उठने की प्रेरणा देता है",
+          "आध्यात्मिक साधना में गहराई विकसित करने में सहायक",
+          "मन की दृढ़ता एवं साहस को प्रोत्साहित करता है",
+          "माँ काली के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Encourages fearlessness and inner strength",
+          "Supports spiritual transformation",
+          "Helps overcome negative tendencies",
+          "Deepens meditation and spiritual practice",
+          "Builds courage and resilience",
+          "Strengthens devotion to Goddess Kali"
+        ]
+      },
+      "purpose": [
+        "fearlessness",
+        "protection",
+        "spiritual_growth",
+        "transformation",
+        "meditation",
+        "liberation"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Saturday",
+        "Kali Puja",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "midnight",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'क्रीं' में 'क्री' का उच्चारण दीर्घ करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'कालिकायै' का उच्चारण स्पष्ट एवं शुद्ध रखें।",
+        "en": "Pronounce 'Krīṁ' with a long 'ee' sound followed by a gentle nasal resonance. Clearly articulate 'Kālikāyai'."
+      },
+      "chakra": "root",
+      "element": "fire",
+      "color": "black",
+      "tradition": "Shakta Tantra, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Sword",
+        "consort": "Shiva",
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ काली की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त इस मंत्र का श्रद्धा एवं भक्ति के साथ जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Kali are traditionally undertaken under the guidance of a qualified guru. This mantra may be chanted devotionally by general practitioners."
+      },
+      "related": [
+        "kali_gayatri",
+        "dakshina_kalika_mantra",
+        "durga_beej_mantra",
+        "bagalamukhi_beej_mantra",
+        "tripura_sundari_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "narasimha_beej_mantra",
+      "title": {
+        "hi": "नरसिंह बीज मंत्र",
+        "en": "Narasimha Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्ष्रौं नमो भगवते नरसिंहाय",
+        "transliteration": "Om Kṣrauṁ Namo Bhagavate Narasiṁhāya"
+      },
+      "description": {
+        "hi": "नरसिंह बीज मंत्र भगवान श्रीनरसिंह की उग्र किन्तु करुणामयी दिव्य शक्ति का आह्वान करता है। इसका जप भय, नकारात्मकता तथा आंतरिक दुर्बलताओं पर विजय प्राप्त करने और दिव्य संरक्षण, साहस एवं धर्म की रक्षा की भावना विकसित करने के लिए किया जाता है।",
+        "en": "The Narasimha Beej Mantra invokes the fierce yet compassionate divine power of Lord Narasimha, the fourth incarnation of Lord Vishnu. It is traditionally chanted for protection, courage, overcoming fear, and strengthening one's commitment to righteousness."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान नरसिंह को प्रणाम करते हुए उनके दिव्य संरक्षण, निर्भयता, धर्म की रक्षा तथा आध्यात्मिक शक्ति की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Narasimha and seeks His blessings for divine protection, fearlessness, righteousness, and spiritual strength."
+      },
+      "beej": {
+        "hi": "क्ष्रौं",
+        "transliteration": "Kṣrauṁ",
+        "meaning": {
+          "hi": "'क्ष्रौं' भगवान नरसिंह का प्रमुख बीजाक्षर माना जाता है। यह दिव्य संरक्षण, निर्भयता, धर्म की रक्षा तथा नकारात्मक शक्तियों के विनाश का प्रतीक है।",
+          "en": "'Kṣrauṁ' is regarded as the principal bija syllable of Lord Narasimha. It symbolizes divine protection, fearlessness, the preservation of righteousness, and the destruction of negativity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "क्ष्रौं"
+      ],
+      "deities": [
+        "narasimha"
+      ],
+      "deityInfo": {
+        "primary": "narasimha",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "beej",
+        "narasimha"
+      ],
+      "keywords": {
+        "hi": [
+          "नरसिंह",
+          "भगवान नरसिंह",
+          "उग्र नरसिंह",
+          "क्ष्रौं",
+          "नरसिंह बीज",
+          "नरसिंह बीज मंत्र",
+          "विष्णु अवतार"
+        ],
+        "en": [
+          "narasimha",
+          "lord narasimha",
+          "ugra narasimha",
+          "kshraum",
+          "kshraum",
+          "narasimha beej",
+          "narasimha beej mantra",
+          "vishnu avatar"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता एवं आत्मबल विकसित करने में सहायक",
+          "दिव्य संरक्षण की भावना को प्रोत्साहित करता है",
+          "धर्म एवं सत्य के मार्ग पर दृढ़ रहने की प्रेरणा देता है",
+          "नकारात्मक विचारों से ऊपर उठने में सहायक",
+          "आध्यात्मिक साहस एवं दृढ़ता विकसित करता है",
+          "भगवान नरसिंह के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Encourages courage and fearlessness",
+          "Traditionally associated with divine protection",
+          "Inspires steadfastness in righteousness",
+          "Supports resilience against negative thoughts",
+          "Strengthens spiritual confidence",
+          "Deepens devotion to Lord Narasimha"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "courage",
+        "spiritual_growth",
+        "devotion",
+        "righteousness"
+      ],
+      "recommendedDay": [
+        "Saturday",
+        "Narasimha Jayanti",
+        "Ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "sunset"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'क्ष्रौं' में 'क्ष्र' का संयुक्त उच्चारण स्पष्ट करें तथा 'औ' को दीर्घ बोलकर अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें।",
+        "en": "Pronounce 'Kṣrauṁ' with a clear conjunct 'kṣr', a long 'au' sound, and a gentle nasal resonance at the end."
+      },
+      "chakra": "solar_plexus",
+      "element": "fire",
+      "color": "gold",
+      "tradition": "Vaishnava, Pancharatra, Smarta",
+      "associatedAttributes": {
+        "vehicle": "Garuda",
+        "weapon": "Divine Claws",
+        "consort": "Lakshmi",
+        "abode": "Vaikuntha"
+      },
+      "caution": {
+        "hi": "यह मंत्र सामान्य साधकों के लिए उपयुक्त है। पारंपरिक रूप से श्रद्धा, संयम एवं नियमित साधना के साथ जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for general practitioners. Traditionally, it is best chanted with devotion, discipline, and regular practice."
+      },
+      "related": [
+        "vishnu_beej_mantra",
+        "narasimha_gayatri",
+        "lakshmi_narasimha_mantra",
+        "rama_beej_mantra",
+        "krishna_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tripura_sundari_beej_mantra",
+      "title": {
+        "hi": "त्रिपुरसुन्दरी बीज मंत्र",
+        "en": "Tripura Sundari Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं त्रिपुरसुन्दर्यै नमः",
+        "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Tripurasundaryai Namaḥ"
+      },
+      "description": {
+        "hi": "त्रिपुरसुन्दरी बीज मंत्र दशमहाविद्याओं में तृतीय महाविद्या श्री त्रिपुरसुन्दरी (शोडशी, ललिता) का पवित्र मंत्र है। यह दिव्य सौन्दर्य, ज्ञान, करुणा, आध्यात्मिक समृद्धि तथा परम चेतना के अनुभव के लिए जपा जाता है।",
+        "en": "The Tripura Sundari Beej Mantra is dedicated to Goddess Tripura Sundari (Lalita, Shodashi), the third of the Ten Mahavidyas. It is traditionally chanted to invoke divine beauty, wisdom, compassion, spiritual prosperity, and the realization of the Supreme Consciousness."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ त्रिपुरसुन्दरी को प्रणाम करते हुए उनकी कृपा, ज्ञान, प्रेम, सौन्दर्य और आध्यात्मिक पूर्णता की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Tripura Sundari and seeks Her blessings for wisdom, divine love, beauty, harmony, and spiritual fulfillment."
+      },
+      "beej": {
+        "hi": "श्रीं, ह्रीं, क्लीं",
+        "transliteration": "Śrīṁ, Hrīṁ, Klīṁ",
+        "meaning": {
+          "hi": "'श्रीं' समृद्धि एवं दिव्य कृपा, 'ह्रीं' महाशक्ति एवं चेतना तथा 'क्लीं' दिव्य प्रेम एवं आकर्षण का प्रतीक है। इन तीनों बीजाक्षरों का समन्वय श्रीविद्या साधना का अत्यंत महत्वपूर्ण आधार माना जाता है।",
+          "en": "'Śrīṁ' represents divine abundance and grace, 'Hrīṁ' symbolizes Supreme Consciousness and Divine Shakti, and 'Klīṁ' represents divine love and attraction. Together they form an important foundation in the Sri Vidya tradition."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "श्रीं",
+        "ह्रीं",
+        "क्लीं"
+      ],
+      "deities": [
+        "tripura_sundari"
+      ],
+      "deityInfo": {
+        "primary": "tripura_sundari",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "tripura_sundari"
+      ],
+      "keywords": {
+        "hi": [
+          "त्रिपुरसुन्दरी",
+          "ललिता",
+          "शोडशी",
+          "श्रीविद्या",
+          "श्रीं",
+          "ह्रीं",
+          "क्लीं",
+          "त्रिपुरसुन्दरी बीज",
+          "त्रिपुरसुन्दरी बीज मंत्र"
+        ],
+        "en": [
+          "tripura sundari",
+          "lalita",
+          "shodashi",
+          "srividya",
+          "shreem",
+          "hreem",
+          "kleem",
+          "tripura sundari beej",
+          "tripura sundari beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक उन्नति में सहायक",
+          "दिव्य प्रेम एवं करुणा की भावना विकसित करता है",
+          "मन में संतुलन एवं शांति स्थापित करने में सहायक",
+          "ध्यान एवं श्रीविद्या साधना में एकाग्रता को प्रोत्साहित करता है",
+          "आंतरिक सौन्दर्य एवं सकारात्मक दृष्टिकोण विकसित करने में सहायक",
+          "माँ त्रिपुरसुन्दरी के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports spiritual growth",
+          "Cultivates divine love and compassion",
+          "Encourages inner peace and emotional balance",
+          "Supports concentration during Sri Vidya meditation",
+          "Promotes inner beauty and positive awareness",
+          "Deepens devotion to Goddess Tripura Sundari"
+        ]
+      },
+      "purpose": [
+        "spiritual_growth",
+        "meditation",
+        "wisdom",
+        "love",
+        "inner_peace",
+        "devotion"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Friday During Navaratri",
+        "Lalita Jayanti"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'श्रीं', 'ह्रीं' एवं 'क्लीं' का दीर्घ उच्चारण करें तथा प्रत्येक के अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'त्रिपुरसुन्दर्यै' का स्पष्ट एवं शुद्ध उच्चारण करें।",
+        "en": "Pronounce 'Śrīṁ', 'Hrīṁ', and 'Klīṁ' with long vowel sounds followed by a gentle nasal resonance. Clearly articulate 'Tripurasundaryai'."
+      },
+      "chakra": "crown",
+      "element": "ether",
+      "color": "crimson",
+      "tradition": "Sri Vidya, Shakta Tantra, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Sugarcane Bow and Flower Arrows",
+        "consort": "Kameshwara (Shiva)",
+        "abode": "Sri Nagara (Manidvipa)"
+      },
+      "caution": {
+        "hi": "श्रीविद्या एवं त्रिपुरसुन्दरी की उन्नत साधनाएँ पारंपरिक रूप से योग्य गुरु से दीक्षा प्राप्त करने के पश्चात की जाती हैं। सामान्य भक्त इस मंत्र का श्रद्धापूर्वक जप कर सकते हैं।",
+        "en": "Advanced Sri Vidya practices are traditionally undertaken only after initiation from a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "lalita_sahasranama",
+        "tripura_sundari_gayatri",
+        "kali_beej_mantra",
+        "tara_beej_mantra",
+        "bhuvaneshwari_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tara_beej_mantra",
+      "title": {
+        "hi": "तारा बीज मंत्र",
+        "en": "Tara Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ स्त्रीं तारायै नमः",
+        "transliteration": "Om Strīṁ Tārāyai Namaḥ"
+      },
+      "description": {
+        "hi": "तारा बीज मंत्र दशमहाविद्याओं में द्वितीय महाविद्या माँ तारा का पवित्र मंत्र है। यह दिव्य ज्ञान, करुणा, संरक्षण, आध्यात्मिक मार्गदर्शन तथा जन्म-मृत्यु रूपी संसार-सागर से पार लगाने वाली शक्ति का आह्वान करता है।",
+        "en": "The Tara Beej Mantra is dedicated to Goddess Tara, the second of the Ten Mahavidyas. It is traditionally chanted to invoke divine wisdom, compassion, protection, spiritual guidance, and liberation from worldly suffering."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ तारा को प्रणाम करते हुए उनके ज्ञान, करुणा, संरक्षण तथा साधक को आध्यात्मिक मार्ग पर अग्रसर करने की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Tara and seeks Her blessings for wisdom, compassion, protection, and guidance on the spiritual path."
+      },
+      "beej": {
+        "hi": "स्त्रीं",
+        "transliteration": "Strīṁ",
+        "meaning": {
+          "hi": "'स्त्रीं' माँ तारा का प्रमुख बीजाक्षर माना जाता है। यह दिव्य ज्ञान, करुणा, आध्यात्मिक संरक्षण तथा मोक्ष की ओर मार्गदर्शन का प्रतीक है।",
+          "en": "'Strīṁ' is regarded as the principal bija syllable of Goddess Tara. It symbolizes divine wisdom, compassion, spiritual protection, and guidance toward liberation."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "स्त्रीं"
+      ],
+      "deities": [
+        "tara"
+      ],
+      "deityInfo": {
+        "primary": "tara",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "tara"
+      ],
+      "keywords": {
+        "hi": [
+          "तारा",
+          "माँ तारा",
+          "महाविद्या",
+          "स्त्रीं",
+          "तारा बीज",
+          "तारा बीज मंत्र"
+        ],
+        "en": [
+          "tara",
+          "goddess tara",
+          "mahavidya",
+          "streem",
+          "strim",
+          "tara beej",
+          "tara beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक ज्ञान प्राप्त करने में सहायक",
+          "करुणा एवं धैर्य विकसित करने में सहायक",
+          "दिव्य संरक्षण की भावना को प्रोत्साहित करता है",
+          "ध्यान में एकाग्रता बढ़ाने में सहायक",
+          "आंतरिक शांति एवं संतुलन विकसित करता है",
+          "माँ तारा के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports spiritual wisdom",
+          "Encourages compassion and patience",
+          "Traditionally associated with divine protection",
+          "Supports meditation and concentration",
+          "Promotes inner peace and balance",
+          "Deepens devotion to Goddess Tara"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "protection",
+        "meditation",
+        "spiritual_growth",
+        "inner_peace",
+        "liberation"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Friday",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "midnight",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'स्त्रीं' में 'स्त्र' का संयुक्त उच्चारण स्पष्ट करें तथा 'ई' को दीर्घ बोलें। अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें।",
+        "en": "Pronounce 'Strīṁ' with a clear 'str' conjunct, a long 'ee' sound, and a gentle nasal resonance at the end."
+      },
+      "chakra": "throat",
+      "element": "ether",
+      "color": "blue",
+      "tradition": "Shakta Tantra, Sri Vidya, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Scissors and Lotus",
+        "consort": "Akshobhya Shiva",
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ तारा की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Tara are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "tara_gayatri",
+        "tripura_sundari_beej_mantra",
+        "bhuvaneshwari_beej_mantra",
+        "kali_beej_mantra",
+        "bagalamukhi_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "bhuvaneshwari_beej_mantra",
+      "title": {
+        "hi": "भुवनेश्वरी बीज मंत्र",
+        "en": "Bhuvaneshwari Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं भुवनेश्वर्यै नमः",
+        "transliteration": "Om Hrīṁ Bhuvaneśvaryai Namaḥ"
+      },
+      "description": {
+        "hi": "भुवनेश्वरी बीज मंत्र दशमहाविद्याओं में चतुर्थ महाविद्या माँ भुवनेश्वरी का पवित्र मंत्र है। यह सम्पूर्ण ब्रह्माण्ड की अधिष्ठात्री देवी की दिव्य चेतना, करुणा, संरक्षण तथा व्यापकता का आह्वान करता है। इसका जप मानसिक शांति, आध्यात्मिक विस्तार, संतुलन तथा मातृशक्ति की कृपा प्राप्त करने के लिए किया जाता है।",
+        "en": "The Bhuvaneshwari Beej Mantra is dedicated to Goddess Bhuvaneshwari, the fourth of the Ten Mahavidyas. It invokes the Divine Mother who pervades and sustains the universe, bringing inner peace, expansion of consciousness, harmony, and spiritual protection."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ भुवनेश्वरी को प्रणाम करते हुए उनकी करुणा, संरक्षण, ज्ञान एवं समस्त सृष्टि में व्याप्त दिव्य शक्ति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Bhuvaneshwari and seeks Her blessings for compassion, protection, wisdom, and realization of the Divine presence throughout creation."
+      },
+      "beej": {
+        "hi": "ह्रीं",
+        "transliteration": "Hrīṁ",
+        "meaning": {
+          "hi": "'ह्रीं' महाशक्ति का प्रमुख बीजाक्षर है। भुवनेश्वरी उपासना में यह ब्रह्माण्डीय चेतना, दिव्य करुणा, सृजनशक्ति एवं आध्यात्मिक विस्तार का प्रतीक है।",
+          "en": "'Hrīṁ' is one of the principal bija syllables of Divine Shakti. In the worship of Bhuvaneshwari, it symbolizes cosmic consciousness, compassion, creative energy, and spiritual expansion."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्रीं"
+      ],
+      "deities": [
+        "bhuvaneshwari"
+      ],
+      "deityInfo": {
+        "primary": "bhuvaneshwari",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "bhuvaneshwari"
+      ],
+      "keywords": {
+        "hi": [
+          "भुवनेश्वरी",
+          "माँ भुवनेश्वरी",
+          "महाविद्या",
+          "ह्रीं",
+          "भुवनेश्वरी बीज",
+          "भुवनेश्वरी बीज मंत्र"
+        ],
+        "en": [
+          "bhuvaneshwari",
+          "bhuvaneshwari",
+          "goddess bhuvaneshwari",
+          "mahavidya",
+          "hreem",
+          "hrim",
+          "bhuvaneshwari beej",
+          "bhuvaneshwari beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति एवं संतुलन विकसित करने में सहायक",
+          "आध्यात्मिक चेतना का विस्तार करने में सहायक",
+          "करुणा एवं धैर्य को प्रोत्साहित करता है",
+          "ध्यान एवं एकाग्रता में सहायता करता है",
+          "संपूर्ण सृष्टि के प्रति एकत्व की भावना विकसित करता है",
+          "माँ भुवनेश्वरी के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports inner peace and emotional balance",
+          "Encourages expansion of spiritual awareness",
+          "Cultivates compassion and patience",
+          "Supports meditation and concentration",
+          "Promotes a sense of unity with creation",
+          "Deepens devotion to Goddess Bhuvaneshwari"
+        ]
+      },
+      "purpose": [
+        "spiritual_growth",
+        "meditation",
+        "inner_peace",
+        "wisdom",
+        "protection",
+        "compassion"
+      ],
+      "recommendedDay": [
+        "Monday",
+        "Friday",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ह्रीं' में 'ह्री' का दीर्घ उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'भुवनेश्वर्यै' का स्पष्ट एवं शुद्ध उच्चारण करें।",
+        "en": "Pronounce 'Hrīṁ' with a long 'ee' sound followed by a gentle nasal resonance. Clearly articulate 'Bhuvaneśvaryai'."
+      },
+      "chakra": "heart",
+      "element": "ether",
+      "color": "golden_red",
+      "tradition": "Shakta Tantra, Sri Vidya, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Noose and Goad",
+        "consort": "Shiva",
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ भुवनेश्वरी की उन्नत श्रीविद्या एवं तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Sri Vidya and Tantric practices dedicated to Goddess Bhuvaneshwari are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "bhuvaneshwari_gayatri",
+        "tripura_sundari_beej_mantra",
+        "tara_beej_mantra",
+        "kali_beej_mantra",
+        "lalita_sahasranama"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "chamunda_beej_mantra",
+      "title": {
+        "hi": "चामुण्डा बीज मंत्र",
+        "en": "Chamunda Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+        "transliteration": "Om Aiṁ Hrīṁ Klīṁ Cāmuṇḍāyai Vicce"
+      },
+      "description": {
+        "hi": "चामुण्डा बीज मंत्र माँ चामुण्डा की उग्र एवं करुणामयी शक्ति का आह्वान करता है। यह नकारात्मकता, भय, आंतरिक दुर्बलताओं तथा आध्यात्मिक बाधाओं पर विजय प्राप्त करने के लिए जपा जाता है। देवी महात्म्य में माँ चामुण्डा को चण्ड और मुण्ड नामक असुरों का संहार करने वाली शक्ति के रूप में वर्णित किया गया है।",
+        "en": "The Chamunda Beej Mantra invokes the fierce yet compassionate power of Goddess Chamunda. It is traditionally chanted to overcome fear, negativity, inner weaknesses, and spiritual obstacles. In the Devi Mahatmya, Chamunda is revered as the Goddess who destroyed the demons Chanda and Munda."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ चामुण्डा को प्रणाम करते हुए उनकी दिव्य शक्ति, संरक्षण, निर्भयता तथा आध्यात्मिक विजय की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Chamunda and seeks Her blessings for protection, fearlessness, spiritual strength, and victory over negativity."
+      },
+      "beej": {
+        "hi": "ऐं, ह्रीं, क्लीं",
+        "transliteration": "Aiṁ, Hrīṁ, Klīṁ",
+        "meaning": {
+          "hi": "'ऐं' ज्ञान का, 'ह्रीं' महाशक्ति का तथा 'क्लीं' दिव्य प्रेम एवं आकर्षण का प्रतीक है। इन बीजाक्षरों का संयुक्त प्रयोग माँ चामुण्डा की समग्र दिव्य शक्ति का आह्वान करता है।",
+          "en": "'Aiṁ' symbolizes wisdom, 'Hrīṁ' represents Divine Shakti, and 'Klīṁ' signifies divine love and attraction. Together they invoke the complete divine power of Goddess Chamunda."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ऐं",
+        "ह्रीं",
+        "क्लीं"
+      ],
+      "deities": [
+        "chamunda"
+      ],
+      "deityInfo": {
+        "primary": "chamunda",
+        "group": "shakti",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "chamunda"
+      ],
+      "keywords": {
+        "hi": [
+          "चामुण्डा",
+          "चामुंडा",
+          "चण्डिका",
+          "ऐं",
+          "ह्रीं",
+          "क्लीं",
+          "विच्चे",
+          "चामुण्डा बीज",
+          "चामुण्डा बीज मंत्र"
+        ],
+        "en": [
+          "chamunda",
+          "chamundi",
+          "chandika",
+          "aim",
+          "hreem",
+          "kleem",
+          "vicche",
+          "chamunda beej",
+          "chamunda beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता एवं आत्मबल विकसित करने में सहायक",
+          "नकारात्मक प्रवृत्तियों से ऊपर उठने की प्रेरणा देता है",
+          "दिव्य संरक्षण की भावना को प्रोत्साहित करता है",
+          "ध्यान एवं साधना में एकाग्रता बढ़ाने में सहायक",
+          "आध्यात्मिक दृढ़ता एवं साहस विकसित करता है",
+          "माँ चामुण्डा के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports courage and inner strength",
+          "Encourages overcoming negative tendencies",
+          "Traditionally associated with divine protection",
+          "Supports meditation and spiritual discipline",
+          "Strengthens spiritual resilience",
+          "Deepens devotion to Goddess Chamunda"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "spiritual_growth",
+        "meditation",
+        "courage",
+        "transformation"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Friday",
+        "Navaratri",
+        "Durga Ashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "midnight",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ऐं', 'ह्रीं' एवं 'क्लीं' का दीर्घ उच्चारण करें। 'विच्चे' का उच्चारण 'वि-च्चे' के रूप में स्पष्ट करें।",
+        "en": "Pronounce 'Aiṁ', 'Hrīṁ', and 'Klīṁ' with long vowel sounds and gentle nasal resonance. Pronounce 'Vicce' clearly as 'Vich-chay'."
+      },
+      "chakra": "solar_plexus",
+      "element": "fire",
+      "color": "deep_red",
+      "tradition": "Shakta Tantra, Devi Mahatmya",
+      "associatedAttributes": {
+        "vehicle": "Lion",
+        "weapon": "Trident and Sword",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ चामुण्डा की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Chamunda are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "durga_beej_mantra",
+        "kali_beej_mantra",
+        "bagalamukhi_beej_mantra",
+        "devi_kavacham",
+        "argala_stotram"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "matangi_beej_mantra",
+      "title": {
+        "hi": "मातंगी बीज मंत्र",
+        "en": "Matangi Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं ऐं मातंग्यै नमः",
+        "transliteration": "Om Hrīṁ Aiṁ Mātaṅgyai Namaḥ"
+      },
+      "description": {
+        "hi": "मातंगी बीज मंत्र दशमहाविद्याओं में नवम महाविद्या माँ मातंगी का पवित्र मंत्र है। माँ मातंगी वाणी, संगीत, कला, ज्ञान तथा दिव्य अभिव्यक्ति की अधिष्ठात्री देवी हैं। इस मंत्र का जप वाणी की शुद्धता, रचनात्मकता, आध्यात्मिक ज्ञान तथा अंतःप्रेरणा के विकास के लिए किया जाता है।",
+        "en": "The Matangi Beej Mantra is dedicated to Goddess Matangi, the ninth of the Ten Mahavidyas. She is the Divine Goddess of speech, music, arts, wisdom, and inspired expression. This mantra is traditionally chanted to cultivate eloquence, creativity, intuition, and spiritual wisdom."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ मातंगी को प्रणाम करते हुए शुद्ध वाणी, ज्ञान, रचनात्मकता तथा दिव्य प्रेरणा की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Matangi and seeks Her blessings for pure speech, wisdom, creativity, and divine inspiration."
+      },
+      "beej": {
+        "hi": "ह्रीं, ऐं",
+        "transliteration": "Hrīṁ, Aiṁ",
+        "meaning": {
+          "hi": "'ह्रीं' महाशक्ति का तथा 'ऐं' ज्ञान एवं वाणी का प्रमुख बीजाक्षर है। इनका संयुक्त प्रयोग दिव्य ज्ञान, वाणी और आध्यात्मिक अभिव्यक्ति का प्रतीक माना जाता है।",
+          "en": "'Hrīṁ' represents Divine Shakti, while 'Aiṁ' is the principal bija of wisdom and speech. Together they symbolize divine knowledge, eloquence, and inspired spiritual expression."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्रीं",
+        "ऐं"
+      ],
+      "deities": [
+        "matangi"
+      ],
+      "deityInfo": {
+        "primary": "matangi",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "matangi"
+      ],
+      "keywords": {
+        "hi": [
+          "मातंगी",
+          "राजमातंगी",
+          "उच्छिष्ट मातंगी",
+          "ह्रीं",
+          "ऐं",
+          "मातंगी बीज",
+          "मातंगी बीज मंत्र"
+        ],
+        "en": [
+          "matangi",
+          "raja matangi",
+          "ucchishta matangi",
+          "hreem",
+          "aim",
+          "matangi beej",
+          "matangi beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "वाणी की स्पष्टता एवं प्रभावशीलता विकसित करने में सहायक",
+          "रचनात्मकता एवं कलात्मक अभिव्यक्ति को प्रोत्साहित करता है",
+          "ज्ञान एवं अंतःप्रेरणा को विकसित करने में सहायक",
+          "ध्यान एवं आध्यात्मिक अध्ययन में एकाग्रता बढ़ाता है",
+          "आत्मविश्वासपूर्ण संवाद कौशल विकसित करने में सहायक",
+          "माँ मातंगी के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports eloquence and clear communication",
+          "Encourages creativity and artistic expression",
+          "Cultivates wisdom and intuition",
+          "Supports meditation and spiritual study",
+          "Builds confidence in communication",
+          "Deepens devotion to Goddess Matangi"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "knowledge",
+        "creativity",
+        "meditation",
+        "spiritual_growth",
+        "communication"
+      ],
+      "recommendedDay": [
+        "Wednesday",
+        "Friday",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ह्रीं' और 'ऐं' का दीर्घ एवं स्पष्ट उच्चारण करें। 'मातंग्यै' का उच्चारण 'मा-तंग्-यै' के रूप में शुद्ध करें।",
+        "en": "Pronounce 'Hrīṁ' and 'Aiṁ' clearly with long vowel sounds and gentle nasal resonance. Articulate 'Mātaṅgyai' carefully."
+      },
+      "chakra": "throat",
+      "element": "ether",
+      "color": "emerald_green",
+      "tradition": "Shakta Tantra, Sri Vidya, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": "Parrot",
+        "weapon": "Veena",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ मातंगी की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु से दीक्षा प्राप्त करने के पश्चात की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Matangi are traditionally undertaken after initiation from a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "saraswati_beej_mantra",
+        "tripura_sundari_beej_mantra",
+        "matangi_gayatri",
+        "ganesha_beej_mantra",
+        "bhuvaneshwari_beej_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "kamala_beej_mantra",
+      "title": {
+        "hi": "कमला बीज मंत्र",
+        "en": "Kamala Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं कमलायै नमः",
+        "transliteration": "Om Śrīṁ Kamalāyai Namaḥ"
+      },
+      "description": {
+        "hi": "कमला बीज मंत्र दशमहाविद्याओं में दशम महाविद्या माँ कमला का पवित्र मंत्र है। माँ कमला महालक्ष्मी का तांत्रिक स्वरूप मानी जाती हैं। यह मंत्र समृद्धि, सौभाग्य, आध्यात्मिक एवं भौतिक संतुलन, दिव्य कृपा तथा मंगलमय जीवन के लिए जपा जाता है।",
+        "en": "The Kamala Beej Mantra is dedicated to Goddess Kamala, the tenth of the Ten Mahavidyas and the Tantric form of Goddess Mahalakshmi. It is traditionally chanted to invoke prosperity, abundance, auspiciousness, spiritual fulfillment, and divine grace."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ कमला को प्रणाम करते हुए उनकी कृपा, समृद्धि, सौभाग्य, शांति तथा आध्यात्मिक एवं भौतिक संतुलन की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Kamala and seeks Her blessings for prosperity, good fortune, harmony, and spiritual as well as material well-being."
+      },
+      "beej": {
+        "hi": "श्रीं",
+        "transliteration": "Śrīṁ",
+        "meaning": {
+          "hi": "'श्रीं' माँ कमला तथा महालक्ष्मी का प्रमुख बीजाक्षर है। यह समृद्धि, ऐश्वर्य, सौभाग्य, संतोष, दिव्य कृपा एवं आध्यात्मिक सम्पन्नता का प्रतीक है।",
+          "en": "'Śrīṁ' is the principal bija syllable of Goddess Kamala and Mahalakshmi. It symbolizes prosperity, abundance, auspiciousness, fulfillment, divine grace, and spiritual richness."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "श्रीं"
+      ],
+      "deities": [
+        "kamala"
+      ],
+      "deityInfo": {
+        "primary": "kamala",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "kamala"
+      ],
+      "keywords": {
+        "hi": [
+          "कमला",
+          "कमलात्मिका",
+          "महालक्ष्मी",
+          "श्रीं",
+          "कमला बीज",
+          "कमला बीज मंत्र"
+        ],
+        "en": [
+          "kamala",
+          "kamalatmika",
+          "mahalakshmi",
+          "shreem",
+          "shrim",
+          "kamala beej",
+          "kamala beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समृद्धि एवं सौभाग्य की भावना को प्रोत्साहित करता है",
+          "आध्यात्मिक एवं भौतिक जीवन में संतुलन विकसित करने में सहायक",
+          "संतोष एवं कृतज्ञता की भावना बढ़ाने में सहायक",
+          "गृहस्थ जीवन में मंगल एवं सामंजस्य को प्रोत्साहित करता है",
+          "ध्यान एवं सकारात्मक चिंतन में सहायक",
+          "माँ कमला के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Traditionally associated with prosperity and abundance",
+          "Supports balance between spiritual and material life",
+          "Encourages gratitude and contentment",
+          "Promotes harmony in household life",
+          "Supports meditation and positive awareness",
+          "Deepens devotion to Goddess Kamala"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "abundance",
+        "devotion",
+        "inner_peace",
+        "spiritual_growth",
+        "gratitude"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Diwali",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "evening",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'श्रीं' का दीर्घ एवं स्पष्ट उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'कमलायै' का उच्चारण शुद्ध एवं मधुर रखें।",
+        "en": "Pronounce 'Śrīṁ' with a long vowel sound followed by a gentle nasal resonance. Clearly articulate 'Kamalāyai'."
+      },
+      "chakra": "heart",
+      "element": "earth",
+      "color": "golden",
+      "tradition": "Shakta Tantra, Sri Vidya, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": "Lotus",
+        "weapon": "Lotus",
+        "consort": "Vishnu",
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "कमला महाविद्या की उन्नत श्रीविद्या एवं तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Sri Vidya and Tantric practices dedicated to Goddess Kamala are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "lakshmi_beej_mantra",
+        "kamala_gayatri",
+        "tripura_sundari_beej_mantra",
+        "kubera_beej_mantra",
+        "kanakadhara_stotram"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "dhumavati_beej_mantra",
+      "title": {
+        "hi": "धूमावती बीज मंत्र",
+        "en": "Dhumavati Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ धूं धूमावत्यै नमः",
+        "transliteration": "Om Dhūṁ Dhūmāvatyai Namaḥ"
+      },
+      "description": {
+        "hi": "धूमावती बीज मंत्र दशमहाविद्याओं में सप्तम महाविद्या माँ धूमावती का पवित्र मंत्र है। माँ धूमावती वैराग्य, अनित्यता के बोध, आत्मचिंतन तथा आध्यात्मिक परिपक्वता की अधिष्ठात्री देवी मानी जाती हैं। यह मंत्र आंतरिक शक्ति, विवेक तथा संसार की अस्थिरता को समझने के लिए जपा जाता है।",
+        "en": "The Dhumavati Beej Mantra is dedicated to Goddess Dhumavati, the seventh of the Ten Mahavidyas. She represents renunciation, transcendence, spiritual maturity, and the realization of life's impermanence. This mantra is traditionally chanted to cultivate detachment, wisdom, and inner strength."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ धूमावती को प्रणाम करते हुए वैराग्य, विवेक, आंतरिक शक्ति तथा आध्यात्मिक उन्नति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Dhumavati and seeks Her blessings for detachment, wisdom, resilience, and spiritual growth."
+      },
+      "beej": {
+        "hi": "धूं",
+        "transliteration": "Dhūṁ",
+        "meaning": {
+          "hi": "'धूं' माँ धूमावती का प्रमुख बीजाक्षर माना जाता है। यह वैराग्य, आत्मचिंतन, कर्मबंधन से मुक्ति तथा आध्यात्मिक परिपक्वता का प्रतीक है।",
+          "en": "'Dhūṁ' is regarded as the principal bija syllable of Goddess Dhumavati. It symbolizes detachment, introspection, freedom from worldly attachment, and spiritual maturity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "धूं"
+      ],
+      "deities": [
+        "dhumavati"
+      ],
+      "deityInfo": {
+        "primary": "dhumavati",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "dhumavati"
+      ],
+      "keywords": {
+        "hi": [
+          "धूमावती",
+          "धूं",
+          "महाविद्या",
+          "वैराग्य",
+          "धूमावती बीज",
+          "धूमावती बीज मंत्र"
+        ],
+        "en": [
+          "dhumavati",
+          "dhoomavati",
+          "dhumavati",
+          "dhoomavati",
+          "dhoom",
+          "dhum beej",
+          "dhumavati beej",
+          "dhumavati beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "वैराग्य एवं आत्मचिंतन विकसित करने में सहायक",
+          "आंतरिक दृढ़ता एवं धैर्य को प्रोत्साहित करता है",
+          "जीवन की अनित्यता को समझने में सहायक",
+          "आध्यात्मिक साधना में गंभीरता विकसित करता है",
+          "विवेक एवं आत्मनिरीक्षण को बढ़ावा देता है",
+          "माँ धूमावती के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Encourages detachment and introspection",
+          "Supports resilience and inner strength",
+          "Promotes awareness of life's impermanence",
+          "Deepens spiritual discipline",
+          "Cultivates wisdom and self-reflection",
+          "Strengthens devotion to Goddess Dhumavati"
+        ]
+      },
+      "purpose": [
+        "spiritual_growth",
+        "detachment",
+        "wisdom",
+        "meditation",
+        "inner_peace",
+        "self_realization"
+      ],
+      "recommendedDay": [
+        "Saturday",
+        "Amavasya"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "midnight",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'धूं' में 'धू' का दीर्घ उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'धूमावत्यै' का स्पष्ट एवं शुद्ध उच्चारण करें।",
+        "en": "Pronounce 'Dhūṁ' with a long 'ū' sound followed by a gentle nasal resonance. Clearly articulate 'Dhūmāvatyai'."
+      },
+      "chakra": "crown",
+      "element": "air",
+      "color": "smoky_gray",
+      "tradition": "Shakta Tantra, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": "Crow",
+        "weapon": "Winnowing Basket",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ धूमावती की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Dhumavati are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "dhumavati_gayatri",
+        "kali_beej_mantra",
+        "chhinnamasta_beej_mantra",
+        "tara_beej_mantra",
+        "tripura_sundari_beej_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "chhinnamasta_beej_mantra",
+      "title": {
+        "hi": "छिन्नमस्ता बीज मंत्र",
+        "en": "Chhinnamasta Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं क्लीं हूं फट्",
+        "transliteration": "Om Hrīṁ Klīṁ Hūṁ Phaṭ"
+      },
+      "description": {
+        "hi": "छिन्नमस्ता बीज मंत्र दशमहाविद्याओं में षष्ठ महाविद्या माँ छिन्नमस्ता का पवित्र मंत्र है। माँ छिन्नमस्ता आत्मबलिदान, अहंकार के अतिक्रमण, जीवन-ऊर्जा के रूपांतरण तथा आध्यात्मिक जागरण की अधिष्ठात्री देवी मानी जाती हैं। यह मंत्र आत्मपरिवर्तन, निर्भयता एवं उच्च आध्यात्मिक साधना के लिए जपा जाता है।",
+        "en": "The Chhinnamasta Beej Mantra is dedicated to Goddess Chhinnamasta, the sixth of the Ten Mahavidyas. She represents self-sacrifice, transcendence of ego, transformation of life energy, and spiritual awakening. This mantra is traditionally chanted for profound inner transformation and higher spiritual realization."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ छिन्नमस्ता को प्रणाम करते हुए अहंकार से मुक्ति, आत्मज्ञान, निर्भयता तथा आध्यात्मिक जागृति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Chhinnamasta and seeks Her blessings for freedom from ego, self-realization, fearlessness, and spiritual awakening."
+      },
+      "beej": {
+        "hi": "ह्रीं, क्लीं, हूं, फट्",
+        "transliteration": "Hrīṁ, Klīṁ, Hūṁ, Phaṭ",
+        "meaning": {
+          "hi": "'ह्रीं' महाशक्ति, 'क्लीं' दिव्य प्रेम, 'हूं' संरक्षण एवं आंतरिक शक्ति तथा 'फट्' नकारात्मकता एवं अविद्या के विनाश का प्रतीक माना जाता है।",
+          "en": "'Hrīṁ' represents Divine Shakti, 'Klīṁ' symbolizes divine attraction, 'Hūṁ' signifies protection and inner power, while 'Phaṭ' represents the cutting away of negativity and ignorance."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्रीं",
+        "क्लीं",
+        "हूं",
+        "फट्"
+      ],
+      "deities": [
+        "chhinnamasta"
+      ],
+      "deityInfo": {
+        "primary": "chhinnamasta",
+        "group": "mahavidya",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "mahavidya",
+        "chhinnamasta"
+      ],
+      "keywords": {
+        "hi": [
+          "छिन्नमस्ता",
+          "महाविद्या",
+          "हूं",
+          "फट्",
+          "ह्रीं",
+          "क्लीं",
+          "छिन्नमस्ता बीज",
+          "छिन्नमस्ता बीज मंत्र"
+        ],
+        "en": [
+          "chhinnamasta",
+          "chinnamasta",
+          "mahavidya",
+          "hum",
+          "phat",
+          "hreem",
+          "kleem",
+          "chhinnamasta beej",
+          "chhinnamasta beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मपरिवर्तन एवं आध्यात्मिक जागरण में सहायक",
+          "अहंकार एवं आसक्ति को कम करने में सहायक",
+          "निर्भयता एवं आंतरिक शक्ति को प्रोत्साहित करता है",
+          "गहन ध्यान एवं साधना के लिए अनुकूल माना जाता है",
+          "आत्मनिरीक्षण एवं वैराग्य विकसित करने में सहायक",
+          "माँ छिन्नमस्ता के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports deep inner transformation",
+          "Encourages transcendence of ego and attachment",
+          "Promotes fearlessness and inner strength",
+          "Supports advanced meditation and contemplation",
+          "Cultivates detachment and self-awareness",
+          "Deepens devotion to Goddess Chhinnamasta"
+        ]
+      },
+      "purpose": [
+        "transformation",
+        "self_realization",
+        "fearlessness",
+        "meditation",
+        "spiritual_growth",
+        "detachment"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Amavasya",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "midnight",
+        "brahma_muhurta",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ह्रीं', 'क्लीं' एवं 'हूं' का दीर्घ उच्चारण करें। 'फट्' का उच्चारण स्पष्ट एवं दृढ़ होना चाहिए।",
+        "en": "Pronounce 'Hrīṁ', 'Klīṁ', and 'Hūṁ' with long vowel sounds and gentle nasal resonance. 'Phaṭ' should be pronounced sharply and clearly."
+      },
+      "chakra": "crown",
+      "element": "fire",
+      "color": "crimson_red",
+      "tradition": "Shakta Tantra, Mahavidya",
+      "associatedAttributes": {
+        "vehicle": null,
+        "weapon": "Sword",
+        "consort": "Kameshwara Shiva",
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ छिन्नमस्ता की साधना अत्यंत उन्नत तांत्रिक परंपराओं में आती है। पारंपरिक रूप से इसकी विशेष साधनाएँ केवल योग्य गुरु के मार्गदर्शन एवं दीक्षा के पश्चात ही की जाती हैं।",
+        "en": "The worship of Goddess Chhinnamasta belongs to advanced Tantric traditions. Specialized practices are traditionally undertaken only after proper initiation and under the guidance of a qualified guru."
+      },
+      "related": [
+        "dhumavati_beej_mantra",
+        "kali_beej_mantra",
+        "tripura_sundari_beej_mantra",
+        "tara_beej_mantra",
+        "bagalamukhi_beej_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "bhairava_beej_mantra",
+      "title": {
+        "hi": "भैरव बीज मंत्र",
+        "en": "Bhairava Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रौं भैरवाय नमः",
+        "transliteration": "Om Hrauṁ Bhairavāya Namaḥ"
+      },
+      "description": {
+        "hi": "भैरव बीज मंत्र भगवान कालभैरव की दिव्य, उग्र एवं रक्षक शक्ति का आह्वान करता है। भगवान भैरव भगवान शिव के प्रचण्ड स्वरूप माने जाते हैं। इस मंत्र का जप निर्भयता, आध्यात्मिक संरक्षण, समय के सदुपयोग, अनुशासन तथा साधना में स्थिरता के लिए किया जाता है।",
+        "en": "The Bhairava Beej Mantra invokes the fierce and protective power of Lord Bhairava, a formidable manifestation of Lord Shiva. It is traditionally chanted for fearlessness, divine protection, discipline, mastery over time, and spiritual steadfastness."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान भैरव को प्रणाम करते हुए उनके संरक्षण, निर्भयता, अनुशासन तथा आध्यात्मिक शक्ति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Bhairava and seeks His blessings for protection, courage, discipline, and spiritual strength."
+      },
+      "beej": {
+        "hi": "ह्रौं",
+        "transliteration": "Hrauṁ",
+        "meaning": {
+          "hi": "'ह्रौं' भगवान भैरव का प्रमुख बीजाक्षर माना जाता है। यह निर्भयता, संरक्षण, काल पर विजय, आध्यात्मिक शक्ति तथा नकारात्मकता के नाश का प्रतीक है।",
+          "en": "'Hrauṁ' is regarded as the principal bija syllable of Lord Bhairava. It symbolizes fearlessness, protection, mastery over time, spiritual power, and the destruction of negativity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ह्रौं"
+      ],
+      "deities": [
+        "bhairava"
+      ],
+      "deityInfo": {
+        "primary": "bhairava",
+        "group": "shaiva",
+        "parent": "shiva"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "bhairava"
+      ],
+      "keywords": {
+        "hi": [
+          "भैरव",
+          "कालभैरव",
+          "बटुक भैरव",
+          "ह्रौं",
+          "भैरव बीज",
+          "भैरव बीज मंत्र"
+        ],
+        "en": [
+          "bhairava",
+          "kalabhairava",
+          "batuk bhairava",
+          "hraum",
+          "bhairava beej",
+          "bhairava beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "निर्भयता एवं आत्मबल विकसित करने में सहायक",
+          "आध्यात्मिक संरक्षण की भावना को प्रोत्साहित करता है",
+          "अनुशासन एवं समय के सदुपयोग की प्रेरणा देता है",
+          "ध्यान एवं साधना में स्थिरता विकसित करता है",
+          "नकारात्मक विचारों से ऊपर उठने में सहायक",
+          "भगवान भैरव के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports courage and fearlessness",
+          "Traditionally associated with divine protection",
+          "Encourages discipline and mindful use of time",
+          "Supports meditation and spiritual stability",
+          "Helps cultivate resilience against negativity",
+          "Deepens devotion to Lord Bhairava"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "discipline",
+        "meditation",
+        "spiritual_growth",
+        "self_control"
+      ],
+      "recommendedDay": [
+        "Sunday",
+        "Tuesday",
+        "Saturday",
+        "Kalashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "midnight",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ह्रौं' में 'ह्र' का संयुक्त उच्चारण स्पष्ट करें तथा 'औ' को दीर्घ बोलकर अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें।",
+        "en": "Pronounce 'Hrauṁ' with a clear 'hr' conjunct, a long 'au' sound, and a gentle nasal resonance at the end."
+      },
+      "chakra": "root",
+      "element": "fire",
+      "color": "black",
+      "tradition": "Shaiva Tantra, Kashmiri Shaivism",
+      "associatedAttributes": {
+        "vehicle": "Dog",
+        "weapon": "Trident",
+        "consort": "Bhairavi",
+        "abode": "Kashi (Varanasi)"
+      },
+      "caution": {
+        "hi": "भगवान भैरव की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Lord Bhairava are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "kalabhairava_ashtakam",
+        "shiva_beej_mantra",
+        "kali_beej_mantra",
+        "bagalamukhi_beej_mantra",
+        "pratyangira_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "varahi_beej_mantra",
+      "title": {
+        "hi": "वाराही बीज मंत्र",
+        "en": "Varahi Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ग्लौं वाराह्यै नमः",
+        "transliteration": "Om Glauṁ Vārāhyai Namaḥ"
+      },
+      "description": {
+        "hi": "वाराही बीज मंत्र माँ वाराही की दिव्य शक्ति, संरक्षण, साहस तथा आध्यात्मिक विजय का आह्वान करता है। माँ वाराही सप्तमातृकाओं में प्रमुख तथा श्रीविद्या परंपरा में दण्डनायिका स्वरूप मानी जाती हैं। इस मंत्र का जप आत्मबल, संरक्षण, दृढ़ निश्चय तथा आध्यात्मिक उन्नति के लिए किया जाता है।",
+        "en": "The Varahi Beej Mantra invokes the divine power, protection, courage, and victorious energy of Goddess Varahi. Revered as one of the Sapta Matrikas and the commander of the Divine Mother's forces in the Sri Vidya tradition, this mantra is traditionally chanted for protection, determination, and spiritual progress."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ वाराही को प्रणाम करते हुए उनके संरक्षण, साहस, विजय तथा दिव्य शक्ति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Varahi and seeks Her blessings for protection, courage, victory, and divine strength."
+      },
+      "beej": {
+        "hi": "ग्लौं",
+        "transliteration": "Glauṁ",
+        "meaning": {
+          "hi": "'ग्लौं' माँ वाराही का प्रमुख बीजाक्षर माना जाता है। यह संरक्षण, विजय, दृढ़ता, आध्यात्मिक शक्ति तथा नकारात्मक शक्तियों से रक्षा का प्रतीक है।",
+          "en": "'Glauṁ' is regarded as the principal bija syllable of Goddess Varahi. It symbolizes protection, victory, determination, spiritual power, and defense against negativity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "ग्लौं"
+      ],
+      "deities": [
+        "varahi"
+      ],
+      "deityInfo": {
+        "primary": "varahi",
+        "group": "shakti",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "varahi"
+      ],
+      "keywords": {
+        "hi": [
+          "वाराही",
+          "दण्डनायिका",
+          "सप्तमातृका",
+          "ग्लौं",
+          "वाराही बीज",
+          "वाराही बीज मंत्र"
+        ],
+        "en": [
+          "varahi",
+          "dandanayika",
+          "sapta matrika",
+          "glaum",
+          "varahi beej",
+          "varahi beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आत्मविश्वास एवं साहस विकसित करने में सहायक",
+          "दिव्य संरक्षण की भावना को प्रोत्साहित करता है",
+          "दृढ़ निश्चय एवं मानसिक स्थिरता विकसित करने में सहायक",
+          "ध्यान एवं साधना में एकाग्रता बढ़ाता है",
+          "आध्यात्मिक शक्ति एवं आत्मबल को प्रोत्साहित करता है",
+          "माँ वाराही के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports courage and confidence",
+          "Traditionally associated with divine protection",
+          "Encourages determination and mental stability",
+          "Supports meditation and concentration",
+          "Strengthens spiritual resilience",
+          "Deepens devotion to Goddess Varahi"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "courage",
+        "victory",
+        "spiritual_growth",
+        "meditation",
+        "inner_strength"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Tuesday",
+        "Navaratri"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "night",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'ग्लौं' में 'ग्ल' का संयुक्त उच्चारण स्पष्ट करें तथा 'औ' को दीर्घ बोलकर अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें।",
+        "en": "Pronounce 'Glauṁ' with a clear 'gl' conjunct, a long 'au' sound, and a gentle nasal resonance at the end."
+      },
+      "chakra": "solar_plexus",
+      "element": "earth",
+      "color": "dark_red",
+      "tradition": "Sri Vidya, Shakta Tantra",
+      "associatedAttributes": {
+        "vehicle": "Buffalo",
+        "weapon": "Plough and Sword",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ वाराही की उन्नत तांत्रिक एवं श्रीविद्या साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन में की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Sri Vidya and Tantric practices dedicated to Goddess Varahi are traditionally undertaken under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "varahi_gayatri",
+        "tripura_sundari_beej_mantra",
+        "pratyangira_beej_mantra",
+        "bagalamukhi_beej_mantra",
+        "durga_beej_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "pratyangira_beej_mantra",
+      "title": {
+        "hi": "प्रत्यङ्गिरा बीज मंत्र",
+        "en": "Pratyangira Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्षं प्रत्यङ्गिरायै नमः",
+        "transliteration": "Om Kṣaṁ Pratyaṅgirāyai Namaḥ"
+      },
+      "description": {
+        "hi": "प्रत्यङ्गिरा बीज मंत्र माँ प्रत्यङ्गिरा की उग्र एवं दिव्य रक्षक शक्ति का आह्वान करता है। माँ प्रत्यङ्गिरा को नकारात्मक शक्तियों से रक्षा, आध्यात्मिक संरक्षण तथा निर्भयता की अधिष्ठात्री देवी माना जाता है। यह मंत्र साहस, आत्मबल, आध्यात्मिक सुरक्षा एवं साधना में स्थिरता के लिए जपा जाता है।",
+        "en": "The Pratyangira Beej Mantra invokes the fierce protective power of Goddess Pratyangira. She is revered as the Divine Mother who grants protection from negativity, spiritual strength, and fearlessness. This mantra is traditionally chanted for courage, resilience, and divine protection."
+      },
+      "meaning": {
+        "hi": "यह मंत्र माँ प्रत्यङ्गिरा को प्रणाम करते हुए उनके संरक्षण, साहस, आध्यात्मिक शक्ति तथा नकारात्मक प्रभावों से रक्षा की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Goddess Pratyangira and seeks Her blessings for protection, courage, spiritual strength, and freedom from negative influences."
+      },
+      "beej": {
+        "hi": "क्षं",
+        "transliteration": "Kṣaṁ",
+        "meaning": {
+          "hi": "'क्षं' माँ प्रत्यङ्गिरा का प्रमुख बीजाक्षर माना जाता है। यह दिव्य संरक्षण, शक्ति, संतुलन तथा नकारात्मक शक्तियों के शमन का प्रतीक है।",
+          "en": "'Kṣaṁ' is regarded as the principal bija syllable of Goddess Pratyangira. It symbolizes divine protection, strength, balance, and the pacification of negative forces."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "क्षं"
+      ],
+      "deities": [
+        "pratyangira"
+      ],
+      "deityInfo": {
+        "primary": "pratyangira",
+        "group": "shakti",
+        "parent": "adi_shakti"
+      },
+      "categories": [
+        "beej",
+        "tantra",
+        "pratyangira"
+      ],
+      "keywords": {
+        "hi": [
+          "प्रत्यङ्गिरा",
+          "प्रत्यंगिरा",
+          "क्षं",
+          "रक्षा",
+          "प्रत्यङ्गिरा बीज",
+          "प्रत्यङ्गिरा बीज मंत्र"
+        ],
+        "en": [
+          "pratyangira",
+          "prathyangira",
+          "ksham",
+          "protection",
+          "pratyangira beej",
+          "pratyangira beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "दिव्य संरक्षण की भावना विकसित करने में सहायक",
+          "निर्भयता एवं आत्मविश्वास को प्रोत्साहित करता है",
+          "आध्यात्मिक साधना में स्थिरता प्रदान करता है",
+          "मानसिक दृढ़ता एवं धैर्य विकसित करने में सहायक",
+          "नकारात्मक विचारों से ऊपर उठने में सहायक",
+          "माँ प्रत्यङ्गिरा के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Traditionally associated with divine protection",
+          "Encourages courage and confidence",
+          "Supports stability in spiritual practice",
+          "Promotes mental resilience and patience",
+          "Helps overcome negative thought patterns",
+          "Deepens devotion to Goddess Pratyangira"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "fearlessness",
+        "spiritual_growth",
+        "meditation",
+        "inner_strength",
+        "self_control"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Saturday",
+        "Amavasya"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "midnight",
+        "brahma_muhurta",
+        "guru_guided_sadhana"
+      ],
+      "difficulty": {
+        "level": "advanced",
+        "requiresInitiation": true
+      },
+      "pronunciation": {
+        "hi": "'क्षं' में 'क्ष' का स्पष्ट संयुक्त उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'प्रत्यङ्गिरायै' का उच्चारण शुद्ध एवं स्पष्ट करें।",
+        "en": "Pronounce 'Kṣaṁ' with a clear conjunct 'kṣ' followed by a gentle nasal resonance. Clearly articulate 'Pratyaṅgirāyai'."
+      },
+      "chakra": "root",
+      "element": "fire",
+      "color": "deep_blue",
+      "tradition": "Shakta Tantra, Atharva Tantra",
+      "associatedAttributes": {
+        "vehicle": "Lion",
+        "weapon": "Trident",
+        "consort": null,
+        "abode": "Manidvipa"
+      },
+      "caution": {
+        "hi": "माँ प्रत्यङ्गिरा की उन्नत तांत्रिक साधनाएँ पारंपरिक रूप से योग्य गुरु के मार्गदर्शन एवं दीक्षा के पश्चात ही की जाती हैं। सामान्य भक्त श्रद्धा एवं भक्ति के साथ इस मंत्र का जप कर सकते हैं।",
+        "en": "Advanced Tantric practices dedicated to Goddess Pratyangira are traditionally undertaken only after proper initiation and under the guidance of a qualified guru. Devotional chanting of this mantra may be practiced with reverence."
+      },
+      "related": [
+        "pratyangira_gayatri",
+        "varahi_beej_mantra",
+        "bagalamukhi_beej_mantra",
+        "bhairava_beej_mantra",
+        "kali_beej_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "dattatreya_beej_mantra",
+      "title": {
+        "hi": "दत्तात्रेय बीज मंत्र",
+        "en": "Dattatreya Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां दत्तात्रेयाय नमः",
+        "transliteration": "Om Drāṁ Dattātreyāya Namaḥ"
+      },
+      "description": {
+        "hi": "दत्तात्रेय बीज मंत्र भगवान दत्तात्रेय की दिव्य गुरु-शक्ति, ज्ञान, वैराग्य एवं आत्मसाक्षात्कार का आह्वान करता है। भगवान दत्तात्रेय ब्रह्मा, विष्णु और महेश के संयुक्त स्वरूप माने जाते हैं। इस मंत्र का जप आध्यात्मिक ज्ञान, गुरु-कृपा, आत्मचिंतन तथा मोक्ष मार्ग में प्रगति के लिए किया जाता है।",
+        "en": "The Dattatreya Beej Mantra invokes the divine Guru-consciousness, wisdom, detachment, and spiritual realization of Lord Dattatreya. Regarded as the unified manifestation of Brahma, Vishnu, and Shiva, this mantra is traditionally chanted for spiritual knowledge, Guru's grace, self-realization, and liberation."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान दत्तात्रेय को प्रणाम करते हुए गुरु-कृपा, ज्ञान, वैराग्य एवं आत्मबोध की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Dattatreya and seeks His blessings for wisdom, detachment, Guru's grace, and self-realization."
+      },
+      "beej": {
+        "hi": "द्रां",
+        "transliteration": "Drāṁ",
+        "meaning": {
+          "hi": "'द्रां' भगवान दत्तात्रेय का प्रमुख बीजाक्षर माना जाता है। यह गुरु-तत्त्व, आध्यात्मिक ज्ञान, आत्मबोध तथा त्रिमूर्ति की संयुक्त दिव्य शक्ति का प्रतीक है।",
+          "en": "'Drāṁ' is regarded as the principal bija syllable of Lord Dattatreya. It symbolizes the Guru principle, spiritual wisdom, self-realization, and the unified power of the Trimurti."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "द्रां"
+      ],
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "beej",
+        "dattatreya"
+      ],
+      "keywords": {
+        "hi": [
+          "दत्तात्रेय",
+          "गुरुदेव",
+          "त्रिमूर्ति",
+          "द्रां",
+          "दत्तात्रेय बीज",
+          "दत्तात्रेय बीज मंत्र"
+        ],
+        "en": [
+          "dattatreya",
+          "guru dattatreya",
+          "trimurti",
+          "dram",
+          "dattatreya beej",
+          "dattatreya beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक ज्ञान प्राप्त करने में सहायक",
+          "गुरु-भक्ति एवं गुरु-कृपा की भावना को प्रोत्साहित करता है",
+          "आत्मचिंतन एवं वैराग्य विकसित करने में सहायक",
+          "ध्यान एवं आत्मबोध की साधना को गहरा करता है",
+          "विवेक एवं आध्यात्मिक परिपक्वता विकसित करता है",
+          "भगवान दत्तात्रेय के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports spiritual wisdom",
+          "Encourages devotion to the Guru",
+          "Cultivates detachment and self-reflection",
+          "Deepens meditation and self-realization",
+          "Promotes discernment and spiritual maturity",
+          "Deepens devotion to Lord Dattatreya"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "self_realization",
+        "spiritual_growth",
+        "meditation",
+        "guru_grace",
+        "detachment"
+      ],
+      "recommendedDay": [
+        "Thursday",
+        "Datta Jayanti",
+        "Guru Purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'द्रां' में 'द्र' का संयुक्त उच्चारण स्पष्ट करें तथा 'आ' को दीर्घ बोलकर अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'दत्तात्रेयाय' का उच्चारण शुद्ध एवं स्पष्ट करें।",
+        "en": "Pronounce 'Drāṁ' with a clear 'dr' conjunct, a long 'ā' sound, and a gentle nasal resonance at the end. Clearly articulate 'Dattātreyāya'."
+      },
+      "chakra": "crown",
+      "element": "ether",
+      "color": "white",
+      "tradition": "Datta Sampradaya, Nath Tradition, Advaita Vedanta",
+      "associatedAttributes": {
+        "vehicle": "Cow",
+        "weapon": "Trident and Kamandalu",
+        "consort": null,
+        "abode": "Ganagapur"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी श्रद्धालु साधकों के लिए उपयुक्त है। पारंपरिक रूप से इसका जप गुरु-भक्ति, विनम्रता एवं नियमित साधना के साथ करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for sincere practitioners of all levels. Traditionally, it is best chanted with devotion to the Guru, humility, and regular spiritual practice."
+      },
+      "related": [
+        "dattatreya_gayatri",
+        "guru_mantra",
+        "shiva_beej_mantra",
+        "vishnu_beej_mantra",
+        "ganesha_beej_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kartikeya_beej_mantra",
+      "title": {
+        "hi": "कार्तिकेय बीज मंत्र",
+        "en": "Kartikeya Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सौं सरवनभवाय नमः",
+        "transliteration": "Om Sauṁ Saravanabhavāya Namaḥ"
+      },
+      "description": {
+        "hi": "कार्तिकेय बीज मंत्र भगवान कार्तिकेय (स्कन्द, सुब्रह्मण्य, मुरुगन) की दिव्य शक्ति, साहस, ज्ञान तथा विजय का आह्वान करता है। भगवान कार्तिकेय देवताओं के सेनापति माने जाते हैं। इस मंत्र का जप आत्मविश्वास, नेतृत्व, बुद्धिमत्ता, आध्यात्मिक प्रगति तथा धर्म की रक्षा की भावना विकसित करने के लिए किया जाता है।",
+        "en": "The Kartikeya Beej Mantra invokes the divine power, courage, wisdom, and victorious energy of Lord Kartikeya (Skanda, Subrahmanya, Murugan). Revered as the commander of the celestial armies, this mantra is traditionally chanted for courage, leadership, wisdom, spiritual growth, and righteous action."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान कार्तिकेय को प्रणाम करते हुए साहस, विजय, ज्ञान, नेतृत्व तथा आध्यात्मिक शक्ति की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Kartikeya and seeks His blessings for courage, victory, wisdom, leadership, and spiritual strength."
+      },
+      "beej": {
+        "hi": "सौं",
+        "transliteration": "Sauṁ",
+        "meaning": {
+          "hi": "'सौं' भगवान कार्तिकेय का प्रमुख बीजाक्षर माना जाता है। यह वीरता, तेज, ज्ञान, नेतृत्व तथा दैवीय विजय का प्रतीक है।",
+          "en": "'Sauṁ' is regarded as the principal bija syllable of Lord Kartikeya. It symbolizes courage, brilliance, wisdom, leadership, and divine victory."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "सौं"
+      ],
+      "deities": [
+        "kartikeya"
+      ],
+      "deityInfo": {
+        "primary": "kartikeya",
+        "group": "shaiva",
+        "parent": "shiva"
+      },
+      "categories": [
+        "beej",
+        "kartikeya"
+      ],
+      "keywords": {
+        "hi": [
+          "कार्तिकेय",
+          "स्कन्द",
+          "सुब्रह्मण्य",
+          "मुरुगन",
+          "सौं",
+          "सरवनभव",
+          "कार्तिकेय बीज",
+          "कार्तिकेय बीज मंत्र"
+        ],
+        "en": [
+          "kartikeya",
+          "skanda",
+          "subrahmanya",
+          "murugan",
+          "saum",
+          "saravanabhava",
+          "kartikeya beej",
+          "kartikeya beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस एवं आत्मविश्वास विकसित करने में सहायक",
+          "नेतृत्व क्षमता एवं निर्णय शक्ति को प्रोत्साहित करता है",
+          "ज्ञान एवं विवेक विकसित करने में सहायक",
+          "ध्यान एवं एकाग्रता बढ़ाने में सहायता करता है",
+          "धर्म एवं कर्तव्य के प्रति समर्पण विकसित करता है",
+          "भगवान कार्तिकेय के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Supports courage and confidence",
+          "Encourages leadership and sound judgment",
+          "Cultivates wisdom and discernment",
+          "Supports meditation and concentration",
+          "Inspires dedication to righteous duty",
+          "Deepens devotion to Lord Kartikeya"
+        ]
+      },
+      "purpose": [
+        "courage",
+        "leadership",
+        "wisdom",
+        "victory",
+        "spiritual_growth",
+        "devotion"
+      ],
+      "recommendedDay": [
+        "Tuesday",
+        "Skanda Shashti",
+        "Krittika Nakshatra"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "brahma_muhurta",
+        "sunrise",
+        "anytime"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सौं' में 'सौ' का दीर्घ उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'सरवनभवाय' का उच्चारण स्पष्ट एवं शुद्ध करें।",
+        "en": "Pronounce 'Sauṁ' with a long 'au' sound followed by a gentle nasal resonance. Clearly articulate 'Saravanabhavāya'."
+      },
+      "chakra": "solar_plexus",
+      "element": "fire",
+      "color": "orange",
+      "tradition": "Shaiva, Kaumara, Tamil Bhakti",
+      "associatedAttributes": {
+        "vehicle": "Peacock",
+        "weapon": "Vel (Divine Spear)",
+        "consort": "Valli and Devasena",
+        "abode": "Palani"
+      },
+      "caution": {
+        "hi": "यह मंत्र सभी श्रद्धालु साधकों के लिए उपयुक्त है। पारंपरिक रूप से श्रद्धा, अनुशासन एवं नियमित साधना के साथ इसका जप करना श्रेष्ठ माना जाता है।",
+        "en": "Suitable for sincere practitioners of all levels. Traditionally, it is best chanted with devotion, discipline, and regular practice."
+      },
+      "related": [
+        "skanda_gayatri",
+        "shiva_beej_mantra",
+        "ganesha_beej_mantra",
+        "hanuman_beej_mantra",
+        "subrahmanya_bhujangam"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kubera_beej_mantra",
+      "title": {
+        "hi": "कुबेर बीज मंत्र",
+        "en": "Kubera Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं कुबेराय नमः",
+        "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Kuberāya Namaḥ"
+      },
+      "description": {
+        "hi": "कुबेर बीज मंत्र धन के अधिपति एवं देवताओं के कोषाध्यक्ष भगवान कुबेर की दिव्य कृपा का आह्वान करता है। यह मंत्र धर्मसम्मत समृद्धि, आर्थिक स्थिरता, ऐश्वर्य, उदारता तथा जीवन में संतुलित सम्पन्नता की भावना विकसित करने के लिए जपा जाता है।",
+        "en": "The Kubera Beej Mantra invokes the divine grace of Lord Kubera, the treasurer of the Devas and the guardian of wealth. It is traditionally chanted to seek righteous prosperity, financial stability, abundance, generosity, and balanced material well-being."
+      },
+      "meaning": {
+        "hi": "यह मंत्र भगवान कुबेर को प्रणाम करते हुए धर्मसम्मत धन, समृद्धि, ऐश्वर्य, संतोष तथा जीवन में शुभता की कृपा की प्रार्थना करता है।",
+        "en": "This mantra offers salutations to Lord Kubera and seeks His blessings for righteous wealth, prosperity, abundance, contentment, and auspiciousness."
+      },
+      "beej": {
+        "hi": "श्रीं, ह्रीं, क्लीं",
+        "transliteration": "Śrīṁ, Hrīṁ, Klīṁ",
+        "meaning": {
+          "hi": "'श्रीं' समृद्धि एवं लक्ष्मी का, 'ह्रीं' दिव्य शक्ति एवं शुद्ध चेतना का तथा 'क्लीं' आकर्षण एवं पूर्णता का प्रतीक है। इन तीनों बीजाक्षरों का संयुक्त प्रयोग धर्मसम्मत समृद्धि एवं संतुलित ऐश्वर्य का प्रतीक माना जाता है।",
+          "en": "'Śrīṁ' represents prosperity and Lakshmi, 'Hrīṁ' symbolizes Divine Shakti and pure consciousness, while 'Klīṁ' represents attraction and fulfillment. Together they signify righteous abundance and balanced prosperity."
+        }
+      },
+      "beejSyllables": [
+        "ॐ",
+        "श्रीं",
+        "ह्रीं",
+        "क्लीं"
+      ],
+      "deities": [
+        "kubera"
+      ],
+      "deityInfo": {
+        "primary": "kubera",
+        "group": "deva",
+        "parent": null
+      },
+      "categories": [
+        "beej",
+        "kubera"
+      ],
+      "keywords": {
+        "hi": [
+          "कुबेर",
+          "धनाध्यक्ष",
+          "धन",
+          "ऐश्वर्य",
+          "श्रीं",
+          "ह्रीं",
+          "क्लीं",
+          "कुबेर बीज",
+          "कुबेर बीज मंत्र"
+        ],
+        "en": [
+          "kubera",
+          "kuber",
+          "lord kubera",
+          "wealth",
+          "prosperity",
+          "shreem",
+          "hreem",
+          "kleem",
+          "kubera beej",
+          "kubera beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धर्मसम्मत समृद्धि की भावना को प्रोत्साहित करता है",
+          "आर्थिक अनुशासन एवं संतुलित दृष्टिकोण विकसित करने में सहायक",
+          "कृतज्ञता एवं दान की भावना को बढ़ावा देता है",
+          "सकारात्मक सोच एवं आत्मविश्वास विकसित करता है",
+          "समृद्धि के साथ संतोष की भावना विकसित करने में सहायक",
+          "भगवान कुबेर के प्रति भक्ति को गहरा करता है"
+        ],
+        "en": [
+          "Traditionally associated with righteous prosperity",
+          "Encourages financial discipline and balance",
+          "Promotes gratitude and generosity",
+          "Supports positive thinking and confidence",
+          "Cultivates contentment along with abundance",
+          "Deepens devotion to Lord Kubera"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "abundance",
+        "wealth",
+        "gratitude",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedDay": [
+        "Friday",
+        "Thursday",
+        "Dhanteras",
+        "Akshaya Tritiya"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        54,
+        108
+      ],
+      "bestTime": [
+        "sunrise",
+        "evening",
+        "pradosha"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'श्रीं', 'ह्रीं' एवं 'क्लीं' का दीर्घ एवं स्पष्ट उच्चारण करें तथा अंत में अनुनासिक 'ं' की हल्की ध्वनि रखें। 'कुबेराय' का उच्चारण शुद्ध एवं स्पष्ट करें।",
+        "en": "Pronounce 'Śrīṁ', 'Hrīṁ', and 'Klīṁ' with long vowel sounds followed by a gentle nasal resonance. Clearly articulate 'Kuberāya'."
+      },
+      "chakra": "root",
+      "element": "earth",
+      "color": "gold",
+      "tradition": "Puranic, Smarta, Vaishnava",
+      "associatedAttributes": {
+        "vehicle": "Horse",
+        "weapon": "Mace",
+        "consort": "Bhadra",
+        "abode": "Alakapuri"
+      },
+      "caution": {
+        "hi": "इस मंत्र का जप धर्म, ईमानदारी एवं सदाचार के साथ किया जाना चाहिए। पारंपरिक मान्यता के अनुसार भगवान कुबेर की कृपा सदाचार, दान एवं धर्मसम्मत जीवन के साथ स्थायी मानी जाती है।",
+        "en": "This mantra should be chanted with righteousness, honesty, and ethical conduct. Traditionally, Lord Kubera's blessings are believed to flourish alongside generosity and virtuous living."
+      },
+      "related": [
+        "lakshmi_beej_mantra",
+        "kamala_beej_mantra",
+        "kanakadhara_stotram",
+        "mahalakshmi_mantra",
+        "kubera_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

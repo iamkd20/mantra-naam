@@ -1,0 +1,1199 @@
+{
+  "version": 1,
+  "category": "rama",
+  "title": {
+    "hi": "राम",
+    "en": "Rama"
+  },
+  "mantras": [
+    {
+      "id": "shri_ram_jaya_ram",
+      "title": {
+        "hi": "श्री राम जय राम जय जय राम",
+        "en": "Shri Ram Jaya Ram Jaya Jaya Ram"
+      },
+      "mantra": {
+        "hi": "श्री राम जय राम जय जय राम॥",
+        "transliteration": "Śrī Rāma Jaya Rāma Jaya Jaya Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम का अत्यंत प्रसिद्ध तारक महामंत्र। यह भक्ति, शांति, आत्मबल एवं मोक्ष की भावना के लिए जपा जाता है।",
+        "en": "A renowned Taraka Mahamantra of Lord Rama, chanted for devotion, peace, inner strength, and liberation."
+      },
+      "meaning": {
+        "hi": "हे श्रीराम! आपकी विजय हो। मैं बार-बार आपका स्मरण एवं वंदन करता हूँ।",
+        "en": "Victory to Lord Rama. I repeatedly remember and bow to Him."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "श्री राम जय राम",
+          "जय जय राम",
+          "राम मंत्र"
+        ],
+        "en": [
+          "shri ram jaya ram",
+          "jaya jaya ram",
+          "rama mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "मानसिक शांति",
+          "आत्मिक बल",
+          "एकाग्रता",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Inner strength",
+          "Concentration",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक नामजप एवं ध्यान में।",
+        "en": "For daily chanting and meditation."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'जय जय राम' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Jaya Jaya Rama' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Samartha Ramdas Tradition",
+      "related": [
+        "rama_taraka_mantra",
+        "om_shri_ramaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_nama_japa",
+      "title": {
+        "hi": "राम नाम जप",
+        "en": "Rama Nama Japa"
+      },
+      "mantra": {
+        "hi": "राम॥",
+        "transliteration": "Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के नाम का सरल एवं सर्वोच्च जप। रामनाम को स्वयं तारक मंत्र कहा गया है।",
+        "en": "The simple repetition of Lord Rama's holy name, regarded as a liberating mantra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम का स्मरण करता हूँ।",
+        "en": "I remember Lord Rama."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "राम नाम",
+          "राम जप",
+          "राम"
+        ],
+        "en": [
+          "rama nama",
+          "rama japa",
+          "rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मन की शुद्धि",
+          "भक्ति",
+          "शांति",
+          "एकाग्रता",
+          "मोक्ष भावना",
+          "राम कृपा"
+        ],
+        "en": [
+          "Purity",
+          "Devotion",
+          "Peace",
+          "Concentration",
+          "Liberation",
+          "Grace of Rama"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "liberation",
+        "peace"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        108,
+        1008
+      ],
+      "usage": {
+        "hi": "निरंतर नामस्मरण में।",
+        "en": "For continuous remembrance."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'राम' का मधुर एवं स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāma' gently and clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Bhakti Tradition",
+      "related": [
+        "shri_ram_jaya_ram"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_rama",
+      "title": {
+        "hi": "राम राम",
+        "en": "Rama Rama"
+      },
+      "mantra": {
+        "hi": "राम राम॥",
+        "transliteration": "Rāma Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के नाम का द्वि-पुनरुक्ति जप, जो स्मरण, अभिवादन एवं भक्ति के रूप में प्रचलित है।",
+        "en": "A traditional repetition of Lord Rama's name used for remembrance, greeting, and devotion."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम का बार-बार स्मरण करता हूँ।",
+        "en": "I repeatedly remember Lord Rama."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "राम राम",
+          "राम"
+        ],
+        "en": [
+          "rama rama",
+          "rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शांति",
+          "भक्ति",
+          "मानसिक स्थिरता",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "राम कृपा"
+        ],
+        "en": [
+          "Peace",
+          "Devotion",
+          "Mental stability",
+          "Positivity",
+          "Spiritual growth",
+          "Grace of Rama"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक नामस्मरण में।",
+        "en": "For daily remembrance."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'राम' का समान लय में उच्चारण करें।",
+        "en": "Pronounce both repetitions evenly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "rama_nama_japa"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama",
+      "title": {
+        "hi": "राम",
+        "en": "Rama"
+      },
+      "mantra": {
+        "hi": "राम॥",
+        "transliteration": "Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम का एकाक्षरी नामस्मरण, जिसे अनेक संतों ने तारक एवं मोक्षदायक माना है।",
+        "en": "The single sacred name of Lord Rama, revered by saints as a liberating mantra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम का स्मरण करता हूँ।",
+        "en": "I remember Lord Rama."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "राम",
+          "राम नाम"
+        ],
+        "en": [
+          "rama",
+          "rama nama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "एकाग्रता",
+          "आत्मिक बल",
+          "आध्यात्मिक उन्नति",
+          "मोक्ष भावना"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Concentration",
+          "Inner strength",
+          "Spiritual growth",
+          "Liberation"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "liberation"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        108,
+        1008
+      ],
+      "usage": {
+        "hi": "सतत नामस्मरण में।",
+        "en": "For continuous remembrance."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रा' का दीर्घ उच्चारण करें।",
+        "en": "Pronounce the long 'Rā' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Bhakti Tradition",
+      "related": [
+        "rama_nama_japa"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "siya_ram_mantra",
+      "title": {
+        "hi": "सिया राम मंत्र",
+        "en": "Siya Ram Mantra"
+      },
+      "mantra": {
+        "hi": "सीता राम। सीता राम॥",
+        "transliteration": "Sītā Rāma, Sītā Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम एवं माता सीता के दिव्य युगल स्वरूप का अत्यंत लोकप्रिय नामजप।",
+        "en": "A beloved chant invoking the divine couple, Sita and Rama."
+      },
+      "meaning": {
+        "hi": "मैं माता सीता एवं भगवान श्रीराम को प्रणाम करता हूँ।",
+        "en": "I bow to Mother Sita and Lord Rama."
+      },
+      "deities": [
+        "rama",
+        "sita"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "divine_couple",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "sita",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "सीता राम",
+          "सिया राम",
+          "राम"
+        ],
+        "en": [
+          "sita rama",
+          "siya ram",
+          "rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "पारिवारिक सुख",
+          "शांति",
+          "प्रेम",
+          "सौहार्द",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Family harmony",
+          "Peace",
+          "Love",
+          "Harmony",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "family_wellbeing",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक नामजप एवं भजन में।",
+        "en": "For daily chanting and devotional singing."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सीता' एवं 'राम' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Sītā' and 'Rāma' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "shri_ram_jaya_ram"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_taraka_mantra",
+      "title": {
+        "hi": "श्री राम तारक मंत्र",
+        "en": "Shri Rama Taraka Mantra"
+      },
+      "mantra": {
+        "hi": "श्री राम जय राम जय जय राम॥",
+        "transliteration": "Śrī Rāma Jaya Rāma Jaya Jaya Rāma"
+      },
+      "description": {
+        "hi": "यह प्रसिद्ध तारक मंत्र भगवान श्रीराम का महा-मंत्र माना जाता है। शास्त्रों में इसे जन्म-मरण के बन्धन से पार लगाने वाला एवं मोक्षदायक मंत्र कहा गया है।",
+        "en": "The celebrated Taraka Mantra of Lord Rama, revered as a liberating mantra that helps transcend the cycle of birth and death."
+      },
+      "meaning": {
+        "hi": "हे श्रीराम! आपकी जय हो। आप ही मेरे उद्धारकर्ता हैं।",
+        "en": "Victory to Lord Rama, the Divine Liberator."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "taraka"
+      ],
+      "keywords": {
+        "hi": [
+          "राम तारक मंत्र",
+          "श्री राम",
+          "मोक्ष मंत्र"
+        ],
+        "en": [
+          "rama taraka mantra",
+          "shri rama",
+          "liberation mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मोक्ष भावना",
+          "भक्ति",
+          "शांति",
+          "आत्मिक बल",
+          "नामस्मरण",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Liberation",
+          "Devotion",
+          "Peace",
+          "Inner strength",
+          "Divine remembrance",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "liberation",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं आध्यात्मिक साधना में।",
+        "en": "For daily chanting and spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'जय जय राम' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Jaya Jaya Rama' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "shri_ram_jaya_ram",
+        "rama_nama_japa"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_stuti",
+      "title": {
+        "hi": "राम स्तुति",
+        "en": "Rama Stuti"
+      },
+      "mantra": {
+        "hi": "रामाय रामभद्राय रामचन्द्राय वेधसे। रघुनाथाय नाथाय सीतायाः पतये नमः॥",
+        "transliteration": "Rāmāya Rāmabhadrāya Rāmacandrāya Vedhase Raghunāthāya Nāthāya Sītāyāḥ Pataye Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम की अत्यंत प्रसिद्ध स्तुति, जिसमें उनके विभिन्न दिव्य स्वरूपों का वंदन किया जाता है।",
+        "en": "A celebrated hymn saluting Lord Rama through His various divine names."
+      },
+      "meaning": {
+        "hi": "भगवान राम, रामभद्र, रामचन्द्र, रघुनाथ एवं माता सीता के स्वामी को मेरा प्रणाम।",
+        "en": "Salutations to Lord Rama, Ramabhadra, Ramachandra, Raghunatha, and the consort of Sita."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "stuti"
+      ],
+      "keywords": {
+        "hi": [
+          "राम स्तुति",
+          "रामभद्र",
+          "रघुनाथ"
+        ],
+        "en": [
+          "rama stuti",
+          "ramabhadra",
+          "raghunatha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "राम कृपा",
+          "मानसिक शांति",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Devotion",
+          "Grace of Rama",
+          "Peace",
+          "Concentration",
+          "Spiritual growth",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "राम पूजा एवं प्रार्थना में।",
+        "en": "For Rama worship and prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रामभद्राय' एवं 'रघुनाथाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāmabhadrāya' and 'Raghunāthāya' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "om_shri_ramaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_shri_ramaya_namah",
+      "title": {
+        "hi": "ॐ श्री रामाय नमः",
+        "en": "Om Shri Ramaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री रामाय नमः॥",
+        "transliteration": "Om Śrī Rāmāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम को समर्पित संक्षिप्त एवं अत्यंत पवित्र मंत्र।",
+        "en": "A short and sacred mantra dedicated to Lord Rama."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Rama."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "रामाय नमः",
+          "श्री राम"
+        ],
+        "en": [
+          "ramaya namah",
+          "shri rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "एकाग्रता",
+          "राम कृपा",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Concentration",
+          "Grace of Rama",
+          "Spiritual growth",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक राम जप में।",
+        "en": "For daily Rama chanting."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रामाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāmāya' clearly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "shri_ram_jaya_ram"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_ramachandraya_namah",
+      "title": {
+        "hi": "ॐ रामचन्द्राय नमः",
+        "en": "Om Ramachandraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ रामचन्द्राय नमः॥",
+        "transliteration": "Om Rāmacandrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के रामचन्द्र स्वरूप का पवित्र नाममंत्र।",
+        "en": "A sacred mantra dedicated to Lord Rama in His Ramachandra form."
+      },
+      "meaning": {
+        "hi": "मैं भगवान रामचन्द्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ramachandra."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "रामचन्द्र",
+          "रामचन्द्राय नमः"
+        ],
+        "en": [
+          "ramachandra",
+          "ramachandraya namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "आत्मिक बल",
+          "राम कृपा",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Inner strength",
+          "Grace of Rama",
+          "Concentration",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक राम उपासना में।",
+        "en": "For daily worship of Lord Rama."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रामचन्द्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāmacandrāya' correctly."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "om_shri_ramaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_namo_bhagavate_ramachandraya",
+      "title": {
+        "hi": "ॐ नमो भगवते रामचन्द्राय",
+        "en": "Om Namo Bhagavate Ramachandraya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते रामचन्द्राय॥",
+        "transliteration": "Om Namo Bhagavate Rāmacandrāya"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के प्रति पूर्ण समर्पण एवं भक्ति व्यक्त करने वाला वैष्णव मंत्र।",
+        "en": "A Vaishnava mantra expressing complete devotion and surrender to Lord Ramachandra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीरामचन्द्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ramachandra."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "रामचन्द्राय",
+          "भगवते",
+          "राम"
+        ],
+        "en": [
+          "ramachandra",
+          "bhagavate",
+          "rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "समर्पण",
+          "शांति",
+          "राम कृपा",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Devotion",
+          "Surrender",
+          "Peace",
+          "Grace of Rama",
+          "Spiritual growth",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "surrender",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं राम उपासना में।",
+        "en": "For daily chanting and worship of Lord Rama."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रामचन्द्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāmacandrāya' correctly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_ramachandraya_namah",
+        "rama_stuti"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "apadamapahartaram_rama_mantra",
+      "title": {
+        "hi": "आपदामपहर्तारं राम मंत्र",
+        "en": "Apadamapahartaram Rama Mantra"
+      },
+      "mantra": {
+        "hi": "आपदामपहर्तारं दातारं सर्वसम्पदाम्। लोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम्॥",
+        "transliteration": "Āpadāmapahartāraṁ Dātāraṁ Sarvasampadām Lokābhirāmaṁ Śrīrāmaṁ Bhūyo Bhūyo Namāmyaham"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम की प्रसिद्ध स्तुति, जो संकटों से रक्षा, समृद्धि एवं दिव्य कृपा की प्राप्ति के लिए जपी जाती है।",
+        "en": "A celebrated prayer to Lord Rama seeking protection from difficulties, prosperity, and divine grace."
+      },
+      "meaning": {
+        "hi": "मैं बार-बार भगवान श्रीराम को प्रणाम करता हूँ, जो सभी आपदाओं का नाश करने वाले एवं समस्त सम्पत्तियों के दाता हैं।",
+        "en": "I repeatedly bow to Lord Rama, the remover of all calamities and the bestower of every blessing."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "protection"
+      ],
+      "keywords": {
+        "hi": [
+          "आपदामपहर्तारम्",
+          "श्रीराम",
+          "संकट नाश"
+        ],
+        "en": [
+          "apadamapahartaram",
+          "shri rama",
+          "protection mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "संकट से रक्षा",
+          "मानसिक शांति",
+          "भक्ति",
+          "साहस",
+          "समृद्धि",
+          "राम कृपा"
+        ],
+        "en": [
+          "Protection",
+          "Peace",
+          "Devotion",
+          "Courage",
+          "Prosperity",
+          "Grace of Rama"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "during_difficult_times",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "संकट के समय एवं दैनिक प्रार्थना में।",
+        "en": "During difficult times and daily prayer."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'आपदामपहर्तारम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Āpadāmapahartāram' carefully."
+      },
+      "tradition": "Ramanandi",
+      "source": "Traditional",
+      "related": [
+        "rama_stuti",
+        "om_shri_ramaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rama_gayatri",
+      "title": {
+        "hi": "राम गायत्री",
+        "en": "Rama Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ दशरथाय विद्महे सीतावल्लभाय धीमहि। तन्नो रामः प्रचोदयात्॥",
+        "transliteration": "Om Daśarathāya Vidmahe Sītāvallabhāya Dhīmahi Tanno Rāmaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम की कृपा, धर्म, सदाचार एवं आध्यात्मिक उन्नति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Lord Rama for righteousness, devotion, and spiritual growth."
+      },
+      "meaning": {
+        "hi": "हम दशरथनन्दन, सीतापति भगवान श्रीराम का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Rama, son of Dasharatha and beloved of Sita. May He illuminate our intellect."
+      },
+      "deities": [
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "rama",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "rama",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "राम गायत्री",
+          "दशरथाय",
+          "सीतावल्लभ"
+        ],
+        "en": [
+          "rama gayatri",
+          "dasharatha",
+          "sitavallabha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धर्म पालन",
+          "भक्ति",
+          "ज्ञान",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति",
+          "राम कृपा"
+        ],
+        "en": [
+          "Righteousness",
+          "Devotion",
+          "Wisdom",
+          "Peace",
+          "Spiritual growth",
+          "Grace of Rama"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "rama_navami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक राम साधना एवं ध्यान में।",
+        "en": "For daily Rama sadhana and meditation."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सीतावल्लभाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Sītāvallabhāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "shri_ram_jaya_ram",
+        "apadamapahartaram_rama_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

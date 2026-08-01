@@ -1,0 +1,1592 @@
+{
+  "version": 1,
+  "category": "surya",
+  "title": {
+    "hi": "सूर्य",
+    "en": "surya"
+  },
+  "mantras": [
+    {
+      "id": "tulsi_prarthana",
+      "title": {
+        "hi": "तुलसी प्रार्थना",
+        "en": "Tulsi Prayer"
+      },
+      "mantra": {
+        "hi": "वृन्दायै तुलसीदेव्यै प्रियायै केशवस्य च। विष्णुभक्तिप्रदे देवि सत्यवत्यै नमो नमः॥",
+        "transliteration": "Vṛndāyai Tulasīdevyai Priyāyai Keśavasya Ca Viṣṇubhaktiprade Devi Satyavatyai Namo Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान विष्णु की प्रिय तुलसी देवी की स्तुति एवं प्रार्थना।",
+        "en": "A traditional prayer to Goddess Tulsi, beloved of Lord Vishnu."
+      },
+      "meaning": {
+        "hi": "हे तुलसी देवी! आप भगवान केशव की प्रिय हैं। मुझे विष्णु भक्ति प्रदान करें।",
+        "en": "O Goddess Tulsi, beloved of Lord Keshava, bless me with devotion to Lord Vishnu."
+      },
+      "deities": [
+        "tulsi"
+      ],
+      "deityInfo": {
+        "primary": "tulsi",
+        "group": "vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "tulsi",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "तुलसी",
+          "वृंदा",
+          "केशव"
+        ],
+        "en": [
+          "tulsi",
+          "vrinda",
+          "keshava"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विष्णु भक्ति",
+          "पवित्रता",
+          "मानसिक शांति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "गृह कल्याण"
+        ],
+        "en": [
+          "Devotion",
+          "Purity",
+          "Peace",
+          "Positivity",
+          "Spiritual growth",
+          "Household harmony"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "purity",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "tulsi_puja",
+        "kartik_month"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "तुलसी पूजन से पूर्व।",
+        "en": "Before worshipping Tulsi."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वृन्दायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vṛndāyai' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "tulsi_parikrama_mantra",
+        "tulsi_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tulsi_parikrama_mantra",
+      "title": {
+        "hi": "तुलसी परिक्रमा मंत्र",
+        "en": "Tulsi Parikrama Mantra"
+      },
+      "mantra": {
+        "hi": "यानि कानि च पापानि ब्रह्महत्यादिकानि च। तानि तानि प्रणश्यन्ति प्रदक्षिणे पदे पदे॥",
+        "transliteration": "Yāni Kāni Ca Pāpāni Brahmahatyādikāni Ca Tāni Tāni Praṇaśyanti Pradakṣiṇe Pade Pade"
+      },
+      "description": {
+        "hi": "तुलसी की परिक्रमा करते समय बोला जाने वाला प्रसिद्ध मंत्र।",
+        "en": "A traditional mantra recited while circumambulating the Tulsi plant."
+      },
+      "meaning": {
+        "hi": "तुलसी की प्रत्येक परिक्रमा से पापों का क्षय होता है।",
+        "en": "Every circumambulation of Tulsi destroys accumulated sins."
+      },
+      "deities": [
+        "tulsi"
+      ],
+      "deityInfo": {
+        "primary": "tulsi",
+        "group": "vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "tulsi",
+        "parikrama"
+      ],
+      "keywords": {
+        "hi": [
+          "तुलसी",
+          "परिक्रमा",
+          "प्रदक्षिणा"
+        ],
+        "en": [
+          "tulsi",
+          "parikrama",
+          "pradakshina"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "भक्ति",
+          "शांति",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता",
+          "गृह कल्याण"
+        ],
+        "en": [
+          "Purity",
+          "Devotion",
+          "Peace",
+          "Spiritual growth",
+          "Positivity",
+          "Household harmony"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "purity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tulsi_puja",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        7,
+        11
+      ],
+      "usage": {
+        "hi": "तुलसी की परिक्रमा करते समय।",
+        "en": "While circumambulating the Tulsi plant."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'प्रदक्षिणे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Pradakṣiṇe' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "tulsi_prarthana"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "tulsi_gayatri",
+      "title": {
+        "hi": "तुलसी गायत्री",
+        "en": "Tulsi Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ तुलस्यै विद्महे विष्णुप्रियायै धीमहि। तन्नो वृन्दा प्रचोदयात्॥",
+        "transliteration": "Om Tulasyai Vidmahe Viṣṇupriyāyai Dhīmahi Tanno Vṛndā Pracodayāt"
+      },
+      "description": {
+        "hi": "तुलसी देवी की कृपा एवं विष्णु भक्ति प्राप्त करने का प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Goddess Tulsi for purity and devotion to Lord Vishnu."
+      },
+      "meaning": {
+        "hi": "हम भगवान विष्णु की प्रिय तुलसी देवी का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Tulsi. May she inspire our intellect."
+      },
+      "deities": [
+        "tulsi"
+      ],
+      "deityInfo": {
+        "primary": "tulsi",
+        "group": "vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "tulsi",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "तुलसी गायत्री",
+          "वृंदा"
+        ],
+        "en": [
+          "tulsi gayatri",
+          "vrinda"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विष्णु भक्ति",
+          "पवित्रता",
+          "शांति",
+          "सद्बुद्धि",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Devotion",
+          "Purity",
+          "Peace",
+          "Wisdom",
+          "Spiritual growth",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "knowledge",
+        "purity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "tulsi_puja"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "तुलसी पूजा एवं दैनिक जप में।",
+        "en": "For Tulsi worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विष्णुप्रियायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Viṣṇupriyāyai' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "tulsi_prarthana"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ganga_mantra",
+      "title": {
+        "hi": "गंगा मंत्र",
+        "en": "Ganga Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री गङ्गायै नमः॥",
+        "transliteration": "Om Śrī Gaṅgāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ गंगा का सरल एवं पवित्र नाम मंत्र।",
+        "en": "A simple and sacred mantra dedicated to Goddess Ganga."
+      },
+      "meaning": {
+        "hi": "मैं माँ गंगा को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Ganga."
+      },
+      "deities": [
+        "ganga"
+      ],
+      "deityInfo": {
+        "primary": "ganga",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "ganga",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "गंगा",
+          "गंगायै नमः"
+        ],
+        "en": [
+          "ganga",
+          "gangayai namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "शांति",
+          "भक्ति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "मन की शुद्धि"
+        ],
+        "en": [
+          "Purity",
+          "Peace",
+          "Devotion",
+          "Positivity",
+          "Spiritual growth",
+          "Inner purification"
+        ]
+      },
+      "purpose": [
+        "purity",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "ganga_dussehra",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        11,
+        108
+      ],
+      "usage": {
+        "hi": "गंगा स्नान एवं पूजन में।",
+        "en": "During Ganga worship and holy bathing."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गङ्गायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Gaṅgāyai' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "ganga_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ganga_gayatri",
+      "title": {
+        "hi": "गंगा गायत्री",
+        "en": "Ganga Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ भागीरथ्यै विद्महे विष्णुपद्यै धीमहि। तन्नो गङ्गा प्रचोदयात्॥",
+        "transliteration": "Om Bhāgīrathyai Vidmahe Viṣṇupadyai Dhīmahi Tanno Gaṅgā Pracodayāt"
+      },
+      "description": {
+        "hi": "माँ गंगा की कृपा एवं आंतरिक शुद्धि हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Goddess Ganga for purity and divine blessings."
+      },
+      "meaning": {
+        "hi": "हम माँ गंगा का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Ganga. May she enlighten our intellect."
+      },
+      "deities": [
+        "ganga"
+      ],
+      "deityInfo": {
+        "primary": "ganga",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "ganga",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "गंगा गायत्री",
+          "भागीरथी"
+        ],
+        "en": [
+          "ganga gayatri",
+          "bhagirathi"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "भक्ति",
+          "सद्बुद्धि",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Purity",
+          "Devotion",
+          "Wisdom",
+          "Peace",
+          "Spiritual growth",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "purity",
+        "knowledge",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "ganga_dussehra",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गंगा पूजा एवं दैनिक जप में।",
+        "en": "For Ganga worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भागीरथ्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhāgīrathyai' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "ganga_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_namo_venkateshaya",
+      "title": {
+        "hi": "ॐ नमो वेंकटेशाय",
+        "en": "Om Namo Venkateshaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो वेंकटेशाय॥",
+        "transliteration": "Om Namo Veṅkaṭeśāya"
+      },
+      "description": {
+        "hi": "भगवान श्री वेंकटेश्वर (बालाजी) का अत्यंत लोकप्रिय नाम मंत्र।",
+        "en": "A widely revered nama mantra dedicated to Lord Venkateswara (Balaji)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान वेंकटेश्वर को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Venkateswara."
+      },
+      "deities": [
+        "venkateswara"
+      ],
+      "deityInfo": {
+        "primary": "venkateswara",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "venkateswara",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "वेंकटेश",
+          "बालाजी",
+          "तिरुपति"
+        ],
+        "en": [
+          "venkateswara",
+          "balaji",
+          "tirupati"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "समृद्धि",
+          "शांति",
+          "सकारात्मकता",
+          "ईश्वर कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Prosperity",
+          "Peace",
+          "Positivity",
+          "Divine grace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "prosperity",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "vaikuntha_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक बालाजी नामजप में।",
+        "en": "For daily chanting of Lord Venkateswara."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वेंकटेशाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Veṅkaṭeśāya' clearly."
+      },
+      "tradition": "Sri Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "venkatesha_gayatri",
+        "srinivasa_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "venkatesha_gayatri",
+      "title": {
+        "hi": "वेंकटेश गायत्री",
+        "en": "Venkatesha Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ वेंकटेशाय विद्महे श्रीनिवासाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "transliteration": "Om Veṅkaṭeśāya Vidmahe Śrīnivāsāya Dhīmahi Tanno Viṣṇuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान वेंकटेश्वर की कृपा एवं सद्बुद्धि के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Venkateswara for divine grace and wisdom."
+      },
+      "meaning": {
+        "hi": "हम भगवान वेंकटेश्वर का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Venkateswara. May He enlighten our intellect."
+      },
+      "deities": [
+        "venkateswara"
+      ],
+      "deityInfo": {
+        "primary": "venkateswara",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "venkateswara",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "वेंकटेश गायत्री",
+          "बालाजी"
+        ],
+        "en": [
+          "venkatesha gayatri",
+          "balaji"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "बुद्धि",
+          "शांति",
+          "समृद्धि",
+          "आध्यात्मिक उन्नति",
+          "ईश्वर कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Wisdom",
+          "Peace",
+          "Prosperity",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "knowledge",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "vaikuntha_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक वेंकटेश्वर साधना में।",
+        "en": "For daily Venkateswara sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'श्रीनिवासाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śrīnivāsāya' clearly."
+      },
+      "tradition": "Sri Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_namo_venkateshaya",
+        "srinivasa_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "srinivasa_gayatri",
+      "title": {
+        "hi": "श्रीनिवास गायत्री",
+        "en": "Srinivasa Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीनिवासाय विद्महे लक्ष्मीपतये धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "transliteration": "Om Śrīnivāsāya Vidmahe Lakṣmīpataye Dhīmahi Tanno Viṣṇuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान श्रीनिवास (वेंकटेश्वर) की कृपा एवं लक्ष्मी-कटाक्ष हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Srinivasa for divine grace and the blessings of Lakshmi."
+      },
+      "meaning": {
+        "hi": "हम भगवान श्रीनिवास का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Srinivasa. May He inspire our intellect."
+      },
+      "deities": [
+        "venkateswara"
+      ],
+      "deityInfo": {
+        "primary": "venkateswara",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "venkateswara",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "श्रीनिवास",
+          "वेंकटेश्वर",
+          "लक्ष्मीपति"
+        ],
+        "en": [
+          "srinivasa",
+          "venkateswara",
+          "lakshmipati"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "समृद्धि",
+          "बुद्धि",
+          "शांति",
+          "आध्यात्मिक उन्नति",
+          "ईश्वर कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Prosperity",
+          "Wisdom",
+          "Peace",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "prosperity",
+        "knowledge"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "vaikuntha_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक श्रीनिवास उपासना में।",
+        "en": "For daily worship of Lord Srinivasa."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'लक्ष्मीपतये' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Lakṣmīpataye' clearly."
+      },
+      "tradition": "Sri Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_namo_venkateshaya",
+        "venkatesha_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brahma_namaskara",
+      "title": {
+        "hi": "ब्रह्मा नमस्कार",
+        "en": "Brahma Namaskara"
+      },
+      "mantra": {
+        "hi": "ॐ चतुर्मुखाय विद्महे हंसरूढाय धीमहि। तन्नो ब्रह्मा प्रचोदयात्॥",
+        "transliteration": "Om Caturmukhāya Vidmahe Haṁsarūḍhāya Dhīmahi Tanno Brahmā Pracodayāt"
+      },
+      "description": {
+        "hi": "सृष्टिकर्ता भगवान ब्रह्मा को समर्पित नमस्कार एवं ध्यान मंत्र।",
+        "en": "A salutation and meditation mantra dedicated to Lord Brahma, the creator of the universe."
+      },
+      "meaning": {
+        "hi": "हम चतुर्मुख भगवान ब्रह्मा का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the four-faced Lord Brahma. May He inspire our intellect."
+      },
+      "deities": [
+        "brahma"
+      ],
+      "deityInfo": {
+        "primary": "brahma",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "brahma",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "ब्रह्मा",
+          "चतुर्मुख",
+          "नमस्कार"
+        ],
+        "en": [
+          "brahma",
+          "chaturmukha",
+          "namaskara"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "सृजनात्मकता",
+          "बुद्धि",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Knowledge",
+          "Creativity",
+          "Wisdom",
+          "Concentration",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "creativity",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "before_study"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन एवं पूजा के आरम्भ में।",
+        "en": "Before study or worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'चतुर्मुखाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Caturmukhāya' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "brahma_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brahma_gayatri",
+      "title": {
+        "hi": "ब्रह्मा गायत्री",
+        "en": "Brahma Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ चतुर्मुखाय विद्महे हंसरूढाय धीमहि। तन्नो ब्रह्मा प्रचोदयात्॥",
+        "transliteration": "Om Caturmukhāya Vidmahe Haṁsarūḍhāya Dhīmahi Tanno Brahmā Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान ब्रह्मा की कृपा, ज्ञान एवं सृजनात्मक शक्ति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Brahma for wisdom, creativity, and divine inspiration."
+      },
+      "meaning": {
+        "hi": "हम भगवान ब्रह्मा का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Brahma. May He enlighten our intellect."
+      },
+      "deities": [
+        "brahma"
+      ],
+      "deityInfo": {
+        "primary": "brahma",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "brahma",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "ब्रह्मा गायत्री",
+          "चतुर्मुख"
+        ],
+        "en": [
+          "brahma gayatri",
+          "chaturmukha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "बुद्धि",
+          "रचनात्मकता",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Creativity",
+          "Concentration",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "creativity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "before_study"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं अध्ययन से पूर्व।",
+        "en": "For daily chanting and before study."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हंसरूढाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Haṁsarūḍhāya' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "brahma_namaskara"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "gauri_shankarardhangi",
+      "title": {
+        "hi": "गौरी शंकरार्धांगी",
+        "en": "Gauri Shankarardhangi"
+      },
+      "mantra": {
+        "hi": "गौरी शंकरार्धांगी यथा त्वं शंकरप्रिये। तथा मां कुरु कल्याणि कान्तकान्तां सुदुर्लभाम्॥",
+        "transliteration": "Gaurī Śaṅkarārdhāṅgī Yathā Tvaṁ Śaṅkarapriye Tathā Māṁ Kuru Kalyāṇi Kāntakāntāṁ Sudurlabhām"
+      },
+      "description": {
+        "hi": "माता गौरी की कृपा एवं सौभाग्य की प्राप्ति हेतु प्रसिद्ध प्रार्थना।",
+        "en": "A well-known prayer to Goddess Gauri for marital harmony and auspiciousness."
+      },
+      "meaning": {
+        "hi": "हे शंकरप्रिया गौरी! जैसे आप शिव की अर्धांगिनी हैं, वैसे ही मुझे भी सौभाग्य एवं मंगल प्रदान करें।",
+        "en": "O beloved of Lord Shiva, bless me with auspiciousness and a harmonious married life."
+      },
+      "deities": [
+        "parvati",
+        "shiva"
+      ],
+      "deityInfo": {
+        "primary": "parvati",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "gauri",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "गौरी",
+          "शंकर",
+          "सौभाग्य"
+        ],
+        "en": [
+          "gauri",
+          "shankara",
+          "auspiciousness"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "सौभाग्य",
+          "दाम्पत्य सुख",
+          "भक्ति",
+          "शांति",
+          "मंगल",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Marital harmony",
+          "Auspiciousness",
+          "Devotion",
+          "Peace",
+          "Blessings",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "marriage",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "monday",
+        "hartalika_teej",
+        "gauri_puja"
+      ],
+      "recommendedJapa": [
+        11,
+        21
+      ],
+      "usage": {
+        "hi": "गौरी पूजन एवं सोमवार की साधना में।",
+        "en": "During Gauri worship and Monday prayers."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शंकरार्धांगी' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śaṅkarārdhāṅgī' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "maa_gauri_mantra",
+        "parvati_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "maa_gauri_mantra",
+      "title": {
+        "hi": "माँ गौरी मंत्र",
+        "en": "Maa Gauri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गौर्यै नमः॥",
+        "transliteration": "Om Gauryai Namaḥ"
+      },
+      "description": {
+        "hi": "माता गौरी का सरल एवं पवित्र नाम मंत्र।",
+        "en": "A simple and sacred nama mantra dedicated to Goddess Gauri."
+      },
+      "meaning": {
+        "hi": "मैं माँ गौरी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Gauri."
+      },
+      "deities": [
+        "parvati"
+      ],
+      "deityInfo": {
+        "primary": "parvati",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "gauri",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "गौरी",
+          "गौर्यै नमः"
+        ],
+        "en": [
+          "gauri",
+          "gauryai namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "सौभाग्य",
+          "सकारात्मकता",
+          "मातृ कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Auspiciousness",
+          "Positivity",
+          "Divine grace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "monday"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक गौरी नामजप में।",
+        "en": "For daily chanting of Goddess Gauri."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गौर्यै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Gauryai' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "gauri_shankarardhangi"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "parvati_swayamvara_mantra",
+      "title": {
+        "hi": "पार्वती स्वयंवर मंत्र",
+        "en": "Parvati Swayamvara Mantra"
+      },
+      "mantra": {
+        "hi": "हे गौरी शङ्करार्धाङ्गि! यथा त्वं शङ्करप्रिया। तथा मां कुरु कल्याणि कान्तकान्तां सुदुर्लभाम्॥",
+        "transliteration": "He Gaurī Śaṅkarārdhāṅgi Yathā Tvaṁ Śaṅkarapriyā Tathā Māṁ Kuru Kalyāṇi Kāntakāntāṁ Sudurlabhām"
+      },
+      "description": {
+        "hi": "विवाह एवं योग्य जीवनसाथी की प्राप्ति के लिए प्रचलित पार्वती प्रार्थना।",
+        "en": "A traditional prayer to Goddess Parvati for marriage and an ideal life partner."
+      },
+      "meaning": {
+        "hi": "हे माँ गौरी! जैसे आपको भगवान शिव प्राप्त हुए, वैसे ही मुझे भी शुभ जीवनसाथी एवं सौभाग्य प्रदान करें।",
+        "en": "O Goddess Gauri, bless me with a virtuous life partner and auspicious married life."
+      },
+      "deities": [
+        "parvati"
+      ],
+      "deityInfo": {
+        "primary": "parvati",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "parvati",
+        "marriage"
+      ],
+      "keywords": {
+        "hi": [
+          "पार्वती",
+          "स्वयंवर",
+          "गौरी"
+        ],
+        "en": [
+          "parvati",
+          "swayamvara",
+          "gauri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विवाह",
+          "सौभाग्य",
+          "दाम्पत्य सुख",
+          "भक्ति",
+          "शांति",
+          "मंगल"
+        ],
+        "en": [
+          "Marriage",
+          "Auspiciousness",
+          "Marital harmony",
+          "Devotion",
+          "Peace",
+          "Blessings"
+        ]
+      },
+      "purpose": [
+        "marriage",
+        "devotion",
+        "family"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "monday",
+        "hartalika_teej"
+      ],
+      "recommendedJapa": [
+        11,
+        21,
+        108
+      ],
+      "usage": {
+        "hi": "विवाह की कामना एवं गौरी पूजन में।",
+        "en": "For marriage prayers and Gauri worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कान्तकान्ताम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kāntakāntām' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "gauri_shankarardhangi",
+        "maa_gauri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "parvati_gayatri",
+      "title": {
+        "hi": "पार्वती गायत्री",
+        "en": "Parvati Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ गिरिजायै विद्महे शिवप्रियायै धीमहि। तन्नो गौरी प्रचोदयात्॥",
+        "transliteration": "Om Girijāyai Vidmahe Śivapriyāyai Dhīmahi Tanno Gaurī Pracodayāt"
+      },
+      "description": {
+        "hi": "माता पार्वती की कृपा एवं सौभाग्य के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Goddess Parvati for auspiciousness, devotion, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम माँ गिरिजा का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Girija. May she enlighten our intellect."
+      },
+      "deities": [
+        "parvati"
+      ],
+      "deityInfo": {
+        "primary": "parvati",
+        "group": "shakti",
+        "parent": null
+      },
+      "categories": [
+        "parvati",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "पार्वती गायत्री",
+          "गिरिजा",
+          "गौरी"
+        ],
+        "en": [
+          "parvati gayatri",
+          "girija",
+          "gauri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "सौभाग्य",
+          "शांति",
+          "बुद्धि",
+          "आध्यात्मिक उन्नति",
+          "मातृ कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Auspiciousness",
+          "Peace",
+          "Wisdom",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "knowledge",
+        "marriage"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "monday",
+        "navratri"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं पार्वती उपासना में।",
+        "en": "For daily chanting and worship of Goddess Parvati."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गिरिजायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Girijāyai' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "gauri_shankarardhangi",
+        "maa_gauri_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shanmukha_gayatri",
+      "title": {
+        "hi": "षण्मुख गायत्री",
+        "en": "Shanmukha Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ तत्पुरुषाय विद्महे महासेनाय धीमहि। तन्नः षण्मुखः प्रचोदयात्॥",
+        "transliteration": "Om Tatpuruṣāya Vidmahe Mahāsenāya Dhīmahi Tanno Ṣaṇmukhaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान षण्मुख (कार्तिकेय) की कृपा, वीरता एवं ज्ञान के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Shanmukha (Kartikeya) for courage, wisdom, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भगवान महासेन षण्मुख का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Shanmukha, the great commander. May He inspire our intellect."
+      },
+      "deities": [
+        "kartikeya"
+      ],
+      "deityInfo": {
+        "primary": "kartikeya",
+        "group": "shaiva",
+        "parent": "shiva"
+      },
+      "categories": [
+        "kartikeya",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "षण्मुख",
+          "महासेन",
+          "कार्तिकेय"
+        ],
+        "en": [
+          "shanmukha",
+          "kartikeya",
+          "mahasena"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "बुद्धि",
+          "भक्ति",
+          "एकाग्रता",
+          "विजय",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Courage",
+          "Wisdom",
+          "Devotion",
+          "Concentration",
+          "Victory",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "courage",
+        "knowledge",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "skanda_shashthi",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "कार्तिकेय पूजा एवं दैनिक साधना में।",
+        "en": "For Kartikeya worship and daily sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महासेनाय' एवं 'षण्मुखः' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mahāsenāya' and 'Ṣaṇmukhaḥ' clearly."
+      },
+      "tradition": "Shaiva",
+      "source": "Traditional",
+      "related": [
+        "murugan_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "murugan_gayatri",
+      "title": {
+        "hi": "मुरुगन गायत्री",
+        "en": "Murugan Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ कार्तिकेयाय विद्महे शक्तिहस्ताय धीमहि। तन्नो स्कन्दः प्रचोदयात्॥",
+        "transliteration": "Om Kārtikeyāya Vidmahe Śaktihastāya Dhīmahi Tanno Skandaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान मुरुगन (स्कन्द) की कृपा, ज्ञान एवं विजय के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Murugan (Skanda) for wisdom, victory, and divine blessings."
+      },
+      "meaning": {
+        "hi": "हम भगवान स्कन्द का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Skanda. May He illuminate our intellect."
+      },
+      "deities": [
+        "kartikeya"
+      ],
+      "deityInfo": {
+        "primary": "kartikeya",
+        "group": "shaiva",
+        "parent": "shiva"
+      },
+      "categories": [
+        "kartikeya",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "मुरुगन",
+          "स्कन्द",
+          "कार्तिकेय"
+        ],
+        "en": [
+          "murugan",
+          "skanda",
+          "kartikeya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "ज्ञान",
+          "भक्ति",
+          "विजय",
+          "मानसिक शक्ति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Courage",
+          "Knowledge",
+          "Devotion",
+          "Victory",
+          "Mental strength",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "courage",
+        "victory"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "skanda_shashthi",
+        "thaipusam",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "मुरुगन उपासना एवं दैनिक जप में।",
+        "en": "For Murugan worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शक्तिहस्ताय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śaktihastāya' clearly."
+      },
+      "tradition": "Tamil Shaiva",
+      "source": "Traditional",
+      "related": [
+        "shanmukha_gayatri"
+      ],
+      "isPopular": true
+    }
+  ]
+}

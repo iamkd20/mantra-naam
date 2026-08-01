@@ -1,0 +1,796 @@
+{
+  "version": 1,
+  "category": "guru",
+  "title": {
+    "hi": "गुरु",
+    "en": "guru"
+  },
+  "mantras": [
+    {
+      "id": "guru_mantra",
+      "title": {
+        "hi": "गुरु मंत्र",
+        "en": "Guru Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः॥",
+        "transliteration": "Gurur Brahmā Gurur Viṣṇuḥ Gurur Devo Maheśvaraḥ Guruḥ Sākṣāt Paraṁ Brahma Tasmai Śrī Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु को ब्रह्मा, विष्णु, महेश तथा परब्रह्म स्वरूप मानकर किया जाने वाला सर्वाधिक प्रसिद्ध गुरु वंदना मंत्र।",
+        "en": "The most revered Guru mantra, honoring the Guru as Brahma, Vishnu, Shiva, and the Supreme Reality."
+      },
+      "meaning": {
+        "hi": "गुरु ही ब्रह्मा, विष्णु, महेश तथा साक्षात् परब्रह्म हैं। ऐसे श्रीगुरु को मेरा प्रणाम।",
+        "en": "The Guru is Brahma, Vishnu, Shiva, and the Supreme Brahman. I bow to that revered Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु",
+          "गुरुर्ब्रह्मा",
+          "गुरु वंदना"
+        ],
+        "en": [
+          "guru",
+          "gurur brahma",
+          "guru vandana"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "ज्ञान",
+          "विनम्रता",
+          "भक्ति",
+          "आध्यात्मिक उन्नति",
+          "सद्बुद्धि"
+        ],
+        "en": [
+          "Guru's grace",
+          "Knowledge",
+          "Humility",
+          "Devotion",
+          "Spiritual growth",
+          "Wisdom"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "before_study",
+        "guru_purnima",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन एवं साधना प्रारम्भ करने से पूर्व।",
+        "en": "Before study or spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'परं ब्रह्म' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Paraṁ Brahma' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Guru Stotram",
+      "related": [
+        "guru_gayatri",
+        "om_gum_gurave_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "guru_gayatri",
+      "title": {
+        "hi": "गुरु गायत्री",
+        "en": "Guru Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ गुरुदेवाय विद्महे परब्रह्मणे धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "transliteration": "Om Gurudevāya Vidmahe Parabrahmaṇe Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "गुरु के दिव्य स्वरूप का ध्यान करने वाला गायत्री मंत्र।",
+        "en": "A Gayatri mantra meditating upon the divine Guru."
+      },
+      "meaning": {
+        "hi": "हम गुरु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the Guru. May the Guru enlighten our intellect."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु गायत्री",
+          "गुरुदेव"
+        ],
+        "en": [
+          "guru gayatri",
+          "gurudeva"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "विवेक",
+          "एकाग्रता",
+          "गुरु कृपा",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Concentration",
+          "Guru's grace",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "guru_bhakti",
+        "wisdom"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "guru_purnima",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरु उपासना एवं दैनिक जप में।",
+        "en": "For Guru worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'परब्रह्मणे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Parabrahmaṇe' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "guru_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_gum_gurave_namah",
+      "title": {
+        "hi": "ॐ गुं गुरवे नमः",
+        "en": "Om Gum Gurave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ गुं गुरवे नमः॥",
+        "transliteration": "Om Guṁ Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु तत्व की उपासना का संक्षिप्त एवं शक्तिशाली बीज मंत्र।",
+        "en": "A concise bija mantra invoking the divine Guru principle."
+      },
+      "meaning": {
+        "hi": "मैं श्रीगुरु को प्रणाम करता हूँ।",
+        "en": "I bow to the revered Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "गुं",
+          "गुरवे नमः"
+        ],
+        "en": [
+          "gum",
+          "gurave namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "ज्ञान",
+          "भक्ति",
+          "एकाग्रता",
+          "विनम्रता",
+          "आत्मिक शांति"
+        ],
+        "en": [
+          "Guru's grace",
+          "Knowledge",
+          "Devotion",
+          "Focus",
+          "Humility",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक गुरु जप में।",
+        "en": "For daily Guru mantra chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गुं' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Guṁ' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "guru_mantra",
+        "guru_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_mantra",
+      "title": {
+        "hi": "बृहस्पति मंत्र",
+        "en": "Brihaspati Mantra"
+      },
+      "mantra": {
+        "hi": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devānāṁ Ca Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति का प्रसिद्ध स्तुति मंत्र।",
+        "en": "A famous hymn in praise of Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं एवं ऋषियों के गुरु, बुद्धि के स्वरूप भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati, the Guru of the Devas and embodiment of wisdom."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "guru"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति",
+          "देवगुरु",
+          "गुरु ग्रह"
+        ],
+        "en": [
+          "brihaspati",
+          "guru graha",
+          "deva guru"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "ज्ञान",
+          "विवेक",
+          "गुरु कृपा",
+          "समृद्धि",
+          "धार्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Knowledge",
+          "Discernment",
+          "Guru's grace",
+          "Prosperity",
+          "Spiritual progress"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "guru_puja"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरुवार एवं बृहस्पति पूजा में।",
+        "en": "For Thursdays and Brihaspati worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'काञ्चनसन्निभम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kāñcanasannibham' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Navagraha Stotra",
+      "related": [
+        "brihaspati_gayatri",
+        "om_brim_brihaspataye_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_dhyana",
+      "title": {
+        "hi": "बृहस्पति ध्यान",
+        "en": "Brihaspati Dhyana"
+      },
+      "mantra": {
+        "hi": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devānāṁ Ca Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति के तेजस्वी स्वरूप का ध्यान करने हेतु प्रचलित ध्यान श्लोक।",
+        "en": "A meditation verse contemplating the radiant form of Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं एवं ऋषियों के गुरु, बुद्धि के स्वरूप भगवान बृहस्पति का ध्यान करता हूँ।",
+        "en": "I meditate upon Brihaspati, the Guru of the Devas and embodiment of wisdom."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "dhyana"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति",
+          "ध्यान",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati",
+          "dhyana",
+          "guru graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "बुद्धि",
+          "विवेक",
+          "एकाग्रता",
+          "गुरु कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Discernment",
+          "Concentration",
+          "Guru's grace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "meditation",
+        "wisdom"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "guru_puja"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "जप एवं पूजा से पूर्व ध्यान में।",
+        "en": "For meditation before worship or chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बुद्धिभूतम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Buddhibhūtam' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Navagraha Stotra",
+      "related": [
+        "brihaspati_mantra",
+        "brihaspati_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_pranam_mantra",
+      "title": {
+        "hi": "बृहस्पति प्रणाम मंत्र",
+        "en": "Brihaspati Pranam Mantra"
+      },
+      "mantra": {
+        "hi": "देवतानां ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devatānāṁ Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति को प्रणाम करने का पारंपरिक मंत्र।",
+        "en": "A traditional salutation mantra dedicated to Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं के गुरु भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati, the divine Guru of the Devas."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति प्रणाम",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati pranam",
+          "deva guru"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "बुद्धि",
+          "विनम्रता",
+          "ज्ञान",
+          "भक्ति",
+          "शांति"
+        ],
+        "en": [
+          "Guru's grace",
+          "Wisdom",
+          "Humility",
+          "Knowledge",
+          "Devotion",
+          "Peace"
+        ]
+      },
+      "purpose": [
+        "guru_blessings",
+        "knowledge",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "पूजा प्रारम्भ एवं प्रणाम के समय।",
+        "en": "Before worship and while offering salutations."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'त्रिलोकेशम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Trilokeśam' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "brihaspati_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_gayatri",
+      "title": {
+        "hi": "बृहस्पति गायत्री",
+        "en": "Brihaspati Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ बृहस्पतये विद्महे दिव्यदेहाय धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "transliteration": "Om Bṛhaspataye Vidmahe Divyadehāya Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति की कृपा एवं सद्बुद्धि प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Brihaspati for wisdom, virtue, and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम भगवान बृहस्पति का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Brihaspati. May he enlighten our intellect."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति गायत्री",
+          "गुरु ग्रह"
+        ],
+        "en": [
+          "brihaspati gayatri",
+          "guru graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "बुद्धि",
+          "विवेक",
+          "समृद्धि",
+          "आध्यात्मिक उन्नति",
+          "गुरु कृपा"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Discernment",
+          "Prosperity",
+          "Spiritual growth",
+          "Guru's grace"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरुवार एवं बृहस्पति साधना में।",
+        "en": "For Thursdays and Brihaspati sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बृहस्पतये' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bṛhaspataye' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "guru_gayatri",
+        "om_brim_brihaspataye_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_brim_brihaspataye_namah",
+      "title": {
+        "hi": "ॐ बृं बृहस्पतये नमः",
+        "en": "Om Brim Brihaspataye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ बृं बृहस्पतये नमः॥",
+        "transliteration": "Om Bṛiṁ Bṛhaspataye Namaḥ"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति का प्रसिद्ध बीज मंत्र।",
+        "en": "A popular bija mantra dedicated to Brihaspati."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Brihaspati."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "बृं",
+          "बृहस्पति",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "brim",
+          "brihaspati",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "समृद्धि",
+          "बुद्धि",
+          "आत्मविश्वास",
+          "गुरु कृपा",
+          "सद्बुद्धि"
+        ],
+        "en": [
+          "Knowledge",
+          "Prosperity",
+          "Wisdom",
+          "Confidence",
+          "Guru's grace",
+          "Right judgment"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "prosperity",
+        "guru_blessings"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक बृहस्पति जप एवं गुरुवार साधना में।",
+        "en": "For daily Brihaspati chanting and Thursday worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बृं' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bṛiṁ' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "brihaspati_mantra",
+        "brihaspati_gayatri"
+      ],
+      "isPopular": true
+    }
+  ]
+}

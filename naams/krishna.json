@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "category": "krishna",
+  "title": {
+    "hi": "श्री कृष्ण एवं राधा नाम जप",
+    "en": "Shri Krishna & Radha Naam Jap"
+  },
+  "names": [
+    {
+      "id": "krishna",
+      "name": {
+        "hi": "कृष्ण",
+        "en": "Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "shri_krishna",
+      "name": {
+        "hi": "श्री कृष्ण",
+        "en": "Shri Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "jai_shri_krishna",
+      "name": {
+        "hi": "जय श्री कृष्ण",
+        "en": "Jai Shri Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "radhe",
+      "name": {
+        "hi": "राधे",
+        "en": "Radhe"
+      },
+      "deity": "radha",
+      "isPopular": true
+    },
+    {
+      "id": "shri_radhe",
+      "name": {
+        "hi": "श्री राधे",
+        "en": "Shri Radhe"
+      },
+      "deity": "radha",
+      "isPopular": true
+    },
+    {
+      "id": "radhe_radhe",
+      "name": {
+        "hi": "राधे राधे",
+        "en": "Radhe Radhe"
+      },
+      "deity": "radha",
+      "isPopular": true
+    },
+    {
+      "id": "radha",
+      "name": {
+        "hi": "राधा",
+        "en": "Radha"
+      },
+      "deity": "radha",
+      "isPopular": true
+    },
+    {
+      "id": "radha_krishna",
+      "name": {
+        "hi": "राधा कृष्ण",
+        "en": "Radha Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "radhe_krishna",
+      "name": {
+        "hi": "राधे कृष्ण",
+        "en": "Radhe Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "hare_krishna",
+      "name": {
+        "hi": "हरे कृष्ण",
+        "en": "Hare Krishna"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "govinda",
+      "name": {
+        "hi": "गोविंद",
+        "en": "Govinda"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "gopala",
+      "name": {
+        "hi": "गोपाल",
+        "en": "Gopala"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "madhava",
+      "name": {
+        "hi": "माधव",
+        "en": "Madhava"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "murari",
+      "name": {
+        "hi": "मुरारी",
+        "en": "Murari"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "muralidhara",
+      "name": {
+        "hi": "मुरलीधर",
+        "en": "Muralidhara"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "giridhari",
+      "name": {
+        "hi": "गिरिधारी",
+        "en": "Giridhari"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "girdhari_gopal",
+      "name": {
+        "hi": "गिरधारी गोपाल",
+        "en": "Girdhari Gopal"
+      },
+      "deity": "krishna",
+      "isPopular": false
+    },
+    {
+      "id": "kanha",
+      "name": {
+        "hi": "कान्हा",
+        "en": "Kanha"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "kanhaiya",
+      "name": {
+        "hi": "कन्हैया",
+        "en": "Kanhaiya"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "shyama",
+      "name": {
+        "hi": "श्याम",
+        "en": "Shyam"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "ghanshyama",
+      "name": {
+        "hi": "घनश्याम",
+        "en": "Ghanshyam"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "nandalala",
+      "name": {
+        "hi": "नन्दलाल",
+        "en": "Nandalal"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "yashoda_nandana",
+      "name": {
+        "hi": "यशोदानन्दन",
+        "en": "Yashodanandana"
+      },
+      "deity": "krishna",
+      "isPopular": false
+    },
+    {
+      "id": "devakinandana",
+      "name": {
+        "hi": "देवकीनन्दन",
+        "en": "Devakinandana"
+      },
+      "deity": "krishna",
+      "isPopular": false
+    },
+    {
+      "id": "vasudeva",
+      "name": {
+        "hi": "वासुदेव",
+        "en": "Vasudeva"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "dwarkadhisha",
+      "name": {
+        "hi": "द्वारकाधीश",
+        "en": "Dwarkadhish"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "banke_bihari",
+      "name": {
+        "hi": "बाँके बिहारी",
+        "en": "Banke Bihari"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "gopinatha",
+      "name": {
+        "hi": "गोपीनाथ",
+        "en": "Gopinath"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "radha_vallabha",
+      "name": {
+        "hi": "राधावल्लभ",
+        "en": "Radhavallabha"
+      },
+      "deity": "krishna",
+      "isPopular": true
+    },
+    {
+      "id": "makhan_chora",
+      "name": {
+        "hi": "माखनचोर",
+        "en": "Makhan Chor"
+      },
+      "deity": "krishna",
+      "isPopular": false
+    }
+  ]
+}

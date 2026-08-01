@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "category": "jagannath",
+  "title": {
+    "hi": "जगन्नाथ",
+    "en": "Jagannath"
+  },
+  "mantras": [
+    {
+      "id": "jai_jagannath",
+      "title": {
+        "hi": "जय जगन्नाथ",
+        "en": "Jai Jagannath"
+      },
+      "mantra": {
+        "hi": "जय जगन्नाथ॥",
+        "transliteration": "Jaya Jagannātha"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ के जयघोष के रूप में बोला जाने वाला अत्यंत लोकप्रिय नाम-जप।",
+        "en": "A popular devotional chant glorifying Lord Jagannath."
+      },
+      "meaning": {
+        "hi": "हे समस्त जगत के स्वामी! आपकी जय हो।",
+        "en": "Victory to Lord Jagannath, the Lord of the Universe."
+      },
+      "deities": [
+        "jagannath"
+      ],
+      "deityInfo": {
+        "primary": "jagannath",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "jagannath",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "जय जगन्नाथ",
+          "जगन्नाथ"
+        ],
+        "en": [
+          "jai jagannath",
+          "jagannath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "मानसिक शांति",
+          "सकारात्मकता",
+          "ईश्वर स्मरण",
+          "आंतरिक आनंद",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Positivity",
+          "Divine remembrance",
+          "Inner joy",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "ratha_yatra"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक नामस्मरण एवं कीर्तन में।",
+        "en": "For daily chanting and kirtan."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'जगन्नाथ' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Jagannātha' clearly."
+      },
+      "tradition": "Gaudiya Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "jagannatha_swami",
+        "om_jagannathaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "jagannatha_swami",
+      "title": {
+        "hi": "जगन्नाथ स्वामी",
+        "en": "Jagannatha Swami"
+      },
+      "mantra": {
+        "hi": "जगन्नाथ स्वामी नयनपथगामी भवतु मे॥",
+        "transliteration": "Jagannātha Svāmī Nayanapathagāmī Bhavatu Me"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ की प्रसिद्ध प्रार्थना, जिसमें सदैव उनके दर्शन की कामना की जाती है।",
+        "en": "A famous prayer seeking the constant vision of Lord Jagannath."
+      },
+      "meaning": {
+        "hi": "हे जगन्नाथ स्वामी! आप सदैव मेरी दृष्टि के सम्मुख रहें।",
+        "en": "O Lord Jagannath, may You always remain before my eyes."
+      },
+      "deities": [
+        "jagannath"
+      ],
+      "deityInfo": {
+        "primary": "jagannath",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "jagannath",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "जगन्नाथ स्वामी",
+          "नयनपथगामी"
+        ],
+        "en": [
+          "jagannatha swami",
+          "nayanapathagami"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "ईश्वर स्मरण",
+          "समर्पण",
+          "आध्यात्मिक उन्नति",
+          "आंतरिक आनंद"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Divine remembrance",
+          "Surrender",
+          "Spiritual growth",
+          "Inner joy"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "surrender"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "ratha_yatra"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "जगन्नाथ पूजा एवं दर्शन के समय।",
+        "en": "During Jagannath worship and darshan."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नयनपथगामी' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Nayanapathagāmī' clearly."
+      },
+      "tradition": "Gaudiya Vaishnava",
+      "source": "Jagannathashtakam",
+      "related": [
+        "jai_jagannath"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_jagannathaya_namah",
+      "title": {
+        "hi": "ॐ जगन्नाथाय नमः",
+        "en": "Om Jagannathaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ जगन्नाथाय नमः॥",
+        "transliteration": "Om Jagannāthāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ का सरल एवं पवित्र नाम मंत्र।",
+        "en": "A simple sacred nama mantra dedicated to Lord Jagannath."
+      },
+      "meaning": {
+        "hi": "मैं भगवान जगन्नाथ को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Jagannath."
+      },
+      "deities": [
+        "jagannath"
+      ],
+      "deityInfo": {
+        "primary": "jagannath",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "jagannath",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "जगन्नाथाय नमः",
+          "जगन्नाथ"
+        ],
+        "en": [
+          "jagannathaya namah",
+          "jagannath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "सकारात्मकता",
+          "ईश्वर स्मरण",
+          "मन की स्थिरता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Positivity",
+          "Divine remembrance",
+          "Mental stability",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक भगवान जगन्नाथ नामजप में।",
+        "en": "For daily Jagannath nama japa."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'जगन्नाथाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Jagannāthāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "jai_jagannath"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "nilachala_nivasaya",
+      "title": {
+        "hi": "नीलाचल निवासाय",
+        "en": "Nilachala Nivasaya"
+      },
+      "mantra": {
+        "hi": "नीलाचल निवासाय नित्याय परमात्मने। बलभद्रसुभद्राभ्यां जगन्नाथाय ते नमः॥",
+        "transliteration": "Nīlācala Nivāsāya Nityāya Paramātmane Balabhadra Subhadrābhyāṁ Jagannāthāya Te Namaḥ"
+      },
+      "description": {
+        "hi": "पुरी नीलाचल में विराजमान भगवान जगन्नाथ की स्तुति।",
+        "en": "A devotional prayer to Lord Jagannath, who resides at Nilachala (Puri)."
+      },
+      "meaning": {
+        "hi": "नीलाचल में विराजमान परमात्मा भगवान जगन्नाथ को प्रणाम।",
+        "en": "Salutations to Lord Jagannath, the Supreme Lord residing at Nilachala."
+      },
+      "deities": [
+        "jagannath",
+        "balabhadra",
+        "subhadra"
+      ],
+      "deityInfo": {
+        "primary": "jagannath",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "jagannath",
+        "stuti"
+      ],
+      "keywords": {
+        "hi": [
+          "नीलाचल",
+          "पुरी",
+          "जगन्नाथ"
+        ],
+        "en": [
+          "nilachala",
+          "puri",
+          "jagannath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "शांति",
+          "समर्पण",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "ईश्वर कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Peace",
+          "Surrender",
+          "Positivity",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "surrender"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "ratha_yatra"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "जगन्नाथ पूजा में।",
+        "en": "During Jagannath worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नीलाचल' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Nīlācala' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "jagannatha_swami"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "jagannath_gayatri",
+      "title": {
+        "hi": "जगन्नाथ गायत्री",
+        "en": "Jagannath Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ जगन्नाथाय विद्महे महापुरुषाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "transliteration": "Om Jagannāthāya Vidmahe Mahāpuruṣāya Dhīmahi Tanno Viṣṇuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ की कृपा एवं भक्ति के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Jagannath for devotion and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम भगवान जगन्नाथ का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Jagannath. May He enlighten our intellect."
+      },
+      "deities": [
+        "jagannath"
+      ],
+      "deityInfo": {
+        "primary": "jagannath",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "jagannath",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "जगन्नाथ गायत्री",
+          "महापुरुष"
+        ],
+        "en": [
+          "jagannath gayatri",
+          "mahapurusha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "बुद्धि",
+          "शांति",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "ईश्वर कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Wisdom",
+          "Peace",
+          "Concentration",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "knowledge"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "ratha_yatra"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जगन्नाथ साधना में।",
+        "en": "For daily Jagannath sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महापुरुषाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mahāpuruṣāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_jagannathaya_namah",
+        "jai_jagannath"
+      ],
+      "isPopular": true
+    }
+  ]
+}
