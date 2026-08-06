@@ -6,7 +6,7 @@
     "hi": "अर्धनारीश्वर",
     "en": "Ardhanarishvara"
   },
-  "icon": "ardhanarishvara",
+  "image": "assets/icons/ardhanarishvara.webp" 
   "sortOrder": 41,
   "mantras": [
     {
@@ -16,16 +16,16 @@
         "en": "Ardhanarishvara Mantra"
       },
       "mantra": {
-        "hi": "ॐ अर्धनारीश्वराय नमः॥",
-        "transliteration": "Om Ardhanārīśvarāya Namaḥ"
+        "hi": "ॐ अर्धनारीश्वराय नमः ॥",
+        "en": "Om Ardhanarishvaraya Namah"
       },
       "description": {
-        "hi": "भगवान शिव और माता पार्वती के संयुक्त स्वरूप अर्धनारीश्वर का प्रसिद्ध मंत्र।",
-        "en": "A revered mantra dedicated to Ardhanarishvara, the unified form of Lord Shiva and Goddess Parvati."
+        "hi": "भगवान शिव एवं माता पार्वती के संयुक्त दिव्य स्वरूप अर्धनारीश्वर को समर्पित यह पवित्र मंत्र शिव और शक्ति की अद्वैत एकता का प्रतीक है। अर्धनारीश्वर सृष्टि में पुरुष और प्रकृति, चेतना और शक्ति, वैराग्य और करुणा के शाश्वत संतुलन का प्रतिनिधित्व करते हैं। इस मंत्र का श्रद्धापूर्वक जप साधक के भीतर आंतरिक संतुलन, मानसिक शांति, आध्यात्मिक जागरूकता एवं शिव-शक्ति के प्रति भक्ति को विकसित करने हेतु किया जाता है।",
+        "en": "This sacred mantra is dedicated to Ardhanarishvara, the unified form of Lord Shiva and Goddess Parvati. It symbolizes the eternal union of Shiva and Shakti, representing balance, harmony, consciousness, and divine energy. Chanting this mantra is traditionally associated with inner peace, devotion, and spiritual growth."
       },
       "meaning": {
-        "hi": "मैं अर्धनारीश्वर स्वरूप भगवान शिव-पार्वती को प्रणाम करता हूँ।",
-        "en": "I bow to Ardhanarishvara, the divine union of Shiva and Parvati."
+        "hi": "मैं भगवान शिव एवं माता पार्वती के संयुक्त दिव्य स्वरूप अर्धनारीश्वर को श्रद्धापूर्वक प्रणाम करता हूँ। वे परम चेतना और दिव्य शक्ति की अभिन्न एकता, संतुलन, समरसता तथा सम्पूर्ण सृष्टि की पूर्णता के प्रतीक हैं।",
+        "en": "I bow to Ardhanarishvara, the divine union of Lord Shiva and Goddess Parvati, representing the inseparable unity of supreme consciousness and divine energy, perfect balance, and completeness."
       },
       "deities": [
         "ardhanarishvara",
@@ -44,36 +44,71 @@
       "keywords": {
         "hi": [
           "अर्धनारीश्वर",
-          "शिव पार्वती",
-          "शिव शक्ति"
+          "अर्धनारीश्वर मंत्र",
+          "शिव",
+          "महादेव",
+          "पार्वती",
+          "गौरी",
+          "उमा",
+          "शिव शक्ति",
+          "शिव-पार्वती",
+          "उमा महेश्वर",
+          "ध्यान",
+          "संतुलन",
+          "समरसता",
+          "भक्ति",
+          "शैव"
         ],
         "en": [
           "ardhanarishvara",
+          "ardhanarishwar",
+          "ardhanareeshwar",
+          "ardhanarishvara mantra",
+          "shiva",
+          "mahadev",
+          "parvati",
+          "gauri",
+          "uma",
+          "shiva shakti",
           "shiva parvati",
-          "shiva shakti"
+          "balance",
+          "harmony",
+          "meditation",
+          "devotion",
+          "shaiva"
         ]
       },
       "benefits": {
         "hi": [
-          "संतुलन",
-          "सौहार्द",
+          "आंतरिक संतुलन",
           "मानसिक शांति",
-          "दाम्पत्य सुख",
+          "भावनात्मक स्थिरता",
+          "सौहार्द",
+          "दाम्पत्य जीवन में सामंजस्य",
           "आध्यात्मिक उन्नति",
-          "भक्ति"
+          "ध्यान में एकाग्रता",
+          "भक्ति की वृद्धि",
+          "शिव-शक्ति के प्रति श्रद्धा",
+          "सकारात्मक मानसिक दृष्टिकोण"
         ],
         "en": [
-          "Balance",
-          "Harmony",
+          "Inner balance",
           "Mental peace",
+          "Emotional stability",
+          "Harmony",
           "Marital harmony",
           "Spiritual growth",
-          "Devotion"
+          "Improved concentration",
+          "Greater devotion",
+          "Reverence for Shiva and Shakti",
+          "Positive mindset"
         ]
       },
       "purpose": [
         "balance",
         "harmony",
+        "meditation",
+        "spiritual_growth",
         "devotion"
       ],
       "recommendedTime": [
@@ -82,16 +117,20 @@
       ],
       "recommendedOccasion": [
         "daily_prayer",
-        "shivratri"
+        "meditation",
+        "shivratri",
+        "navratri",
+        "monday_worship"
       ],
       "recommendedJapa": [
         11,
         27,
+        54,
         108
       ],
       "usage": {
-        "hi": "शिव-शक्ति उपासना एवं ध्यान में।",
-        "en": "For Shiva-Shakti worship and meditation."
+        "hi": "इस मंत्र का जप प्रातःकाल अथवा सायंकाल शांत एवं एकाग्र मन से शिव-शक्ति उपासना, ध्यान तथा आध्यात्मिक साधना के समय किया जा सकता है।",
+        "en": "This mantra may be chanted during morning or evening prayers, meditation, and Shiva-Shakti worship to cultivate balance, devotion, and inner peace."
       },
       "dailyRoutine": [
         "morning",
@@ -102,15 +141,13 @@
         "requiresInitiation": false
       },
       "pronunciation": {
-        "hi": "'अर्धनारीश्वराय' का स्पष्ट उच्चारण करें।",
-        "en": "Pronounce 'Ardhanārīśvarāya' clearly."
+        "hi": "'अर्धनारीश्वराय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'नमः' का उच्चारण अंत में हल्के विसर्ग (ः) के साथ करें।",
+        "en": "Pronounce 'Ardhanarishvaraya' clearly with proper long vowels. End 'Namah' with a soft visarga sound."
       },
-      "tradition": "Shaiva",
-      "source": "Traditional",
-      "related": [
-        "om_namah_shivaya",
-        "parvati_mantra"
-      ],
+      "audio": {
+        "chant": "ardhanarishvara.mp3",
+        "pronunciation": "ardhanarishvara-pronunciation.mp3"
+      },
       "isPopular": true
     }
   ]
