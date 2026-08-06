@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "neelkantha_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "ॐ नीलकण्ठाय नमः",
+    "en": "Om Neelakanthaya Namah"
+  },
+  "image": "shiv.png",
+  "sortOrder": 7,
+  "mantras": [
+    {
+      "id": "neelkantha_mantra",
+      "title": {
+        "hi": "नीलकण्ठ मंत्र",
+        "en": "Neelkantha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नीलकण्ठाय नमः ॥",
+        "en": "Om Neelakanthaya Namah"
+      },
+      "description": {
+        "hi": "नीलकण्ठ मंत्र भगवान शिव के उस दिव्य स्वरूप को समर्पित है जिसने समुद्र मंथन के समय निकले कालकूट (हलाहल) विष का पान कर समस्त सृष्टि की रक्षा की। इसी कारण भगवान शिव 'नीलकण्ठ' कहलाए। यह मंत्र भगवान शिव के त्याग, करुणा, धैर्य तथा लोककल्याण की भावना का स्मरण कराता है और श्रद्धापूर्वक जपा जाता है।",
+        "en": "The Neelkantha Mantra is dedicated to Lord Shiva in His form as Neelkantha, the Blue-Throated One. According to Hindu tradition, Lord Shiva consumed the deadly Halahala poison during the Samudra Manthana to protect the universe. This mantra honors His compassion, sacrifice, courage, and divine protection."
+      },
+      "meaning": {
+        "hi": "मैं भगवान नीलकण्ठ को प्रणाम करता हूँ, जिन्होंने सम्पूर्ण सृष्टि की रक्षा के लिए विष का पान किया। वे हमें धैर्य, करुणा, साहस और आध्यात्मिक शक्ति प्रदान करें।",
+        "en": "I bow to Lord Neelkantha, who consumed the cosmic poison to protect creation. May He bless us with courage, compassion, patience, and spiritual strength."
+      },
+      "deities": [
+        "shiva",
+        "neelkantha"
+      ],
+      "categories": [
+        "shiva",
+        "nama_japa",
+        "protection"
+      ],
+      "keywords": {
+        "hi": [
+          "नीलकण्ठ मंत्र",
+          "नीलकंठ मंत्र",
+          "ॐ नीलकण्ठाय नमः",
+          "नीलकण्ठ",
+          "महादेव",
+          "शिव",
+          "हलाहल",
+          "समुद्र मंथन",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "neelkantha mantra",
+          "neelkanth mantra",
+          "om neelakanthaya namah",
+          "lord neelkantha",
+          "mahadev",
+          "shiva",
+          "halahala",
+          "samudra manthana",
+          "shiva mantra",
+          "shiva chant"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान शिव की कृपा",
+          "आंतरिक साहस",
+          "मानसिक शांति",
+          "धैर्य में वृद्धि",
+          "सकारात्मक ऊर्जा",
+          "भक्ति में वृद्धि",
+          "ध्यान में सहायता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Blessings of Lord Shiva",
+          "Inner courage",
+          "Mental peace",
+          "Greater patience",
+          "Positive energy",
+          "Growth in devotion",
+          "Supports meditation",
+          "Spiritual growth"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान शिव की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
+        "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, or during the worship of Lord Shiva."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नीलकण्ठाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'ण्ठ' संयुक्त व्यंजन का उच्चारण सावधानीपूर्वक करें।",
+        "en": "Pronounce 'Neelakanthaya' carefully, paying attention to the combined consonant 'ṇṭha' in Sanskrit."
+      },
+      "audio": "neelkantha_mantra.mp3",
+      "isPopular": true
+    }
+  ]
+}

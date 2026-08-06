@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "category": "ram",
+  "title": {
+    "hi": "श्री राम नाम जप",
+    "en": "Shri Ram Naam Jap"
+  },
+  "names": [
+    {
+      "id": "ram",
+      "name": {
+        "hi": "राम",
+        "en": "Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "shri_ram",
+      "name": {
+        "hi": "श्री राम",
+        "en": "Shri Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "jai_shri_ram",
+      "name": {
+        "hi": "जय श्री राम",
+        "en": "Jai Shri Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "ram_ram",
+      "name": {
+        "hi": "राम राम",
+        "en": "Ram Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "sita_ram",
+      "name": {
+        "hi": "सीताराम",
+        "en": "Sita Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "siya_ram",
+      "name": {
+        "hi": "सियाराम",
+        "en": "Siya Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "jai_siya_ram",
+      "name": {
+        "hi": "जय सियाराम",
+        "en": "Jai Siya Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "shri_ram_jai_ram",
+      "name": {
+        "hi": "श्री राम जय राम जय जय राम",
+        "en": "Shri Ram Jai Ram Jai Jai Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "raghunath",
+      "name": {
+        "hi": "रघुनाथ",
+        "en": "Raghunath"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "raghuveer",
+      "name": {
+        "hi": "रघुवीर",
+        "en": "Raghuveer"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "ramachandra",
+      "name": {
+        "hi": "रामचन्द्र",
+        "en": "Ramachandra"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "raghupati",
+      "name": {
+        "hi": "रघुपति",
+        "en": "Raghupati"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "dasharatha_nandana",
+      "name": {
+        "hi": "दशरथ नन्दन",
+        "en": "Dasharatha Nandana"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "kausalya_nandana",
+      "name": {
+        "hi": "कौसल्या नन्दन",
+        "en": "Kausalya Nandana"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "janaki_vallabha",
+      "name": {
+        "hi": "जानकीवल्लभ",
+        "en": "Janaki Vallabha"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "kodanda_rama",
+      "name": {
+        "hi": "कोदण्ड राम",
+        "en": "Kodanda Rama"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "maryada_purushottama",
+      "name": {
+        "hi": "मर्यादा पुरुषोत्तम",
+        "en": "Maryada Purushottama"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "shri_sita_ram",
+      "name": {
+        "hi": "श्री सीताराम",
+        "en": "Shri Sita Ram"
+      },
+      "deity": "ram",
+      "isPopular": true
+    },
+    {
+      "id": "jai_shri_sita_ram",
+      "name": {
+        "hi": "जय श्री सीताराम",
+        "en": "Jai Shri Sita Ram"
+      },
+      "deity": "ram",
+      "isPopular": false
+    },
+    {
+      "id": "ram_lalla",
+      "name": {
+        "hi": "रामलला",
+        "en": "Ram Lalla"
+      },
+      "deity": "ram",
+      "isPopular": true
+    }
+  ]
+}

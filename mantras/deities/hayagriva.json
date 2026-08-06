@@ -1,0 +1,313 @@
+{
+  "version": 1,
+  "id": "hayagriva",
+  "category": "hayagriva",
+  "title": {
+    "hi": "हयग्रीव",
+    "en": "Hayagriva"
+  },
+  "icon": "hayagriva",
+  "sortOrder": 39,
+  "mantras": [
+    {
+      "id": "hayagriva_mantra",
+      "title": {
+        "hi": "हयग्रीव मंत्र",
+        "en": "Hayagriva Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री हयग्रीवाय नमः॥",
+        "transliteration": "Om Śrī Hayagrīvāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हयग्रीव का प्रसिद्ध नाम मंत्र, जो ज्ञान, विद्या एवं स्मरण शक्ति की प्राप्ति के लिए जपा जाता है।",
+        "en": "A renowned nama mantra dedicated to Lord Hayagriva, chanted for knowledge, learning, and memory."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हयग्रीव को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hayagriva."
+      },
+      "deities": [
+        "hayagriva"
+      ],
+      "deityInfo": {
+        "primary": "hayagriva",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "hayagriva",
+        "education"
+      ],
+      "keywords": {
+        "hi": [
+          "हयग्रीव",
+          "विद्या",
+          "ज्ञान"
+        ],
+        "en": [
+          "hayagriva",
+          "knowledge",
+          "education"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विद्या",
+          "बुद्धि",
+          "स्मरण शक्ति",
+          "एकाग्रता",
+          "भक्ति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Learning",
+          "Wisdom",
+          "Memory",
+          "Concentration",
+          "Devotion",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "education",
+        "memory"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "before_study"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "अध्ययन एवं भगवान हयग्रीव की उपासना में।",
+        "en": "For studies and worship of Lord Hayagriva."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हयग्रीवाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hayagrīvāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "om_shri_hayagrivaya_namah",
+        "hayagriva_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_shri_hayagrivaya_namah",
+      "title": {
+        "hi": "ॐ श्री हयग्रीवाय नमः",
+        "en": "Om Shri Hayagrivaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री हयग्रीवाय नमः॥",
+        "transliteration": "Om Śrī Hayagrīvāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हयग्रीव को समर्पित प्रसिद्ध नमस्कार मंत्र, जो ज्ञान, विद्या एवं स्मरण शक्ति के लिए जपा जाता है।",
+        "en": "A revered salutation mantra dedicated to Lord Hayagriva, invoked for wisdom, learning, and memory."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हयग्रीव को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hayagriva."
+      },
+      "deities": [
+        "hayagriva"
+      ],
+      "deityInfo": {
+        "primary": "hayagriva",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "hayagriva",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "हयग्रीव",
+          "विद्या",
+          "ज्ञान"
+        ],
+        "en": [
+          "hayagriva",
+          "knowledge",
+          "learning"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विद्या",
+          "बुद्धि",
+          "स्मरण शक्ति",
+          "एकाग्रता",
+          "परीक्षा में सफलता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Learning",
+          "Wisdom",
+          "Memory",
+          "Concentration",
+          "Academic success",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "education",
+        "memory"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "before_study",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "अध्ययन प्रारम्भ करने से पूर्व एवं दैनिक उपासना में।",
+        "en": "Before study sessions and during daily worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हयग्रीवाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hayagrīvāya' clearly."
+      },
+      "tradition": "Sri Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "hayagriva_mantra",
+        "hayagriva_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hayagriva_gayatri",
+      "title": {
+        "hi": "हयग्रीव गायत्री",
+        "en": "Hayagriva Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ वागीश्वराय विद्महे हयग्रीवाय धीमहि। तन्नो हंसः प्रचोदयात्॥",
+        "transliteration": "Om Vāgīśvarāya Vidmahe Hayagrīvāya Dhīmahi Tanno Haṁsaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान हयग्रीव की कृपा, दिव्य ज्ञान, वाणी एवं सद्बुद्धि की प्राप्ति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Hayagriva for divine wisdom, eloquence, learning, and spiritual insight."
+      },
+      "meaning": {
+        "hi": "हम वाणी के स्वामी भगवान हयग्रीव का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Hayagriva, the Lord of knowledge and speech. May He enlighten our intellect."
+      },
+      "deities": [
+        "hayagriva"
+      ],
+      "deityInfo": {
+        "primary": "hayagriva",
+        "group": "vaishnava",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "hayagriva",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "हयग्रीव गायत्री",
+          "विद्या",
+          "वाणी"
+        ],
+        "en": [
+          "hayagriva gayatri",
+          "knowledge",
+          "speech"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "विद्या",
+          "सद्बुद्धि",
+          "स्मरण शक्ति",
+          "वाणी में निपुणता",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Learning",
+          "Wisdom",
+          "Memory",
+          "Eloquence",
+          "Concentration",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "education",
+        "communication"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "before_study",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "अध्ययन, परीक्षा एवं दैनिक साधना में।",
+        "en": "For study, examinations, and daily spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वागीश्वराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vāgīśvarāya' clearly."
+      },
+      "tradition": "Sri Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "hayagriva_mantra",
+        "om_shri_hayagrivaya_namah"
+      ],
+      "isPopular": true
+    }
+  ]
+}

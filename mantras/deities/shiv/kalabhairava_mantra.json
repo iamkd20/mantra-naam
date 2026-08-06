@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "kalabhairava_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "कालभैरव मंत्र",
+    "en": "Kalabhairava Mantra"
+  },
+  "image": "shiv.png",
+  "sortOrder": 12,
+  "mantras": [
+    {
+      "id": "kalabhairava_mantra",
+      "title": {
+        "hi": "कालभैरव मंत्र",
+        "en": "Kalabhairava Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ कालभैरवाय नमः ॥",
+        "en": "Om Kalabhairavaya Namah"
+      },
+      "description": {
+        "hi": "कालभैरव मंत्र भगवान शिव के उग्र एवं रक्षक स्वरूप कालभैरव को समर्पित पवित्र नाम-जप मंत्र है। कालभैरव को समय (काल) के स्वामी, धर्म के रक्षक तथा काशी के क्षेत्रपाल के रूप में पूजा जाता है। इस मंत्र का श्रद्धापूर्वक जप भगवान कालभैरव की कृपा, साहस, आत्मबल, अनुशासन तथा आध्यात्मिक जागृति की भावना से किया जाता है।",
+        "en": "The Kalabhairava Mantra is a sacred devotional chant dedicated to Lord Kalabhairava, the fierce and protective manifestation of Lord Shiva. Revered as the Lord of Time and the guardian of Kashi, Kalabhairava symbolizes discipline, courage, righteousness, and divine protection. This mantra is traditionally chanted with devotion to seek His blessings and spiritual strength."
+      },
+      "meaning": {
+        "hi": "मैं भगवान कालभैरव को प्रणाम करता हूँ, जो समय के स्वामी, धर्म के रक्षक और भगवान शिव के दिव्य स्वरूप हैं। वे हमें निर्भयता, विवेक, आत्मसंयम तथा धर्म के मार्ग पर चलने की प्रेरणा प्रदान करें।",
+        "en": "I bow to Lord Kalabhairava, the Lord of Time, the guardian of righteousness, and the divine form of Lord Shiva. May He bless us with fearlessness, wisdom, self-discipline, and guidance on the righteous path."
+      },
+      "deities": [
+        "shiva",
+        "kalabhairava"
+      ],
+      "categories": [
+        "shiva",
+        "nama_japa",
+        "bhairava"
+      ],
+      "keywords": {
+        "hi": [
+          "कालभैरव मंत्र",
+          "ॐ कालभैरवाय नमः",
+          "काल भैरव",
+          "भैरव",
+          "काशी के कोतवाल",
+          "काल",
+          "महादेव",
+          "शिव",
+          "भैरव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "kalabhairava mantra",
+          "om kalabhairavaya namah",
+          "kala bhairava",
+          "bhairava",
+          "guardian of kashi",
+          "lord of time",
+          "mahadev",
+          "shiva",
+          "bhairava mantra",
+          "shiva chant"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान कालभैरव की कृपा",
+          "आंतरिक साहस",
+          "निर्भयता की भावना",
+          "आत्मअनुशासन",
+          "मानसिक दृढ़ता",
+          "शिव भक्ति में वृद्धि",
+          "ध्यान में सहायता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Blessings of Lord Kalabhairava",
+          "Inner courage",
+          "Cultivates fearlessness",
+          "Self-discipline",
+          "Mental resilience",
+          "Growth in devotion",
+          "Supports meditation",
+          "Spiritual growth"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, रविवार, सोमवार, कालाष्टमी तथा भगवान कालभैरव की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
+        "en": "This mantra may be chanted during morning or evening prayers, on Sundays, Mondays, Kala Ashtami, and during the worship of Lord Kalabhairava with devotion and concentration."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कालभैरवाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'भै' का उच्चारण 'भै' (bhai) के समान करें।",
+        "en": "Pronounce 'Kalabhairavaya' clearly, giving proper emphasis to the 'bhai' sound in 'Bhairava'."
+      },
+      "audio": "kalabhairava_mantra.mp3",
+      "isPopular": true
+    }
+  ]
+}

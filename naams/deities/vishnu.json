@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "category": "vishnu",
+  "title": {
+    "hi": "विष्णु एवं नारायण नाम जप",
+    "en": "Vishnu & Narayana Naam Jap"
+  },
+  "names": [
+    {
+      "id": "vishnu",
+      "name": {
+        "hi": "विष्णु",
+        "en": "Vishnu"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "narayana",
+      "name": {
+        "hi": "नारायण",
+        "en": "Narayana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "shri_narayana",
+      "name": {
+        "hi": "श्री नारायण",
+        "en": "Shri Narayana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "hari",
+      "name": {
+        "hi": "हरि",
+        "en": "Hari"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "shri_hari",
+      "name": {
+        "hi": "श्री हरि",
+        "en": "Shri Hari"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "om_namo_narayanaya",
+      "name": {
+        "hi": "ॐ नमो नारायणाय",
+        "en": "Om Namo Narayanaya"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "om_namo_bhagavate_vasudevaya",
+      "name": {
+        "hi": "ॐ नमो भगवते वासुदेवाय",
+        "en": "Om Namo Bhagavate Vasudevaya"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "vasudeva",
+      "name": {
+        "hi": "वासुदेव",
+        "en": "Vasudeva"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "achyuta",
+      "name": {
+        "hi": "अच्युत",
+        "en": "Achyuta"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "ananta",
+      "name": {
+        "hi": "अनन्त",
+        "en": "Ananta"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "janardana",
+      "name": {
+        "hi": "जनार्दन",
+        "en": "Janardana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "mukunda",
+      "name": {
+        "hi": "मुकुन्द",
+        "en": "Mukunda"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "madhusudana",
+      "name": {
+        "hi": "मधुसूदन",
+        "en": "Madhusudana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "purushottama",
+      "name": {
+        "hi": "पुरुषोत्तम",
+        "en": "Purushottama"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "sridhara",
+      "name": {
+        "hi": "श्रीधर",
+        "en": "Shridhara"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "hrishikesha",
+      "name": {
+        "hi": "हृषीकेश",
+        "en": "Hrishikesha"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "padmanabha",
+      "name": {
+        "hi": "पद्मनाभ",
+        "en": "Padmanabha"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "damodara",
+      "name": {
+        "hi": "दामोदर",
+        "en": "Damodara"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "trivikrama",
+      "name": {
+        "hi": "त्रिविक्रम",
+        "en": "Trivikrama"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "vamana",
+      "name": {
+        "hi": "वामन",
+        "en": "Vamana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "govinda",
+      "name": {
+        "hi": "गोविन्द",
+        "en": "Govinda"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "lakshmi_narayana",
+      "name": {
+        "hi": "लक्ष्मी नारायण",
+        "en": "Lakshmi Narayana"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "shesha_shayi",
+      "name": {
+        "hi": "शेषशायी",
+        "en": "Shesha Shayi"
+      },
+      "deity": "vishnu",
+      "isPopular": false
+    },
+    {
+      "id": "jagannatha",
+      "name": {
+        "hi": "जगन्नाथ",
+        "en": "Jagannath"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "venkatesha",
+      "name": {
+        "hi": "वेंकटेश",
+        "en": "Venkatesha"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "srinivasa",
+      "name": {
+        "hi": "श्रीनिवास",
+        "en": "Srinivasa"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "panduranga",
+      "name": {
+        "hi": "पांडुरंग",
+        "en": "Panduranga"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "vitthala",
+      "name": {
+        "hi": "विठ्ठल",
+        "en": "Vitthala"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "rama_krishna_hari",
+      "name": {
+        "hi": "राम कृष्ण हरी",
+        "en": "Ram Krishna Hari"
+      },
+      "deity": "vishnu",
+      "isPopular": true
+    },
+    {
+      "id": "narayana_hari",
+      "name": {
+        "hi": "नारायण हरि",
+        "en": "Narayana Hari"
+      },
+      "deity": "vishnu",
+      "isPopular": false
+    }
+  ]
+}

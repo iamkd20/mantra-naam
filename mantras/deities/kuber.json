@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "category": "Kubera",
+  "title": {
+    "hi": "कुबेर",
+    "en": "Kubera"
+  },
+  "mantras": [
+    {
+      "id": "kubera_mantra",
+      "title": {
+        "hi": "कुबेर मंत्र",
+        "en": "Kubera Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ यक्षाय कुबेराय वैश्रवणाय धनधान्याधिपतये धनधान्यसमृद्धिं मे देहि दापय स्वाहा॥",
+        "transliteration": "Om Yakṣāya Kuberāya Vaiśravaṇāya Dhanadhānyādhipataye Dhanadhānyasamṛddhiṁ Me Dehi Dāpaya Svāhā"
+      },
+      "description": {
+        "hi": "धन के अधिपति भगवान कुबेर का प्रसिद्ध मंत्र, जो समृद्धि एवं धन-धान्य की वृद्धि के लिए जपा जाता है।",
+        "en": "A renowned mantra of Lord Kubera, the deity of wealth, chanted for prosperity and abundance."
+      },
+      "meaning": {
+        "hi": "हे वैश्रवण कुबेर! मुझे धन, धान्य एवं समृद्धि प्रदान करें।",
+        "en": "O Kubera, Lord Vaishravana, bless me with wealth and abundance."
+      },
+      "deities": [
+        "kubera"
+      ],
+      "deityInfo": {
+        "primary": "kubera",
+        "group": "lokapala",
+        "parent": null
+      },
+      "categories": [
+        "kubera",
+        "prosperity"
+      ],
+      "keywords": {
+        "hi": [
+          "कुबेर",
+          "वैश्रवण",
+          "धन"
+        ],
+        "en": [
+          "kubera",
+          "vaishravana",
+          "wealth"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धन",
+          "समृद्धि",
+          "व्यापार वृद्धि",
+          "सौभाग्य",
+          "आर्थिक स्थिरता",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Wealth",
+          "Prosperity",
+          "Business growth",
+          "Good fortune",
+          "Financial stability",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "wealth",
+        "abundance"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "dhanteras",
+        "diwali"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "धन एवं समृद्धि की प्रार्थना में।",
+        "en": "For prayers seeking prosperity."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वैश्रवणाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vaiśravaṇāya' clearly."
+      },
+      "tradition": "Hindu",
+      "source": "Traditional",
+      "related": [
+        "om_kuberaya_namah",
+        "kubera_ashtalakshmi_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_kuberaya_namah",
+      "title": {
+        "hi": "ॐ कुबेराय नमः",
+        "en": "Om Kuberaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ कुबेराय नमः॥",
+        "transliteration": "Om Kuberāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान कुबेर का सरल एवं लोकप्रिय नाम मंत्र।",
+        "en": "A simple and popular mantra dedicated to Lord Kubera."
+      },
+      "meaning": {
+        "hi": "मैं भगवान कुबेर को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Kubera."
+      },
+      "deities": [
+        "kubera"
+      ],
+      "deityInfo": {
+        "primary": "kubera",
+        "group": "lokapala",
+        "parent": null
+      },
+      "categories": [
+        "kubera",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "कुबेर",
+          "कुबेराय नमः"
+        ],
+        "en": [
+          "kubera",
+          "kuberaya namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धन",
+          "समृद्धि",
+          "सौभाग्य",
+          "आर्थिक स्थिरता",
+          "सकारात्मकता",
+          "भक्ति"
+        ],
+        "en": [
+          "Wealth",
+          "Prosperity",
+          "Good fortune",
+          "Financial stability",
+          "Positivity",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "wealth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "dhanteras"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक कुबेर जप में।",
+        "en": "For daily Kubera chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कुबेराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kuberāya' clearly."
+      },
+      "tradition": "Hindu",
+      "source": "Traditional",
+      "related": [
+        "kubera_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "kubera_ashtalakshmi_mantra",
+      "title": {
+        "hi": "कुबेर अष्टलक्ष्मी मंत्र",
+        "en": "Kubera Ashtalakshmi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं श्रीं क्लीं वित्तेश्वराय नमः॥",
+        "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Śrīṁ Klīṁ Vitteśvarāya Namaḥ"
+      },
+      "description": {
+        "hi": "कुबेर एवं अष्टलक्ष्मी की संयुक्त कृपा प्राप्त करने हेतु प्रचलित साधना मंत्र।",
+        "en": "A mantra invoking the combined blessings of Lord Kubera and Ashta Lakshmi for prosperity."
+      },
+      "meaning": {
+        "hi": "मैं धन के अधिपति भगवान वित्तेश्वर को प्रणाम करता हूँ।",
+        "en": "I bow to Vitteśvara, the Lord of Wealth."
+      },
+      "deities": [
+        "kubera",
+        "lakshmi"
+      ],
+      "deityInfo": {
+        "primary": "kubera",
+        "group": "prosperity",
+        "parent": null
+      },
+      "categories": [
+        "kubera",
+        "lakshmi",
+        "prosperity"
+      ],
+      "keywords": {
+        "hi": [
+          "अष्टलक्ष्मी",
+          "कुबेर",
+          "वित्तेश्वर"
+        ],
+        "en": [
+          "ashtalakshmi",
+          "kubera",
+          "vitteshwara"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धन",
+          "समृद्धि",
+          "व्यापार वृद्धि",
+          "सौभाग्य",
+          "आर्थिक उन्नति",
+          "देवी कृपा"
+        ],
+        "en": [
+          "Wealth",
+          "Prosperity",
+          "Business growth",
+          "Good fortune",
+          "Financial growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "wealth",
+        "prosperity",
+        "abundance"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "friday",
+        "dhanteras",
+        "diwali"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "विशेष धन-साधना में।",
+        "en": "For dedicated prosperity sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वित्तेश्वराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vitteśvarāya' clearly."
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [
+        "kubera_mantra",
+        "om_kuberaya_namah"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "om_vitteshwaraya_namah",
+      "title": {
+        "hi": "ॐ वित्तेश्वराय नमः",
+        "en": "Om Vitteshwaraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ वित्तेश्वराय नमः॥",
+        "transliteration": "Om Vitteśvarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान कुबेर के वित्तेश्वर स्वरूप को समर्पित नाम मंत्र।",
+        "en": "A sacred name mantra dedicated to Lord Kubera as Vitteśvara, the Lord of Wealth."
+      },
+      "meaning": {
+        "hi": "मैं धन के स्वामी भगवान वित्तेश्वर को प्रणाम करता हूँ।",
+        "en": "I bow to Vitteśvara, the Lord of Wealth."
+      },
+      "deities": [
+        "kubera"
+      ],
+      "deityInfo": {
+        "primary": "kubera",
+        "group": "lokapala",
+        "parent": null
+      },
+      "categories": [
+        "kubera",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "वित्तेश्वर",
+          "कुबेर",
+          "धन"
+        ],
+        "en": [
+          "vitteshwara",
+          "kubera",
+          "wealth"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धन",
+          "समृद्धि",
+          "आर्थिक स्थिरता",
+          "सौभाग्य",
+          "भक्ति",
+          "सकारात्मकता"
+        ],
+        "en": [
+          "Wealth",
+          "Prosperity",
+          "Financial stability",
+          "Good fortune",
+          "Devotion",
+          "Positivity"
+        ]
+      },
+      "purpose": [
+        "wealth",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "dhanteras"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक कुबेर उपासना में।",
+        "en": "For daily Kubera worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वित्तेश्वराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vitteśvarāya' clearly."
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [
+        "om_kuberaya_namah"
+      ],
+      "isPopular": true
+    }
+  ]
+}

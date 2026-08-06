@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "batuk_bhairava_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "बटुक भैरव मंत्र",
+    "en": "Batuk Bhairava Mantra"
+  },
+  "image": "shiv.png",
+  "sortOrder": 13,
+  "mantras": [
+    {
+      "id": "batuk_bhairava_mantra",
+      "title": {
+        "hi": "बटुक भैरव मंत्र",
+        "en": "Batuk Bhairava Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ बटुकाय आपदुद्धारणाय कुरु कुरु बटुकाय ह्रीं ॐ नमः शिवाय ॥",
+        "en": "Om Batukaya Apaduddharanaya Kuru Kuru Batukaya Hreem Om Namah Shivaya"
+      },
+      "description": {
+        "hi": "बटुक भैरव मंत्र भगवान शिव के बटुक भैरव स्वरूप को समर्पित एक प्रसिद्ध मंत्र है। बटुक भैरव को भगवान कालभैरव का बाल स्वरूप माना जाता है, जो अपने भक्तों की रक्षा करने वाले, विघ्नों को दूर करने वाले तथा शीघ्र कृपा करने वाले देवता के रूप में पूजित हैं। यह मंत्र श्रद्धा एवं भक्ति के साथ जपा जाता है।",
+        "en": "The Batuk Bhairava Mantra is a revered prayer dedicated to Lord Batuk Bhairava, the youthful manifestation of Lord Bhairava. Batuk Bhairava is worshipped as a compassionate and protective form of Shiva who removes obstacles and blesses devotees with courage, devotion, and spiritual strength."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बटुक भैरव को प्रणाम करता हूँ। हे प्रभु! आप सभी संकटों एवं बाधाओं से रक्षा करें, हमें साहस, विवेक, आत्मबल तथा धर्म के मार्ग पर चलने की प्रेरणा प्रदान करें।",
+        "en": "I bow to Lord Batuk Bhairava. O Lord, kindly protect us from difficulties and obstacles, and bless us with courage, wisdom, inner strength, and guidance on the path of righteousness."
+      },
+      "deities": [
+        "shiva",
+        "batuk_bhairava"
+      ],
+      "categories": [
+        "shiva",
+        "bhairava",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "बटुक भैरव मंत्र",
+          "बटुक भैरव",
+          "ॐ बटुकाय",
+          "आपदुद्धारणाय",
+          "भैरव मंत्र",
+          "कालभैरव",
+          "महादेव",
+          "शिव",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "batuk bhairava mantra",
+          "batuk bhairav mantra",
+          "om batukaya",
+          "apaduddharanaya",
+          "bhairava mantra",
+          "kalabhairava",
+          "mahadev",
+          "shiva",
+          "shiva mantra",
+          "shiva chant"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान बटुक भैरव की कृपा",
+          "भक्ति में वृद्धि",
+          "आंतरिक साहस",
+          "मानसिक दृढ़ता",
+          "ध्यान में सहायता",
+          "सकारात्मक ऊर्जा",
+          "आध्यात्मिक उन्नति",
+          "विघ्नों से रक्षा की प्रार्थना"
+        ],
+        "en": [
+          "Blessings of Lord Batuk Bhairava",
+          "Growth in devotion",
+          "Inner courage",
+          "Mental resilience",
+          "Supports meditation",
+          "Positive energy",
+          "Spiritual growth",
+          "Prayer for protection from obstacles"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "इस मंत्र का जप प्रातःकाल अथवा सायंकाल श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। भगवान भैरव की उपासना, कालाष्टमी तथा विशेष शिव साधना के अवसर पर इसका जप विशेष रूप से किया जाता है।",
+        "en": "This mantra may be chanted in the morning or evening with devotion and concentration. It is traditionally recited during the worship of Lord Bhairava, on Kala Ashtami, and during special Shiva spiritual practices."
+      },
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'आपदुद्धारणाय', 'कुरु कुरु' तथा 'बटुकाय' का स्पष्ट एवं शुद्ध संस्कृत उच्चारण करें।",
+        "en": "Pronounce 'Apaduddharanaya', 'Kuru Kuru', and 'Batukaya' carefully with proper Sanskrit pronunciation."
+      },
+      "audio": "batuk_bhairava_mantra.mp3",
+      "isPopular": true
+    }
+  ]
+}
