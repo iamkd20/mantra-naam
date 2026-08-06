@@ -6,7 +6,7 @@
     "hi": "अर्धनारीश्वर",
     "en": "Ardhanarishvara"
   },
-  "image": "assets/icons/ardhanarishvara.webp" 
+  "image": "assets/image/ardhanarishvara.webp" 
   "sortOrder": 41,
   "mantras": [
     {
@@ -145,8 +145,7 @@
         "en": "Pronounce 'Ardhanarishvaraya' clearly with proper long vowels. End 'Namah' with a soft visarga sound."
       },
       "audio": {
-        "chant": "ardhanarishvara.mp3",
-        "pronunciation": "ardhanarishvara-pronunciation.mp3"
+        "chant": "assets/audio/ardhanarishvara.mp3",
       },
       "isPopular": true
     }
