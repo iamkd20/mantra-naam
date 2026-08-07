@@ -5,10 +5,10 @@ A lightweight, local web-based JSON editor designed specifically to manage the `
 It provides a safe, simple, and beautiful UI with full syntax highlighting to edit files directly on your local machine, eliminating the need to modify complex JSON files in a standard text editor.
 
 ## Features
-- 📁 **Sidebar File Explorer**: Easily browse all `.json` files within the `mantras` and `naams` directories.
-- 📝 **Monaco Editor Integration**: Edits are powered by the Monaco Editor (the core engine behind VS Code) giving you rich syntax highlighting, JSON validation, and formatting right in the browser.
-- ➕ **Create New Files**: One-click scaffold to create new Mantra or Naam JSON files with the correct base structure.
-- 💾 **Quick Save**: Hit `Ctrl+S` (or `Cmd+S`) to instantly save your changes back to disk.
+- **Sidebar File Explorer**: Easily browse all `.json` files within the `mantras` and `naams` directories.
+- **Monaco Editor Integration**: Edits are powered by the Monaco Editor (the core engine behind VS Code) giving you rich syntax highlighting, JSON validation, and formatting right in the browser.
+- **Create New Files**: One-click scaffold to create new Mantra or Naam JSON files with the correct base structure.
+- **Quick Save**: Hit `Ctrl+S` (or `Cmd+S`) to instantly save your changes back to disk.
 
 ## Requirements
 - [Node.js](https://nodejs.org/) installed on your machine.
