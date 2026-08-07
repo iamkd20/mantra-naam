@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mantra & Naam Editor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>📁 JSON Files</h2>
+                <button id="refreshBtn" class="btn small">Refresh</button>
+            </div>
+            
+            <div class="sidebar-actions">
+                <button id="newFileBtn" class="btn outline w-100">+ New File</button>
+            </div>
+
+            <div class="file-list-container">
+                <!-- Mantra Files -->
+                <div class="folder-group">
+                    <h3 class="folder-title">Mantras</h3>
+                    <ul id="mantraList" class="file-list"></ul>
+                </div>
+                
+                <!-- Naam Files -->
+                <div class="folder-group">
+                    <h3 class="folder-title">Naams</h3>
+                    <ul id="naamList" class="file-list"></ul>
+                </div>
+            </div>
+        </aside>
+
+        <main class="editor-main">
+            <header class="editor-header">
+                <div class="file-info">
+                    <span id="currentFileName">No file selected</span>
+                </div>
+                <div class="editor-actions">
+                    <span id="saveStatus" class="status-msg"></span>
+                    <button id="saveBtn" class="btn primary" disabled>Save Changes</button>
+                </div>
+            </header>
+            
+            <div class="form-scroll-container">
+                <div id="formContainer" class="form-container">
+                    <div class="empty-state">Select a file from the sidebar to start editing</div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for New File -->
+    <div id="newFileModal" class="modal">
+        <div class="modal-content">
+            <h3>Create New File</h3>
+            <div class="form-group">
+                <label>Folder Type:</label>
+                <select id="newFileType">
+                    <option value="mantras">Mantras</option>
+                    <option value="naams">Naams</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label>Category/Subfolder (Optional):</label>
+                <input type="text" id="newFileSubfolder" placeholder="e.g. deities/shiv">
+            </div>
+            <div class="form-group">
+                <label>File Name (without .json):</label>
+                <input type="text" id="newFileName" placeholder="e.g. shiv_tandav">
+            </div>
+            <div class="modal-actions">
+                <button id="cancelModalBtn" class="btn secondary">Cancel</button>
+                <button id="createFileBtn" class="btn primary">Create File</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
