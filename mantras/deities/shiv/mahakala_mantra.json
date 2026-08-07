@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "mahakala_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "ॐ महाकालाय नमः",
+    "en": "Om Mahakalaya Namah"
+  },
+  "image": "shiv.png",
+  "sortOrder": 9,
+  "mantras": [
+    {
+      "id": "mahakala_mantra",
+      "title": {
+        "hi": "महाकाल मंत्र",
+        "en": "Mahakala Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महाकालाय नमः ॥",
+        "en": "Om Mahakalaya Namah"
+      },
+      "description": {
+        "hi": "महाकाल मंत्र भगवान शिव के महाकाल स्वरूप को समर्पित एक पवित्र नाम-जप मंत्र है। महाकाल का अर्थ है 'काल के भी काल', अर्थात जो समय, जन्म और मृत्यु से परे हैं। उज्जैन स्थित श्री महाकालेश्वर ज्योतिर्लिंग भगवान शिव के इसी दिव्य स्वरूप का प्रतीक है। श्रद्धापूर्वक इस मंत्र का जप भगवान महाकाल की कृपा, आंतरिक साहस, आध्यात्मिक जागृति तथा शिव भक्ति के लिए किया जाता है।",
+        "en": "The Mahakala Mantra is a sacred chant dedicated to Lord Shiva in His form as Mahakala, the Lord beyond time. Mahakala represents the eternal nature of Shiva, transcending birth, death, and time itself. This mantra is traditionally chanted to seek Lord Mahakala's blessings, cultivate courage, deepen devotion, and strengthen spiritual awareness."
+      },
+      "meaning": {
+        "hi": "मैं भगवान महाकाल को प्रणाम करता हूँ, जो समय, जन्म और मृत्यु से परे हैं। वे हमें निर्भयता, आत्मबल, विवेक तथा आध्यात्मिक मार्ग पर चलने की प्रेरणा प्रदान करें।",
+        "en": "I bow to Lord Mahakala, who exists beyond time, birth, and death. May He bless us with fearlessness, inner strength, wisdom, and guidance on the spiritual path."
+      },
+      "deities": [
+        "shiva",
+        "mahakala"
+      ],
+      "categories": [
+        "shiva",
+        "nama_japa",
+        "jyotirlinga"
+      ],
+      "keywords": {
+        "hi": [
+          "महाकाल मंत्र",
+          "ॐ महाकालाय नमः",
+          "महाकाल",
+          "महाकालेश्वर",
+          "उज्जैन महाकाल",
+          "ज्योतिर्लिंग",
+          "महादेव",
+          "शिव",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "mahakala mantra",
+          "om mahakalaya namah",
+          "mahakala",
+          "mahakaleshwar",
+          "ujjain mahakal",
+          "jyotirlinga",
+          "lord shiva",
+          "mahadev",
+          "shiva mantra",
+          "shiva chant"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान महाकाल की कृपा",
+          "शिव भक्ति में वृद्धि",
+          "आंतरिक साहस",
+          "निर्भयता की भावना",
+          "मानसिक शांति",
+          "ध्यान में एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "सकारात्मक ऊर्जा"
+        ],
+        "en": [
+          "Blessings of Lord Mahakala",
+          "Growth in devotion",
+          "Inner courage",
+          "Cultivates fearlessness",
+          "Mental peace",
+          "Improves meditation",
+          "Spiritual growth",
+          "Positive energy"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान महाकाल की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। उज्जैन महाकालेश्वर के दर्शन अथवा स्मरण के समय भी इसका जप शुभ माना जाता है।",
+        "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, and during the worship of Lord Mahakala. It is also traditionally recited while remembering or visiting Mahakaleshwar Jyotirlinga."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महाकालाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'काल' का उच्चारण दीर्घ 'आ' के साथ करें।",
+        "en": "Pronounce 'Mahakalaya' clearly, giving the long 'aa' sound in 'Kala' proper emphasis."
+      },
+      "audio": "mahakala_mantra.mp3",
+      "isPopular": true
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "id": "yamuna",
+  "category": "yamuna",
+  "title": {
+    "hi": "यमुना",
+    "en": "Yamuna"
+  },
+  "icon": "yamuna",
+  "sortOrder": 42,
+  "mantras": [
+    {
+      "id": "yamuna_mantra",
+      "title": {
+        "hi": "यमुना मंत्र",
+        "en": "Yamuna Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ यमुनायै नमः॥",
+        "transliteration": "Om Yamunāyai Namaḥ"
+      },
+      "description": {
+        "hi": "पवित्र यमुना नदी की देवी स्वरूप उपासना का सरल एवं प्रसिद्ध मंत्र।",
+        "en": "A simple and revered mantra dedicated to Goddess Yamuna, the sacred river deity."
+      },
+      "meaning": {
+        "hi": "मैं माता यमुना को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Yamuna."
+      },
+      "deities": [
+        "yamuna"
+      ],
+      "deityInfo": {
+        "primary": "yamuna",
+        "group": "sacred_river",
+        "parent": null
+      },
+      "categories": [
+        "yamuna",
+        "river"
+      ],
+      "keywords": {
+        "hi": [
+          "यमुना",
+          "कालिंदी",
+          "पवित्र नदी"
+        ],
+        "en": [
+          "yamuna",
+          "kalindi",
+          "sacred river"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "भक्ति",
+          "मानसिक शांति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "कृपा"
+        ],
+        "en": [
+          "Purity",
+          "Devotion",
+          "Mental peace",
+          "Positivity",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "purification",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "river_worship"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "यमुना पूजन एवं दैनिक प्रार्थना में।",
+        "en": "For Yamuna worship and daily prayers."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'यमुनायै' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Yamunāyai' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "yamuna_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "yamuna_gayatri",
+      "title": {
+        "hi": "यमुना गायत्री",
+        "en": "Yamuna Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ कालिन्द्यै विद्महे सूर्यपुत्र्यै धीमहि। तन्नो यमुना प्रचोदयात्॥",
+        "transliteration": "Om Kālindyai Vidmahe Sūryaputryai Dhīmahi Tanno Yamunā Pracodayāt"
+      },
+      "description": {
+        "hi": "माता यमुना की कृपा, पवित्रता एवं आध्यात्मिक शुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Goddess Yamuna for purity, devotion, and spiritual grace."
+      },
+      "meaning": {
+        "hi": "हम सूर्यपुत्री माता यमुना का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Yamuna, the daughter of the Sun. May She enlighten our intellect."
+      },
+      "deities": [
+        "yamuna"
+      ],
+      "deityInfo": {
+        "primary": "yamuna",
+        "group": "sacred_river",
+        "parent": null
+      },
+      "categories": [
+        "yamuna",
+        "gayatri",
+        "river"
+      ],
+      "keywords": {
+        "hi": [
+          "यमुना गायत्री",
+          "कालिंदी",
+          "सूर्यपुत्री"
+        ],
+        "en": [
+          "yamuna gayatri",
+          "kalindi",
+          "sun daughter"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "पवित्रता",
+          "मन की शांति",
+          "भक्ति",
+          "आध्यात्मिक शुद्धि",
+          "सकारात्मकता",
+          "दैवी कृपा"
+        ],
+        "en": [
+          "Purity",
+          "Mental peace",
+          "Devotion",
+          "Spiritual purification",
+          "Positivity",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "purification",
+        "devotion",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "river_worship"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "यमुना पूजन एवं आध्यात्मिक साधना में।",
+        "en": "For Yamuna worship and spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कालिन्द्यै' और 'प्रचोदयात्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kālindyai' and 'Pracodayāt' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "yamuna_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

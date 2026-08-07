@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "id": "pashupati_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "ॐ पशुपतये नमः",
+    "en": "Om Pashupataye Namah"
+  },
+  "image": "shiv.png",
+  "sortOrder": 8,
+  "mantras": [
+    {
+      "id": "pashupati_mantra",
+      "title": {
+        "hi": "पशुपति मंत्र",
+        "en": "Pashupati Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ पशुपतये नमः ॥",
+        "en": "Om Pashupataye Namah"
+      },
+      "description": {
+        "hi": "पशुपति मंत्र भगवान शिव के 'पशुपति' स्वरूप को समर्पित अत्यंत पवित्र नाम-जप मंत्र है। 'पशुपति' का अर्थ है समस्त प्राणियों, जीवों तथा सम्पूर्ण सृष्टि के स्वामी। यह मंत्र भगवान शिव की करुणा, संरक्षण, सार्वभौमिक प्रेम तथा समस्त जीवों के प्रति समान दृष्टि का स्मरण कराता है। श्रद्धापूर्वक जप करने से साधक में दया, विनम्रता, आत्मसंयम एवं आध्यात्मिक चेतना का विकास होता है।",
+        "en": "The Pashupati Mantra is a sacred chant dedicated to Lord Shiva in His form as Pashupati, the Lord of all living beings. It symbolizes Shiva's universal compassion, protection, and loving care for every creature. This mantra is traditionally chanted to deepen devotion, cultivate humility, and strengthen one's spiritual connection with the Divine."
+      },
+      "meaning": {
+        "hi": "मैं समस्त जीवों के स्वामी भगवान पशुपति को प्रणाम करता हूँ। वे हमें करुणा, संरक्षण, आत्मसंयम, धर्म एवं आध्यात्मिक जीवन का मार्ग प्रदान करें।",
+        "en": "I bow to Lord Pashupati, the Lord of all living beings. May He bless us with compassion, protection, self-discipline, righteousness, and spiritual wisdom."
+      },
+      "deities": [
+        "shiva",
+        "pashupati"
+      ],
+      "categories": [
+        "shiva",
+        "nama_japa",
+        "devotion"
+      ],
+      "keywords": {
+        "hi": [
+          "पशुपति मंत्र",
+          "ॐ पशुपतये नमः",
+          "पशुपति",
+          "पशुपतिनाथ",
+          "शिव",
+          "महादेव",
+          "भोलेनाथ",
+          "शिव मंत्र",
+          "शिव जप",
+          "नेपाल पशुपतिनाथ"
+        ],
+        "en": [
+          "pashupati mantra",
+          "om pashupataye namah",
+          "pashupati",
+          "pashupatinath",
+          "lord shiva",
+          "mahadev",
+          "bholenath",
+          "shiva mantra",
+          "shiva chant",
+          "nepal pashupatinath"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भगवान शिव की कृपा",
+          "भक्ति में वृद्धि",
+          "करुणा एवं दया की भावना",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति",
+          "ध्यान में सहायता",
+          "आंतरिक संतुलन",
+          "सकारात्मक जीवन दृष्टिकोण"
+        ],
+        "en": [
+          "Blessings of Lord Shiva",
+          "Growth in devotion",
+          "Compassion and kindness",
+          "Mental peace",
+          "Spiritual growth",
+          "Supports meditation",
+          "Inner balance",
+          "Positive outlook on life"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान शिव की दैनिक उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
+        "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, and during daily worship of Lord Shiva."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'पशुपतये' का उच्चारण स्पष्ट करें। 'तये' का उच्चारण 'त-ये' के रूप में करें।",
+        "en": "Pronounce 'Pashupataye' clearly, giving proper emphasis to the final 'taye'."
+      },
+      "audio": "pashupati_mantra.mp3",
+      "isPopular": true
+    }
+  ]
+}

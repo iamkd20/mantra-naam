@@ -7,7 +7,7 @@
         "en": "Popular Combined Naam Jap"
       },
       "description": "",
-      "file": "combo.json"
+      "file": "misc/combo.json"
     },
     {
       "id": "devi",
@@ -16,7 +16,7 @@
         "en": "Devi Naam Jap"
       },
       "description": "",
-      "file": "devi.json"
+      "file": "deities/devi.json"
     },
     {
       "id": "ganesha",
@@ -25,7 +25,7 @@
         "en": "Shri Ganesha Naam Jap"
       },
       "description": "",
-      "file": "ganesh.json"
+      "file": "deities/ganesh.json"
     },
     {
       "id": "guru",
@@ -34,7 +34,7 @@
         "en": "Guru & Saints Naam Jap"
       },
       "description": "",
-      "file": "guru.json"
+      "file": "misc/guru.json"
     },
     {
       "id": "hanuman",
@@ -43,7 +43,7 @@
         "en": "Hanuman Naam Jap"
       },
       "description": "",
-      "file": "hanuman.json"
+      "file": "deities/hanuman.json"
     },
     {
       "id": "krishna",
@@ -52,7 +52,7 @@
         "en": "Shri Krishna & Radha Naam Jap"
       },
       "description": "",
-      "file": "krishna.json"
+      "file": "deities/krishna.json"
     },
     {
       "id": "navagraha",
@@ -61,7 +61,7 @@
         "en": "Surya & Navagraha Naam Jap"
       },
       "description": "",
-      "file": "navgrah.json"
+      "file": "misc/navgrah.json"
     },
     {
       "id": "popular",
@@ -70,7 +70,7 @@
         "en": "Popular Naam Jap"
       },
       "description": "The most widely chanted and revered divine names in Sanatana Dharma.",
-      "file": "popular.json"
+      "file": "misc/popular.json"
     },
     {
       "id": "ram",
@@ -79,7 +79,7 @@
         "en": "Shri Ram Naam Jap"
       },
       "description": "",
-      "file": "ram.json"
+      "file": "deities/ram.json"
     },
     {
       "id": "regional",
@@ -88,7 +88,7 @@
         "en": "Regional & Special Deities Naam Jap"
       },
       "description": "",
-      "file": "regional.json"
+      "file": "misc/regional.json"
     },
     {
       "id": "shiva",
@@ -97,7 +97,7 @@
         "en": "Shiva Naam Jap"
       },
       "description": "",
-      "file": "shiv.json"
+      "file": "deities/shiv.json"
     },
     {
       "id": "vishnu",
@@ -106,7 +106,7 @@
         "en": "Vishnu & Narayana Naam Jap"
       },
       "description": "",
-      "file": "vishnu.json"
+      "file": "deities/vishnu.json"
     }
   ]
 }

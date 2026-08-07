@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "category": "hanuman",
+  "title": {
+    "hi": "हनुमान नाम जप",
+    "en": "Hanuman Naam Jap"
+  },
+  "names": [
+    {
+      "id": "hanuman",
+      "name": {
+        "hi": "हनुमान",
+        "en": "Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "jai_hanuman",
+      "name": {
+        "hi": "जय हनुमान",
+        "en": "Jai Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "shri_hanuman",
+      "name": {
+        "hi": "श्री हनुमान",
+        "en": "Shri Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "bajrangbali",
+      "name": {
+        "hi": "बजरंगबली",
+        "en": "Bajrangbali"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "pavanputra",
+      "name": {
+        "hi": "पवनपुत्र",
+        "en": "Pavanputra"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "maruti",
+      "name": {
+        "hi": "मारुति",
+        "en": "Maruti"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "anjaneya",
+      "name": {
+        "hi": "आञ्जनेय",
+        "en": "Anjaneya"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "anjani_putra",
+      "name": {
+        "hi": "अंजनीपुत्र",
+        "en": "Anjani Putra"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "kesari_nandana",
+      "name": {
+        "hi": "केसरीनन्दन",
+        "en": "Kesari Nandana"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "ramaduta",
+      "name": {
+        "hi": "रामदूत",
+        "en": "Ramaduta"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "sankatmochana",
+      "name": {
+        "hi": "संकटमोचन",
+        "en": "Sankatmochana"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "mahavira",
+      "name": {
+        "hi": "महावीर",
+        "en": "Mahavira"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "kapisha",
+      "name": {
+        "hi": "कपीश",
+        "en": "Kapisha"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "mahabali",
+      "name": {
+        "hi": "महाबली",
+        "en": "Mahabali"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "veer_hanuman",
+      "name": {
+        "hi": "वीर हनुमान",
+        "en": "Veer Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "rudravatara",
+      "name": {
+        "hi": "रुद्रावतार",
+        "en": "Rudravatara"
+      },
+      "deity": "hanuman",
+      "isPopular": false
+    },
+    {
+      "id": "chiranjivi_hanuman",
+      "name": {
+        "hi": "चिरंजीवी हनुमान",
+        "en": "Chiranjivi Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": false
+    },
+    {
+      "id": "bhakta_hanuman",
+      "name": {
+        "hi": "भक्त हनुमान",
+        "en": "Bhakta Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": false
+    },
+    {
+      "id": "om_hanumate_namah",
+      "name": {
+        "hi": "ॐ हनुमते नमः",
+        "en": "Om Hanumate Namah"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "om_ham_hanumate_namah",
+      "name": {
+        "hi": "ॐ हं हनुमते नमः",
+        "en": "Om Ham Hanumate Namah"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "jai_bajrangbali",
+      "name": {
+        "hi": "जय बजरंगबली",
+        "en": "Jai Bajrangbali"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "jai_pavanputra",
+      "name": {
+        "hi": "जय पवनपुत्र",
+        "en": "Jai Pavanputra"
+      },
+      "deity": "hanuman",
+      "isPopular": false
+    },
+    {
+      "id": "jai_sankatmochana",
+      "name": {
+        "hi": "जय संकटमोचन",
+        "en": "Jai Sankatmochana"
+      },
+      "deity": "hanuman",
+      "isPopular": false
+    },
+    {
+      "id": "hanuman_ji",
+      "name": {
+        "hi": "हनुमान जी",
+        "en": "Hanuman Ji"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    },
+    {
+      "id": "jai_shri_hanuman",
+      "name": {
+        "hi": "जय श्री हनुमान",
+        "en": "Jai Shri Hanuman"
+      },
+      "deity": "hanuman",
+      "isPopular": true
+    }
+  ]
+}
