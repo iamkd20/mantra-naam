@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "id": "mrityunjaya_mahadeva_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "मृत्युंजय महादेव मंत्र",
+    "en": "Mrityunjaya Mahadeva Mantra"
+  },
+  "mantras": [
+    {
+      "id": "mrityunjaya_mahadeva_mantra",
+      "title": {
+        "hi": "मृत्युंजय महादेव मंत्र",
+        "en": "Mrityunjaya Mahadeva Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ मृत्युञ्जय महादेव त्राहि मां शरणागतम् । जन्म-मृत्यु-जरा-व्याधिपीडितं कर्मबन्धनैः ॥",
+        "en": "Om Mrityunjaya Mahadeva Trahi Mam Sharanagatam, Janma-Mrityu-Jara-Vyadhipiditam Karma-Bandhanaih."
+      },
+      "description": {
+        "hi": "मृत्युंजय महादेव मंत्र भगवान शिव के मृत्युंजय स्वरूप से संरक्षण और शरण की प्रार्थना करने वाला प्रार्थनात्मक मंत्र है। इसमें जन्म, मृत्यु, जरा, व्याधि और कर्मबंधन से पीड़ित साधक भगवान महादेव की शरण ग्रहण करता है। यह मंत्र शिव भक्ति, साहस, आध्यात्मिक साधना और कल्याण की भावना से जपा जाता है।",
+        "en": "The Mrityunjaya Mahadeva Mantra is a prayerful invocation seeking refuge in Lord Shiva as Mrityunjaya, the conqueror of death. The practitioner seeks refuge from the burdens of birth, death, aging, illness, and karmic bondage. It is chanted in the spirit of devotion, courage, spiritual practice, and prayer for well-being."
+      },
+      "meaning": {
+        "hi": "हे मृत्युंजय महादेव, मैं आपकी शरण में आया हूँ। जन्म, मृत्यु, जरा, व्याधि और कर्मबंधन से पीड़ित मेरी रक्षा करें।",
+        "en": "O Mrityunjaya Mahadeva, I have sought refuge in you. Protect me from the burdens of birth, death, aging, illness, and karmic bondage."
+      },
+      "keywords": {
+        "hi": [
+          "मृत्युंजय महादेव",
+          "मृत्युंजय मंत्र",
+          "शिव मंत्र",
+          "महादेव",
+          "शिव जप",
+          "शरण मंत्र"
+        ],
+        "en": [
+          "mrityunjaya mahadeva",
+          "mrityunjaya mantra",
+          "shiva mantra",
+          "mahadev",
+          "shiva japa",
+          "refuge prayer"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शिव भक्ति",
+          "शरणागति की भावना",
+          "आंतरिक साहस",
+          "आध्यात्मिक साधना",
+          "कल्याण की प्रार्थना"
+        ],
+        "en": [
+          "Devotion to Shiva",
+          "A sense of surrender",
+          "Inner courage",
+          "Spiritual practice",
+          "Prayer for well-being"
+        ]
+      },
+      "recommendedJapa": [
+        11,
+        27,
+        54,
+        108
+      ],
+      "usage": {
+        "hi": "शिव पूजा, प्रार्थना, ध्यान तथा विशेष मृत्युंजय उपासना में इसका श्रद्धापूर्वक जप किया जा सकता है।",
+        "en": "It may be chanted with devotion during Shiva worship, prayer, meditation, and special Mrityunjaya practice."
+      },
+      "pronunciation": {
+        "hi": "'मृत्युञ्जय', 'शरणागतम्', 'जन्म-मृत्यु-जरा-व्याधि' और 'कर्मबन्धनैः' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mrityunjaya', 'Sharanagatam', 'Janma-Mrityu-Jara-Vyadhi', and 'Karma-Bandhanaih' clearly."
+      },
+      "audio": "mrityunjaya_mahadeva_mantra.mp3"
+    }
+  ]
+}
