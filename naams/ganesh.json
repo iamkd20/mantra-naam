@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश",
+    "en": "Ganesh"
+  },
+  "names": [
+    {
+      "id": "ganesha",
+      "name": {
+        "hi": "गणेश",
+        "en": "Ganesha"
+      }
+    },
+    {
+      "id": "shri_ganesh",
+      "name": {
+        "hi": "श्री गणेश",
+        "en": "Shri Ganesha"
+      }
+    },
+    {
+      "id": "ganapati",
+      "name": {
+        "hi": "गणपति",
+        "en": "Ganapati"
+      }
+    },
+    {
+      "id": "shri_ganapati",
+      "name": {
+        "hi": "श्री गणपति",
+        "en": "Shri Ganapati"
+      }
+    },
+    {
+      "id": "vighnaharta",
+      "name": {
+        "hi": "विघ्नहर्ता",
+        "en": "Vighnaharta"
+      }
+    },
+    {
+      "id": "vighneshwara",
+      "name": {
+        "hi": "विघ्नेश्वर",
+        "en": "Vighneshwara"
+      }
+    },
+    {
+      "id": "ekadanta",
+      "name": {
+        "hi": "एकदन्त",
+        "en": "Ekadanta"
+      }
+    },
+    {
+      "id": "lambodara",
+      "name": {
+        "hi": "लम्बोदर",
+        "en": "Lambodara"
+      }
+    },
+    {
+      "id": "gajanana",
+      "name": {
+        "hi": "गजानन",
+        "en": "Gajanana"
+      }
+    },
+    {
+      "id": "vakratunda",
+      "name": {
+        "hi": "वक्रतुण्ड",
+        "en": "Vakratunda"
+      }
+    },
+    {
+      "id": "sumukha",
+      "name": {
+        "hi": "सुमुख",
+        "en": "Sumukha"
+      }
+    },
+    {
+      "id": "siddhivinayaka",
+      "name": {
+        "hi": "सिद्धिविनायक",
+        "en": "Siddhivinayaka"
+      }
+    },
+    {
+      "id": "mangalmurti",
+      "name": {
+        "hi": "मंगलमूर्ति",
+        "en": "Mangalmurti"
+      }
+    },
+    {
+      "id": "mangalamurti_morya",
+      "name": {
+        "hi": "मंगलमूर्ति मोरया",
+        "en": "Mangalmurti Morya"
+      }
+    },
+    {
+      "id": "ganpati_bappa",
+      "name": {
+        "hi": "गणपति बप्पा",
+        "en": "Ganpati Bappa"
+      }
+    },
+    {
+      "id": "ganpati_bappa_morya",
+      "name": {
+        "hi": "गणपति बप्पा मोरया",
+        "en": "Ganpati Bappa Morya"
+      }
+    },
+    {
+      "id": "jai_ganesh",
+      "name": {
+        "hi": "जय गणेश",
+        "en": "Jai Ganesh"
+      }
+    },
+    {
+      "id": "jai_shri_ganesh",
+      "name": {
+        "hi": "जय श्री गणेश",
+        "en": "Jai Shri Ganesh"
+      }
+    },
+    {
+      "id": "gajanan",
+      "name": {
+        "hi": "गजानन",
+        "en": "Gajanan"
+      }
+    },
+    {
+      "id": "heramba",
+      "name": {
+        "hi": "हेरम्ब",
+        "en": "Heramba"
+      }
+    },
+    {
+      "id": "vinayaka",
+      "name": {
+        "hi": "विनायक",
+        "en": "Vinayaka"
+      }
+    },
+    {
+      "id": "dvaimatura",
+      "name": {
+        "hi": "द्वैमातुर",
+        "en": "Dvaimatura"
+      }
+    },
+    {
+      "id": "siddhivinayak",
+      "name": {
+        "hi": "सिद्धिविनायक",
+        "en": "Siddhivinayak"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "category": "kali",
+  "title": {
+    "hi": "माँ काली",
+    "en": "Maa Kali"
+  },
+  "names": [
+    {
+      "id": "maa_kali",
+      "name": {
+        "hi": "माँ काली",
+        "en": "Maa Kali"
+      }
+    },
+    {
+      "id": "kali",
+      "name": {
+        "hi": "काली",
+        "en": "Kali"
+      }
+    },
+    {
+      "id": "mahakali",
+      "name": {
+        "hi": "महाकाली",
+        "en": "Mahakali"
+      }
+    },
+    {
+      "id": "dakshina_kali",
+      "name": {
+        "hi": "दक्षिणा काली",
+        "en": "Dakshina Kali"
+      }
+    },
+    {
+      "id": "bhadrakali",
+      "name": {
+        "hi": "भद्रकाली",
+        "en": "Bhadrakali"
+      }
+    },
+    {
+      "id": "kalika",
+      "name": {
+        "hi": "कालिका",
+        "en": "Kalika"
+      }
+    },
+    {
+      "id": "shyama",
+      "name": {
+        "hi": "श्यामा",
+        "en": "Shyama"
+      }
+    },
+    {
+      "id": "chamunda",
+      "name": {
+        "hi": "चामुंडा",
+        "en": "Chamunda"
+      }
+    },
+    {
+      "id": "kali_mata",
+      "name": {
+        "hi": "काली माता",
+        "en": "Kali Mata"
+      }
+    },
+    {
+      "id": "jai_maa_kali",
+      "name": {
+        "hi": "जय माँ काली",
+        "en": "Jai Maa Kali"
+      }
+    }
+  ]
+}

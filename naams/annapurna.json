@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "category": "annapurna",
+  "title": {
+    "hi": "माँ अन्नपूर्णा",
+    "en": "Maa Annapurna"
+  },
+  "names": [
+    {
+      "id": "annapurna",
+      "name": {
+        "hi": "अन्नपूर्णा",
+        "en": "Annapurna"
+      }
+    },
+    {
+      "id": "maa_annapurna",
+      "name": {
+        "hi": "माँ अन्नपूर्णा",
+        "en": "Maa Annapurna"
+      }
+    },
+    {
+      "id": "annapurneshwari",
+      "name": {
+        "hi": "अन्नपूर्णेश्वरी",
+        "en": "Annapurneshwari"
+      }
+    },
+    {
+      "id": "anna_datri",
+      "name": {
+        "hi": "अन्नदात्री",
+        "en": "Annadatri"
+      }
+    },
+    {
+      "id": "kashi_annapurna",
+      "name": {
+        "hi": "काशी अन्नपूर्णा",
+        "en": "Kashi Annapurna"
+      }
+    },
+    {
+      "id": "annada",
+      "name": {
+        "hi": "अन्नदा",
+        "en": "Annada"
+      }
+    },
+    {
+      "id": "jai_maa_annapurna",
+      "name": {
+        "hi": "जय माँ अन्नपूर्णा",
+        "en": "Jai Maa Annapurna"
+      }
+    }
+  ]
+}

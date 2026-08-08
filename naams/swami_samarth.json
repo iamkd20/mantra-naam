@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "category": "swami_samarth",
+  "title": {
+    "hi": "स्वामी समर्थ",
+    "en": "Swami Samarth"
+  },
+  "names": [
+    {
+      "id": "swami_samarth",
+      "name": {
+        "hi": "स्वामी समर्थ",
+        "en": "Swami Samarth"
+      }
+    },
+    {
+      "id": "shri_swami_samarth",
+      "name": {
+        "hi": "श्री स्वामी समर्थ",
+        "en": "Shri Swami Samarth"
+      }
+    },
+    {
+      "id": "jai_swami_samarth",
+      "name": {
+        "hi": "जय स्वामी समर्थ",
+        "en": "Jai Swami Samarth"
+      }
+    },
+    {
+      "id": "swami",
+      "name": {
+        "hi": "स्वामी",
+        "en": "Swami"
+      }
+    },
+    {
+      "id": "akkalkot_swami",
+      "name": {
+        "hi": "अक्कलकोट स्वामी",
+        "en": "Akkalkot Swami"
+      }
+    },
+    {
+      "id": "akkalkot_maharaj",
+      "name": {
+        "hi": "अक्कलकोट महाराज",
+        "en": "Akkalkot Maharaj"
+      }
+    },
+    {
+      "id": "digambara_swami",
+      "name": {
+        "hi": "दिगम्बरा स्वामी",
+        "en": "Digambara Swami"
+      }
+    },
+    {
+      "id": "digambara_digambara_shri_padavallabha",
+      "name": {
+        "hi": "दिगम्बरा दिगम्बरा श्रीपादवल्लभ दिगम्बरा",
+        "en": "Digambara Digambara Shripada Vallabha Digambara"
+      }
+    },
+    {
+      "id": "shri_swami_samarth_maharaj",
+      "name": {
+        "hi": "श्री स्वामी समर्थ महाराज",
+        "en": "Shri Swami Samarth Maharaj"
+      }
+    },
+    {
+      "id": "jai_jai_swami_samarth",
+      "name": {
+        "hi": "जय जय स्वामी समर्थ",
+        "en": "Jai Jai Swami Samarth"
+      }
+    },
+    {
+      "id": "ananta_koti_brahmanda_nayak",
+      "name": {
+        "hi": "अनंतकोटि ब्रह्मांडनायक",
+        "en": "Anantakoti Brahmandanayak"
+      }
+    },
+    {
+      "id": "anantakoti_brahmandanayak",
+      "name": {
+        "hi": "अनंतकोटि ब्रह्मांडनायक श्री स्वामी समर्थ",
+        "en": "Anantakoti Brahmandanayak Shri Swami Samarth"
+      }
+    }
+  ]
+}

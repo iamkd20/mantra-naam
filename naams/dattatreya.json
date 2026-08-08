@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "category": "dattatreya",
+  "title": {
+    "hi": "दत्तात्रेय",
+    "en": "Dattatreya"
+  },
+  "names": [
+    {
+      "id": "dattatreya",
+      "name": {
+        "hi": "दत्तात्रेय",
+        "en": "Dattatreya"
+      }
+    },
+    {
+      "id": "shri_dattatreya",
+      "name": {
+        "hi": "श्री दत्तात्रेय",
+        "en": "Shri Dattatreya"
+      }
+    },
+    {
+      "id": "datta",
+      "name": {
+        "hi": "दत्त",
+        "en": "Datta"
+      }
+    },
+    {
+      "id": "shri_datta",
+      "name": {
+        "hi": "श्री दत्त",
+        "en": "Shri Datta"
+      }
+    },
+    {
+      "id": "digambara",
+      "name": {
+        "hi": "दिगम्बरा",
+        "en": "Digambara"
+      }
+    },
+    {
+      "id": "digambara_digambara",
+      "name": {
+        "hi": "दिगम्बरा दिगम्बरा",
+        "en": "Digambara Digambara"
+      }
+    },
+    {
+      "id": "digambara_shri_padavallabha",
+      "name": {
+        "hi": "दिगम्बरा श्रीपादवल्लभ",
+        "en": "Digambara Shripada Vallabha"
+      }
+    },
+    {
+      "id": "datta_guru",
+      "name": {
+        "hi": "दत्त गुरु",
+        "en": "Datta Guru"
+      }
+    },
+    {
+      "id": "shri_datta_guru",
+      "name": {
+        "hi": "श्री दत्त गुरु",
+        "en": "Shri Datta Guru"
+      }
+    },
+    {
+      "id": "jai_guru_datta",
+      "name": {
+        "hi": "जय गुरु दत्त",
+        "en": "Jai Guru Datta"
+      }
+    },
+    {
+      "id": "gurudev_datta",
+      "name": {
+        "hi": "गुरुदेव दत्त",
+        "en": "Gurudev Datta"
+      }
+    },
+    {
+      "id": "avadhuta",
+      "name": {
+        "hi": "अवधूत",
+        "en": "Avadhuta"
+      }
+    },
+    {
+      "id": "avadhuta_chintana",
+      "name": {
+        "hi": "अवधूत चिंतन",
+        "en": "Avadhuta Chintana"
+      }
+    },
+    {
+      "id": "shri_guru_datta",
+      "name": {
+        "hi": "श्री गुरु दत्त",
+        "en": "Shri Guru Datta"
+      }
+    },
+    {
+      "id": "anagha_datatreya",
+      "name": {
+        "hi": "अनघ दत्तात्रेय",
+        "en": "Anagha Dattatreya"
+      }
+    },
+    {
+      "id": "atriputra",
+      "name": {
+        "hi": "अत्रिपुत्र",
+        "en": "Atriputra"
+      }
+    },
+    {
+      "id": "trimurti_datta",
+      "name": {
+        "hi": "त्रिमूर्ति दत्त",
+        "en": "Trimurti Datta"
+      }
+    },
+    {
+      "id": "datta_maharaj",
+      "name": {
+        "hi": "दत्त महाराज",
+        "en": "Datta Maharaj"
+      }
+    },
+    {
+      "id": "shri_padavallabha",
+      "name": {
+        "hi": "श्रीपाद श्रीवल्लभ",
+        "en": "Shripada Shrivallabha"
+      }
+    },
+    {
+      "id": "nr_simha_saraswati",
+      "name": {
+        "hi": "नृसिंह सरस्वती",
+        "en": "Nrisimha Saraswati"
+      }
+    }
+  ]
+}

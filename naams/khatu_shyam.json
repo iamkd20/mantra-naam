@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "खाटू श्याम",
+    "en": "Khatu Shyam"
+  },
+  "names": [
+    {
+      "id": "shyam",
+      "name": {
+        "hi": "श्याम",
+        "en": "Shyam"
+      }
+    },
+    {
+      "id": "khatu_shyam",
+      "name": {
+        "hi": "खाटू श्याम",
+        "en": "Khatu Shyam"
+      }
+    },
+    {
+      "id": "shri_shyam",
+      "name": {
+        "hi": "श्री श्याम",
+        "en": "Shri Shyam"
+      }
+    },
+    {
+      "id": "khatu_shyam_ji",
+      "name": {
+        "hi": "खाटू श्याम जी",
+        "en": "Khatu Shyam Ji"
+      }
+    },
+    {
+      "id": "shyam_baba",
+      "name": {
+        "hi": "श्याम बाबा",
+        "en": "Shyam Baba"
+      }
+    },
+    {
+      "id": "baba_shyam",
+      "name": {
+        "hi": "बाबा श्याम",
+        "en": "Baba Shyam"
+      }
+    },
+    {
+      "id": "jai_shri_shyam",
+      "name": {
+        "hi": "जय श्री श्याम",
+        "en": "Jai Shri Shyam"
+      }
+    },
+    {
+      "id": "jai_shyam",
+      "name": {
+        "hi": "जय श्याम",
+        "en": "Jai Shyam"
+      }
+    },
+    {
+      "id": "jai_shri_khatu_shyam",
+      "name": {
+        "hi": "जय श्री खाटू श्याम",
+        "en": "Jai Shri Khatu Shyam"
+      }
+    },
+    {
+      "id": "shyam_shyam",
+      "name": {
+        "hi": "श्याम श्याम",
+        "en": "Shyam Shyam"
+      }
+    },
+    {
+      "id": "khatu_shyam_shyam",
+      "name": {
+        "hi": "खाटू श्याम श्याम",
+        "en": "Khatu Shyam Shyam"
+      }
+    },
+    {
+      "id": "hare_ka_sahara_shyam_hamara",
+      "name": {
+        "hi": "हारे का सहारा, श्याम हमारा",
+        "en": "Hare Ka Sahara, Shyam Hamara"
+      }
+    },
+    {
+      "id": "shyam_hamara",
+      "name": {
+        "hi": "श्याम हमारा",
+        "en": "Shyam Hamara"
+      }
+    },
+    {
+      "id": "haare_ka_sahara",
+      "name": {
+        "hi": "हारे का सहारा",
+        "en": "Haare Ka Sahara"
+      }
+    },
+    {
+      "id": "teen_baan_dhari",
+      "name": {
+        "hi": "तीन बाणधारी",
+        "en": "Teen Baan Dhari"
+      }
+    },
+    {
+      "id": "teen_baan_dhari_shyam",
+      "name": {
+        "hi": "तीन बाणधारी श्याम",
+        "en": "Teen Baan Dhari Shyam"
+      }
+    },
+    {
+      "id": "sheesh_ke_dani",
+      "name": {
+        "hi": "शीश के दानी",
+        "en": "Sheesh Ke Dani"
+      }
+    },
+    {
+      "id": "khatu_naresh",
+      "name": {
+        "hi": "खाटू नरेश",
+        "en": "Khatu Naresh"
+      }
+    },
+    {
+      "id": "shyam_sarkar",
+      "name": {
+        "hi": "श्याम सरकार",
+        "en": "Shyam Sarkar"
+      }
+    },
+    {
+      "id": "lakhdatar_shyam",
+      "name": {
+        "hi": "लखदातार श्याम",
+        "en": "Lakhdatar Shyam"
+      }
+    },
+    {
+      "id": "dildar_shyam",
+      "name": {
+        "hi": "दिलदार श्याम",
+        "en": "Dildar Shyam"
+      }
+    },
+    {
+      "id": "morna_dhwaj",
+      "name": {
+        "hi": "मोर मुकुटधारी",
+        "en": "Mor Mukutdhari"
+      }
+    },
+    {
+      "id": "barbareek",
+      "name": {
+        "hi": "बर्बरीक",
+        "en": "Barbarika"
+      }
+    },
+    {
+      "id": "shyam_bhakt_barbareek",
+      "name": {
+        "hi": "श्याम भक्त बर्बरीक",
+        "en": "Shyam Bhakt Barbarika"
+      }
+    },
+    {
+      "id": "lakhdatar",
+      "name": {
+        "hi": "लखदातार",
+        "en": "Lakhdatar"
+      }
+    },
+    {
+      "id": "khatu_dham_naresh",
+      "name": {
+        "hi": "खाटू धाम नरेश",
+        "en": "Khatu Dham Naresh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "category": "sai_baba",
+  "title": {
+    "hi": "साईं बाबा",
+    "en": "Sai Baba"
+  },
+  "names": [
+    {
+      "id": "sai_baba",
+      "name": {
+        "hi": "साईं बाबा",
+        "en": "Sai Baba"
+      }
+    },
+    {
+      "id": "shirdi_sai",
+      "name": {
+        "hi": "शिरडी साईं",
+        "en": "Shirdi Sai"
+      }
+    },
+    {
+      "id": "sai_nath",
+      "name": {
+        "hi": "साईं नाथ",
+        "en": "Sai Nath"
+      }
+    },
+    {
+      "id": "baba_sainath",
+      "name": {
+        "hi": "बाबा साईंनाथ",
+        "en": "Baba Sainath"
+      }
+    },
+    {
+      "id": "sainath_maharaj",
+      "name": {
+        "hi": "साईंनाथ महाराज",
+        "en": "Sainath Maharaj"
+      }
+    },
+    {
+      "id": "shri_sai",
+      "name": {
+        "hi": "श्री साईं",
+        "en": "Shri Sai"
+      }
+    },
+    {
+      "id": "sai_ram",
+      "name": {
+        "hi": "साईं राम",
+        "en": "Sai Ram"
+      }
+    },
+    {
+      "id": "om_sai_ram",
+      "name": {
+        "hi": "ॐ साईं राम",
+        "en": "Om Sai Ram"
+      }
+    },
+    {
+      "id": "jai_sai_ram",
+      "name": {
+        "hi": "जय साईं राम",
+        "en": "Jai Sai Ram"
+      }
+    },
+    {
+      "id": "sai_ma",
+      "name": {
+        "hi": "साईं माँ",
+        "en": "Sai Maa"
+      }
+    },
+    {
+      "id": "sabka_malik_ek",
+      "name": {
+        "hi": "सबका मालिक एक",
+        "en": "Sabka Malik Ek"
+      }
+    },
+    {
+      "id": "sai_samarth",
+      "name": {
+        "hi": "साईं समर्थ",
+        "en": "Sai Samarth"
+      }
+    },
+    {
+      "id": "sai_deva",
+      "name": {
+        "hi": "साईं देवा",
+        "en": "Sai Deva"
+      }
+    }
+  ]
+}

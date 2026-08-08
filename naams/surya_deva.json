@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "category": "surya_deva",
+  "title": {
+    "hi": "सूर्य देव",
+    "en": "Surya Dev"
+  },
+  "names": [
+    {
+      "id": "surya",
+      "name": {
+        "hi": "सूर्य",
+        "en": "Surya"
+      }
+    },
+    {
+      "id": "surya_deva",
+      "name": {
+        "hi": "सूर्य देव",
+        "en": "Surya Dev"
+      }
+    },
+    {
+      "id": "bhaskar",
+      "name": {
+        "hi": "भास्कर",
+        "en": "Bhaskar"
+      }
+    },
+    {
+      "id": "aditya",
+      "name": {
+        "hi": "आदित्य",
+        "en": "Aditya"
+      }
+    },
+    {
+      "id": "dinakar",
+      "name": {
+        "hi": "दिनकर",
+        "en": "Dinakar"
+      }
+    },
+    {
+      "id": "divakar",
+      "name": {
+        "hi": "दिवाकर",
+        "en": "Divakar"
+      }
+    },
+    {
+      "id": "ravi",
+      "name": {
+        "hi": "रवि",
+        "en": "Ravi"
+      }
+    },
+    {
+      "id": "prabhakar",
+      "name": {
+        "hi": "प्रभाकर",
+        "en": "Prabhakar"
+      }
+    },
+    {
+      "id": "martanda",
+      "name": {
+        "hi": "मार्तण्ड",
+        "en": "Martanda"
+      }
+    },
+    {
+      "id": "bhanu",
+      "name": {
+        "hi": "भानु",
+        "en": "Bhanu"
+      }
+    },
+    {
+      "id": "jai_surya_dev",
+      "name": {
+        "hi": "जय सूर्य देव",
+        "en": "Jai Surya Dev"
+      }
+    }
+  ]
+}

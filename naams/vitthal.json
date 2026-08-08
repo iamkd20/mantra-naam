@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "category": "vitthal",
+  "title": {
+    "hi": "विठ्ठल",
+    "en": "Vitthal"
+  },
+  "names": [
+    {
+      "id": "vitthal",
+      "name": {
+        "hi": "विठ्ठल",
+        "en": "Vitthal"
+      }
+    },
+    {
+      "id": "shri_vitthal",
+      "name": {
+        "hi": "श्री विठ्ठल",
+        "en": "Shri Vitthal"
+      }
+    },
+    {
+      "id": "vithoba",
+      "name": {
+        "hi": "विठोबा",
+        "en": "Vithoba"
+      }
+    },
+    {
+      "id": "panduranga",
+      "name": {
+        "hi": "पांडुरंग",
+        "en": "Panduranga"
+      }
+    },
+    {
+      "id": "shri_panduranga",
+      "name": {
+        "hi": "श्री पांडुरंग",
+        "en": "Shri Panduranga"
+      }
+    },
+    {
+      "id": "hari_vitthal",
+      "name": {
+        "hi": "हरि विठ्ठल",
+        "en": "Hari Vitthal"
+      }
+    },
+    {
+      "id": "vitthal_hari",
+      "name": {
+        "hi": "विठ्ठल हरी",
+        "en": "Vitthal Hari"
+      }
+    },
+    {
+      "id": "vitthal_vitthal",
+      "name": {
+        "hi": "विठ्ठल विठ्ठल",
+        "en": "Vitthal Vitthal"
+      }
+    },
+    {
+      "id": "vitthal_hari_vitthal",
+      "name": {
+        "hi": "विठ्ठल हरी विठ्ठल",
+        "en": "Vitthal Hari Vitthal"
+      }
+    },
+    {
+      "id": "jai_hari_vitthal",
+      "name": {
+        "hi": "जय हरि विठ्ठल",
+        "en": "Jai Hari Vitthal"
+      }
+    },
+    {
+      "id": "jai_vithoba",
+      "name": {
+        "hi": "जय विठोबा",
+        "en": "Jai Vithoba"
+      }
+    },
+    {
+      "id": "jai_jai_vitthal",
+      "name": {
+        "hi": "जय जय विठ्ठल",
+        "en": "Jai Jai Vitthal"
+      }
+    },
+    {
+      "id": "panduranga_hari",
+      "name": {
+        "hi": "पांडुरंग हरी",
+        "en": "Panduranga Hari"
+      }
+    },
+    {
+      "id": "panduranga_vitthal",
+      "name": {
+        "hi": "पांडुरंग विठ्ठल",
+        "en": "Panduranga Vitthal"
+      }
+    },
+    {
+      "id": "shri_vitthal_rukmini",
+      "name": {
+        "hi": "श्री विठ्ठल रुक्मिणी",
+        "en": "Shri Vitthal Rukmini"
+      }
+    },
+    {
+      "id": "vitthal_rukmini",
+      "name": {
+        "hi": "विठ्ठल रुक्मिणी",
+        "en": "Vitthal Rukmini"
+      }
+    },
+    {
+      "id": "rukmini_vitthal",
+      "name": {
+        "hi": "रुक्मिणी विठ्ठल",
+        "en": "Rukmini Vitthal"
+      }
+    },
+    {
+      "id": "panduranga_rakhumai",
+      "name": {
+        "hi": "पांडुरंग रखुमाई",
+        "en": "Panduranga Rakhumai"
+      }
+    },
+    {
+      "id": "vitthal_rakhumai",
+      "name": {
+        "hi": "विठ्ठल रखुमाई",
+        "en": "Vitthal Rakhumai"
+      }
+    },
+    {
+      "id": "rakhumai_vitthal",
+      "name": {
+        "hi": "रखुमाई विठ्ठल",
+        "en": "Rakhumai Vitthal"
+      }
+    },
+    {
+      "id": "gopala_vitthala",
+      "name": {
+        "hi": "गोपाल विठ्ठल",
+        "en": "Gopala Vitthala"
+      }
+    },
+    {
+      "id": "hari_vitthala",
+      "name": {
+        "hi": "हरि विठ्ठला",
+        "en": "Hari Vitthala"
+      }
+    },
+    {
+      "id": "vitthal_vitthal_jai_hari_vitthal",
+      "name": {
+        "hi": "विठ्ठल विठ्ठल जय हरि विठ्ठल",
+        "en": "Vitthal Vitthal Jai Hari Vitthal"
+      }
+    }
+  ]
+}

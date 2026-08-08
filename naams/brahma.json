@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "category": "brahma",
+  "title": {
+    "hi": "ब्रह्मा",
+    "en": "Brahma"
+  },
+  "names": [
+    {
+      "id": "brahma",
+      "name": {
+        "hi": "ब्रह्मा",
+        "en": "Brahma"
+      }
+    },
+    {
+      "id": "brahma_deva",
+      "name": {
+        "hi": "ब्रह्मा देव",
+        "en": "Brahma Deva"
+      }
+    },
+    {
+      "id": "prajapati",
+      "name": {
+        "hi": "प्रजापति",
+        "en": "Prajapati"
+      }
+    },
+    {
+      "id": "pitamaha",
+      "name": {
+        "hi": "पितामह",
+        "en": "Pitamaha"
+      }
+    },
+    {
+      "id": "chaturmukha",
+      "name": {
+        "hi": "चतुर्मुख",
+        "en": "Chaturmukha"
+      }
+    },
+    {
+      "id": "vedanatha",
+      "name": {
+        "hi": "वेदनाथ",
+        "en": "Vedanatha"
+      }
+    },
+    {
+      "id": "kamalasana",
+      "name": {
+        "hi": "कमलासन",
+        "en": "Kamalasana"
+      }
+    }
+  ]
+}

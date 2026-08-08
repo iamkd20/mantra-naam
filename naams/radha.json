@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "category": "radha",
+  "title": {
+    "hi": "राधा",
+    "en": "Radha"
+  },
+  "names": [
+    {
+      "id": "radha",
+      "name": {
+        "hi": "राधा",
+        "en": "Radha"
+      }
+    },
+    {
+      "id": "shri_radha",
+      "name": {
+        "hi": "श्री राधा",
+        "en": "Shri Radha"
+      }
+    },
+    {
+      "id": "radhe",
+      "name": {
+        "hi": "राधे",
+        "en": "Radhe"
+      }
+    },
+    {
+      "id": "radha_rani",
+      "name": {
+        "hi": "राधा रानी",
+        "en": "Radha Rani"
+      }
+    },
+    {
+      "id": "radharani",
+      "name": {
+        "hi": "राधारानी",
+        "en": "Radharani"
+      }
+    },
+    {
+      "id": "jai_shri_radhe",
+      "name": {
+        "hi": "जय श्री राधे",
+        "en": "Jai Shri Radhe"
+      }
+    },
+    {
+      "id": "radha_radha",
+      "name": {
+        "hi": "राधा राधा",
+        "en": "Radha Radha"
+      }
+    },
+    {
+      "id": "radhe_radhe",
+      "name": {
+        "hi": "राधे राधे",
+        "en": "Radhe Radhe"
+      }
+    },
+    {
+      "id": "radhika",
+      "name": {
+        "hi": "राधिका",
+        "en": "Radhika"
+      }
+    },
+    {
+      "id": "radhika_rani",
+      "name": {
+        "hi": "राधिका रानी",
+        "en": "Radhika Rani"
+      }
+    },
+    {
+      "id": "kishori",
+      "name": {
+        "hi": "किशोरी",
+        "en": "Kishori"
+      }
+    },
+    {
+      "id": "kishori_ji",
+      "name": {
+        "hi": "किशोरी जी",
+        "en": "Kishori Ji"
+      }
+    },
+    {
+      "id": "ladli",
+      "name": {
+        "hi": "लाडली",
+        "en": "Ladli"
+      }
+    },
+    {
+      "id": "ladli_ji",
+      "name": {
+        "hi": "लाडली जी",
+        "en": "Ladli Ji"
+      }
+    },
+    {
+      "id": "barsane_wali",
+      "name": {
+        "hi": "बरसाने वाली",
+        "en": "Barsane Wali"
+      }
+    },
+    {
+      "id": "barsane_ki_radha_rani",
+      "name": {
+        "hi": "बरसाने की राधा रानी",
+        "en": "Barsane Ki Radha Rani"
+      }
+    },
+    {
+      "id": "vrishabhanu_dulari",
+      "name": {
+        "hi": "वृषभानु दुलारी",
+        "en": "Vrishabhanu Dulari"
+      }
+    },
+    {
+      "id": "vrishabhanu_nandini",
+      "name": {
+        "hi": "वृषभानु नन्दिनी",
+        "en": "Vrishabhanu Nandini"
+      }
+    },
+    {
+      "id": "vrishabhanuja",
+      "name": {
+        "hi": "वृषभानुजा",
+        "en": "Vrishabhanuja"
+      }
+    },
+    {
+      "id": "kirtinandini",
+      "name": {
+        "hi": "कीर्तिनन्दिनी",
+        "en": "Kirtinandini"
+      }
+    },
+    {
+      "id": "shriji",
+      "name": {
+        "hi": "श्रीजी",
+        "en": "Shri Ji"
+      }
+    },
+    {
+      "id": "swamini",
+      "name": {
+        "hi": "स्वामिनी",
+        "en": "Swamini"
+      }
+    },
+    {
+      "id": "raseshwari",
+      "name": {
+        "hi": "रासेश्वरी",
+        "en": "Raseshwari"
+      }
+    },
+    {
+      "id": "vrindavaneshwari",
+      "name": {
+        "hi": "वृन्दावनेश्वरी",
+        "en": "Vrindavaneshwari"
+      }
+    },
+    {
+      "id": "haripriya",
+      "name": {
+        "hi": "हरिप्रिया",
+        "en": "Haripriya"
+      }
+    },
+    {
+      "id": "krishnapriya",
+      "name": {
+        "hi": "कृष्णप्रिया",
+        "en": "Krishnapriya"
+      }
+    },
+    {
+      "id": "madhavapriya",
+      "name": {
+        "hi": "माधवप्रिया",
+        "en": "Madhavapriya"
+      }
+    },
+    {
+      "id": "shyamapriya",
+      "name": {
+        "hi": "श्यामप्रिया",
+        "en": "Shyamapriya"
+      }
+    },
+    {
+      "id": "krishnavallabha",
+      "name": {
+        "hi": "कृष्णवल्लभा",
+        "en": "Krishnavallabha"
+      }
+    },
+    {
+      "id": "harivallabha",
+      "name": {
+        "hi": "हरिवल्लभा",
+        "en": "Harivallabha"
+      }
+    },
+    {
+      "id": "govindapriya",
+      "name": {
+        "hi": "गोविंदप्रिया",
+        "en": "Govindapriya"
+      }
+    },
+    {
+      "id": "shyamasundari",
+      "name": {
+        "hi": "श्यामसुन्दरी",
+        "en": "Shyamasundari"
+      }
+    },
+    {
+      "id": "premamayi",
+      "name": {
+        "hi": "प्रेममयी",
+        "en": "Premamayi"
+      }
+    },
+    {
+      "id": "premeshwari",
+      "name": {
+        "hi": "प्रेमेश्वरी",
+        "en": "Premeshwari"
+      }
+    },
+    {
+      "id": "rasapriya",
+      "name": {
+        "hi": "रासप्रिया",
+        "en": "Rasapriya"
+      }
+    },
+    {
+      "id": "rasika",
+      "name": {
+        "hi": "रसिका",
+        "en": "Rasika"
+      }
+    },
+    {
+      "id": "gandharvika",
+      "name": {
+        "hi": "गान्धर्विका",
+        "en": "Gandharvika"
+      }
+    },
+    {
+      "id": "dayamayi",
+      "name": {
+        "hi": "दयामयी",
+        "en": "Dayamayi"
+      }
+    },
+    {
+      "id": "karunamayi",
+      "name": {
+        "hi": "करुणामयी",
+        "en": "Karunamayi"
+      }
+    },
+    {
+      "id": "radhe_shyamapriya",
+      "name": {
+        "hi": "राधे श्यामप्रिया",
+        "en": "Radhe Shyamapriya"
+      }
+    }
+  ]
+}

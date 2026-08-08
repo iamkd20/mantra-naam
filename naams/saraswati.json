@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "category": "saraswati",
+  "title": {
+    "hi": "सरस्वती",
+    "en": "Saraswati"
+  },
+  "names": [
+    {
+      "id": "saraswati",
+      "name": {
+        "hi": "सरस्वती",
+        "en": "Saraswati"
+      }
+    },
+    {
+      "id": "maa_saraswati",
+      "name": {
+        "hi": "माँ सरस्वती",
+        "en": "Maa Saraswati"
+      }
+    },
+    {
+      "id": "shri_saraswati",
+      "name": {
+        "hi": "श्री सरस्वती",
+        "en": "Shri Saraswati"
+      }
+    },
+    {
+      "id": "veena_pani",
+      "name": {
+        "hi": "वीणापाणि",
+        "en": "Veena Pani"
+      }
+    },
+    {
+      "id": "veena_vadini",
+      "name": {
+        "hi": "वीणावादिनी",
+        "en": "Veena Vadini"
+      }
+    },
+    {
+      "id": "vidya_datri",
+      "name": {
+        "hi": "विद्यादात्री",
+        "en": "Vidyadatri"
+      }
+    },
+    {
+      "id": "vagdevi",
+      "name": {
+        "hi": "वाग्देवी",
+        "en": "Vagdevi"
+      }
+    },
+    {
+      "id": "sharada",
+      "name": {
+        "hi": "शारदा",
+        "en": "Sharada"
+      }
+    },
+    {
+      "id": "bharati",
+      "name": {
+        "hi": "भारती",
+        "en": "Bharati"
+      }
+    },
+    {
+      "id": "vani",
+      "name": {
+        "hi": "वाणी",
+        "en": "Vani"
+      }
+    },
+    {
+      "id": "brahmani",
+      "name": {
+        "hi": "ब्रह्माणी",
+        "en": "Brahmani"
+      }
+    },
+    {
+      "id": "hansvahini",
+      "name": {
+        "hi": "हंसवाहिनी",
+        "en": "Hamsavahini"
+      }
+    },
+    {
+      "id": "vidya",
+      "name": {
+        "hi": "विद्या",
+        "en": "Vidya"
+      }
+    },
+    {
+      "id": "medha",
+      "name": {
+        "hi": "मेधा",
+        "en": "Medha"
+      }
+    },
+    {
+      "id": "saraswati_mata",
+      "name": {
+        "hi": "सरस्वती माता",
+        "en": "Saraswati Mata"
+      }
+    },
+    {
+      "id": "jai_maa_saraswati",
+      "name": {
+        "hi": "जय माँ सरस्वती",
+        "en": "Jai Maa Saraswati"
+      }
+    }
+  ]
+}

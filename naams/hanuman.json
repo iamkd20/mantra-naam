@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "category": "hanuman",
+  "title": {
+    "hi": "हनुमान",
+    "en": "Hanuman"
+  },
+  "names": [
+    {
+      "id": "hanuman",
+      "name": {
+        "hi": "हनुमान",
+        "en": "Hanuman"
+      }
+    },
+    {
+      "id": "shri_hanuman",
+      "name": {
+        "hi": "श्री हनुमान",
+        "en": "Shri Hanuman"
+      }
+    },
+    {
+      "id": "bajrangbali",
+      "name": {
+        "hi": "बजरंगबली",
+        "en": "Bajrangbali"
+      }
+    },
+    {
+      "id": "pavanputra",
+      "name": {
+        "hi": "पवनपुत्र",
+        "en": "Pavanputra"
+      }
+    },
+    {
+      "id": "anjaneya",
+      "name": {
+        "hi": "अंजनेय",
+        "en": "Anjaneya"
+      }
+    },
+    {
+      "id": "anjani_putra",
+      "name": {
+        "hi": "अंजनी पुत्र",
+        "en": "Anjani Putra"
+      }
+    },
+    {
+      "id": "maruti",
+      "name": {
+        "hi": "मारुति",
+        "en": "Maruti"
+      }
+    },
+    {
+      "id": "marutinandana",
+      "name": {
+        "hi": "मारुतिनन्दन",
+        "en": "Marutinandana"
+      }
+    },
+    {
+      "id": "mahavir",
+      "name": {
+        "hi": "महावीर",
+        "en": "Mahavir"
+      }
+    },
+    {
+      "id": "sankatmochan",
+      "name": {
+        "hi": "संकटमोचन",
+        "en": "Sankatmochan"
+      }
+    },
+    {
+      "id": "veer_hanuman",
+      "name": {
+        "hi": "वीर हनुमान",
+        "en": "Veer Hanuman"
+      }
+    },
+    {
+      "id": "jai_hanuman",
+      "name": {
+        "hi": "जय हनुमान",
+        "en": "Jai Hanuman"
+      }
+    },
+    {
+      "id": "jai_bajrangbali",
+      "name": {
+        "hi": "जय बजरंगबली",
+        "en": "Jai Bajrangbali"
+      }
+    },
+    {
+      "id": "hanumanta",
+      "name": {
+        "hi": "हनुमन्त",
+        "en": "Hanumanta"
+      }
+    },
+    {
+      "id": "kapiraj",
+      "name": {
+        "hi": "कपिराज",
+        "en": "Kapiraja"
+      }
+    },
+    {
+      "id": "kesarinandan",
+      "name": {
+        "hi": "केसरीनन्दन",
+        "en": "Kesari Nandan"
+      }
+    },
+    {
+      "id": "ramdoot",
+      "name": {
+        "hi": "रामदूत",
+        "en": "Ramdoot"
+      }
+    },
+    {
+      "id": "ramabhakta",
+      "name": {
+        "hi": "रामभक्त",
+        "en": "Ramabhakta"
+      }
+    },
+    {
+      "id": "mahavira",
+      "name": {
+        "hi": "महावीरा",
+        "en": "Mahavira"
+      }
+    },
+    {
+      "id": "panchmukhi_hanuman",
+      "name": {
+        "hi": "पंचमुखी हनुमान",
+        "en": "Panchmukhi Hanuman"
+      }
+    },
+    {
+      "id": "rudravatar",
+      "name": {
+        "hi": "रुद्रावतार",
+        "en": "Rudravatara"
+      }
+    },
+    {
+      "id": "maruti_nandan",
+      "name": {
+        "hi": "मारुति नन्दन",
+        "en": "Maruti Nandan"
+      }
+    },
+    {
+      "id": "jai_shri_ram_hanuman",
+      "name": {
+        "hi": "जय श्री राम हनुमान",
+        "en": "Jai Shri Ram Hanuman"
+      }
+    }
+  ]
+}

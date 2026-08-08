@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "शिव पार्वती",
+    "en": "Shiva Parvati"
+  },
+  "names": [
+    {
+      "id": "shiv_parvati",
+      "name": {
+        "hi": "शिव पार्वती",
+        "en": "Shiva Parvati"
+      }
+    },
+    {
+      "id": "uma_maheshwara__shiva_parvati",
+      "name": {
+        "hi": "उमा महेश्वर",
+        "en": "Uma Maheshwara"
+      }
+    },
+    {
+      "id": "gauri_shankara__shiva_parvati",
+      "name": {
+        "hi": "गौरी शंकर",
+        "en": "Gauri Shankara"
+      }
+    },
+    {
+      "id": "uma_mahesh",
+      "name": {
+        "hi": "उमा महेश",
+        "en": "Uma Mahesh"
+      }
+    },
+    {
+      "id": "shiv_shakti",
+      "name": {
+        "hi": "शिव शक्ति",
+        "en": "Shiva Shakti"
+      }
+    },
+    {
+      "id": "har_gauri",
+      "name": {
+        "hi": "हर गौरी",
+        "en": "Har Gauri"
+      }
+    },
+    {
+      "id": "shankar_parvati",
+      "name": {
+        "hi": "शंकर पार्वती",
+        "en": "Shankara Parvati"
+      }
+    },
+    {
+      "id": "mahadev_parvati",
+      "name": {
+        "hi": "महादेव पार्वती",
+        "en": "Mahadev Parvati"
+      }
+    },
+    {
+      "id": "mahadev_gauri",
+      "name": {
+        "hi": "महादेव गौरी",
+        "en": "Mahadev Gauri"
+      }
+    },
+    {
+      "id": "shivay_parvati",
+      "name": {
+        "hi": "शिवाय पार्वती",
+        "en": "Shivaya Parvati"
+      }
+    },
+    {
+      "id": "bhavani_shankara",
+      "name": {
+        "hi": "भवानी शंकर",
+        "en": "Bhavani Shankara"
+      }
+    },
+    {
+      "id": "ardhanarishvara__shiva_parvati",
+      "name": {
+        "hi": "अर्धनारीश्वर",
+        "en": "Ardhanarishvara"
+      }
+    }
+  ]
+}

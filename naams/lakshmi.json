@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "category": "lakshmi",
+  "title": {
+    "hi": "लक्ष्मी",
+    "en": "Lakshmi"
+  },
+  "names": [
+    {
+      "id": "lakshmi__lakshmi",
+      "name": {
+        "hi": "लक्ष्मी",
+        "en": "Lakshmi"
+      }
+    },
+    {
+      "id": "shri_lakshmi",
+      "name": {
+        "hi": "श्री लक्ष्मी",
+        "en": "Shri Lakshmi"
+      }
+    },
+    {
+      "id": "maa_lakshmi",
+      "name": {
+        "hi": "माँ लक्ष्मी",
+        "en": "Maa Lakshmi"
+      }
+    },
+    {
+      "id": "mahalakshmi__lakshmi",
+      "name": {
+        "hi": "महालक्ष्मी",
+        "en": "Mahalakshmi"
+      }
+    },
+    {
+      "id": "shri_mahalakshmi",
+      "name": {
+        "hi": "श्री महालक्ष्मी",
+        "en": "Shri Mahalakshmi"
+      }
+    },
+    {
+      "id": "jai_mahalakshmi",
+      "name": {
+        "hi": "जय महालक्ष्मी",
+        "en": "Jai Mahalakshmi"
+      }
+    },
+    {
+      "id": "jai_maa_lakshmi",
+      "name": {
+        "hi": "जय माँ लक्ष्मी",
+        "en": "Jai Maa Lakshmi"
+      }
+    },
+    {
+      "id": "padma",
+      "name": {
+        "hi": "पद्मा",
+        "en": "Padma"
+      }
+    },
+    {
+      "id": "kamala",
+      "name": {
+        "hi": "कमला",
+        "en": "Kamala"
+      }
+    },
+    {
+      "id": "padmalaya",
+      "name": {
+        "hi": "पद्मालया",
+        "en": "Padmalaya"
+      }
+    },
+    {
+      "id": "padmapriya",
+      "name": {
+        "hi": "पद्मप्रिया",
+        "en": "Padmapriya"
+      }
+    },
+    {
+      "id": "haripriya__lakshmi",
+      "name": {
+        "hi": "हरिप्रिया",
+        "en": "Haripriya"
+      }
+    },
+    {
+      "id": "vishnupriya",
+      "name": {
+        "hi": "विष्णुप्रिया",
+        "en": "Vishnupriya"
+      }
+    },
+    {
+      "id": "narayan_priya",
+      "name": {
+        "hi": "नारायणप्रिया",
+        "en": "Narayanapriya"
+      }
+    },
+    {
+      "id": "lokamata",
+      "name": {
+        "hi": "लोकमाता",
+        "en": "Lokamata"
+      }
+    },
+    {
+      "id": "dhanalakshmi",
+      "name": {
+        "hi": "धनलक्ष्मी",
+        "en": "Dhanalakshmi"
+      }
+    },
+    {
+      "id": "dhanyalakshmi",
+      "name": {
+        "hi": "धान्यलक्ष्मी",
+        "en": "Dhanyalakshmi"
+      }
+    },
+    {
+      "id": "gajalakshmi",
+      "name": {
+        "hi": "गजलक्ष्मी",
+        "en": "Gajalakshmi"
+      }
+    },
+    {
+      "id": "santan_lakshmi",
+      "name": {
+        "hi": "संतान लक्ष्मी",
+        "en": "Santana Lakshmi"
+      }
+    },
+    {
+      "id": "aishwarya_lakshmi",
+      "name": {
+        "hi": "ऐश्वर्य लक्ष्मी",
+        "en": "Aishwarya Lakshmi"
+      }
+    },
+    {
+      "id": "adi_lakshmi",
+      "name": {
+        "hi": "आदि लक्ष्मी",
+        "en": "Adi Lakshmi"
+      }
+    },
+    {
+      "id": "vidya_lakshmi",
+      "name": {
+        "hi": "विद्या लक्ष्मी",
+        "en": "Vidya Lakshmi"
+      }
+    },
+    {
+      "id": "vijaya_lakshmi",
+      "name": {
+        "hi": "विजय लक्ष्मी",
+        "en": "Vijaya Lakshmi"
+      }
+    },
+    {
+      "id": "veer_lakshmi",
+      "name": {
+        "hi": "वीर लक्ष्मी",
+        "en": "Veera Lakshmi"
+      }
+    }
+  ]
+}

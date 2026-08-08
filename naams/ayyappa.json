@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "category": "ayyappa",
+  "title": {
+    "hi": "अय्यप्पा",
+    "en": "Ayyappa"
+  },
+  "names": [
+    {
+      "id": "ayyappa",
+      "name": {
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
+      }
+    },
+    {
+      "id": "swami_ayyappa",
+      "name": {
+        "hi": "स्वामी अय्यप्पा",
+        "en": "Swami Ayyappa"
+      }
+    },
+    {
+      "id": "sabarimala_ayyappa",
+      "name": {
+        "hi": "सबरीमाला अय्यप्पा",
+        "en": "Sabarimala Ayyappa"
+      }
+    },
+    {
+      "id": "manikandan",
+      "name": {
+        "hi": "मणिकंदन",
+        "en": "Manikandan"
+      }
+    },
+    {
+      "id": "hariharaputra",
+      "name": {
+        "hi": "हरिहरपुत्र",
+        "en": "Hariharaputra"
+      }
+    },
+    {
+      "id": "dharma_shasta",
+      "name": {
+        "hi": "धर्म शास्ता",
+        "en": "Dharma Shasta"
+      }
+    },
+    {
+      "id": "sharanam_ayyappa",
+      "name": {
+        "hi": "शरणम् अय्यप्पा",
+        "en": "Sharanam Ayyappa"
+      }
+    },
+    {
+      "id": "swamiye_sharanam",
+      "name": {
+        "hi": "स्वामिये शरणम्",
+        "en": "Swamiye Sharanam"
+      }
+    },
+    {
+      "id": "ayyappa_swami",
+      "name": {
+        "hi": "अय्यप्पा स्वामी",
+        "en": "Ayyappa Swami"
+      }
+    }
+  ]
+}

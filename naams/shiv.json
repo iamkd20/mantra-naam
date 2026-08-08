@@ -2,8 +2,8 @@
   "version": 1,
   "category": "shiva",
   "title": {
-    "hi": "शिव नाम जप",
-    "en": "Shiva Naam Jap"
+    "hi": "शिव",
+    "en": "Shiva"
   },
   "names": [
     {
@@ -18,6 +18,13 @@
       "name": {
         "hi": "महादेव",
         "en": "Mahadev"
+      }
+    },
+    {
+      "id": "har_har_mahadev",
+      "name": {
+        "hi": "हर हर महादेव",
+        "en": "Har Har Mahadev"
       }
     },
     {
@@ -49,13 +56,6 @@
       }
     },
     {
-      "id": "har_har_mahadev",
-      "name": {
-        "hi": "हर हर महादेव",
-        "en": "Har Har Mahadev"
-      }
-    },
-    {
       "id": "samba_sadashiva",
       "name": {
         "hi": "सांब सदाशिव",
@@ -67,6 +67,76 @@
       "name": {
         "hi": "सदाशिव",
         "en": "Sadashiva"
+      }
+    },
+    {
+      "id": "shiv_shambho",
+      "name": {
+        "hi": "शिव शंभो",
+        "en": "Shiv Shambho"
+      }
+    },
+    {
+      "id": "shiv_shankara",
+      "name": {
+        "hi": "शिव शंकर",
+        "en": "Shiv Shankara"
+      }
+    },
+    {
+      "id": "har_har_shambhu",
+      "name": {
+        "hi": "हर हर शम्भू",
+        "en": "Har Har Shambhu"
+      }
+    },
+    {
+      "id": "bam_bam_bhole",
+      "name": {
+        "hi": "बम बम भोले",
+        "en": "Bam Bam Bhole"
+      }
+    },
+    {
+      "id": "bam_bhole",
+      "name": {
+        "hi": "बम भोले",
+        "en": "Bam Bhole"
+      }
+    },
+    {
+      "id": "bhole_bhandari",
+      "name": {
+        "hi": "भोले भंडारी",
+        "en": "Bhole Bhandari"
+      }
+    },
+    {
+      "id": "jai_mahadev",
+      "name": {
+        "hi": "जय महादेव",
+        "en": "Jai Mahadev"
+      }
+    },
+    {
+      "id": "jai_bholenath",
+      "name": {
+        "hi": "जय भोलेनाथ",
+        "en": "Jai Bholenath"
+      }
+    },
+    {
+      "id": "jai_shiv_shankara",
+      "name": {
+        "hi": "जय शिव शंकर",
+        "en": "Jai Shiv Shankara"
+      }
+    },
+    {
+      "id": "shivaya",
+      "name": {
+        "hi": "शिवाय",
+        "en": "Shivaya"
       }
     },
     {
@@ -182,6 +252,27 @@
       }
     },
     {
+      "id": "vaidyanatha",
+      "name": {
+        "hi": "वैद्यनाथ",
+        "en": "Vaidyanatha"
+      }
+    },
+    {
+      "id": "nageshwara",
+      "name": {
+        "hi": "नागेश्वर",
+        "en": "Nageshwara"
+      }
+    },
+    {
+      "id": "amarnatha",
+      "name": {
+        "hi": "अमरनाथ",
+        "en": "Amarnatha"
+      }
+    },
+    {
       "id": "umapati",
       "name": {
         "hi": "उमापति",
@@ -200,6 +291,13 @@
       "name": {
         "hi": "कैलाशपति",
         "en": "Kailashpati"
+      }
+    },
+    {
+      "id": "kailashanatha",
+      "name": {
+        "hi": "कैलाशनाथ",
+        "en": "Kailashnath"
       }
     },
     {
@@ -245,6 +343,62 @@
       }
     },
     {
+      "id": "chandramoulishwara",
+      "name": {
+        "hi": "चन्द्रमौलीश्वर",
+        "en": "Chandramoulishwara"
+      }
+    },
+    {
+      "id": "trilochana",
+      "name": {
+        "hi": "त्रिलोचन",
+        "en": "Trilochana"
+      }
+    },
+    {
+      "id": "shashishekhar",
+      "name": {
+        "hi": "शशिशेखर",
+        "en": "Shashishekhar"
+      }
+    },
+    {
+      "id": "vishweshwara",
+      "name": {
+        "hi": "विश्वेश्वर",
+        "en": "Vishweshwara"
+      }
+    },
+    {
+      "id": "pinaki",
+      "name": {
+        "hi": "पिनाकी",
+        "en": "Pinaki"
+      }
+    },
+    {
+      "id": "ishana",
+      "name": {
+        "hi": "ईशान",
+        "en": "Ishana"
+      }
+    },
+    {
+      "id": "ishwara",
+      "name": {
+        "hi": "ईश्वर",
+        "en": "Ishwara"
+      }
+    },
+    {
+      "id": "veerabhadra",
+      "name": {
+        "hi": "वीरभद्र",
+        "en": "Veerabhadra"
+      }
+    },
+    {
       "id": "girisha",
       "name": {
         "hi": "गिरीश",
@@ -276,84 +430,56 @@
       "id": "gauri_shankara",
       "name": {
         "hi": "गौरी शंकर",
-        "en": "Gauri Shankar"
+        "en": "Gauri Shankara"
       }
     },
     {
-      "id": "shiv_shankara",
+      "id": "devo_ke_dev_mahadev",
       "name": {
-        "hi": "शिव शंकर",
-        "en": "Shiv Shankara"
+        "hi": "देवों के देव महादेव",
+        "en": "Devon Ke Dev Mahadev"
       }
     },
     {
-      "id": "shiv_shambho",
+      "id": "kalabhairava",
       "name": {
-        "hi": "शिव शंभो",
-        "en": "Shiv Shambho"
+        "hi": "कालभैरव",
+        "en": "Kalabhairava"
       }
     },
     {
-      "id": "har",
+      "id": "bhairava",
       "name": {
-        "hi": "हर",
-        "en": "Har"
+        "hi": "भैरव",
+        "en": "Bhairava"
       }
     },
     {
-      "id": "har_har_shambhu",
+      "id": "shiv_gorakh",
       "name": {
-        "hi": "हर हर शम्भू",
-        "en": "Har Har Shambhu"
+        "hi": "गोरख",
+        "en": "Gorakh"
       }
     },
     {
-      "id": "jai_mahadev",
+      "id": "kedar",
       "name": {
-        "hi": "जय महादेव",
-        "en": "Jai Mahadev"
+        "hi": "केदार",
+        "en": "Kedar"
       }
     },
     {
-      "id": "jai_bholenath",
+      "id": "shiv_mahadev",
       "name": {
-        "hi": "जय भोलेनाथ",
-        "en": "Jai Bholenath"
+        "hi": "शिव महादेव",
+        "en": "Shiv Mahadev"
       }
     },
     {
-      "id": "jai_shiv_shankara",
+      "id": "shiv_shiv",
       "name": {
-        "hi": "जय शिव शंकर",
-        "en": "Jai Shiv Shankara"
-      }
-    },
-    {
-      "id": "shivaya_namah",
-      "name": {
-        "hi": "शिवाय नमः",
-        "en": "Shivaya Namah"
-      }
-    },
-    {
-      "id": "om_shiva",
-      "name": {
-        "hi": "ॐ शिव",
-        "en": "Om Shiva"
-      }
-    },
-    {
-      "id": "om_namah_shivaya",
-      "name": {
-        "hi": "ॐ नमः शिवाय",
-        "en": "Om Namah Shivaya"
-      }
-    },
-    {
-      "id": "namah_shivaya",
-      "name": {
-        "hi": "नमः शिवाय",
-        "en": "Namah Shivaya"
+        "hi": "शिव शिव",
+        "en": "Shiv Shiv"
       }
     }
   ]

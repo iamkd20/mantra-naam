@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "category": "tulsi",
+  "title": {
+    "hi": "तुलसी माता",
+    "en": "Tulsi Mata"
+  },
+  "names": [
+    {
+      "id": "tulsi",
+      "name": {
+        "hi": "तुलसी",
+        "en": "Tulsi"
+      }
+    },
+    {
+      "id": "tulsi_mata",
+      "name": {
+        "hi": "तुलसी माता",
+        "en": "Tulsi Mata"
+      }
+    },
+    {
+      "id": "vrinda",
+      "name": {
+        "hi": "वृंदा",
+        "en": "Vrinda"
+      }
+    },
+    {
+      "id": "vrinda_devi",
+      "name": {
+        "hi": "वृंदा देवी",
+        "en": "Vrinda Devi"
+      }
+    },
+    {
+      "id": "vishnu_priya",
+      "name": {
+        "hi": "विष्णुप्रिया",
+        "en": "Vishnu Priya"
+      }
+    },
+    {
+      "id": "hari_priya",
+      "name": {
+        "hi": "हरिप्रिया",
+        "en": "Hari Priya"
+      }
+    },
+    {
+      "id": "vrindavani",
+      "name": {
+        "hi": "वृंदावनी",
+        "en": "Vrindavani"
+      }
+    },
+    {
+      "id": "jai_tulsi_mata",
+      "name": {
+        "hi": "जय तुलसी माता",
+        "en": "Jai Tulsi Mata"
+      }
+    }
+  ]
+}

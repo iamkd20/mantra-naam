@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "category": "kartikeya",
+  "title": {
+    "hi": "कार्तिकेय / मुरुगन",
+    "en": "Kartikeya / Murugan"
+  },
+  "names": [
+    {
+      "id": "kartikeya",
+      "name": {
+        "hi": "कार्तिकेय",
+        "en": "Kartikeya"
+      }
+    },
+    {
+      "id": "murugan",
+      "name": {
+        "hi": "मुरुगन",
+        "en": "Murugan"
+      }
+    },
+    {
+      "id": "skanda",
+      "name": {
+        "hi": "स्कन्द",
+        "en": "Skanda"
+      }
+    },
+    {
+      "id": "kartikeya_subrahmanya",
+      "name": {
+        "hi": "सुब्रह्मण्य",
+        "en": "Subrahmanya"
+      }
+    },
+    {
+      "id": "kumaraswamy",
+      "name": {
+        "hi": "कुमारस्वामी",
+        "en": "Kumaraswamy"
+      }
+    },
+    {
+      "id": "shanmukha",
+      "name": {
+        "hi": "षण्मुख",
+        "en": "Shanmukha"
+      }
+    },
+    {
+      "id": "shanmuga",
+      "name": {
+        "hi": "षण्मुग",
+        "en": "Shanmuga"
+      }
+    },
+    {
+      "id": "saravana",
+      "name": {
+        "hi": "सरवण",
+        "en": "Saravana"
+      }
+    },
+    {
+      "id": "vel_murugan",
+      "name": {
+        "hi": "वेल मुरुगन",
+        "en": "Vel Murugan"
+      }
+    },
+    {
+      "id": "karthik",
+      "name": {
+        "hi": "कार्तिक",
+        "en": "Karthik"
+      }
+    },
+    {
+      "id": "swaminatha",
+      "name": {
+        "hi": "स्वामिनाथ",
+        "en": "Swaminatha"
+      }
+    },
+    {
+      "id": "jai_murugan",
+      "name": {
+        "hi": "जय मुरुगन",
+        "en": "Jai Murugan"
+      }
+    }
+  ]
+}

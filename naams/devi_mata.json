@@ -1,0 +1,290 @@
+{
+  "version": 1,
+  "category": "devi",
+  "title": {
+    "hi": "देवी माता",
+    "en": "Devi Mata"
+  },
+  "names": [
+    {
+      "id": "devi",
+      "name": {
+        "hi": "देवी",
+        "en": "Devi"
+      }
+    },
+    {
+      "id": "devi_maa",
+      "name": {
+        "hi": "देवी माँ",
+        "en": "Devi Maa"
+      }
+    },
+    {
+      "id": "maa_durga",
+      "name": {
+        "hi": "माँ दुर्गा",
+        "en": "Maa Durga"
+      }
+    },
+    {
+      "id": "durga",
+      "name": {
+        "hi": "दुर्गा",
+        "en": "Durga"
+      }
+    },
+    {
+      "id": "jai_mata_di",
+      "name": {
+        "hi": "जय माता दी",
+        "en": "Jai Mata Di"
+      }
+    },
+    {
+      "id": "jagdambe",
+      "name": {
+        "hi": "जगदम्बे",
+        "en": "Jagdambe"
+      }
+    },
+    {
+      "id": "jagdamba",
+      "name": {
+        "hi": "जगदम्बा",
+        "en": "Jagadamba"
+      }
+    },
+    {
+      "id": "ambe",
+      "name": {
+        "hi": "अम्बे",
+        "en": "Ambe"
+      }
+    },
+    {
+      "id": "ambe_jagadamba",
+      "name": {
+        "hi": "अम्बे जगदम्बा",
+        "en": "Ambe Jagadamba"
+      }
+    },
+    {
+      "id": "maa",
+      "name": {
+        "hi": "माँ",
+        "en": "Maa"
+      }
+    },
+    {
+      "id": "mata",
+      "name": {
+        "hi": "माता",
+        "en": "Mata"
+      }
+    },
+    {
+      "id": "bhavani",
+      "name": {
+        "hi": "भवानी",
+        "en": "Bhavani"
+      }
+    },
+    {
+      "id": "ambika",
+      "name": {
+        "hi": "अम्बिका",
+        "en": "Ambika"
+      }
+    },
+    {
+      "id": "amba",
+      "name": {
+        "hi": "अम्बा",
+        "en": "Amba"
+      }
+    },
+    {
+      "id": "adi_shakti",
+      "name": {
+        "hi": "आदि शक्ति",
+        "en": "Adi Shakti"
+      }
+    },
+    {
+      "id": "adi_parashakti",
+      "name": {
+        "hi": "आदि पराशक्ति",
+        "en": "Adi Parashakti"
+      }
+    },
+    {
+      "id": "mahashakti",
+      "name": {
+        "hi": "महाशक्ति",
+        "en": "Mahashakti"
+      }
+    },
+    {
+      "id": "mahadevi",
+      "name": {
+        "hi": "महादेवी",
+        "en": "Mahadevi"
+      }
+    },
+    {
+      "id": "shakti",
+      "name": {
+        "hi": "शक्ति",
+        "en": "Shakti"
+      }
+    },
+    {
+      "id": "chandika",
+      "name": {
+        "hi": "चण्डिका",
+        "en": "Chandika"
+      }
+    },
+    {
+      "id": "chamunda",
+      "name": {
+        "hi": "चामुण्डा",
+        "en": "Chamunda"
+      }
+    },
+    {
+      "id": "kali",
+      "name": {
+        "hi": "काली",
+        "en": "Kali"
+      }
+    },
+    {
+      "id": "mahakali",
+      "name": {
+        "hi": "महाकाली",
+        "en": "Mahakali"
+      }
+    },
+    {
+      "id": "jwala_mata",
+      "name": {
+        "hi": "ज्वाला माता",
+        "en": "Jwala Mata"
+      }
+    },
+    {
+      "id": "kamakhya_mata",
+      "name": {
+        "hi": "कामाख्या माता",
+        "en": "Kamakhya Mata"
+      }
+    },
+    {
+      "id": "khodiyar_mata",
+      "name": {
+        "hi": "खोडियार माता",
+        "en": "Khodiyar Mata"
+      }
+    },
+    {
+      "id": "parvati",
+      "name": {
+        "hi": "पार्वती",
+        "en": "Parvati"
+      }
+    },
+    {
+      "id": "gauri",
+      "name": {
+        "hi": "गौरी",
+        "en": "Gauri"
+      }
+    },
+    {
+      "id": "parvati_gauri",
+      "name": {
+        "hi": "पार्वती गौरी",
+        "en": "Parvati Gauri"
+      }
+    },
+    {
+      "id": "lakshmi",
+      "name": {
+        "hi": "लक्ष्मी",
+        "en": "Lakshmi"
+      }
+    },
+    {
+      "id": "mahalakshmi",
+      "name": {
+        "hi": "महालक्ष्मी",
+        "en": "Mahalakshmi"
+      }
+    },
+    {
+      "id": "lakshmi_mahalakshmi",
+      "name": {
+        "hi": "लक्ष्मी महालक्ष्मी",
+        "en": "Lakshmi Mahalakshmi"
+      }
+    },
+    {
+      "id": "saraswati",
+      "name": {
+        "hi": "सरस्वती",
+        "en": "Saraswati"
+      }
+    },
+    {
+      "id": "navadurga",
+      "name": {
+        "hi": "नवदुर्गा",
+        "en": "Navadurga"
+      }
+    },
+    {
+      "id": "jai_durga",
+      "name": {
+        "hi": "जय दुर्गा",
+        "en": "Jai Durga"
+      }
+    },
+    {
+      "id": "jagadamba_ma",
+      "name": {
+        "hi": "जगदम्बा माँ",
+        "en": "Jagadamba Maa"
+      }
+    },
+    {
+      "id": "jagajjanani",
+      "name": {
+        "hi": "जगज्जननी",
+        "en": "Jagajjanani"
+      }
+    },
+    {
+      "id": "sarvamangala",
+      "name": {
+        "hi": "सर्वमंगला",
+        "en": "Sarvamangala"
+      }
+    },
+    {
+      "id": "mangala_mata",
+      "name": {
+        "hi": "मंगला माता",
+        "en": "Mangala Mata"
+      }
+    },
+    {
+      "id": "karunamayi_mata",
+      "name": {
+        "hi": "करुणामयी माता",
+        "en": "Karunamayi Mata"
+      }
+    }
+  ]
+}

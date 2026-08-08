@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "category": "shani_deva",
+  "title": {
+    "hi": "शनि देव",
+    "en": "Shani Dev"
+  },
+  "names": [
+    {
+      "id": "shani",
+      "name": {
+        "hi": "शनि",
+        "en": "Shani"
+      }
+    },
+    {
+      "id": "shani_deva",
+      "name": {
+        "hi": "शनि देव",
+        "en": "Shani Dev"
+      }
+    },
+    {
+      "id": "shanidev",
+      "name": {
+        "hi": "शनिदेव",
+        "en": "Shanidev"
+      }
+    },
+    {
+      "id": "shanaishchara",
+      "name": {
+        "hi": "शनैश्चर",
+        "en": "Shanaishchara"
+      }
+    },
+    {
+      "id": "shanishwara",
+      "name": {
+        "hi": "शनैश्वर",
+        "en": "Shanishwara"
+      }
+    },
+    {
+      "id": "chhaya_putra",
+      "name": {
+        "hi": "छाया पुत्र",
+        "en": "Chhaya Putra"
+      }
+    },
+    {
+      "id": "raviputra",
+      "name": {
+        "hi": "रविपुत्र",
+        "en": "Raviputra"
+      }
+    },
+    {
+      "id": "jai_shani_dev",
+      "name": {
+        "hi": "जय शनि देव",
+        "en": "Jai Shani Dev"
+      }
+    },
+    {
+      "id": "shani_maharaj",
+      "name": {
+        "hi": "शनि महाराज",
+        "en": "Shani Maharaj"
+      }
+    }
+  ]
+}

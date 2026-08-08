@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "category": "sita_ram",
+  "title": {
+    "hi": "सीता राम",
+    "en": "Sita Ram"
+  },
+  "names": [
+    {
+      "id": "sita_ram__sita_ram",
+      "name": {
+        "hi": "सीताराम",
+        "en": "Sita Ram"
+      }
+    },
+    {
+      "id": "siya_ram__sita_ram",
+      "name": {
+        "hi": "सियाराम",
+        "en": "Siya Ram"
+      }
+    },
+    {
+      "id": "jai_siya_ram__sita_ram",
+      "name": {
+        "hi": "जय सियाराम",
+        "en": "Jai Siya Ram"
+      }
+    },
+    {
+      "id": "shri_sita_ram__sita_ram",
+      "name": {
+        "hi": "श्री सीताराम",
+        "en": "Shri Sita Ram"
+      }
+    },
+    {
+      "id": "jai_shri_sita_ram__sita_ram",
+      "name": {
+        "hi": "जय श्री सीताराम",
+        "en": "Jai Shri Sita Ram"
+      }
+    },
+    {
+      "id": "jai_sita_ram",
+      "name": {
+        "hi": "जय सीता राम",
+        "en": "Jai Sita Ram"
+      }
+    },
+    {
+      "id": "shri_sita_ram_spaced",
+      "name": {
+        "hi": "श्री सीता राम",
+        "en": "Shri Sita Ram"
+      }
+    },
+    {
+      "id": "jai_shri_sita_ram_spaced",
+      "name": {
+        "hi": "जय श्री सीता राम",
+        "en": "Jai Shri Sita Ram"
+      }
+    },
+    {
+      "id": "sita_ram_sita_ram__sita_ram",
+      "name": {
+        "hi": "सीताराम सीताराम",
+        "en": "Sita Ram Sita Ram"
+      }
+    },
+    {
+      "id": "sita_ram_jai_sita_ram",
+      "name": {
+        "hi": "सीताराम जय सीताराम",
+        "en": "Sita Ram Jai Sita Ram"
+      }
+    },
+    {
+      "id": "jai_jai_sita_ram",
+      "name": {
+        "hi": "जय जय सीताराम",
+        "en": "Jai Jai Sita Ram"
+      }
+    },
+    {
+      "id": "shri_sita_ram_jai_sita_ram",
+      "name": {
+        "hi": "श्री सीताराम जय सीताराम",
+        "en": "Shri Sita Ram Jai Sita Ram"
+      }
+    },
+    {
+      "id": "sita_ram_ram",
+      "name": {
+        "hi": "सीताराम राम",
+        "en": "Sita Ram Ram"
+      }
+    },
+    {
+      "id": "sita_ram_jai_ram",
+      "name": {
+        "hi": "सीताराम जय राम",
+        "en": "Sita Ram Jai Ram"
+      }
+    },
+    {
+      "id": "siyaram_jai_ram",
+      "name": {
+        "hi": "सियाराम जय राम",
+        "en": "Siya Ram Jai Ram"
+      }
+    },
+    {
+      "id": "siyaram_jai_jai_ram",
+      "name": {
+        "hi": "सियाराम जय जय राम",
+        "en": "Siya Ram Jai Jai Ram"
+      }
+    },
+    {
+      "id": "sita_ram_janaki_ram",
+      "name": {
+        "hi": "सीताराम जानकी राम",
+        "en": "Sita Ram Janaki Ram"
+      }
+    },
+    {
+      "id": "janaki_ram",
+      "name": {
+        "hi": "जानकी राम",
+        "en": "Janaki Ram"
+      }
+    },
+    {
+      "id": "janaki_vallabha_sita_ram",
+      "name": {
+        "hi": "जानकीवल्लभ सीताराम",
+        "en": "Janaki Vallabha Sita Ram"
+      }
+    },
+    {
+      "id": "sita_ram_janaki_vallabha",
+      "name": {
+        "hi": "सीताराम जानकीवल्लभ",
+        "en": "Sita Ram Janaki Vallabha"
+      }
+    }
+  ]
+}

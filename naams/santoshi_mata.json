@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "category": "santoshi_mata",
+  "title": {
+    "hi": "संतोषी माता",
+    "en": "Santoshi Mata"
+  },
+  "names": [
+    {
+      "id": "santoshi_mata",
+      "name": {
+        "hi": "संतोषी माता",
+        "en": "Santoshi Mata"
+      }
+    },
+    {
+      "id": "maa_santoshi",
+      "name": {
+        "hi": "माँ संतोषी",
+        "en": "Maa Santoshi"
+      }
+    },
+    {
+      "id": "santoshi",
+      "name": {
+        "hi": "संतोषी",
+        "en": "Santoshi"
+      }
+    },
+    {
+      "id": "jai_santoshi_mata",
+      "name": {
+        "hi": "जय संतोषी माता",
+        "en": "Jai Santoshi Mata"
+      }
+    },
+    {
+      "id": "santosh_datri",
+      "name": {
+        "hi": "संतोषदात्री",
+        "en": "Santosh Datri"
+      }
+    }
+  ]
+}

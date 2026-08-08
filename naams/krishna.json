@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "category": "krishna",
+  "title": {
+    "hi": "कृष्ण",
+    "en": "Krishna"
+  },
+  "names": [
+    {
+      "id": "krishna",
+      "name": {
+        "hi": "कृष्ण",
+        "en": "Krishna"
+      }
+    },
+    {
+      "id": "shri_krishna",
+      "name": {
+        "hi": "श्री कृष्ण",
+        "en": "Shri Krishna"
+      }
+    },
+    {
+      "id": "jai_shri_krishna",
+      "name": {
+        "hi": "जय श्री कृष्ण",
+        "en": "Jai Shri Krishna"
+      }
+    },
+    {
+      "id": "hare_krishna",
+      "name": {
+        "hi": "हरे कृष्ण",
+        "en": "Hare Krishna"
+      }
+    },
+    {
+      "id": "govinda",
+      "name": {
+        "hi": "गोविंद",
+        "en": "Govinda"
+      }
+    },
+    {
+      "id": "gopala",
+      "name": {
+        "hi": "गोपाल",
+        "en": "Gopala"
+      }
+    },
+    {
+      "id": "madhava",
+      "name": {
+        "hi": "माधव",
+        "en": "Madhava"
+      }
+    },
+    {
+      "id": "hari",
+      "name": {
+        "hi": "हरि",
+        "en": "Hari"
+      }
+    },
+    {
+      "id": "shri_krishna_govinda",
+      "name": {
+        "hi": "श्री कृष्ण गोविंद",
+        "en": "Shri Krishna Govinda"
+      }
+    },
+    {
+      "id": "krishna_govinda",
+      "name": {
+        "hi": "कृष्ण गोविंद",
+        "en": "Krishna Govinda"
+      }
+    },
+    {
+      "id": "gopala_govinda",
+      "name": {
+        "hi": "गोपाल गोविंद",
+        "en": "Gopala Govinda"
+      }
+    },
+    {
+      "id": "kanha",
+      "name": {
+        "hi": "कान्हा",
+        "en": "Kanha"
+      }
+    },
+    {
+      "id": "kanhaiya",
+      "name": {
+        "hi": "कन्हैया",
+        "en": "Kanhaiya"
+      }
+    },
+    {
+      "id": "shyama",
+      "name": {
+        "hi": "श्याम",
+        "en": "Shyam"
+      }
+    },
+    {
+      "id": "ghanshyama",
+      "name": {
+        "hi": "घनश्याम",
+        "en": "Ghanshyam"
+      }
+    },
+    {
+      "id": "nandalala",
+      "name": {
+        "hi": "नन्दलाल",
+        "en": "Nandalal"
+      }
+    },
+    {
+      "id": "nand_kishore",
+      "name": {
+        "hi": "नन्दकिशोर",
+        "en": "Nand Kishore"
+      }
+    },
+    {
+      "id": "nand_gopala",
+      "name": {
+        "hi": "नन्द गोपाल",
+        "en": "Nand Gopal"
+      }
+    },
+    {
+      "id": "nand_nandan",
+      "name": {
+        "hi": "नन्दनन्दन",
+        "en": "Nandanandan"
+      }
+    },
+    {
+      "id": "yashodanandana",
+      "name": {
+        "hi": "यशोदानन्दन",
+        "en": "Yashodanandana"
+      }
+    },
+    {
+      "id": "devakinandana",
+      "name": {
+        "hi": "देवकीनन्दन",
+        "en": "Devakinandana"
+      }
+    },
+    {
+      "id": "muralidhara",
+      "name": {
+        "hi": "मुरलीधर",
+        "en": "Muralidhara"
+      }
+    },
+    {
+      "id": "murali_manohara",
+      "name": {
+        "hi": "मुरली मनोहर",
+        "en": "Murali Manohara"
+      }
+    },
+    {
+      "id": "murari",
+      "name": {
+        "hi": "मुरारी",
+        "en": "Murari"
+      }
+    },
+    {
+      "id": "giridhari",
+      "name": {
+        "hi": "गिरिधारी",
+        "en": "Giridhari"
+      }
+    },
+    {
+      "id": "girdhari",
+      "name": {
+        "hi": "गिरधारी",
+        "en": "Girdhari"
+      }
+    },
+    {
+      "id": "govardhanadhari",
+      "name": {
+        "hi": "गोवर्धनधारी",
+        "en": "Govardhanadhari"
+      }
+    },
+    {
+      "id": "govardhan_gopal",
+      "name": {
+        "hi": "गोवर्धन गोपाल",
+        "en": "Govardhan Gopal"
+      }
+    },
+    {
+      "id": "gopinatha",
+      "name": {
+        "hi": "गोपीनाथ",
+        "en": "Gopinath"
+      }
+    },
+    {
+      "id": "gokulanatha",
+      "name": {
+        "hi": "गोकुलनाथ",
+        "en": "Gokulanatha"
+      }
+    },
+    {
+      "id": "gokul_chandra",
+      "name": {
+        "hi": "गोकुल चन्द्र",
+        "en": "Gokul Chandra"
+      }
+    },
+    {
+      "id": "gopijanavallabha",
+      "name": {
+        "hi": "गोपिजनवल्लभ",
+        "en": "Gopijanavallabha"
+      }
+    },
+    {
+      "id": "banke_bihari",
+      "name": {
+        "hi": "बाँके बिहारी",
+        "en": "Banke Bihari"
+      }
+    },
+    {
+      "id": "bihari",
+      "name": {
+        "hi": "बिहारी",
+        "en": "Bihari"
+      }
+    },
+    {
+      "id": "makhan_chora",
+      "name": {
+        "hi": "माखनचोर",
+        "en": "Makhan Chor"
+      }
+    },
+    {
+      "id": "natkhat_nandlal",
+      "name": {
+        "hi": "नटखट नन्दलाल",
+        "en": "Natkhat Nandlal"
+      }
+    },
+    {
+      "id": "damodara",
+      "name": {
+        "hi": "दामोदर",
+        "en": "Damodara"
+      }
+    },
+    {
+      "id": "madhusudana",
+      "name": {
+        "hi": "मधुसूदन",
+        "en": "Madhusudana"
+      }
+    },
+    {
+      "id": "keshava",
+      "name": {
+        "hi": "केशव",
+        "en": "Keshava"
+      }
+    },
+    {
+      "id": "achyuta",
+      "name": {
+        "hi": "अच्युत",
+        "en": "Achyuta"
+      }
+    },
+    {
+      "id": "janardana",
+      "name": {
+        "hi": "जनार्दन",
+        "en": "Janardana"
+      }
+    },
+    {
+      "id": "vasudeva",
+      "name": {
+        "hi": "वासुदेव",
+        "en": "Vasudeva"
+      }
+    },
+    {
+      "id": "devaki_suta",
+      "name": {
+        "hi": "देवकीसुत",
+        "en": "Devaki Suta"
+      }
+    },
+    {
+      "id": "vasudevanandana",
+      "name": {
+        "hi": "वासुदेवनन्दन",
+        "en": "Vasudevanandana"
+      }
+    },
+    {
+      "id": "yadunandana",
+      "name": {
+        "hi": "यदुनन्दन",
+        "en": "Yadunandana"
+      }
+    },
+    {
+      "id": "yadunatha",
+      "name": {
+        "hi": "यदुनाथ",
+        "en": "Yadunatha"
+      }
+    },
+    {
+      "id": "dwarkadhisha",
+      "name": {
+        "hi": "द्वारकाधीश",
+        "en": "Dwarkadhisha"
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "category": "nav_graha",
+  "title": {
+    "hi": "नवग्रह",
+    "en": "Nav Graha"
+  },
+  "names": [
+    {
+      "id": "surya",
+      "name": {
+        "hi": "सूर्य",
+        "en": "Surya"
+      }
+    },
+    {
+      "id": "chandra",
+      "name": {
+        "hi": "चन्द्र",
+        "en": "Chandra"
+      }
+    },
+    {
+      "id": "mangala",
+      "name": {
+        "hi": "मंगल",
+        "en": "Mangala"
+      }
+    },
+    {
+      "id": "budha",
+      "name": {
+        "hi": "बुध",
+        "en": "Budha"
+      }
+    },
+    {
+      "id": "brihaspati",
+      "name": {
+        "hi": "बृहस्पति",
+        "en": "Brihaspati"
+      }
+    },
+    {
+      "id": "shukra",
+      "name": {
+        "hi": "शुक्र",
+        "en": "Shukra"
+      }
+    },
+    {
+      "id": "shani",
+      "name": {
+        "hi": "शनि",
+        "en": "Shani"
+      }
+    },
+    {
+      "id": "rahu",
+      "name": {
+        "hi": "राहु",
+        "en": "Rahu"
+      }
+    },
+    {
+      "id": "ketu",
+      "name": {
+        "hi": "केतु",
+        "en": "Ketu"
+      }
+    },
+    {
+      "id": "navagraha",
+      "name": {
+        "hi": "नवग्रह",
+        "en": "Navagraha"
+      }
+    },
+    {
+      "id": "surya_deva",
+      "name": {
+        "hi": "सूर्य देव",
+        "en": "Surya Deva"
+      }
+    },
+    {
+      "id": "chandra_deva",
+      "name": {
+        "hi": "चन्द्र देव",
+        "en": "Chandra Deva"
+      }
+    },
+    {
+      "id": "mangal_deva",
+      "name": {
+        "hi": "मंगल देव",
+        "en": "Mangala Deva"
+      }
+    },
+    {
+      "id": "budha_deva",
+      "name": {
+        "hi": "बुध देव",
+        "en": "Budha Deva"
+      }
+    },
+    {
+      "id": "guru_deva",
+      "name": {
+        "hi": "गुरु देव",
+        "en": "Guru Deva"
+      }
+    },
+    {
+      "id": "shukra_deva",
+      "name": {
+        "hi": "शुक्र देव",
+        "en": "Shukra Deva"
+      }
+    },
+    {
+      "id": "shani_deva",
+      "name": {
+        "hi": "शनि देव",
+        "en": "Shani Deva"
+      }
+    },
+    {
+      "id": "rahu_deva",
+      "name": {
+        "hi": "राहु देव",
+        "en": "Rahu Deva"
+      }
+    },
+    {
+      "id": "ketu_deva",
+      "name": {
+        "hi": "केतु देव",
+        "en": "Ketu Deva"
+      }
+    }
+  ]
+}
