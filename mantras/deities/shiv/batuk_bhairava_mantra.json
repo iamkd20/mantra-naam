@@ -6,8 +6,6 @@
     "hi": "बटुक भैरव मंत्र",
     "en": "Batuk Bhairava Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 13,
   "mantras": [
     {
       "id": "batuk_bhairava_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान बटुक भैरव को प्रणाम करता हूँ। हे प्रभु! आप सभी संकटों एवं बाधाओं से रक्षा करें, हमें साहस, विवेक, आत्मबल तथा धर्म के मार्ग पर चलने की प्रेरणा प्रदान करें।",
         "en": "I bow to Lord Batuk Bhairava. O Lord, kindly protect us from difficulties and obstacles, and bless us with courage, wisdom, inner strength, and guidance on the path of righteousness."
       },
-      "deities": [
-        "shiva",
-        "batuk_bhairava"
-      ],
-      "categories": [
-        "shiva",
-        "bhairava",
-        "nama_japa"
-      ],
       "keywords": {
         "hi": [
           "बटुक भैरव मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल अथवा सायंकाल श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। भगवान भैरव की उपासना, कालाष्टमी तथा विशेष शिव साधना के अवसर पर इसका जप विशेष रूप से किया जाता है।",
         "en": "This mantra may be chanted in the morning or evening with devotion and concentration. It is traditionally recited during the worship of Lord Bhairava, on Kala Ashtami, and during special Shiva spiritual practices."
       },
-      "difficulty": {
-        "level": "intermediate",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'आपदुद्धारणाय', 'कुरु कुरु' तथा 'बटुकाय' का स्पष्ट एवं शुद्ध संस्कृत उच्चारण करें।",
         "en": "Pronounce 'Apaduddharanaya', 'Kuru Kuru', and 'Batukaya' carefully with proper Sanskrit pronunciation."
       },
-      "audio": "batuk_bhairava_mantra.mp3",
-      "isPopular": true
+      "audio": "batuk_bhairava_mantra.mp3"
     }
   ]
 }

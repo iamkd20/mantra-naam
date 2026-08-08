@@ -6,8 +6,6 @@
     "hi": "ॐ सोमेश्वराय नमः",
     "en": "Om Someshwaraya Namah"
   },
-  "image": "shiv.png",
-  "sortOrder": 11,
   "mantras": [
     {
       "id": "someshwara_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान सोमेश्वर को प्रणाम करता हूँ, जो चन्द्रमा के स्वामी और समस्त सृष्टि के कल्याणकर्ता हैं। वे हमें शांति, संतुलन, विवेक, करुणा तथा आध्यात्मिक प्रकाश प्रदान करें।",
         "en": "I bow to Lord Someshwara, the Lord of the Moon and the benefactor of all creation. May He bless us with peace, balance, wisdom, compassion, and spiritual illumination."
       },
-      "deities": [
-        "shiva",
-        "someshwara"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "jyotirlinga"
-      ],
       "keywords": {
         "hi": [
           "सोमेश्वर मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान सोमेश्वर की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। सोमनाथ ज्योतिर्लिंग के दर्शन अथवा स्मरण के समय भी इसका जप शुभ माना जाता है।",
         "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, and while worshipping Lord Someshwara. It is also traditionally recited while remembering or visiting the Somnath Jyotirlinga."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'सोमेश्वराय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'सो' तथा 'श्वर' दोनों का उच्चारण संतुलित रखें।",
         "en": "Pronounce 'Someshwaraya' clearly, giving proper emphasis to both 'Some' and 'shwara'."
       },
-      "audio": "someshwara_mantra.mp3",
-      "isPopular": true
+      "audio": "someshwara_mantra.mp3"
     }
   ]
 }

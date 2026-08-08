@@ -6,8 +6,6 @@
     "hi": "ॐ महाकालाय नमः",
     "en": "Om Mahakalaya Namah"
   },
-  "image": "shiv.png",
-  "sortOrder": 9,
   "mantras": [
     {
       "id": "mahakala_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान महाकाल को प्रणाम करता हूँ, जो समय, जन्म और मृत्यु से परे हैं। वे हमें निर्भयता, आत्मबल, विवेक तथा आध्यात्मिक मार्ग पर चलने की प्रेरणा प्रदान करें।",
         "en": "I bow to Lord Mahakala, who exists beyond time, birth, and death. May He bless us with fearlessness, inner strength, wisdom, and guidance on the spiritual path."
       },
-      "deities": [
-        "shiva",
-        "mahakala"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "jyotirlinga"
-      ],
       "keywords": {
         "hi": [
           "महाकाल मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान महाकाल की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। उज्जैन महाकालेश्वर के दर्शन अथवा स्मरण के समय भी इसका जप शुभ माना जाता है।",
         "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, and during the worship of Lord Mahakala. It is also traditionally recited while remembering or visiting Mahakaleshwar Jyotirlinga."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'महाकालाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'काल' का उच्चारण दीर्घ 'आ' के साथ करें।",
         "en": "Pronounce 'Mahakalaya' clearly, giving the long 'aa' sound in 'Kala' proper emphasis."
       },
-      "audio": "mahakala_mantra.mp3",
-      "isPopular": true
+      "audio": "mahakala_mantra.mp3"
     }
   ]
 }

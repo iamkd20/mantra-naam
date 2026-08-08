@@ -6,8 +6,6 @@
     "hi": "ॐ नीलकण्ठाय नमः",
     "en": "Om Neelakanthaya Namah"
   },
-  "image": "shiv.png",
-  "sortOrder": 7,
   "mantras": [
     {
       "id": "neelkantha_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान नीलकण्ठ को प्रणाम करता हूँ, जिन्होंने सम्पूर्ण सृष्टि की रक्षा के लिए विष का पान किया। वे हमें धैर्य, करुणा, साहस और आध्यात्मिक शक्ति प्रदान करें।",
         "en": "I bow to Lord Neelkantha, who consumed the cosmic poison to protect creation. May He bless us with courage, compassion, patience, and spiritual strength."
       },
-      "deities": [
-        "shiva",
-        "neelkantha"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "protection"
-      ],
       "keywords": {
         "hi": [
           "नीलकण्ठ मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान शिव की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
         "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, or during the worship of Lord Shiva."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'नीलकण्ठाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'ण्ठ' संयुक्त व्यंजन का उच्चारण सावधानीपूर्वक करें।",
         "en": "Pronounce 'Neelakanthaya' carefully, paying attention to the combined consonant 'ṇṭha' in Sanskrit."
       },
-      "audio": "neelkantha_mantra.mp3",
-      "isPopular": true
+      "audio": "neelkantha_mantra.mp3"
     }
   ]
 }

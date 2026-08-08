@@ -6,8 +6,6 @@
     "hi": "शिव बीज मंत्र",
     "en": "Shiva Beej Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 5,
   "mantras": [
     {
       "id": "shiva_beej_mantra",
@@ -27,14 +25,6 @@
         "hi": "बीज मंत्रों का सामान्य शब्दार्थ नहीं होता। 'हौं' भगवान शिव की चेतना का प्रमुख बीज माना जाता है, 'जूं' संरक्षण एवं आध्यात्मिक शक्ति का प्रतीक है तथा 'सः' परम दिव्य चेतना का द्योतक माना जाता है।",
         "en": "Seed mantras are not interpreted literally. 'Haum' is traditionally associated with Lord Shiva, 'Joom' symbolizes protection and spiritual power, while 'Sah' represents the Supreme Divine Consciousness."
       },
-      "deities": [
-        "shiva"
-      ],
-      "categories": [
-        "shiva",
-        "beej_mantra",
-        "tantric_mantra"
-      ],
       "keywords": {
         "hi": [
           "शिव बीज मंत्र",
@@ -91,16 +81,11 @@
         "hi": "इस बीज मंत्र का जप प्रातःकाल अथवा सायंकाल शांत एवं एकाग्र मन से किया जा सकता है। सोमवार, श्रावण मास, महाशिवरात्रि तथा शिव ध्यान के समय इसका जप विशेष रूप से किया जाता है। कुछ परंपराओं में बीज मंत्रों की साधना गुरु के मार्गदर्शन में करने की सलाह दी जाती है।",
         "en": "This bija mantra may be chanted during morning or evening meditation, especially on Mondays, during the month of Shravan, and on Maha Shivaratri. Some traditions recommend practicing bija mantras under the guidance of a qualified teacher."
       },
-      "difficulty": {
-        "level": "intermediate",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'हौं' का उच्चारण दीर्घ 'औ' के साथ करें। 'जूं' में 'ऊ' की ध्वनि स्पष्ट रखें तथा 'सः' का अंत हल्के विसर्ग (ः) के साथ करें।",
         "en": "Pronounce 'Haum' with a long 'au' sound, 'Joom' with a clear long 'oo', and end 'Sah' with a soft visarga."
       },
-      "audio": "shiva_beej_mantra.mp3",
-      "isPopular": true
+      "audio": "shiva_beej_mantra.mp3"
     }
   ]
 }

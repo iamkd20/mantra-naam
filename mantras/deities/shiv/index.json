@@ -1,0 +1,18 @@
+{
+  "files": [
+    "deities/shiv/ardhanarishvara.json",
+    "deities/shiv/batuk_bhairava_mantra.json",
+    "deities/shiv/dakshinamurti_mantra.json",
+    "deities/shiv/kalabhairava_mantra.json",
+    "deities/shiv/mahakala_mantra.json",
+    "deities/shiv/mahamrityunjaya_mantra.json",
+    "deities/shiv/neelkantha_mantra.json",
+    "deities/shiv/om_namah_shivaya_mantra.json",
+    "deities/shiv/pashupati_mantra.json",
+    "deities/shiv/rameshwaraya_shiva_mantra.json",
+    "deities/shiv/shiva_beej_mantra.json",
+    "deities/shiv/shiva_gayatri_mantra.json",
+    "deities/shiv/someshwara_mantra.json",
+    "deities/shiv/vishwanath_mantra.json"
+  ]
+}

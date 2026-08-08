@@ -6,8 +6,6 @@
     "hi": "ॐ विश्वनाथाय नमः",
     "en": "Om Vishwanathaya Namah"
   },
-  "image": "shiv.png",
-  "sortOrder": 10,
   "mantras": [
     {
       "id": "vishwanath_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं सम्पूर्ण विश्व के स्वामी भगवान विश्वनाथ को प्रणाम करता हूँ। वे हमें ज्ञान, करुणा, धर्म, आध्यात्मिक प्रकाश तथा मोक्षमार्ग की प्रेरणा प्रदान करें।",
         "en": "I bow to Lord Vishwanath, the Lord of the Universe. May He bless us with wisdom, compassion, righteousness, spiritual illumination, and guidance toward liberation."
       },
-      "deities": [
-        "shiva",
-        "vishwanath"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "jyotirlinga"
-      ],
       "keywords": {
         "hi": [
           "विश्वनाथ मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि तथा भगवान काशी विश्वनाथ की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है। काशी विश्वनाथ मंदिर के दर्शन अथवा स्मरण के समय भी इसका जप शुभ माना जाता है।",
         "en": "This mantra may be chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, and while worshipping Lord Kashi Vishwanath. It is also traditionally recited while remembering or visiting the Kashi Vishwanath Temple."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'विश्वनाथाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'विश्व' तथा 'नाथ' दोनों शब्दों का संतुलित उच्चारण करें।",
         "en": "Pronounce 'Vishwanathaya' clearly, giving equal emphasis to both 'Vishwa' and 'Natha'."
       },
-      "audio": "vishwanath_mantra.mp3",
-      "isPopular": true
+      "audio": "vishwanath_mantra.mp3"
     }
   ]
 }

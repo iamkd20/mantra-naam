@@ -1,13 +1,11 @@
 {
   "version": 1,
-  "id": "om_namah_shivaya",
+  "id": "om_namah_shivaya_mantra",
   "category": "shiva",
   "title": {
     "hi": "ॐ नमः शिवाय",
     "en": "Om Namah Shivaya"
   },
-  "image": "shiv.png",
-  "sortOrder": 1,
   "mantras": [
     {
       "id": "om_namah_shivaya_mantra",
@@ -27,9 +25,6 @@
         "hi": "इस मंत्र का अर्थ है—'मैं भगवान शिव को नमस्कार करता हूँ।' यह अहंकार के समर्पण, आत्मशुद्धि तथा परम शिव के प्रति श्रद्धा और भक्ति का प्रतीक है।",
         "en": "The mantra means 'I bow to Lord Shiva.' It symbolizes surrender of the ego, inner purification, devotion, and reverence towards the Supreme Lord Shiva."
       },
-      "deities": [
-        "shiva"
-      ],
       "keywords": {
         "hi": [
           "ॐ नमः शिवाय",

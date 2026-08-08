@@ -6,8 +6,6 @@
     "hi": "कालभैरव मंत्र",
     "en": "Kalabhairava Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 12,
   "mantras": [
     {
       "id": "kalabhairava_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान कालभैरव को प्रणाम करता हूँ, जो समय के स्वामी, धर्म के रक्षक और भगवान शिव के दिव्य स्वरूप हैं। वे हमें निर्भयता, विवेक, आत्मसंयम तथा धर्म के मार्ग पर चलने की प्रेरणा प्रदान करें।",
         "en": "I bow to Lord Kalabhairava, the Lord of Time, the guardian of righteousness, and the divine form of Lord Shiva. May He bless us with fearlessness, wisdom, self-discipline, and guidance on the righteous path."
       },
-      "deities": [
-        "shiva",
-        "kalabhairava"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "bhairava"
-      ],
       "keywords": {
         "hi": [
           "कालभैरव मंत्र",
@@ -94,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, रविवार, सोमवार, कालाष्टमी तथा भगवान कालभैरव की उपासना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
         "en": "This mantra may be chanted during morning or evening prayers, on Sundays, Mondays, Kala Ashtami, and during the worship of Lord Kalabhairava with devotion and concentration."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'कालभैरवाय' का स्पष्ट एवं शुद्ध उच्चारण करें। 'भै' का उच्चारण 'भै' (bhai) के समान करें।",
         "en": "Pronounce 'Kalabhairavaya' clearly, giving proper emphasis to the 'bhai' sound in 'Bhairava'."
       },
-      "audio": "kalabhairava_mantra.mp3",
-      "isPopular": true
+      "audio": "kalabhairava_mantra.mp3"
     }
   ]
 }

@@ -11,270 +11,350 @@
       "name": {
         "hi": "शिव",
         "en": "Shiva"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
       "id": "mahadeva",
       "name": {
         "hi": "महादेव",
         "en": "Mahadev"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "har_har_mahadev",
-      "name": {
-        "hi": "हर हर महादेव",
-        "en": "Har Har Mahadev"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "om_namah_shivaya",
-      "name": {
-        "hi": "ॐ नमः शिवाय",
-        "en": "Om Namah Shivaya"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "namah_shivaya",
-      "name": {
-        "hi": "नमः शिवाय",
-        "en": "Namah Shivaya"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "shambho",
-      "name": {
-        "hi": "शंभो",
-        "en": "Shambho"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "shambhu",
-      "name": {
-        "hi": "शम्भु",
-        "en": "Shambhu"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "shankara",
-      "name": {
-        "hi": "शंकर",
-        "en": "Shankara"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "sadashiva",
-      "name": {
-        "hi": "सदाशिव",
-        "en": "Sadashiva"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "samba_sadashiva",
-      "name": {
-        "hi": "सांब सदाशिव",
-        "en": "Samba Sadashiva"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
       "id": "bholenatha",
       "name": {
         "hi": "भोलेनाथ",
         "en": "Bholenath"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
-      "id": "bhola_shankara",
+      "id": "shankara",
       "name": {
-        "hi": "भोला शंकर",
-        "en": "Bhola Shankara"
-      },
-      "deity": "shiva",
-      "isPopular": false
+        "hi": "शंकर",
+        "en": "Shankara"
+      }
+    },
+    {
+      "id": "shambho",
+      "name": {
+        "hi": "शंभो",
+        "en": "Shambho"
+      }
+    },
+    {
+      "id": "shambhu",
+      "name": {
+        "hi": "शम्भु",
+        "en": "Shambhu"
+      }
+    },
+    {
+      "id": "har_har_mahadev",
+      "name": {
+        "hi": "हर हर महादेव",
+        "en": "Har Har Mahadev"
+      }
+    },
+    {
+      "id": "samba_sadashiva",
+      "name": {
+        "hi": "सांब सदाशिव",
+        "en": "Samba Sadashiva"
+      }
+    },
+    {
+      "id": "sadashiva",
+      "name": {
+        "hi": "सदाशिव",
+        "en": "Sadashiva"
+      }
     },
     {
       "id": "rudra",
       "name": {
         "hi": "रुद्र",
         "en": "Rudra"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
       "id": "mahesh",
       "name": {
         "hi": "महेश",
         "en": "Mahesh"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
       "id": "maheshwara",
       "name": {
         "hi": "महेश्वर",
         "en": "Maheshwara"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
+    },
+    {
+      "id": "ashutosh",
+      "name": {
+        "hi": "आशुतोष",
+        "en": "Ashutosh"
+      }
+    },
+    {
+      "id": "bholenatha_baba",
+      "name": {
+        "hi": "भोले बाबा",
+        "en": "Bhole Baba"
+      }
+    },
+    {
+      "id": "bhola_shankara",
+      "name": {
+        "hi": "भोला शंकर",
+        "en": "Bhola Shankara"
+      }
     },
     {
       "id": "pashupati",
       "name": {
         "hi": "पशुपति",
         "en": "Pashupati"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
+    },
+    {
+      "id": "pashupatinatha",
+      "name": {
+        "hi": "पशुपतिनाथ",
+        "en": "Pashupatinath"
+      }
     },
     {
       "id": "vishwanatha",
       "name": {
         "hi": "विश्वनाथ",
         "en": "Vishwanath"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
-      "id": "kashi_vishwanath",
+      "id": "kashi_vishwanatha",
       "name": {
         "hi": "काशी विश्वनाथ",
         "en": "Kashi Vishwanath"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "neelakantha",
-      "name": {
-        "hi": "नीलकण्ठ",
-        "en": "Neelakantha"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "tryambaka",
-      "name": {
-        "hi": "त्र्यम्बक",
-        "en": "Tryambaka"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "gangadhara",
-      "name": {
-        "hi": "गंगाधर",
-        "en": "Gangadhara"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "chandrasekhara",
-      "name": {
-        "hi": "चन्द्रशेखर",
-        "en": "Chandrasekhara"
-      },
-      "deity": "shiva",
-      "isPopular": true
-    },
-    {
-      "id": "ardhanarishvara",
-      "name": {
-        "hi": "अर्धनारीश्वर",
-        "en": "Ardhanarishvara"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
       "id": "mahakala",
       "name": {
         "hi": "महाकाल",
         "en": "Mahakala"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
     },
     {
-      "id": "kalabhairava",
+      "id": "mahakaleshwara",
       "name": {
-        "hi": "कालभैरव",
-        "en": "Kalabhairava"
-      },
-      "deity": "shiva",
-      "isPopular": true
+        "hi": "महाकालेश्वर",
+        "en": "Mahakaleshwara"
+      }
     },
     {
-      "id": "nataraja",
+      "id": "neelakantha",
       "name": {
-        "hi": "नटराज",
-        "en": "Nataraja"
-      },
-      "deity": "shiva",
-      "isPopular": true
+        "hi": "नीलकण्ठ",
+        "en": "Neelakantha"
+      }
     },
     {
-      "id": "uma_maheshwara",
+      "id": "somnatha",
       "name": {
-        "hi": "उमा महेश्वर",
-        "en": "Uma Maheshwara"
-      },
-      "deity": "shiva",
-      "isPopular": false
+        "hi": "सोमनाथ",
+        "en": "Somnath"
+      }
     },
     {
-      "id": "gauri_shankara",
+      "id": "kedaranatha",
       "name": {
-        "hi": "गौरी शंकर",
-        "en": "Gauri Shankar"
-      },
-      "deity": "shiva",
-      "isPopular": true
+        "hi": "केदारनाथ",
+        "en": "Kedarnath"
+      }
+    },
+    {
+      "id": "rameshwara",
+      "name": {
+        "hi": "रामेश्वर",
+        "en": "Rameshwar"
+      }
+    },
+    {
+      "id": "umapati",
+      "name": {
+        "hi": "उमापति",
+        "en": "Umapati"
+      }
+    },
+    {
+      "id": "bhootnatha",
+      "name": {
+        "hi": "भूतनाथ",
+        "en": "Bhootnath"
+      }
+    },
+    {
+      "id": "kailashapati",
+      "name": {
+        "hi": "कैलाशपति",
+        "en": "Kailashpati"
+      }
+    },
+    {
+      "id": "yogeshwara",
+      "name": {
+        "hi": "योगेश्वर",
+        "en": "Yogeshwara"
+      }
     },
     {
       "id": "adiyogi",
       "name": {
         "hi": "आदियोगी",
         "en": "Adiyogi"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
+    },
+    {
+      "id": "tryambaka",
+      "name": {
+        "hi": "त्र्यम्बक",
+        "en": "Tryambaka"
+      }
+    },
+    {
+      "id": "mrityunjaya",
+      "name": {
+        "hi": "मृत्युंजय",
+        "en": "Mrityunjaya"
+      }
+    },
+    {
+      "id": "gangadhara",
+      "name": {
+        "hi": "गंगाधर",
+        "en": "Gangadhara"
+      }
+    },
+    {
+      "id": "chandrasekhara",
+      "name": {
+        "hi": "चन्द्रशेखर",
+        "en": "Chandrashekhara"
+      }
+    },
+    {
+      "id": "girisha",
+      "name": {
+        "hi": "गिरीश",
+        "en": "Girish"
+      }
+    },
+    {
+      "id": "nataraja",
+      "name": {
+        "hi": "नटराज",
+        "en": "Nataraja"
+      }
+    },
+    {
+      "id": "ardhanarishvara",
+      "name": {
+        "hi": "अर्धनारीश्वर",
+        "en": "Ardhanarishvara"
+      }
+    },
+    {
+      "id": "uma_maheshwara",
+      "name": {
+        "hi": "उमा महेश्वर",
+        "en": "Uma Maheshwara"
+      }
+    },
+    {
+      "id": "gauri_shankara",
+      "name": {
+        "hi": "गौरी शंकर",
+        "en": "Gauri Shankar"
+      }
+    },
+    {
+      "id": "shiv_shankara",
+      "name": {
+        "hi": "शिव शंकर",
+        "en": "Shiv Shankara"
+      }
     },
     {
       "id": "shiv_shambho",
       "name": {
         "hi": "शिव शंभो",
         "en": "Shiv Shambho"
-      },
-      "deity": "shiva",
-      "isPopular": true
+      }
+    },
+    {
+      "id": "har",
+      "name": {
+        "hi": "हर",
+        "en": "Har"
+      }
+    },
+    {
+      "id": "har_har_shambhu",
+      "name": {
+        "hi": "हर हर शम्भू",
+        "en": "Har Har Shambhu"
+      }
+    },
+    {
+      "id": "jai_mahadev",
+      "name": {
+        "hi": "जय महादेव",
+        "en": "Jai Mahadev"
+      }
+    },
+    {
+      "id": "jai_bholenath",
+      "name": {
+        "hi": "जय भोलेनाथ",
+        "en": "Jai Bholenath"
+      }
+    },
+    {
+      "id": "jai_shiv_shankara",
+      "name": {
+        "hi": "जय शिव शंकर",
+        "en": "Jai Shiv Shankara"
+      }
+    },
+    {
+      "id": "shivaya_namah",
+      "name": {
+        "hi": "शिवाय नमः",
+        "en": "Shivaya Namah"
+      }
+    },
+    {
+      "id": "om_shiva",
+      "name": {
+        "hi": "ॐ शिव",
+        "en": "Om Shiva"
+      }
+    },
+    {
+      "id": "om_namah_shivaya",
+      "name": {
+        "hi": "ॐ नमः शिवाय",
+        "en": "Om Namah Shivaya"
+      }
+    },
+    {
+      "id": "namah_shivaya",
+      "name": {
+        "hi": "नमः शिवाय",
+        "en": "Namah Shivaya"
+      }
     }
   ]
 }

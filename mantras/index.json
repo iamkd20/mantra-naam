@@ -6,23 +6,7 @@
         "hi": "शिव",
         "en": "Shiva"
       },
-      "description": "A collection of sacred mantras dedicated to Lord Shiva.",
-      "files": [
-        "deities/shiv/ardhanarishvara.json",
-        "deities/shiv/batuk_bhairava_mantra.json",
-        "deities/shiv/dakshinamurti_mantra.json",
-        "deities/shiv/kalabhairava_mantra.json",
-        "deities/shiv/mahakala_mantra.json",
-        "deities/shiv/mahamrityunjaya_mantra.json",
-        "deities/shiv/neelkantha_mantra.json",
-        "deities/shiv/om_namah_shivaya.json",
-        "deities/shiv/pashupati_mantra.json",
-        "deities/shiv/rameshwaraya_shiva.json",
-        "deities/shiv/shiva_beej_mantra.json",
-        "deities/shiv/shiva_gayatri_mantra.json",
-        "deities/shiv/someshwara_mantra.json",
-        "deities/shiv/vishwanath_mantra.json"
-      ],
+      "file": "deities/shiv/index.json",
       "image": {
         "file": "shiv.webp"
       }

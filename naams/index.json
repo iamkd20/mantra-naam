@@ -1,6 +1,15 @@
 {
   "categories": [
     {
+      "id": "shiva",
+      "name": {
+        "hi": "शिव नाम जप",
+        "en": "Shiva Naam Jap"
+      },
+      "description": "",
+      "file": "deities/shiv.json"
+    },
+    {
       "id": "popular_combos",
       "name": {
         "hi": "लोकप्रिय संयुक्त नाम जप",
@@ -89,15 +98,6 @@
       },
       "description": "",
       "file": "misc/regional.json"
-    },
-    {
-      "id": "shiva",
-      "name": {
-        "hi": "शिव नाम जप",
-        "en": "Shiva Naam Jap"
-      },
-      "description": "",
-      "file": "deities/shiv.json"
     },
     {
       "id": "vishnu",

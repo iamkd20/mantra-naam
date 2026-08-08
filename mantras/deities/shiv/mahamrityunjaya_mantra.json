@@ -6,8 +6,6 @@
     "hi": "महामृत्युंजय मंत्र",
     "en": "Mahamrityunjaya Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 3,
   "mantras": [
     {
       "id": "mahamrityunjaya_mantra",
@@ -27,16 +25,6 @@
         "hi": "हम तीन नेत्रों वाले भगवान शिव की उपासना करते हैं, जो सुगंध के समान सर्वत्र व्याप्त हैं और समस्त प्राणियों का पालन-पोषण करते हैं। जैसे पका हुआ फल सहज रूप से अपने बन्धन से अलग हो जाता है, वैसे ही हम मृत्यु और बन्धनों से मुक्त होकर अमृतस्वरूप परम कल्याण को प्राप्त हों।",
         "en": "We worship the three-eyed Lord Shiva, who nourishes and sustains all beings. Just as a ripe fruit naturally separates from its stem, may we be liberated from bondage and death, and attain immortality in the spiritual sense."
       },
-      "deities": [
-        "shiva",
-        "rudra"
-      ],
-      "categories": [
-        "shiva",
-        "vedic_mantra",
-        "healing",
-        "protection"
-      ],
       "keywords": {
         "hi": [
           "महामृत्युंजय मंत्र",
@@ -101,16 +89,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, सायंकाल, सोमवार, श्रावण मास, महाशिवरात्रि, रुद्राभिषेक तथा विशेष शिव पूजन के समय श्रद्धा एवं एकाग्रता के साथ किया जाता है।",
         "en": "This mantra is traditionally chanted during morning or evening prayers, on Mondays, during the month of Shravan, on Maha Shivaratri, during Rudrabhishek, and in Shiva worship with devotion and concentration."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'त्र्यम्बकं', 'उर्वारुकमिव' तथा 'मृत्योर्मुक्षीय' का शुद्ध संस्कृत उच्चारण करने का प्रयास करें।",
         "en": "Pay special attention to the pronunciation of 'Tryambakam', 'Urvarukamiva', and 'Mrityor Mukshiya' using proper Sanskrit pronunciation."
       },
-      "audio": "mahamrityunjaya_mantra.mp3",
-      "isPopular": true
+      "audio": "mahamrityunjaya_mantra.mp3"
     }
   ]
 }

@@ -6,8 +6,6 @@
     "hi": "दक्षिणामूर्ति मंत्र",
     "en": "Dakshinamurti Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 6,
   "mantras": [
     {
       "id": "dakshinamurti_mantra",
@@ -27,16 +25,6 @@
         "hi": "मैं भगवान दक्षिणामूर्ति को प्रणाम करता हूँ। हे प्रभु! मुझे उत्तम बुद्धि, मेधा, प्रज्ञा, विवेक तथा आत्मज्ञान प्रदान करें।",
         "en": "I bow to Lord Dakshinamurti. O Divine Teacher, bless me with intelligence, wisdom, discernment, insight, and true spiritual knowledge."
       },
-      "deities": [
-        "shiva",
-        "dakshinamurti"
-      ],
-      "categories": [
-        "shiva",
-        "guru_mantra",
-        "knowledge",
-        "vedic_mantra"
-      ],
       "keywords": {
         "hi": [
           "दक्षिणामूर्ति मंत्र",
@@ -95,16 +83,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल, अध्ययन प्रारम्भ करने से पूर्व, गुरुवार, सोमवार अथवा ध्यान एवं आध्यात्मिक साधना के समय श्रद्धापूर्वक किया जा सकता है।",
         "en": "This mantra may be chanted in the morning, before beginning studies, on Thursdays or Mondays, and during meditation or spiritual practice."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'दक्षिणामूर्तये', 'मेधां' तथा 'प्रज्ञां' का स्पष्ट एवं शुद्ध संस्कृत उच्चारण करें।",
         "en": "Pronounce 'Dakshinamurtaye', 'Medham', and 'Prajnam' carefully using proper Sanskrit pronunciation."
       },
-      "audio": "dakshinamurti_mantra.mp3",
-      "isPopular": true
+      "audio": "dakshinamurti_mantra.mp3"
     }
   ]
 }

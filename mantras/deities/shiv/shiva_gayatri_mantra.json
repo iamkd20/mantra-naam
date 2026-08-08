@@ -6,8 +6,6 @@
     "hi": "शिव गायत्री मंत्र",
     "en": "Shiva Gayatri Mantra"
   },
-  "image": "shiv.png",
-  "sortOrder": 4,
   "mantras": [
     {
       "id": "shiva_gayatri_mantra",
@@ -27,16 +25,6 @@
         "hi": "हम परम पुरुष भगवान महादेव का ध्यान करते हैं और उनके दिव्य स्वरूप का चिंतन करते हैं। वे भगवान रुद्र हमारी बुद्धि को प्रकाशित करें तथा हमें सत्य, धर्म, ज्ञान, करुणा और आध्यात्मिक मार्ग पर चलने की प्रेरणा दें।",
         "en": "We meditate upon the Supreme Lord Mahadeva and contemplate His divine form. May Lord Rudra illuminate our intellect and inspire us to follow the path of truth, righteousness, wisdom, compassion, and spiritual realization."
       },
-      "deities": [
-        "shiva",
-        "mahadeva",
-        "rudra"
-      ],
-      "categories": [
-        "shiva",
-        "gayatri_mantra",
-        "vedic_mantra"
-      ],
       "keywords": {
         "hi": [
           "शिव गायत्री मंत्र",
@@ -109,16 +97,11 @@
         "hi": "इस मंत्र का जप प्रातःकाल अथवा सायंकाल स्नान के पश्चात शांत एवं एकाग्र मन से किया जा सकता है। सोमवार, श्रावण मास, महाशिवरात्रि, रुद्राभिषेक, शिव पूजा तथा दैनिक ध्यान के समय इसका जप विशेष रूप से शुभ माना जाता है।",
         "en": "This mantra may be chanted in the morning or evening after bathing with a calm and focused mind. It is especially popular during Monday worship, the month of Shravan, Maha Shivaratri, Rudrabhishek, Shiva Puja, and daily meditation."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'तत्पुरुषाय', 'विद्महे', 'महादेवाय', 'धीमहि' तथा 'प्रचोदयात्' का स्पष्ट एवं शुद्ध संस्कृत उच्चारण करने का प्रयास करें।",
         "en": "Pronounce 'Tatpurushaya', 'Vidmahe', 'Mahadevaya', 'Dheemahi', and 'Prachodayat' carefully using proper Sanskrit pronunciation."
       },
-      "audio": "shiva_gayatri_mantra.mp3",
-      "isPopular": true
+      "audio": "shiva_gayatri_mantra.mp3"
     }
   ]
 }

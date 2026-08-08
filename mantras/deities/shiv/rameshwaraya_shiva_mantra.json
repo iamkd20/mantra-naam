@@ -1,13 +1,11 @@
 {
   "version": 1,
-  "id": "rameshwaraya_shiva",
+  "id": "rameshwaraya_shiva_mantra",
   "category": "shiva",
   "title": {
     "hi": "रामेश्वराय शिव रामेश्वराय",
     "en": "Rameshwaraya Shiva Rameshwaraya"
   },
-  "image": "shiv.png",
-  "sortOrder": 42,
   "mantras": [
     {
       "id": "rameshwaraya_shiva_mantra",
@@ -27,15 +25,6 @@
         "hi": "मैं भगवान रामेश्वर स्वरूप शिव को प्रणाम करता हूँ। 'हर हर बोले नमः शिवाय' भगवान शिव के पवित्र नाम का स्मरण, गुणगान तथा उनकी कृपा प्राप्त करने की भक्तिपूर्ण अभिव्यक्ति है।",
         "en": "I bow to Lord Shiva as Rameshwara. 'Har Har Bole Namah Shivaya' is a devotional expression glorifying Lord Shiva and remembering His sacred name with faith and devotion."
       },
-      "deities": [
-        "shiva",
-        "rameshwar"
-      ],
-      "categories": [
-        "shiva",
-        "nama_japa",
-        "devotional_chant"
-      ],
       "keywords": {
         "hi": [
           "रामेश्वर",
@@ -98,16 +87,11 @@
         "hi": "इस नाम-जप का गायन अथवा जप भगवान शिव की उपासना, भजन, कीर्तन, ध्यान तथा दैनिक प्रार्थना के समय श्रद्धा एवं एकाग्रता के साथ किया जा सकता है।",
         "en": "This devotional chant may be sung or recited during Shiva worship, bhajans, kirtans, meditation, and daily prayers with devotion and concentration."
       },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
       "pronunciation": {
         "hi": "'रामेश्वराय' तथा 'नमः शिवाय' का स्पष्ट एवं शुद्ध उच्चारण करें।",
         "en": "Pronounce 'Rameshwaraya' and 'Namah Shivaya' clearly and with devotion."
       },
-      "audio": "rameshwaraya_shiva.mp3",
-      "isPopular": true
+      "audio": "rameshwaraya_shiva_mantra.mp3"
     }
   ]
 }
