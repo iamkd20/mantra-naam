@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "tulsi_gayatri",
+  "category": "tulsi",
+  "title": {
+    "hi": "तुलसी गायत्री मंत्र",
+    "en": "Tulsi Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "tulsi_gayatri",
+      "title": {
+        "hi": "तुलसी गायत्री मंत्र",
+        "en": "Tulsi Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ तुलस्यै विद्महे विष्णुप्रियायै धीमहि । तन्नो वृन्दा प्रचोदयात् ॥",
+        "en": "Om Tulasyai Vidmahe Vishnupriyayai Dhimahi. Tanno Vrinda Prachodayat."
+      },
+      "description": {
+        "hi": "तुलसी या वृंदा देवी के वैष्णव भक्तिमय स्वरूप का स्मरण।",
+        "en": "A devotional chant associated with Tulsi Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "तुलसी गायत्री मंत्र",
+          "tulsi gayatri",
+          "tulsi",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Tulsi Gayatri Mantra",
+          "tulsi gayatri",
+          "tulsi",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "tulsi_gayatri.mp3"
+    }
+  ]
+}

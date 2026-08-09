@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_gam_ganapataye_namah",
+  "category": "ganesh",
+  "title": {
+    "hi": "ॐ गं गणपतये नमः",
+    "en": "Om Gam Ganapataye Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_gam_ganapataye_namah",
+      "title": {
+        "hi": "ॐ गं गणपतये नमः",
+        "en": "Om Gam Ganapataye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ गं गणपतये नमः ॥",
+        "en": "Om Gam Ganapataye Namah."
+      },
+      "description": {
+        "hi": "गणेश उपासना में अत्यंत लोकप्रिय बीज सहित नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Gam Ganapataye Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ गं गणपतये नमः",
+          "om gam ganapataye namah",
+          "ganesh",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Gam Ganapataye Namah",
+          "om gam ganapataye namah",
+          "ganesh",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_gam_ganapataye_namah.mp3"
+    }
+  ]
+}

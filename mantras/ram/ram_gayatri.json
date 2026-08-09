@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "ram_gayatri",
+  "category": "ram",
+  "title": {
+    "hi": "राम गायत्री मंत्र",
+    "en": "Ram Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ram_gayatri",
+      "title": {
+        "hi": "राम गायत्री मंत्र",
+        "en": "Ram Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ दशरथाय विद्महे सीतावल्लभाय धीमहि । तन्नो रामः प्रचोदयात् ॥",
+        "en": "Om Dasharathaya Vidmahe Sitavallabhaya Dhimahi. Tanno Ramah Prachodayat."
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के प्रति भक्ति, मर्यादा और धर्म के आदर्शों का स्मरण कराने वाला प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Ram Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "राम गायत्री मंत्र",
+          "ram gayatri",
+          "ram",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Ram Gayatri Mantra",
+          "ram gayatri",
+          "ram",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "ram_gayatri.mp3"
+    }
+  ]
+}

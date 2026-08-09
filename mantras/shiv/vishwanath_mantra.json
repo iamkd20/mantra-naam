@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "vishwanath_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "विश्वनाथ मंत्र",
+    "en": "Vishwanath Mantra"
+  },
+  "mantras": [
+    {
+      "id": "vishwanath_mantra",
+      "title": {
+        "hi": "विश्वनाथ मंत्र",
+        "en": "Vishwanath Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ विश्वनाथाय नमः ॥",
+        "en": "Om Vishwanathaya Namah."
+      },
+      "description": {
+        "hi": "विश्वनाथ मंत्र भगवान शिव के विश्वनाथ स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। 'विश्वनाथ' का अर्थ है सम्पूर्ण विश्व के स्वामी। काशी विश्वनाथ ज्योतिर्लिंग भगवान शिव के बारह ज्योतिर्लिंगों में अत्यंत पूजनीय है। इस मंत्र का श्रद्धापूर्वक जप भगवान विश्वनाथ की कृपा, आध्यात्मिक उन्नति, मानसिक शांति तथा शिव भक्ति के लिए किया जाता है।",
+        "en": "The Vishwanath Mantra is a sacred devotional chant dedicated to Lord Shiva as Vishwanath, the Lord of the Universe. Kashi Vishwanath is one of the twelve revered Jyotirlingas and holds immense significance in Hindu tradition. This mantra is traditionally chanted to seek Lord Vishwanath's blessings, inner peace, devotion, and spiritual growth."
+      },
+      "meaning": {
+        "hi": "मैं सम्पूर्ण विश्व के स्वामी भगवान विश्वनाथ को प्रणाम करता हूँ। वे हमें ज्ञान, करुणा, धर्म, आध्यात्मिक प्रकाश तथा मोक्षमार्ग की प्रेरणा प्रदान करें।",
+        "en": "I bow to Lord Vishwanath, the Lord of the Universe. May He bless us with wisdom, compassion, righteousness, spiritual illumination, and guidance toward liberation."
+      },
+      "keywords": {
+        "hi": [
+          "विश्वनाथ मंत्र",
+          "काशी विश्वनाथ",
+          "शिव मंत्र",
+          "महादेव",
+          "विश्वनाथ",
+          "काशी",
+          "ज्योतिर्लिंग"
+        ],
+        "en": [
+          "vishwanath mantra",
+          "kashi vishwanath",
+          "shiva mantra",
+          "mahadev",
+          "vishwanath",
+          "kashi",
+          "jyotirlinga"
+        ]
+      },
+      "audio": "vishwanath_mantra.mp3"
+    }
+  ]
+}

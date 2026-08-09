@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "girishwara_gauri_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "गौरीपति मंत्र",
+    "en": "Gauripati Mantra"
+  },
+  "mantras": [
+    {
+      "id": "girishwara_gauri_mantra",
+      "title": {
+        "hi": "गौरीपति मंत्र",
+        "en": "Gauripati Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गौरीपतये नमः ॥",
+        "en": "Om Gauripataye Namah."
+      },
+      "description": {
+        "hi": "यह भगवान शिव को देवी गौरी के पति और दिव्य सहचर के रूप में स्मरण करने वाला नाम-जप मंत्र है।",
+        "en": "This is a name-japa mantra that remembers Lord Shiva as the divine consort of Goddess Gauri."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शिव को प्रणाम करता हूँ, जो देवी गौरी के पति हैं।",
+        "en": "I bow to Lord Shiva, who is the consort of Goddess Gauri."
+      },
+      "keywords": {
+        "hi": [
+          "गौरीपति मंत्र",
+          "ॐ गौरीपतये नमः",
+          "गौरीपति",
+          "गौरी शंकर",
+          "शिव पार्वती"
+        ],
+        "en": [
+          "Gauripati Mantra",
+          "Om Gauripataye Namah",
+          "Gauripati",
+          "Gauri Shankar",
+          "Shiva Parvati"
+        ]
+      },
+      "audio": "girishwara_gauri_mantra.mp3"
+    }
+  ]
+}

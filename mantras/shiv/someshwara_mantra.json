@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "id": "someshwara_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "सोमेश्वर मंत्र",
+    "en": "Someshwara Mantra"
+  },
+  "mantras": [
+    {
+      "id": "someshwara_mantra",
+      "title": {
+        "hi": "सोमेश्वर मंत्र",
+        "en": "Someshwara Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सोमेश्वराय नमः ॥",
+        "en": "Om Someshwaraya Namah."
+      },
+      "description": {
+        "hi": "सोमेश्वर मंत्र भगवान शिव के सोमेश्वर स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। 'सोमेश्वर' का अर्थ है चन्द्रमा (सोम) के स्वामी। भगवान शिव अपने मस्तक पर अर्धचन्द्र धारण करते हैं, जो शीतलता, संतुलन, शांति और अमृतत्व का प्रतीक है। इस मंत्र का जप श्रद्धापूर्वक भगवान शिव की कृपा, मानसिक शांति, आध्यात्मिक उन्नति तथा चित्त की स्थिरता के लिए किया जाता है।",
+        "en": "The Someshwara Mantra is a sacred devotional chant dedicated to Lord Shiva as Someshwara, the Lord of Soma (the Moon). The crescent moon adorning Lord Shiva's head symbolizes serenity, balance, and divine consciousness. This mantra is traditionally chanted to seek peace of mind, devotion, spiritual growth, and the blessings of Lord Shiva."
+      },
+      "meaning": {
+        "hi": "मैं भगवान सोमेश्वर को प्रणाम करता हूँ, जो भगवान शिव का चन्द्रमा से संबंधित दिव्य स्वरूप हैं।",
+        "en": "I bow to Lord Someshwara, a divine form of Lord Shiva associated with the Moon."
+      },
+      "keywords": {
+        "hi": [
+          "सोमेश्वर मंत्र",
+          "ॐ सोमेश्वराय नमः",
+          "सोमेश्वर",
+          "सोमनाथ",
+          "सोमनाथ",
+          "चन्द्रशेखर",
+          "महादेव",
+          "शिव",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "someshwara mantra",
+          "om someshwaraya namah",
+          "someshwara",
+          "somnath",
+          "somanath",
+          "chandrasekhara",
+          "mahadev",
+          "shiva",
+          "shiva mantra",
+          "shiva chant"
+        ]
+      },
+      "audio": "someshwara_mantra.mp3"
+    }
+  ]
+}

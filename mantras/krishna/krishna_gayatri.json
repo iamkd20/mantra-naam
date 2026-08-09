@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "krishna_gayatri",
+  "category": "krishna",
+  "title": {
+    "hi": "कृष्ण गायत्री मंत्र",
+    "en": "Krishna Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "krishna_gayatri",
+      "title": {
+        "hi": "कृष्ण गायत्री मंत्र",
+        "en": "Krishna Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवकीनन्दनाय विद्महे वासुदेवाय धीमहि । तन्नः कृष्णः प्रचोदयात् ॥",
+        "en": "Om Devakinandanaya Vidmahe Vasudevaya Dhimahi. Tannah Krishnah Prachodayat."
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण के प्रति प्रेम, भक्ति और ध्यान के लिए प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Krishna Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "कृष्ण गायत्री मंत्र",
+          "krishna gayatri",
+          "krishna",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Krishna Gayatri Mantra",
+          "krishna gayatri",
+          "krishna",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "krishna_gayatri.mp3"
+    }
+  ]
+}

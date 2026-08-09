@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "id": "shiva_beej_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "शिव बीज मंत्र",
+    "en": "Shiva Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shiva_beej_mantra",
+      "title": {
+        "hi": "शिव बीज मंत्र",
+        "en": "Shiva Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हौं जूं सः ॥",
+        "en": "Om Haum Joom Sah"
+      },
+      "description": {
+        "hi": "शिव बीज मंत्र भगवान शिव की दिव्य चेतना का संक्षिप्त एवं अत्यंत शक्तिशाली बीज मंत्र माना जाता है। तांत्रिक तथा वैदिक साधना की अनेक परंपराओं में इसका जप भगवान शिव का ध्यान, आंतरिक शुद्धि, आध्यात्मिक जागरण तथा शिव कृपा की कामना के लिए किया जाता है। बीज मंत्र होने के कारण इसमें अत्यंत सूक्ष्म आध्यात्मिक शक्ति निहित मानी जाती है।",
+        "en": "The Shiva Beej Mantra is a sacred seed mantra associated with Lord Shiva. Revered in several Vedic and Tantric traditions, it is chanted to invoke Lord Shiva's divine presence, cultivate inner purity, deepen meditation, and strengthen spiritual awareness. As a bija mantra, it is regarded as a condensed form of spiritual energy."
+      },
+      "meaning": {
+        "hi": "बीज मंत्रों का सामान्य शब्दार्थ नहीं होता। 'हौं' भगवान शिव की चेतना का प्रमुख बीज माना जाता है, 'जूं' संरक्षण एवं आध्यात्मिक शक्ति का प्रतीक है तथा 'सः' परम दिव्य चेतना का द्योतक माना जाता है।",
+        "en": "Seed mantras are not interpreted literally. 'Haum' is traditionally associated with Lord Shiva, 'Joom' symbolizes protection and spiritual power, while 'Sah' represents the Supreme Divine Consciousness."
+      },
+      "keywords": {
+        "hi": [
+          "शिव बीज मंत्र",
+          "हौं",
+          "ॐ हौं जूं सः",
+          "महादेव",
+          "शिव",
+          "बीज मंत्र",
+          "शिव साधना",
+          "तांत्रिक मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "shiva beej mantra",
+          "shiva bija mantra",
+          "om haum joom sah",
+          "haum",
+          "mahadev",
+          "shiva",
+          "bija mantra",
+          "tantric mantra",
+          "shiva meditation"
+        ]
+      },
+      "audio": "shiva_beej_mantra.mp3"
+    }
+  ]
+}

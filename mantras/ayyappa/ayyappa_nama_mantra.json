@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "ayyappa_nama_mantra",
+  "category": "ayyappa",
+  "title": {
+    "hi": "अय्यप्पा नाम मंत्र",
+    "en": "Ayyappa Nama Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ayyappa_nama_mantra",
+      "title": {
+        "hi": "अय्यप्पा नाम मंत्र",
+        "en": "Ayyappa Nama Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ अय्यप्पाय नमः ॥",
+        "en": "Om Ayyappaya Namah."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा के दिव्य नाम का सरल और प्रत्यक्ष भक्तिपूर्ण जप है।",
+        "en": "This is a simple and direct devotional chant invoking the divine name of Lord Ayyappa."
+      },
+      "meaning": {
+        "hi": "मैं भगवान अय्यप्पा को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ayyappa."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ अय्यप्पाय नमः",
+          "अय्यप्पा नाम मंत्र",
+          "अय्यप्पा मंत्र",
+          "अय्यप्पा"
+        ],
+        "en": [
+          "om ayyappaya namah",
+          "ayyappa nama mantra",
+          "ayyappa mantra",
+          "ayyappa"
+        ]
+      },
+      "audio": "ayyappa_nama_mantra.mp3"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "parvati_shiva_namah",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "पार्वती शिव मंत्र",
+    "en": "Parvati Shiva Mantra"
+  },
+  "mantras": [
+    {
+      "id": "parvati_shiva_namah",
+      "title": {
+        "hi": "पार्वती शिव मंत्र",
+        "en": "Parvati Shiva Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ पार्वत्यै नमः । ॐ शिवाय नमः ॥",
+        "en": "Om Parvatyai Namah. Om Shivaya Namah."
+      },
+      "description": {
+        "hi": "यह सरल युगल-जप देवी पार्वती और भगवान शिव को क्रमशः नमस्कार करता है।",
+        "en": "This simple paired japa offers salutations to Goddess Parvati and Lord Shiva."
+      },
+      "meaning": {
+        "hi": "मैं देवी पार्वती को प्रणाम करता हूँ और भगवान शिव को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Parvati and I bow to Lord Shiva."
+      },
+      "keywords": {
+        "hi": [
+          "पार्वती शिव मंत्र",
+          "ॐ पार्वत्यै नमः",
+          "ॐ शिवाय नमः",
+          "शिव पार्वती"
+        ],
+        "en": [
+          "Parvati Shiva Mantra",
+          "Om Parvatyai Namah",
+          "Om Shivaya Namah",
+          "Shiva Parvati"
+        ]
+      },
+      "audio": "parvati_shiva_namah.mp3"
+    }
+  ]
+}

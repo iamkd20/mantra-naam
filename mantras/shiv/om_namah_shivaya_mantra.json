@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "id": "om_namah_shivaya_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "ॐ नमः शिवाय",
+    "en": "Om Namah Shivaya"
+  },
+  "mantras": [
+    {
+      "id": "om_namah_shivaya_mantra",
+      "title": {
+        "hi": "ॐ नमः शिवाय",
+        "en": "Om Namah Shivaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमः शिवाय ॥",
+        "en": "Om Namah Shivaya."
+      },
+      "description": {
+        "hi": "ॐ नमः शिवाय भगवान शिव को समर्पित प्रसिद्ध पंचाक्षरी मंत्र है। यह शिव उपासना, नाम-स्मरण, ध्यान और दैनिक जप में सबसे व्यापक रूप से प्रचलित मंत्रों में से एक है। 'नमः शिवाय' का भाव भगवान शिव के प्रति श्रद्धा, विनम्रता और समर्पण का है। भक्त इस मंत्र का जप मानसिक शांति, एकाग्रता, आध्यात्मिक साधना और शिव भक्ति के लिए करते हैं।",
+        "en": "Om Namah Shivaya is the renowned Panchakshari mantra dedicated to Lord Shiva. It is one of the most widely practiced Shiva mantras and is used in worship, meditation, remembrance, and daily japa. The phrase expresses reverence, humility, and surrender to Shiva. Devotees traditionally chant it for inner peace, concentration, spiritual practice, and devotion to Lord Shiva."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शिव को नमन करता हूँ। ‘नमः शिवाय’ भगवान शिव के प्रति श्रद्धा, भक्ति, समर्पण और आंतरिक शुद्धि की भावना व्यक्त करता है।",
+        "en": "I bow to Lord Shiva. ‘Namah Shivaya’ expresses reverence, devotion, surrender, and an aspiration toward inner purification."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ नमः शिवाय",
+          "ओम नमः शिवाय",
+          "ओं नमः शिवाय",
+          "ओम नम: शिवाय",
+          "शिव",
+          "महादेव",
+          "भोलेनाथ",
+          "शंकर",
+          "पंचाक्षरी मंत्र",
+          "शिव मंत्र",
+          "शिव जप",
+          "हर हर महादेव",
+          "शिव भक्ति",
+          "रुद्र"
+        ],
+        "en": [
+          "om namah shivaya",
+          "om namah shivay",
+          "om namah shivaya mantra",
+          "shiva",
+          "mahadev",
+          "bholenath",
+          "shankar",
+          "panchakshari mantra",
+          "shiva mantra",
+          "shiva chant",
+          "har har mahadev",
+          "rudra",
+          "nama japa"
+        ]
+      },
+      "audio": "om_namah_shivaya.mp3"
+    }
+  ]
+}

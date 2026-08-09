@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "category": "kartikeya",
+  "title": {
+    "hi": "कार्तिकेय / मुरुगन",
+    "en": "Kartikeya / Murugan"
+  },
+  "mantras": [
+    {
+      "id": "kartikeya_gayatri",
+      "title": {
+        "hi": "ॐ तत्पुरुषाय विद्महे महासेनाय धीमहि। तन्नः षण्मुखः प्रचोदयात्॥",
+        "en": "Kartikeya Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ तत्पुरुषाय विद्महे महासेनाय धीमहि। तन्नः षण्मुखः प्रचोदयात्॥",
+        "transliteration": "Om Tatpurushaya Vidmahe Mahasenaya Dhimahi Tannah Shanmukhah Prachodayat"
+      },
+      "description": {
+        "hi": "स्कंद/कार्तिकेय के स्मरण का प्रसिद्ध गायत्री रूप।",
+        "en": "A well-known Gayatri-style invocation of Skanda/Kartikeya."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "kartikeya"
+      ],
+      "deityInfo": {
+        "primary": "kartikeya"
+      },
+      "categories": [
+        "kartikeya"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ तत्पुरुषाय विद्महे महासेनाय धीमहि। तन्नः षण्मुखः प्रचोदयात्॥"
+        ],
+        "en": [
+          "Kartikeya Gayatri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    },
+    {
+      "id": "saravanabhava",
+      "title": {
+        "hi": "ॐ सरवणभवाय नमः॥",
+        "en": "Om Saravanabhavaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सरवणभवाय नमः॥",
+        "transliteration": "Om Saravanabhavaya Namah"
+      },
+      "description": {
+        "hi": "मुरुगन/स्कंद का प्रसिद्ध मंत्र।",
+        "en": "A popular mantra of Murugan/Skanda."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "kartikeya"
+      ],
+      "deityInfo": {
+        "primary": "kartikeya"
+      },
+      "categories": [
+        "kartikeya"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ सरवणभवाय नमः॥"
+        ],
+        "en": [
+          "Om Saravanabhavaya Namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    }
+  ]
+}

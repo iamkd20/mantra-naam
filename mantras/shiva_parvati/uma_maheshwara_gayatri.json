@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "uma_maheshwara_gayatri",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "उमा महेश्वर गायत्री मंत्र",
+    "en": "Uma Maheshwara Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "uma_maheshwara_gayatri",
+      "title": {
+        "hi": "उमा महेश्वर गायत्री मंत्र",
+        "en": "Uma Maheshwara Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ उमामहेश्वराय विद्महे पार्वतीपतये धीमहि । तन्नो रुद्रः प्रचोदयात् ॥",
+        "en": "Om Uma Maheshwaraya Vidmahe Parvati Pataye Dhimahi. Tanno Rudrah Prachodayat."
+      },
+      "description": {
+        "hi": "यह गायत्री मंत्र भगवान शिव को पार्वतीपति और उमा-महेश्वर के संयुक्त दिव्य भाव में स्मरण करता है।",
+        "en": "This Gayatri mantra remembers Lord Shiva as the consort of Parvati and in the divine aspect of Uma-Maheshwara."
+      },
+      "meaning": {
+        "hi": "हम उमा-महेश्वर के दिव्य स्वरूप को जानने का प्रयास करें, पार्वतीपति शिव का ध्यान करें; वे रुद्र हमें प्रेरित और मार्गदर्शन दें।",
+        "en": "May we seek to know the divine form of Uma-Maheshwara and meditate on Shiva, the consort of Parvati; may Rudra inspire and guide us."
+      },
+      "keywords": {
+        "hi": [
+          "उमा महेश्वर गायत्री",
+          "शिव पार्वती गायत्री",
+          "पार्वतीपति",
+          "उमा महेश्वर"
+        ],
+        "en": [
+          "Uma Maheshwara Gayatri",
+          "Shiva Parvati Gayatri",
+          "Consort of Parvati",
+          "Uma Maheshwara"
+        ]
+      },
+      "audio": "uma_maheshwara_gayatri.mp3"
+    }
+  ]
+}

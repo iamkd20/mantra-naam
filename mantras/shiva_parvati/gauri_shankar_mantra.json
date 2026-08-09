@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "gauri_shankar_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "गौरी शंकर मंत्र",
+    "en": "Gauri Shankar Mantra"
+  },
+  "mantras": [
+    {
+      "id": "gauri_shankar_mantra",
+      "title": {
+        "hi": "गौरी शंकर मंत्र",
+        "en": "Gauri Shankar Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गौरीशंकराय नमः ॥",
+        "en": "Om Gauri Shankaraya Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र भगवान शिव को देवी गौरी के साथ उनके दिव्य संयुक्त स्वरूप में स्मरण करने वाला एक लोकप्रिय नाम-जप मंत्र है।",
+        "en": "This is a popular name-japa mantra that remembers Lord Shiva in His divine association with Goddess Gauri."
+      },
+      "meaning": {
+        "hi": "मैं गौरीशंकर को प्रणाम करता हूँ, जो देवी गौरी और भगवान शंकर की दिव्य एकता का प्रतीक हैं।",
+        "en": "I bow to Gauri Shankar, the divine unity of Goddess Gauri and Lord Shankar."
+      },
+      "keywords": {
+        "hi": [
+          "गौरी शंकर मंत्र",
+          "ॐ गौरीशंकराय नमः",
+          "शिव पार्वती",
+          "गौरी",
+          "शंकर"
+        ],
+        "en": [
+          "Gauri Shankar Mantra",
+          "Om Gauri Shankaraya Namah",
+          "Shiva Parvati",
+          "Gauri",
+          "Shankar"
+        ]
+      },
+      "audio": "gauri_shankar_mantra.mp3"
+    }
+  ]
+}

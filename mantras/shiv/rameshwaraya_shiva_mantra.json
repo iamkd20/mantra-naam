@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "rameshwaraya_shiva_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "रामेश्वर मंत्र",
+    "en": "Rameshwara Mantra"
+  },
+  "mantras": [
+    {
+      "id": "rameshwaraya_shiva_mantra",
+      "title": {
+        "hi": "रामेश्वर मंत्र",
+        "en": "Rameshwara Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ रामेश्वराय नमः ॥",
+        "en": "Om Rameshwaraya Namah."
+      },
+      "description": {
+        "hi": "ॐ रामेश्वराय नमः भगवान शिव के रामेश्वर स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। रामेश्वर का संबंध रामेश्वरम् के प्रसिद्ध रामनाथस्वामी ज्योतिर्लिंग से है, जो भगवान शिव के बारह ज्योतिर्लिंगों में पूजनीय है। इस मंत्र का जप रामेश्वर शिव के स्मरण, शिव भक्ति और आध्यात्मिक साधना में किया जाता है।",
+        "en": "Om Rameshwaraya Namah is a sacred devotional name-mantra dedicated to Lord Shiva as Rameshwara. The name is associated with the renowned Ramanathaswamy Jyotirlinga at Rameshwaram, one of the twelve revered Jyotirlingas. The mantra is chanted in remembrance of Rameshwara, devotion to Shiva, and spiritual practice."
+      },
+      "meaning": {
+        "hi": "रामेश्वर भगवान शिव को नमन। यह मंत्र रामेश्वरम् के पवित्र शिव स्वरूप का श्रद्धापूर्वक स्मरण कराता है।",
+        "en": "Salutations to Lord Shiva as Rameshwara. The mantra invokes the sacred Shiva form associated with Rameshwaram."
+      },
+      "keywords": {
+        "hi": [
+          "रामेश्वर मंत्र",
+          "रामेश्वराय नमः",
+          "रामेश्वर शिव",
+          "शिव मंत्र",
+          "महादेव",
+          "रामेश्वर",
+          "रामेश्वरम्",
+          "ज्योतिर्लिंग"
+        ],
+        "en": [
+          "rameshwara mantra",
+          "rameshwaraya namah",
+          "rameshwara shiva",
+          "shiva mantra",
+          "mahadev",
+          "rameshwara",
+          "rameshwaram",
+          "jyotirlinga"
+        ]
+      },
+      "audio": "rameshwaraya_shiva_mantra.mp3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_sham_shanaischaraya_namah",
+  "category": "shani_deva",
+  "title": {
+    "hi": "ॐ शं शनैश्चराय नमः",
+    "en": "Om Sham Shanaischaraya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_sham_shanaischaraya_namah",
+      "title": {
+        "hi": "ॐ शं शनैश्चराय नमः",
+        "en": "Om Sham Shanaischaraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ शं शनैश्चराय नमः ॥",
+        "en": "Om Sham Shanaischaraya Namah."
+      },
+      "description": {
+        "hi": "शनि देव का लोकप्रिय बीज सहित नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Sham Shanaischaraya Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ शं शनैश्चराय नमः",
+          "om sham shanaischaraya namah",
+          "shani_deva",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Sham Shanaischaraya Namah",
+          "om sham shanaischaraya namah",
+          "shani deva",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_sham_shanaischaraya_namah.mp3"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "category": "dattatreya",
+  "title": {
+    "hi": "दत्तात्रेय",
+    "en": "Dattatreya"
+  },
+  "mantras": [
+    {
+      "id": "dattatreya_mantra",
+      "title": {
+        "hi": "दत्तात्रेय मंत्र",
+        "en": "Dattatreya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां दत्तात्रेयाय नमः॥",
+        "transliteration": "Om Drāṁ Dattātreyāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय का सरल एवं लोकप्रिय बीज मंत्र।",
+        "en": "A simple and widely chanted bija mantra dedicated to Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "मैं भगवान दत्तात्रेय को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Dattatreya."
+      },
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "dattatreya",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "दत्तात्रेय",
+          "दत्त",
+          "गुरु"
+        ],
+        "en": [
+          "dattatreya",
+          "datta",
+          "guru"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "ज्ञान",
+          "आध्यात्मिक उन्नति",
+          "भक्ति",
+          "शांति",
+          "सद्बुद्धि"
+        ],
+        "en": [
+          "Guru's grace",
+          "Knowledge",
+          "Spiritual growth",
+          "Devotion",
+          "Peace",
+          "Wisdom"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं दत्तात्रेय उपासना में।",
+        "en": "For daily chanting and worship of Lord Dattatreya."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'द्रां' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Drāṁ' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "digambara_digambara",
+        "datta_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "digambara_digambara",
+      "title": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा",
+        "en": "Digambara Digambara"
+      },
+      "mantra": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा॥",
+        "transliteration": "Digambarā Digambarā Śrīpāda Vallabha Digambarā"
+      },
+      "description": {
+        "hi": "श्रीपाद श्रीवल्लभ भगवान दत्तात्रेय की अत्यंत लोकप्रिय स्तुति।",
+        "en": "A famous devotional chant dedicated to Sripada Srivallabha, an incarnation of Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "हे दिगंबर स्वरूप श्रीपाद श्रीवल्लभ! आपको बार-बार प्रणाम।",
+        "en": "Salutations again and again to the divine Digambara Sripada Srivallabha."
+      },
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "dattatreya",
+        "bhajan"
+      ],
+      "keywords": {
+        "hi": [
+          "दिगंबरा",
+          "श्रीपाद",
+          "वल्लभ"
+        ],
+        "en": [
+          "digambara",
+          "sripada",
+          "vallabha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "गुरु कृपा",
+          "शांति",
+          "आंतरिक शक्ति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Guru's grace",
+          "Peace",
+          "Inner strength",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "guru_bhakti",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        108
+      ],
+      "usage": {
+        "hi": "दत्तात्रेय भक्ति एवं नामस्मरण में।",
+        "en": "For devotional remembrance of Lord Dattatreya."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'श्रीपाद वल्लभ' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śrīpāda Vallabha' clearly."
+      },
+      "tradition": "Datta Sampradaya",
+      "source": "Traditional",
+      "related": [
+        "dattatreya_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_dram_dattatreyaya_namah",
+      "title": {
+        "hi": "ॐ द्रां दत्तात्रेयाय नमः",
+        "en": "Om Dram Dattatreyaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां दत्तात्रेयाय नमः॥",
+        "transliteration": "Om Drāṁ Dattātreyāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय का प्रसिद्ध बीज मंत्र, जो गुरु कृपा एवं आत्मज्ञान की प्राप्ति हेतु जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Dattatreya, chanted for the Guru's grace and self-realization."
+      },
+      "meaning": {
+        "hi": "मैं भगवान दत्तात्रेय को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Dattatreya."
+      },
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "dattatreya",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "दत्तात्रेय",
+          "द्रां",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "dattatreya",
+          "dram",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "आत्मज्ञान",
+          "मानसिक शांति",
+          "भक्ति",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Guru's grace",
+          "Self-realization",
+          "Peace",
+          "Devotion",
+          "Concentration",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक दत्तात्रेय साधना में।",
+        "en": "For daily Dattatreya sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'द्रां' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Drāṁ' clearly."
+      },
+      "tradition": "Datta Sampradaya",
+      "source": "Traditional",
+      "related": [
+        "dattatreya_mantra",
+        "datta_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "datta_gayatri",
+      "title": {
+        "hi": "दत्त गायत्री",
+        "en": "Datta Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ दत्तात्रेयाय विद्महे अवधूताय धीमहि। तन्नो दत्तः प्रचोदयात्॥",
+        "transliteration": "Om Dattātreyāya Vidmahe Avadhūtāya Dhīmahi Tanno Dattaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय की कृपा, ज्ञान एवं वैराग्य प्राप्त करने का प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Dattatreya for wisdom, renunciation, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम अवधूत भगवान दत्तात्रेय का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Dattatreya, the Avadhuta. May He enlighten our intellect."
+      },
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "dattatreya",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "दत्त गायत्री",
+          "अवधूत",
+          "दत्तात्रेय"
+        ],
+        "en": [
+          "datta gayatri",
+          "avadhuta",
+          "dattatreya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "वैराग्य",
+          "गुरु कृपा",
+          "भक्ति",
+          "सद्बुद्धि",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Detachment",
+          "Guru's grace",
+          "Devotion",
+          "Right understanding",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "guru_bhakti",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दत्तात्रेय उपासना एवं गुरु साधना में।",
+        "en": "For worship of Lord Dattatreya and Guru sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'अवधूताय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Avadhūtāya' clearly."
+      },
+      "tradition": "Datta Sampradaya",
+      "source": "Traditional",
+      "related": [
+        "dattatreya_mantra",
+        "om_dram_dattatreyaya_namah"
+      ],
+      "isPopular": true
+    }
+  ]
+}

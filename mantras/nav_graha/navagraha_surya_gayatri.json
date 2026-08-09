@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "navagraha_surya_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "सूर्य गायत्री मंत्र",
+    "en": "Surya Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "navagraha_surya_gayatri",
+      "title": {
+        "hi": "सूर्य गायत्री मंत्र",
+        "en": "Surya Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भास्कराय विद्महे महातेजाय धीमहि । तन्नः सूर्यः प्रचोदयात् ॥",
+        "en": "Om Bhaskaraya Vidmahe Mahatejaya Dhimahi. Tannah Suryah Prachodayat."
+      },
+      "description": {
+        "hi": "नवग्रह में सूर्य देव के ध्यान के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A devotional chant associated with Surya Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "सूर्य गायत्री मंत्र",
+          "navagraha surya gayatri",
+          "nav_graha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Surya Gayatri Mantra",
+          "navagraha surya gayatri",
+          "nav graha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "navagraha_surya_gayatri.mp3"
+    }
+  ]
+}

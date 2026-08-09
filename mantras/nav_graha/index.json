@@ -1,0 +1,3291 @@
+{
+  "version": 2,
+  "category": "nav_graha",
+  "title": {
+    "hi": "नवग्रह",
+    "en": "Nav Graha"
+  },
+  "mantras": [
+    {
+      "id": "surya_arogya_mantra",
+      "title": {
+        "hi": "सूर्य आरोग्य मंत्र",
+        "en": "Surya Arogya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं घृणिः सूर्य आदित्याय नमः॥",
+        "transliteration": "Om Hrīṁ Ghṛṇiḥ Sūrya Ādityāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान सूर्य की आरोग्य, तेज एवं जीवनशक्ति प्रदान करने वाली उपासना का प्रसिद्ध मंत्र।",
+        "en": "A renowned mantra invoking Lord Surya for health, vitality, and radiant energy."
+      },
+      "meaning": {
+        "hi": "मैं तेजस्वी भगवान सूर्य आदित्य को प्रणाम करता हूँ।",
+        "en": "I bow to the radiant Lord Surya Aditya."
+      },
+      "deities": [
+        "surya"
+      ],
+      "deityInfo": {
+        "primary": "surya",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "surya",
+        "health"
+      ],
+      "keywords": {
+        "hi": [
+          "सूर्य",
+          "आरोग्य",
+          "आदित्य"
+        ],
+        "en": [
+          "surya",
+          "arogya",
+          "aditya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आरोग्य",
+          "ऊर्जा",
+          "आत्मविश्वास",
+          "तेज",
+          "सकारात्मकता",
+          "मानसिक शक्ति"
+        ],
+        "en": [
+          "Health",
+          "Vitality",
+          "Confidence",
+          "Radiance",
+          "Positivity",
+          "Mental strength"
+        ]
+      },
+      "purpose": [
+        "health",
+        "vitality",
+        "confidence"
+      ],
+      "recommendedTime": [
+        "sunrise"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "surya_arghya"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "सूर्योदय के समय अर्घ्य देते हुए।",
+        "en": "While offering water to the rising Sun."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'घृणिः' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Ghṛṇiḥ' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "surya_gayatri",
+        "surya_dwadasha_namavali"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "surya_gayatri",
+      "title": {
+        "hi": "सूर्य गायत्री",
+        "en": "Surya Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ भास्कराय विद्महे महातेजाय धीमहि। तन्नः सूर्यः प्रचोदयात्॥",
+        "transliteration": "Om Bhāskarāya Vidmahe Mahātejāya Dhīmahi Tanno Sūryaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान सूर्य की कृपा, तेज एवं ज्ञान के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Lord Surya for brilliance, wisdom, and divine inspiration."
+      },
+      "meaning": {
+        "hi": "हम महान तेजस्वी भगवान सूर्य का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the radiant Lord Surya. May He illuminate our intellect."
+      },
+      "deities": [
+        "surya"
+      ],
+      "deityInfo": {
+        "primary": "surya",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "surya",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "सूर्य गायत्री",
+          "भास्कर"
+        ],
+        "en": [
+          "surya gayatri",
+          "bhaskara"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "तेज",
+          "ऊर्जा",
+          "एकाग्रता",
+          "आत्मविश्वास",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Radiance",
+          "Energy",
+          "Concentration",
+          "Confidence",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "health",
+        "vitality"
+      ],
+      "recommendedTime": [
+        "sunrise"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "surya_arghya"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "सूर्योदय के समय जप करें।",
+        "en": "Chant during sunrise."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भास्कराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhāskarāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "surya_arogya_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "surya_dwadasha_namavali",
+      "title": {
+        "hi": "सूर्य द्वादश नामावली",
+        "en": "Surya Dwadasha Namavali"
+      },
+      "mantra": {
+        "hi": "ॐ मित्राय नमः। ॐ रवये नमः। ॐ सूर्याय नमः। ॐ भानवे नमः। ॐ खगाय नमः। ॐ पूष्णे नमः। ॐ हिरण्यगर्भाय नमः। ॐ मरीचये नमः। ॐ आदित्याय नमः। ॐ सवित्रे नमः। ॐ अर्काय नमः। ॐ भास्कराय नमः॥",
+        "transliteration": "Om Mitrāya Namaḥ, Om Ravaye Namaḥ, Om Sūryāya Namaḥ, Om Bhānave Namaḥ, Om Khagāya Namaḥ, Om Pūṣṇe Namaḥ, Om Hiraṇyagarbhāya Namaḥ, Om Marīcaye Namaḥ, Om Ādityāya Namaḥ, Om Savitre Namaḥ, Om Arkāya Namaḥ, Om Bhāskarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान सूर्य के बारह पवित्र नामों का जप, जिसे विशेष रूप से सूर्य नमस्कार एवं दैनिक उपासना में किया जाता है।",
+        "en": "The twelve sacred names of Lord Surya, traditionally recited during Surya Namaskar and daily worship."
+      },
+      "meaning": {
+        "hi": "भगवान सूर्य के बारह दिव्य स्वरूपों का स्मरण एवं वंदन।",
+        "en": "A salutation to the twelve divine manifestations of Lord Surya."
+      },
+      "deities": [
+        "surya"
+      ],
+      "deityInfo": {
+        "primary": "surya",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "surya",
+        "namavali"
+      ],
+      "keywords": {
+        "hi": [
+          "द्वादश नाम",
+          "सूर्य नमस्कार",
+          "आदित्य"
+        ],
+        "en": [
+          "dwadasha namavali",
+          "surya namaskar",
+          "aditya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आरोग्य",
+          "ऊर्जा",
+          "तेज",
+          "अनुशासन",
+          "सकारात्मकता",
+          "भक्ति"
+        ],
+        "en": [
+          "Health",
+          "Vitality",
+          "Radiance",
+          "Discipline",
+          "Positivity",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "health",
+        "devotion",
+        "vitality"
+      ],
+      "recommendedTime": [
+        "sunrise"
+      ],
+      "recommendedOccasion": [
+        "surya_namaskar",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        1,
+        12
+      ],
+      "usage": {
+        "hi": "सूर्य नमस्कार एवं अर्घ्य के समय।",
+        "en": "During Surya Namaskar and offering Arghya."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "प्रत्येक नाम का स्पष्ट एवं शांत उच्चारण करें।",
+        "en": "Pronounce each name clearly and calmly."
+      },
+      "tradition": "Vedic",
+      "source": "Surya Namaskar Tradition",
+      "related": [
+        "surya_arogya_mantra",
+        "surya_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "chandra_mantra",
+      "title": {
+        "hi": "चन्द्र मंत्र",
+        "en": "Chandra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सोम सोमाय नमः॥",
+        "transliteration": "Om Soma Somāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान चन्द्र (सोम) का सरल एवं प्रसिद्ध नाम मंत्र।",
+        "en": "A simple and popular nama mantra dedicated to Lord Chandra (Soma)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान सोम को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Soma."
+      },
+      "deities": [
+        "chandra"
+      ],
+      "deityInfo": {
+        "primary": "chandra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "chandra",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "चन्द्र",
+          "सोम",
+          "चन्द्रदेव"
+        ],
+        "en": [
+          "chandra",
+          "soma",
+          "moon"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति",
+          "भावनात्मक संतुलन",
+          "एकाग्रता",
+          "सकारात्मकता",
+          "भक्ति",
+          "चन्द्र कृपा"
+        ],
+        "en": [
+          "Mental peace",
+          "Emotional balance",
+          "Concentration",
+          "Positivity",
+          "Devotion",
+          "Moon's blessings"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "emotional_balance",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "evening",
+        "moonrise"
+      ],
+      "recommendedOccasion": [
+        "monday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "सोमवार एवं चन्द्र उपासना में।",
+        "en": "For Monday worship and Chandra devotion."
+      },
+      "dailyRoutine": [
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सोमाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Somāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_som_somaya_namah",
+        "chandra_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_som_somaya_namah",
+      "title": {
+        "hi": "ॐ सोम सोमाय नमः",
+        "en": "Om Soma Somaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सोम सोमाय नमः॥",
+        "transliteration": "Om Soma Somāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान सोम (चन्द्रदेव) का प्रसिद्ध नमस्कार मंत्र।",
+        "en": "A popular salutation mantra dedicated to Lord Soma (Chandra)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान सोम को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Soma."
+      },
+      "deities": [
+        "chandra"
+      ],
+      "deityInfo": {
+        "primary": "chandra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "chandra",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "सोम",
+          "चन्द्र",
+          "सोमाय नमः"
+        ],
+        "en": [
+          "soma",
+          "chandra",
+          "somaya namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति",
+          "भावनात्मक संतुलन",
+          "शीतलता",
+          "एकाग्रता",
+          "भक्ति",
+          "चन्द्र कृपा"
+        ],
+        "en": [
+          "Mental peace",
+          "Emotional balance",
+          "Calmness",
+          "Concentration",
+          "Devotion",
+          "Moon's blessings"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "emotional_balance",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "evening",
+        "moonrise"
+      ],
+      "recommendedOccasion": [
+        "monday",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "सोमवार एवं चन्द्र पूजा में।",
+        "en": "For Monday worship and Chandra devotion."
+      },
+      "dailyRoutine": [
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सोमाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Somāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "chandra_mantra",
+        "chandra_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "chandra_gayatri",
+      "title": {
+        "hi": "चन्द्र गायत्री",
+        "en": "Chandra Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ क्षीरपुत्राय विद्महे अमृततत्त्वाय धीमहि। तन्नः सोमः प्रचोदयात्॥",
+        "transliteration": "Om Kṣīraputrāya Vidmahe Amṛtatattvāya Dhīmahi Tanno Somaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान चन्द्र की कृपा, मानसिक शांति एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Chandra for peace, emotional balance, and wisdom."
+      },
+      "meaning": {
+        "hi": "हम अमृतस्वरूप भगवान सोम का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Soma, the immortal one. May He enlighten our intellect."
+      },
+      "deities": [
+        "chandra"
+      ],
+      "deityInfo": {
+        "primary": "chandra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "chandra",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "चन्द्र गायत्री",
+          "सोम",
+          "चन्द्रदेव"
+        ],
+        "en": [
+          "chandra gayatri",
+          "soma",
+          "moon"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक शांति",
+          "भावनात्मक संतुलन",
+          "सद्बुद्धि",
+          "एकाग्रता",
+          "भक्ति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Mental peace",
+          "Emotional balance",
+          "Wisdom",
+          "Concentration",
+          "Devotion",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "knowledge",
+        "emotional_balance"
+      ],
+      "recommendedTime": [
+        "evening",
+        "moonrise"
+      ],
+      "recommendedOccasion": [
+        "monday",
+        "daily_japa",
+        "purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "सोमवार, पूर्णिमा एवं चन्द्र उपासना में।",
+        "en": "For Monday, Purnima, and Chandra worship."
+      },
+      "dailyRoutine": [
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'क्षीरपुत्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kṣīraputrāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "chandra_mantra",
+        "om_som_somaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "mangala_mantra",
+      "title": {
+        "hi": "मंगल मंत्र",
+        "en": "Mangala Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः॥",
+        "transliteration": "Om Krāṁ Krīṁ Krauṁ Saḥ Bhaumāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान मंगल (भौम) का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Mangala (Mars)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान भौम (मंगल) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Bhauma (Mangala)."
+      },
+      "deities": [
+        "mangala"
+      ],
+      "deityInfo": {
+        "primary": "mangala",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "mangala",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "मंगल",
+          "भौम",
+          "मंगल ग्रह"
+        ],
+        "en": [
+          "mangala",
+          "bhauma",
+          "mars"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "आत्मविश्वास",
+          "ऊर्जा",
+          "बाधा निवारण",
+          "भक्ति",
+          "मानसिक शक्ति"
+        ],
+        "en": [
+          "Courage",
+          "Confidence",
+          "Energy",
+          "Obstacle removal",
+          "Devotion",
+          "Mental strength"
+        ]
+      },
+      "purpose": [
+        "courage",
+        "strength",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "मंगलवार एवं मंगल ग्रह की उपासना में।",
+        "en": "For Tuesday worship and Mangala devotion."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भौमाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhaumāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_kram_krim_kraum_sah_bhaumaya_namah",
+        "mangala_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_kram_krim_kraum_sah_bhaumaya_namah",
+      "title": {
+        "hi": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः",
+        "en": "Om Kram Krim Kraum Sah Bhaumaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः॥",
+        "transliteration": "Om Krāṁ Krīṁ Krauṁ Saḥ Bhaumāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान भौम (मंगल ग्रह) का प्रसिद्ध बीज मंत्र, जो साहस, ऊर्जा एवं मंगल कृपा के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Bhauma (Mars), chanted for courage, vitality, and the blessings of Mangala."
+      },
+      "meaning": {
+        "hi": "मैं भगवान भौम (मंगल) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Bhauma (Mangala)."
+      },
+      "deities": [
+        "mangala"
+      ],
+      "deityInfo": {
+        "primary": "mangala",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "mangala",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "मंगल",
+          "भौम",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "mangala",
+          "bhauma",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "आत्मविश्वास",
+          "ऊर्जा",
+          "विजय",
+          "मानसिक शक्ति",
+          "बाधा निवारण"
+        ],
+        "en": [
+          "Courage",
+          "Confidence",
+          "Energy",
+          "Victory",
+          "Mental strength",
+          "Obstacle removal"
+        ]
+      },
+      "purpose": [
+        "courage",
+        "strength",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "मंगलवार एवं मंगल ग्रह की शांति के लिए।",
+        "en": "For Tuesdays and worship of the planet Mars."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भौमाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhaumāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "mangala_mantra",
+        "mangala_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "mangala_gayatri",
+      "title": {
+        "hi": "मंगल गायत्री",
+        "en": "Mangala Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ अङ्गारकाय विद्महे शक्तिहस्ताय धीमहि। तन्नो भौमः प्रचोदयात्॥",
+        "transliteration": "Om Aṅgārakāya Vidmahe Śaktihastāya Dhīmahi Tanno Bhaumaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान मंगल (अंगारक) की कृपा, साहस एवं धर्मयुक्त शक्ति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Mangala (Angaraka) for courage, righteous strength, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भगवान अंगारक का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Angaraka. May He enlighten our intellect."
+      },
+      "deities": [
+        "mangala"
+      ],
+      "deityInfo": {
+        "primary": "mangala",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "mangala",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "मंगल गायत्री",
+          "अंगारक",
+          "भौम"
+        ],
+        "en": [
+          "mangala gayatri",
+          "angaraka",
+          "bhauma"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "सद्बुद्धि",
+          "ऊर्जा",
+          "अनुशासन",
+          "आत्मविश्वास",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Courage",
+          "Wisdom",
+          "Energy",
+          "Discipline",
+          "Confidence",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "courage",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "मंगलवार एवं मंगल ग्रह की उपासना में।",
+        "en": "For Tuesday worship and devotion to Lord Mangala."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'अङ्गारकाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Aṅgārakāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "mangala_mantra",
+        "om_kram_krim_kraum_sah_bhaumaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "budha_mantra",
+      "title": {
+        "hi": "बुध मंत्र",
+        "en": "Budha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः॥",
+        "transliteration": "Om Brāṁ Brīṁ Brauṁ Saḥ Budhāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान बुध (बुध ग्रह) का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Budha (Mercury)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बुध को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Budha."
+      },
+      "deities": [
+        "budha"
+      ],
+      "deityInfo": {
+        "primary": "budha",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "budha",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "बुध",
+          "बुध ग्रह",
+          "बुधदेव"
+        ],
+        "en": [
+          "budha",
+          "mercury",
+          "budha graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "वाणी",
+          "एकाग्रता",
+          "विद्या",
+          "तर्क शक्ति",
+          "संचार कौशल"
+        ],
+        "en": [
+          "Wisdom",
+          "Speech",
+          "Concentration",
+          "Learning",
+          "Reasoning",
+          "Communication"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "communication",
+        "education"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "wednesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "बुधवार एवं बुध ग्रह की उपासना में।",
+        "en": "For Wednesday worship and Budha devotion."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बुधाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Budhāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_bram_brim_braum_sah_budhaya_namah",
+        "budha_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_bram_brim_braum_sah_budhaya_namah",
+      "title": {
+        "hi": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः",
+        "en": "Om Bram Brim Braum Sah Budhaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः॥",
+        "transliteration": "Om Brāṁ Brīṁ Brauṁ Saḥ Budhāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान बुध का प्रसिद्ध बीज मंत्र, जो बुद्धि, वाणी एवं विवेक की वृद्धि के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Budha, chanted for intelligence, eloquence, and wisdom."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बुध को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Budha."
+      },
+      "deities": [
+        "budha"
+      ],
+      "deityInfo": {
+        "primary": "budha",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "budha",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "बुध",
+          "बुध ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "budha",
+          "mercury",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "वाणी",
+          "स्मरण शक्ति",
+          "विद्या",
+          "एकाग्रता",
+          "तर्क शक्ति"
+        ],
+        "en": [
+          "Intelligence",
+          "Speech",
+          "Memory",
+          "Learning",
+          "Concentration",
+          "Reasoning"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "communication",
+        "education"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "wednesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "बुधवार एवं बुध ग्रह की शांति के लिए।",
+        "en": "For Wednesdays and worship of Lord Budha."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बुधाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Budhāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "budha_mantra",
+        "budha_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "budha_gayatri",
+      "title": {
+        "hi": "बुध गायत्री",
+        "en": "Budha Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ सौम्यरूपाय विद्महे वाणीशाय धीमहि। तन्नो बुधः प्रचोदयात्॥",
+        "transliteration": "Om Saumyarūpāya Vidmahe Vāṇīśāya Dhīmahi Tanno Budhaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान बुध की कृपा, वाणी की मधुरता, विद्या एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Budha for eloquence, learning, wisdom, and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम सौम्य स्वरूप भगवान बुध का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the gentle Lord Budha. May He enlighten our intellect."
+      },
+      "deities": [
+        "budha"
+      ],
+      "deityInfo": {
+        "primary": "budha",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "budha",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "बुध गायत्री",
+          "बुधदेव",
+          "बुध ग्रह"
+        ],
+        "en": [
+          "budha gayatri",
+          "budha",
+          "mercury"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "वाणी",
+          "विद्या",
+          "स्मरण शक्ति",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Speech",
+          "Learning",
+          "Memory",
+          "Concentration",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "education",
+        "communication"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "wednesday",
+        "daily_japa",
+        "before_study"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "अध्ययन, परीक्षा एवं बुधवार की उपासना में।",
+        "en": "For studies, examinations, and Wednesday worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'सौम्यरूपाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Saumyarūpāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "budha_mantra",
+        "om_bram_brim_braum_sah_budhaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "guru_mantra",
+      "title": {
+        "hi": "गुरु मंत्र",
+        "en": "Guru Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः॥",
+        "transliteration": "Gurur Brahmā Gurur Viṣṇuḥ Gurur Devo Maheśvaraḥ Guruḥ Sākṣāt Paraṁ Brahma Tasmai Śrī Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु को ब्रह्मा, विष्णु, महेश तथा परब्रह्म स्वरूप मानकर किया जाने वाला सर्वाधिक प्रसिद्ध गुरु वंदना मंत्र।",
+        "en": "The most revered Guru mantra, honoring the Guru as Brahma, Vishnu, Shiva, and the Supreme Reality."
+      },
+      "meaning": {
+        "hi": "गुरु ही ब्रह्मा, विष्णु, महेश तथा साक्षात् परब्रह्म हैं। ऐसे श्रीगुरु को मेरा प्रणाम।",
+        "en": "The Guru is Brahma, Vishnu, Shiva, and the Supreme Brahman. I bow to that revered Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु",
+          "गुरुर्ब्रह्मा",
+          "गुरु वंदना"
+        ],
+        "en": [
+          "guru",
+          "gurur brahma",
+          "guru vandana"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "ज्ञान",
+          "विनम्रता",
+          "भक्ति",
+          "आध्यात्मिक उन्नति",
+          "सद्बुद्धि"
+        ],
+        "en": [
+          "Guru's grace",
+          "Knowledge",
+          "Humility",
+          "Devotion",
+          "Spiritual growth",
+          "Wisdom"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "before_study",
+        "guru_purnima",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "अध्ययन एवं साधना प्रारम्भ करने से पूर्व।",
+        "en": "Before study or spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'परं ब्रह्म' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Paraṁ Brahma' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Guru Stotram",
+      "related": [
+        "guru_gayatri",
+        "om_gum_gurave_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "guru_gayatri",
+      "title": {
+        "hi": "गुरु गायत्री",
+        "en": "Guru Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ गुरुदेवाय विद्महे परब्रह्मणे धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "transliteration": "Om Gurudevāya Vidmahe Parabrahmaṇe Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "गुरु के दिव्य स्वरूप का ध्यान करने वाला गायत्री मंत्र।",
+        "en": "A Gayatri mantra meditating upon the divine Guru."
+      },
+      "meaning": {
+        "hi": "हम गुरु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the Guru. May the Guru enlighten our intellect."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "गुरु गायत्री",
+          "गुरुदेव"
+        ],
+        "en": [
+          "guru gayatri",
+          "gurudeva"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "विवेक",
+          "एकाग्रता",
+          "गुरु कृपा",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Concentration",
+          "Guru's grace",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "guru_bhakti",
+        "wisdom"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "guru_purnima",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरु उपासना एवं दैनिक जप में।",
+        "en": "For Guru worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'परब्रह्मणे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Parabrahmaṇe' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "guru_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_gum_gurave_namah",
+      "title": {
+        "hi": "ॐ गुं गुरवे नमः",
+        "en": "Om Gum Gurave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ गुं गुरवे नमः॥",
+        "transliteration": "Om Guṁ Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु तत्व की उपासना का संक्षिप्त एवं शक्तिशाली बीज मंत्र।",
+        "en": "A concise bija mantra invoking the divine Guru principle."
+      },
+      "meaning": {
+        "hi": "मैं श्रीगुरु को प्रणाम करता हूँ।",
+        "en": "I bow to the revered Guru."
+      },
+      "deities": [
+        "guru"
+      ],
+      "deityInfo": {
+        "primary": "guru",
+        "group": "guru",
+        "parent": null
+      },
+      "categories": [
+        "guru",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "गुं",
+          "गुरवे नमः"
+        ],
+        "en": [
+          "gum",
+          "gurave namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "ज्ञान",
+          "भक्ति",
+          "एकाग्रता",
+          "विनम्रता",
+          "आत्मिक शांति"
+        ],
+        "en": [
+          "Guru's grace",
+          "Knowledge",
+          "Devotion",
+          "Focus",
+          "Humility",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "guru_bhakti",
+        "knowledge"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक गुरु जप में।",
+        "en": "For daily Guru mantra chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'गुं' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Guṁ' clearly."
+      },
+      "tradition": "Sanatana",
+      "source": "Traditional",
+      "related": [
+        "guru_mantra",
+        "guru_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_mantra",
+      "title": {
+        "hi": "बृहस्पति मंत्र",
+        "en": "Brihaspati Mantra"
+      },
+      "mantra": {
+        "hi": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devānāṁ Ca Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति का प्रसिद्ध स्तुति मंत्र।",
+        "en": "A famous hymn in praise of Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं एवं ऋषियों के गुरु, बुद्धि के स्वरूप भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati, the Guru of the Devas and embodiment of wisdom."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "guru"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति",
+          "देवगुरु",
+          "गुरु ग्रह"
+        ],
+        "en": [
+          "brihaspati",
+          "guru graha",
+          "deva guru"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "ज्ञान",
+          "विवेक",
+          "गुरु कृपा",
+          "समृद्धि",
+          "धार्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Knowledge",
+          "Discernment",
+          "Guru's grace",
+          "Prosperity",
+          "Spiritual progress"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "guru_puja"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरुवार एवं बृहस्पति पूजा में।",
+        "en": "For Thursdays and Brihaspati worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'काञ्चनसन्निभम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kāñcanasannibham' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Navagraha Stotra",
+      "related": [
+        "brihaspati_gayatri",
+        "om_brim_brihaspataye_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_dhyana",
+      "title": {
+        "hi": "बृहस्पति ध्यान",
+        "en": "Brihaspati Dhyana"
+      },
+      "mantra": {
+        "hi": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devānāṁ Ca Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति के तेजस्वी स्वरूप का ध्यान करने हेतु प्रचलित ध्यान श्लोक।",
+        "en": "A meditation verse contemplating the radiant form of Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं एवं ऋषियों के गुरु, बुद्धि के स्वरूप भगवान बृहस्पति का ध्यान करता हूँ।",
+        "en": "I meditate upon Brihaspati, the Guru of the Devas and embodiment of wisdom."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "dhyana"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति",
+          "ध्यान",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati",
+          "dhyana",
+          "guru graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "बुद्धि",
+          "विवेक",
+          "एकाग्रता",
+          "गुरु कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Discernment",
+          "Concentration",
+          "Guru's grace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "meditation",
+        "wisdom"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "guru_puja"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "जप एवं पूजा से पूर्व ध्यान में।",
+        "en": "For meditation before worship or chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बुद्धिभूतम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Buddhibhūtam' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Navagraha Stotra",
+      "related": [
+        "brihaspati_mantra",
+        "brihaspati_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_pranam_mantra",
+      "title": {
+        "hi": "बृहस्पति प्रणाम मंत्र",
+        "en": "Brihaspati Pranam Mantra"
+      },
+      "mantra": {
+        "hi": "देवतानां ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "transliteration": "Devatānāṁ Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति को प्रणाम करने का पारंपरिक मंत्र।",
+        "en": "A traditional salutation mantra dedicated to Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं के गुरु भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati, the divine Guru of the Devas."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति प्रणाम",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati pranam",
+          "deva guru"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "गुरु कृपा",
+          "बुद्धि",
+          "विनम्रता",
+          "ज्ञान",
+          "भक्ति",
+          "शांति"
+        ],
+        "en": [
+          "Guru's grace",
+          "Wisdom",
+          "Humility",
+          "Knowledge",
+          "Devotion",
+          "Peace"
+        ]
+      },
+      "purpose": [
+        "guru_blessings",
+        "knowledge",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "पूजा प्रारम्भ एवं प्रणाम के समय।",
+        "en": "Before worship and while offering salutations."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'त्रिलोकेशम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Trilokeśam' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "brihaspati_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "brihaspati_gayatri",
+      "title": {
+        "hi": "बृहस्पति गायत्री",
+        "en": "Brihaspati Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ बृहस्पतये विद्महे दिव्यदेहाय धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "transliteration": "Om Bṛhaspataye Vidmahe Divyadehāya Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति की कृपा एवं सद्बुद्धि प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Brihaspati for wisdom, virtue, and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम भगवान बृहस्पति का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Brihaspati. May he enlighten our intellect."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "बृहस्पति गायत्री",
+          "गुरु ग्रह"
+        ],
+        "en": [
+          "brihaspati gayatri",
+          "guru graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "बुद्धि",
+          "विवेक",
+          "समृद्धि",
+          "आध्यात्मिक उन्नति",
+          "गुरु कृपा"
+        ],
+        "en": [
+          "Knowledge",
+          "Wisdom",
+          "Discernment",
+          "Prosperity",
+          "Spiritual growth",
+          "Guru's grace"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "wisdom",
+        "prosperity"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "गुरुवार एवं बृहस्पति साधना में।",
+        "en": "For Thursdays and Brihaspati sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बृहस्पतये' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bṛhaspataye' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "guru_gayatri",
+        "om_brim_brihaspataye_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_brim_brihaspataye_namah",
+      "title": {
+        "hi": "ॐ बृं बृहस्पतये नमः",
+        "en": "Om Brim Brihaspataye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ बृं बृहस्पतये नमः॥",
+        "transliteration": "Om Bṛiṁ Bṛhaspataye Namaḥ"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति का प्रसिद्ध बीज मंत्र।",
+        "en": "A popular bija mantra dedicated to Brihaspati."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Brihaspati."
+      },
+      "deities": [
+        "brihaspati"
+      ],
+      "deityInfo": {
+        "primary": "brihaspati",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "brihaspati",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "बृं",
+          "बृहस्पति",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "brim",
+          "brihaspati",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ज्ञान",
+          "समृद्धि",
+          "बुद्धि",
+          "आत्मविश्वास",
+          "गुरु कृपा",
+          "सद्बुद्धि"
+        ],
+        "en": [
+          "Knowledge",
+          "Prosperity",
+          "Wisdom",
+          "Confidence",
+          "Guru's grace",
+          "Right judgment"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "prosperity",
+        "guru_blessings"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "thursday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक बृहस्पति जप एवं गुरुवार साधना में।",
+        "en": "For daily Brihaspati chanting and Thursday worship."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'बृं' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bṛiṁ' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "brihaspati_mantra",
+        "brihaspati_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shukra_mantra",
+      "title": {
+        "hi": "शुक्र मंत्र",
+        "en": "Shukra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः॥",
+        "transliteration": "Om Drāṁ Drīṁ Drauṁ Saḥ Śukrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शुक्र (शुक्र ग्रह) का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Shukra (Venus)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शुक्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shukra."
+      },
+      "deities": [
+        "shukra"
+      ],
+      "deityInfo": {
+        "primary": "shukra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shukra",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "शुक्र",
+          "शुक्र ग्रह",
+          "शुक्रदेव"
+        ],
+        "en": [
+          "shukra",
+          "venus",
+          "shukra graha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समृद्धि",
+          "सौभाग्य",
+          "सौंदर्य",
+          "संबंधों में मधुरता",
+          "भौतिक सुख",
+          "भक्ति"
+        ],
+        "en": [
+          "Prosperity",
+          "Good fortune",
+          "Beauty",
+          "Harmony in relationships",
+          "Material well-being",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "relationships",
+        "harmony"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "friday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शुक्रवार एवं शुक्र ग्रह की उपासना में।",
+        "en": "For Friday worship and devotion to Lord Shukra."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शुक्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śukrāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_dram_drim_draum_sah_shukraya_namah",
+        "shukra_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_dram_drim_draum_sah_shukraya_namah",
+      "title": {
+        "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+        "en": "Om Dram Drim Draum Sah Shukraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः॥",
+        "transliteration": "Om Drāṁ Drīṁ Drauṁ Saḥ Śukrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शुक्र का प्रसिद्ध बीज मंत्र, जो समृद्धि, सौभाग्य, दाम्पत्य सुख एवं कलात्मक प्रतिभा के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Shukra, chanted for prosperity, marital harmony, artistic excellence, and good fortune."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शुक्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shukra."
+      },
+      "deities": [
+        "shukra"
+      ],
+      "deityInfo": {
+        "primary": "shukra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shukra",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "शुक्र",
+          "शुक्र ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "shukra",
+          "venus",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समृद्धि",
+          "सौभाग्य",
+          "दाम्पत्य सुख",
+          "सौंदर्य",
+          "कलात्मक प्रतिभा",
+          "मानसिक संतुलन"
+        ],
+        "en": [
+          "Prosperity",
+          "Good fortune",
+          "Marital harmony",
+          "Beauty",
+          "Artistic talent",
+          "Mental balance"
+        ]
+      },
+      "purpose": [
+        "prosperity",
+        "relationships",
+        "harmony"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "friday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शुक्रवार एवं शुक्र ग्रह की शांति के लिए।",
+        "en": "For Fridays and worship of Lord Shukra."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शुक्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śukrāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "shukra_mantra",
+        "shukra_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shukra_gayatri",
+      "title": {
+        "hi": "शुक्र गायत्री",
+        "en": "Shukra Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ भार्गवाय विद्महे दैत्यगुरवे धीमहि। तन्नः शुक्रः प्रचोदयात्॥",
+        "transliteration": "Om Bhārgavāya Vidmahe Daityagurave Dhīmahi Tanno Śukraḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान शुक्र की कृपा, समृद्धि, सौंदर्य एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Shukra for prosperity, beauty, wisdom, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम महर्षि भृगु के पुत्र एवं दैत्यगुरु भगवान शुक्र का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Shukra, son of Sage Bhrigu and the preceptor of the Asuras. May He enlighten our intellect."
+      },
+      "deities": [
+        "shukra"
+      ],
+      "deityInfo": {
+        "primary": "shukra",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shukra",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "शुक्र गायत्री",
+          "भार्गव",
+          "दैत्यगुरु"
+        ],
+        "en": [
+          "shukra gayatri",
+          "bhargava",
+          "venus"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समृद्धि",
+          "सद्बुद्धि",
+          "दाम्पत्य सुख",
+          "रचनात्मकता",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Prosperity",
+          "Wisdom",
+          "Marital harmony",
+          "Creativity",
+          "Peace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "prosperity",
+        "relationships"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "friday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शुक्रवार एवं शुक्र उपासना में।",
+        "en": "For Friday worship and devotion to Lord Shukra."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'दैत्यगुरवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Daityagurave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "shukra_mantra",
+        "om_dram_drim_draum_sah_shukraya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shani_mantra",
+      "title": {
+        "hi": "शनि मंत्र",
+        "en": "Shani Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शं शनैश्चराय नमः॥",
+        "transliteration": "Om Śaṁ Śanaiścarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव का सर्वाधिक प्रचलित एवं सरल नाम मंत्र।",
+        "en": "The most popular and simple mantra dedicated to Lord Shani."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शनैश्चर को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shani."
+      },
+      "deities": [
+        "shani"
+      ],
+      "deityInfo": {
+        "primary": "shani",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shani",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "शनि",
+          "शनैश्चर",
+          "शं"
+        ],
+        "en": [
+          "shani",
+          "shanaishchara",
+          "sham"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धैर्य",
+          "मानसिक शक्ति",
+          "कर्म में स्थिरता",
+          "अनुशासन",
+          "सुरक्षा",
+          "भक्ति"
+        ],
+        "en": [
+          "Patience",
+          "Mental strength",
+          "Discipline",
+          "Stability",
+          "Protection",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "discipline",
+        "protection",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शनिवार एवं दैनिक शनि उपासना में।",
+        "en": "For Saturday worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शनैश्चराय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śanaiścarāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "shani_vedic_mantra",
+        "shani_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shani_vedic_mantra",
+      "title": {
+        "hi": "शनि वैदिक मंत्र",
+        "en": "Shani Vedic Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शन्नो देवीरभिष्टय आपो भवन्तु पीतये। शं योरभि स्रवन्तु नः॥",
+        "transliteration": "Om Śanno Devīr Abhiṣṭaya Āpo Bhavantu Pītaye Śaṁ Yor Abhi Sravantu Naḥ"
+      },
+      "description": {
+        "hi": "शनि उपासना में प्रचलित वैदिक शांति मंत्र।",
+        "en": "A Vedic peace mantra traditionally recited during Shani worship."
+      },
+      "meaning": {
+        "hi": "दैवी शक्तियाँ हमें कल्याण, शांति एवं मंगल प्रदान करें।",
+        "en": "May the divine powers bless us with peace, well-being, and auspiciousness."
+      },
+      "deities": [
+        "shani"
+      ],
+      "deityInfo": {
+        "primary": "shani",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shani",
+        "vedic"
+      ],
+      "keywords": {
+        "hi": [
+          "शनि वैदिक मंत्र",
+          "शन्नो देवी"
+        ],
+        "en": [
+          "shani vedic mantra",
+          "shanno devir"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शांति",
+          "धैर्य",
+          "मानसिक संतुलन",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Peace",
+          "Patience",
+          "Mental balance",
+          "Positivity",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "discipline",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        11,
+        21
+      ],
+      "usage": {
+        "hi": "शनि पूजा एवं वैदिक प्रार्थना में।",
+        "en": "During Shani worship and Vedic prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'अभिष्टय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Abhiṣṭaya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Rigveda",
+      "related": [
+        "shani_mantra"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "nilanjana_samabhasam",
+      "title": {
+        "hi": "नीलाञ्जनसमाभासं",
+        "en": "Nilanjana Samabhasam"
+      },
+      "mantra": {
+        "hi": "नीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम्। छायामार्तण्डसम्भूतं तं नमामि शनैश्चरम्॥",
+        "transliteration": "Nīlāñjana Samābhāsaṁ Raviputraṁ Yamāgrajam Chāyāmārtaṇḍa Sambhūtaṁ Taṁ Namāmi Śanaiścaram"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव का सर्वाधिक प्रसिद्ध ध्यान श्लोक।",
+        "en": "The most famous meditation verse dedicated to Lord Shani."
+      },
+      "meaning": {
+        "hi": "मैं सूर्यपुत्र, छाया से उत्पन्न एवं तेजस्वी भगवान शनिदेव को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shani, the radiant son of Surya and Chhaya."
+      },
+      "deities": [
+        "shani"
+      ],
+      "deityInfo": {
+        "primary": "shani",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shani",
+        "dhyana"
+      ],
+      "keywords": {
+        "hi": [
+          "नीलाञ्जनसमाभासं",
+          "शनिदेव"
+        ],
+        "en": [
+          "nilanjana samabhasam",
+          "shani"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धैर्य",
+          "शांति",
+          "आत्मबल",
+          "अनुशासन",
+          "भक्ति",
+          "मानसिक स्थिरता"
+        ],
+        "en": [
+          "Patience",
+          "Peace",
+          "Inner strength",
+          "Discipline",
+          "Devotion",
+          "Mental stability"
+        ]
+      },
+      "purpose": [
+        "peace",
+        "discipline",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "shani_jayanti"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "शनिदेव के ध्यान एवं पूजा में।",
+        "en": "For meditation and worship of Lord Shani."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नीलाञ्जनसमाभासम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Nīlāñjana Samābhāsam' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Navagraha Stotra",
+      "related": [
+        "shani_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shani_gayatri",
+      "title": {
+        "hi": "शनि गायत्री",
+        "en": "Shani Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि। तन्नः मन्दः प्रचोदयात्॥",
+        "transliteration": "Om Kākadhvajāya Vidmahe Khaḍgahastāya Dhīmahi Tanno Mandaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव की कृपा, धैर्य एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Shani for wisdom, patience, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम काकध्वजधारी भगवान शनि का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Shani. May He enlighten our intellect."
+      },
+      "deities": [
+        "shani"
+      ],
+      "deityInfo": {
+        "primary": "shani",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "shani",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "शनि गायत्री",
+          "काकध्वज"
+        ],
+        "en": [
+          "shani gayatri",
+          "kakadhwaja"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "धैर्य",
+          "बुद्धि",
+          "अनुशासन",
+          "शांति",
+          "आध्यात्मिक उन्नति",
+          "भक्ति"
+        ],
+        "en": [
+          "Patience",
+          "Wisdom",
+          "Discipline",
+          "Peace",
+          "Spiritual growth",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "wisdom",
+        "discipline",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "शनिवार एवं दैनिक शनि साधना में।",
+        "en": "For Saturday and daily Shani sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'काकध्वजाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kākadhvajāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "shani_mantra",
+        "nilanjana_samabhasam"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rahu_mantra",
+      "title": {
+        "hi": "राहु मंत्र",
+        "en": "Rahu Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः॥",
+        "transliteration": "Om Bhrāṁ Bhrīṁ Bhrauṁ Saḥ Rāhave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान राहु का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Rahu."
+      },
+      "meaning": {
+        "hi": "मैं भगवान राहु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Rahu."
+      },
+      "deities": [
+        "rahu"
+      ],
+      "deityInfo": {
+        "primary": "rahu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "rahu",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "राहु",
+          "राहु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "rahu",
+          "rahu graha",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक स्थिरता",
+          "बाधा निवारण",
+          "साहस",
+          "नकारात्मकता से रक्षा",
+          "आत्मिक शक्ति",
+          "भक्ति"
+        ],
+        "en": [
+          "Mental stability",
+          "Obstacle removal",
+          "Courage",
+          "Protection from negativity",
+          "Inner strength",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "obstacle_removal",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "daily_japa",
+        "rahu_kaal"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "राहु ग्रह की शांति एवं उपासना में।",
+        "en": "For worship of Rahu and planetary peace."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'राहवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāhave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_bhram_bhrim_bhraum_sah_rahave_namah",
+        "rahu_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_bhram_bhrim_bhraum_sah_rahave_namah",
+      "title": {
+        "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+        "en": "Om Bhram Bhrim Bhraum Sah Rahave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः॥",
+        "transliteration": "Om Bhrāṁ Bhrīṁ Bhrauṁ Saḥ Rāhave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान राहु का प्रसिद्ध बीज मंत्र, जो ग्रह शांति, बाधा निवारण एवं मानसिक स्थिरता के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Rahu, chanted for planetary harmony, obstacle removal, and mental stability."
+      },
+      "meaning": {
+        "hi": "मैं भगवान राहु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Rahu."
+      },
+      "deities": [
+        "rahu"
+      ],
+      "deityInfo": {
+        "primary": "rahu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "rahu",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "राहु",
+          "राहु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "rahu",
+          "rahu graha",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "ग्रह शांति",
+          "बाधा निवारण",
+          "मानसिक स्थिरता",
+          "नकारात्मकता से रक्षा",
+          "आत्मिक शक्ति",
+          "साहस"
+        ],
+        "en": [
+          "Planetary harmony",
+          "Obstacle removal",
+          "Mental stability",
+          "Protection from negativity",
+          "Inner strength",
+          "Courage"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "obstacle_removal",
+        "planetary_peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "rahu_kaal",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "राहु ग्रह की शांति एवं दैनिक उपासना में।",
+        "en": "For Rahu worship and planetary peace."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'राहवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rāhave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "rahu_mantra",
+        "rahu_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "rahu_gayatri",
+      "title": {
+        "hi": "राहु गायत्री",
+        "en": "Rahu Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ नागध्वजाय विद्महे पद्महस्ताय धीमहि। तन्नो राहुः प्रचोदयात्॥",
+        "transliteration": "Om Nāgadhvajāya Vidmahe Padmahastāya Dhīmahi Tanno Rāhuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान राहु की कृपा, मानसिक संतुलन एवं ग्रहदोष शांति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Rahu for mental balance, divine grace, and relief from planetary afflictions."
+      },
+      "meaning": {
+        "hi": "हम नागध्वज धारण करने वाले भगवान राहु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Rahu, the bearer of the serpent banner. May He enlighten our intellect."
+      },
+      "deities": [
+        "rahu"
+      ],
+      "deityInfo": {
+        "primary": "rahu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "rahu",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "राहु गायत्री",
+          "राहु",
+          "नागध्वज"
+        ],
+        "en": [
+          "rahu gayatri",
+          "rahu",
+          "nagadhvaja"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "मानसिक संतुलन",
+          "सद्बुद्धि",
+          "ग्रह शांति",
+          "भय निवारण",
+          "आध्यात्मिक उन्नति",
+          "आत्मिक शक्ति"
+        ],
+        "en": [
+          "Mental balance",
+          "Wisdom",
+          "Planetary harmony",
+          "Fearlessness",
+          "Spiritual growth",
+          "Inner strength"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "planetary_peace",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "saturday",
+        "rahu_kaal",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "राहु ग्रह की शांति एवं शनिवार की उपासना में।",
+        "en": "For Rahu worship, Saturdays, and planetary peace."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'नागध्वजाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Nāgadhvajāya' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "rahu_mantra",
+        "om_bhram_bhrim_bhraum_sah_rahave_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ketu_mantra",
+      "title": {
+        "hi": "केतु मंत्र",
+        "en": "Ketu Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ स्रां स्रीं स्रौं सः केतवे नमः॥",
+        "transliteration": "Om Srāṁ Srīṁ Srauṁ Saḥ Ketave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान केतु का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Ketu."
+      },
+      "meaning": {
+        "hi": "मैं भगवान केतु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ketu."
+      },
+      "deities": [
+        "ketu"
+      ],
+      "deityInfo": {
+        "primary": "ketu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "ketu",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "केतु",
+          "केतु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "ketu",
+          "ketu graha",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक उन्नति",
+          "बाधा निवारण",
+          "मानसिक स्पष्टता",
+          "वैराग्य",
+          "आत्मिक शक्ति",
+          "भक्ति"
+        ],
+        "en": [
+          "Spiritual growth",
+          "Obstacle removal",
+          "Mental clarity",
+          "Detachment",
+          "Inner strength",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "spiritual_growth",
+        "protection",
+        "obstacle_removal"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "केतु ग्रह की शांति एवं उपासना में।",
+        "en": "For worship of Ketu and planetary peace."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'केतवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Ketave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "om_sram_srim_sraum_sah_ketave_namah",
+        "ketu_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_sram_srim_sraum_sah_ketave_namah",
+      "title": {
+        "hi": "ॐ स्रां स्रीं स्रौं सः केतवे नमः",
+        "en": "Om Sram Srim Sraum Sah Ketave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ स्रां स्रीं स्रौं सः केतवे नमः॥",
+        "transliteration": "Om Srāṁ Srīṁ Srauṁ Saḥ Ketave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान केतु का प्रसिद्ध बीज मंत्र, जो ग्रह शांति, आध्यात्मिक उन्नति एवं बाधा निवारण के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Ketu, chanted for planetary harmony, spiritual growth, and removal of obstacles."
+      },
+      "meaning": {
+        "hi": "मैं भगवान केतु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ketu."
+      },
+      "deities": [
+        "ketu"
+      ],
+      "deityInfo": {
+        "primary": "ketu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "ketu",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "केतु",
+          "केतु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "ketu",
+          "ketu graha",
+          "beej mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक उन्नति",
+          "ग्रह शांति",
+          "बाधा निवारण",
+          "मानसिक स्पष्टता",
+          "वैराग्य",
+          "आत्मिक शक्ति"
+        ],
+        "en": [
+          "Spiritual growth",
+          "Planetary harmony",
+          "Obstacle removal",
+          "Mental clarity",
+          "Detachment",
+          "Inner strength"
+        ]
+      },
+      "purpose": [
+        "spiritual_growth",
+        "planetary_peace",
+        "obstacle_removal"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "केतु ग्रह की शांति एवं दैनिक उपासना में।",
+        "en": "For Ketu worship and planetary peace."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'केतवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Ketave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "ketu_mantra",
+        "ketu_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ketu_gayatri",
+      "title": {
+        "hi": "केतु गायत्री",
+        "en": "Ketu Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ धूम्रकेतवे विद्महे ध्वजस्थाय धीमहि। तन्नः केतुः प्रचोदयात्॥",
+        "transliteration": "Om Dhūmraketave Vidmahe Dhvajasthāya Dhīmahi Tanno Ketuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान केतु की कृपा, आध्यात्मिक जागरण एवं ग्रहदोष शांति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Ketu for spiritual awakening, divine grace, and relief from planetary afflictions."
+      },
+      "meaning": {
+        "hi": "हम धूम्रकेतु स्वरूप भगवान केतु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Ketu, the smoky-bannered one. May He enlighten our intellect."
+      },
+      "deities": [
+        "ketu"
+      ],
+      "deityInfo": {
+        "primary": "ketu",
+        "group": "navagraha",
+        "parent": null
+      },
+      "categories": [
+        "ketu",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "केतु गायत्री",
+          "धूम्रकेतु",
+          "केतु"
+        ],
+        "en": [
+          "ketu gayatri",
+          "dhumraketu",
+          "ketu"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "आध्यात्मिक उन्नति",
+          "सद्बुद्धि",
+          "मानसिक स्पष्टता",
+          "वैराग्य",
+          "ग्रह शांति",
+          "आत्मिक शक्ति"
+        ],
+        "en": [
+          "Spiritual growth",
+          "Wisdom",
+          "Mental clarity",
+          "Detachment",
+          "Planetary harmony",
+          "Inner strength"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "spiritual_growth",
+        "planetary_peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "केतु ग्रह की उपासना एवं आध्यात्मिक साधना में।",
+        "en": "For Ketu worship and spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'धूम्रकेतवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Dhūmraketave' clearly."
+      },
+      "tradition": "Vedic",
+      "source": "Traditional",
+      "related": [
+        "ketu_mantra",
+        "om_sram_srim_sraum_sah_ketave_namah"
+      ],
+      "isPopular": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "shiva_shakti_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "शिव शक्ति मंत्र",
+    "en": "Shiva Shakti Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shiva_shakti_mantra",
+      "title": {
+        "hi": "शिव शक्ति मंत्र",
+        "en": "Shiva Shakti Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शिवशक्त्यै नमः ॥",
+        "en": "Om Shiva Shaktyai Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र शिव और शक्ति के अविभाज्य आध्यात्मिक सिद्धांत को स्मरण करने वाला एक संक्षिप्त नमस्कार मंत्र है।",
+        "en": "This concise salutation mantra remembers the inseparable spiritual principle of Shiva and Shakti."
+      },
+      "meaning": {
+        "hi": "मैं शिव और शक्ति की अविभाज्य दिव्य एकता को प्रणाम करता हूँ।",
+        "en": "I bow to the inseparable divine unity of Shiva and Shakti."
+      },
+      "keywords": {
+        "hi": [
+          "शिव शक्ति मंत्र",
+          "ॐ शिवशक्त्यै नमः",
+          "शिव शक्ति",
+          "शिव पार्वती"
+        ],
+        "en": [
+          "Shiva Shakti Mantra",
+          "Om Shiva Shaktyai Namah",
+          "Shiva Shakti",
+          "Shiva Parvati"
+        ]
+      },
+      "audio": "shiva_shakti_mantra.mp3"
+    }
+  ]
+}

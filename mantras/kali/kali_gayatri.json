@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "kali_gayatri",
+  "category": "kali",
+  "title": {
+    "hi": "काली गायत्री मंत्र",
+    "en": "Kali Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kali_gayatri",
+      "title": {
+        "hi": "काली गायत्री मंत्र",
+        "en": "Kali Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ कालिकायै विद्महे श्मशानवासिन्यै धीमहि । तन्नो काली प्रचोदयात् ॥",
+        "en": "Om Kalikayai Vidmahe Smashanavasinyai Dhimahi. Tanno Kali Prachodayat."
+      },
+      "description": {
+        "hi": "माँ काली के दिव्य शक्ति और निर्भीक स्वरूप के ध्यान के लिए प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Kali Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "काली गायत्री मंत्र",
+          "kali gayatri",
+          "kali",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Kali Gayatri Mantra",
+          "kali gayatri",
+          "kali",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "kali_gayatri.mp3"
+    }
+  ]
+}

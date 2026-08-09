@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "lakshmi_gayatri",
+  "category": "lakshmi",
+  "title": {
+    "hi": "लक्ष्मी गायत्री मंत्र",
+    "en": "Lakshmi Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lakshmi_gayatri",
+      "title": {
+        "hi": "लक्ष्मी गायत्री मंत्र",
+        "en": "Lakshmi Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महालक्ष्म्यै च विद्महे विष्णुपत्न्यै च धीमहि । तन्नो लक्ष्मीः प्रचोदयात् ॥",
+        "en": "Om Mahalakshmyai Cha Vidmahe Vishnupatnyai Cha Dhimahi. Tanno Lakshmih Prachodayat."
+      },
+      "description": {
+        "hi": "महालक्ष्मी के दिव्य स्वरूप, कृतज्ञता और समृद्धि के भाव से जपा जाने वाला गायत्री मंत्र।",
+        "en": "A devotional chant associated with Lakshmi Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "लक्ष्मी गायत्री मंत्र",
+          "lakshmi gayatri",
+          "lakshmi",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Lakshmi Gayatri Mantra",
+          "lakshmi gayatri",
+          "lakshmi",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "lakshmi_gayatri.mp3"
+    }
+  ]
+}

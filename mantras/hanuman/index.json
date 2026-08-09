@@ -1,0 +1,915 @@
+{
+  "version": 2,
+  "category": "hanuman",
+  "title": {
+    "hi": "हनुमान",
+    "en": "Hanuman"
+  },
+  "mantras": [
+    {
+      "id": "jai_hanuman_japa",
+      "title": {
+        "hi": "जय हनुमान जप",
+        "en": "Jai Hanuman Japa"
+      },
+      "mantra": {
+        "hi": "जय हनुमान। जय हनुमान॥",
+        "transliteration": "Jaya Hanumān, Jaya Hanumān"
+      },
+      "description": {
+        "hi": "भगवान हनुमान के नाम का सरल एवं प्रभावशाली जप। यह साहस, भक्ति, आत्मविश्वास एवं श्रीराम स्मरण को दृढ़ करता है।",
+        "en": "A simple and powerful chant of Lord Hanuman's name for courage, devotion, confidence, and remembrance of Lord Rama."
+      },
+      "meaning": {
+        "hi": "हे प्रभु हनुमान! आपकी जय हो। मैं आपको बार-बार प्रणाम करता हूँ।",
+        "en": "Victory to Lord Hanuman. I repeatedly bow to You."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "जय हनुमान",
+          "हनुमान जप",
+          "बजरंगबली"
+        ],
+        "en": [
+          "jai hanuman",
+          "hanuman japa",
+          "bajrangbali"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "भक्ति",
+          "आत्मविश्वास",
+          "रक्षा",
+          "मानसिक शक्ति",
+          "शांति"
+        ],
+        "en": [
+          "Courage",
+          "Devotion",
+          "Confidence",
+          "Protection",
+          "Mental strength",
+          "Peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक नामजप एवं हनुमान उपासना में।",
+        "en": "For daily chanting and Hanuman worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हनुमान' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hanumān' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "hanuman_moola_mantra",
+        "hanuman_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hanuman_stuti",
+      "title": {
+        "hi": "हनुमान स्तुति",
+        "en": "Hanuman Stuti"
+      },
+      "mantra": {
+        "hi": "मनोजवं मारुततुल्यवेगं जितेन्द्रियं बुद्धिमतां वरिष्ठम्। वातात्मजं वानरयूथमुख्यं श्रीरामदूतं शरणं प्रपद्ये॥",
+        "transliteration": "Manojavaṁ Mārutatulyavegaṁ Jitendriyaṁ Buddhimatāṁ Variṣṭham Vātātmajaṁ Vānarayūthamukhyaṁ Śrīrāmadūtaṁ Śaraṇaṁ Prapadye"
+      },
+      "description": {
+        "hi": "भगवान हनुमान की प्रसिद्ध स्तुति, जो उनकी गति, बुद्धि, बल एवं श्रीराम के प्रति अनन्य भक्ति का वर्णन करती है।",
+        "en": "A famous prayer praising Lord Hanuman's speed, wisdom, strength, and unwavering devotion to Lord Rama."
+      },
+      "meaning": {
+        "hi": "मैं श्रीराम के दूत, वायुपुत्र, महान बुद्धिमान एवं पराक्रमी हनुमान की शरण ग्रहण करता हूँ।",
+        "en": "I take refuge in Hanuman, the son of Vayu, the messenger of Lord Rama, and the greatest among the wise and mighty."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "stuti"
+      ],
+      "keywords": {
+        "hi": [
+          "मनोजवम्",
+          "हनुमान स्तुति",
+          "रामदूत"
+        ],
+        "en": [
+          "manojavam",
+          "hanuman stuti",
+          "ramaduta"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "साहस",
+          "बुद्धि",
+          "बल",
+          "भक्ति",
+          "रक्षा",
+          "आत्मिक शक्ति"
+        ],
+        "en": [
+          "Courage",
+          "Wisdom",
+          "Strength",
+          "Devotion",
+          "Protection",
+          "Inner strength"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "strength",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        3,
+        11
+      ],
+      "usage": {
+        "hi": "हनुमान पूजा एवं प्रार्थना में।",
+        "en": "During Hanuman worship and prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'मारुततुल्यवेगम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mārutatulyavegam' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "shri_ramadutam_sharanam_prapadye"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hanuman_beej_mantra",
+      "title": {
+        "hi": "हनुमान बीज मंत्र",
+        "en": "Hanuman Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं भ्रीम हनुमते श्रीरामदूताय नमः॥",
+        "transliteration": "Om Aiṁ Bhrīṁ Hanumate Śrīrāmadūtāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हनुमान का बीज मंत्र, जो साहस, रक्षा, बुद्धि एवं आध्यात्मिक शक्ति के लिए जपा जाता है।",
+        "en": "A bija mantra of Lord Hanuman for courage, protection, wisdom, and spiritual strength."
+      },
+      "meaning": {
+        "hi": "मैं श्रीरामदूत भगवान हनुमान को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hanuman, the divine messenger of Lord Rama."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "हनुमान बीज",
+          "श्रीरामदूत",
+          "हनुमते"
+        ],
+        "en": [
+          "hanuman beej",
+          "hanumate",
+          "ramaduta"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "रक्षा",
+          "साहस",
+          "बुद्धि",
+          "नकारात्मकता से रक्षा",
+          "आत्मिक बल",
+          "भक्ति"
+        ],
+        "en": [
+          "Protection",
+          "Courage",
+          "Wisdom",
+          "Protection from negativity",
+          "Inner strength",
+          "Devotion"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "strength",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "brahma_muhurta",
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "हनुमान साधना में।",
+        "en": "For Hanuman sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भ्रीं' एवं 'हनुमते' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhrīṁ' and 'Hanumate' carefully."
+      },
+      "tradition": "Tantric",
+      "source": "Traditional",
+      "related": [
+        "hanuman_moola_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hanuman_moola_mantra",
+      "title": {
+        "hi": "हनुमान मूल मंत्र",
+        "en": "Hanuman Moola Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हनुमते नमः॥",
+        "transliteration": "Om Hanumate Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हनुमान का सर्वाधिक प्रचलित एवं सरल मूल मंत्र।",
+        "en": "The most widely recited and fundamental mantra of Lord Hanuman."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हनुमान को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hanuman."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "हनुमते नमः",
+          "हनुमान मूल मंत्र"
+        ],
+        "en": [
+          "hanumate namah",
+          "hanuman moola mantra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "रक्षा",
+          "साहस",
+          "भक्ति",
+          "शक्ति",
+          "मानसिक शांति",
+          "आत्मविश्वास"
+        ],
+        "en": [
+          "Protection",
+          "Courage",
+          "Devotion",
+          "Strength",
+          "Peace",
+          "Confidence"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक हनुमान जप में।",
+        "en": "For daily Hanuman chanting."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हनुमते' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hanumate' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "jai_hanuman_japa",
+        "hanuman_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "panchamukhi_hanuman_mantra",
+      "title": {
+        "hi": "पंचमुखी हनुमान मंत्र",
+        "en": "Panchamukhi Hanuman Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ पंचमुखाय हनुमते रुद्रात्मकाय हुं फट्॥",
+        "transliteration": "Om Pañcamukhāya Hanumate Rudrātmakāya Huṁ Phaṭ"
+      },
+      "description": {
+        "hi": "भगवान पंचमुखी हनुमान का शक्तिशाली रक्षा मंत्र, जो भय, नकारात्मक शक्तियों एवं बाधाओं से रक्षा के लिए जपा जाता है।",
+        "en": "A powerful protective mantra of Panchamukhi Hanuman for removing fear, negativity, and obstacles."
+      },
+      "meaning": {
+        "hi": "मैं रुद्रस्वरूप पंचमुखी हनुमान को प्रणाम करता हूँ।",
+        "en": "I bow to Panchamukhi Hanuman, the Rudra manifestation."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "protection"
+      ],
+      "keywords": {
+        "hi": [
+          "पंचमुखी",
+          "हनुमान",
+          "रुद्रात्मक"
+        ],
+        "en": [
+          "panchamukhi",
+          "hanuman",
+          "rudratmaka"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "शक्तिशाली रक्षा",
+          "भय से मुक्ति",
+          "नकारात्मक ऊर्जा का नाश",
+          "साहस",
+          "आत्मिक बल",
+          "हनुमान कृपा"
+        ],
+        "en": [
+          "Powerful protection",
+          "Freedom from fear",
+          "Removal of negativity",
+          "Courage",
+          "Inner strength",
+          "Grace of Hanuman"
+        ]
+      },
+      "purpose": [
+        "protection",
+        "strength",
+        "fearlessness"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "tuesday",
+        "saturday",
+        "during_difficult_times"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "रक्षा एवं विशेष साधना में।",
+        "en": "For protection and special spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'रुद्रात्मकाय' एवं 'हुं फट्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Rudrātmakāya' and 'Huṁ Phaṭ' clearly."
+      },
+      "tradition": "Tantric",
+      "source": "Traditional",
+      "related": [
+        "hanuman_moola_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "namo_hanumate_tubhyam",
+      "title": {
+        "hi": "नमो हनुमते तुभ्यम्",
+        "en": "Namo Hanumate Tubhyam"
+      },
+      "mantra": {
+        "hi": "नमो हनुमते तुभ्यं नमो मारुतसूनवे। नमः श्रीरामभक्ताय श्यामास्याय च ते नमः॥",
+        "transliteration": "Namo Hanumate Tubhyaṁ Namo Mārutasūnave Namaḥ Śrīrāmabhaktāya Śyāmāsyāya Ca Te Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हनुमान को प्रणाम करने वाली प्रसिद्ध स्तुति, जिसमें उन्हें श्रीराम के परम भक्त एवं वायुपुत्र के रूप में वंदन किया जाता है।",
+        "en": "A devotional prayer saluting Lord Hanuman as the son of Vayu and the greatest devotee of Lord Rama."
+      },
+      "meaning": {
+        "hi": "हे वायुपुत्र, श्रीरामभक्त हनुमान! आपको मेरा बार-बार प्रणाम।",
+        "en": "O Hanuman, son of Vayu and beloved devotee of Lord Rama, I bow to You again and again."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "stuti"
+      ],
+      "keywords": {
+        "hi": [
+          "नमो हनुमते",
+          "मारुतसूनु",
+          "रामभक्त"
+        ],
+        "en": [
+          "namo hanumate",
+          "maruti",
+          "rama devotee"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "साहस",
+          "रक्षा",
+          "मानसिक शांति",
+          "आत्मिक बल",
+          "हनुमान कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Courage",
+          "Protection",
+          "Peace",
+          "Inner strength",
+          "Grace of Hanuman"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "strength"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        27
+      ],
+      "usage": {
+        "hi": "हनुमान पूजा एवं प्रार्थना में।",
+        "en": "During Hanuman worship and prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'मारुतसूनवे' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mārutasūnave' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "hanuman_stuti"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "shri_ramadutam_sharanam_prapadye",
+      "title": {
+        "hi": "श्रीरामदूतं शरणं प्रपद्ये",
+        "en": "Shri Ramadutam Sharanam Prapadye"
+      },
+      "mantra": {
+        "hi": "श्रीरामदूतं शरणं प्रपद्ये॥",
+        "transliteration": "Śrī Rāmadūtaṁ Śaraṇaṁ Prapadye"
+      },
+      "description": {
+        "hi": "भगवान हनुमान को श्रीराम के दिव्य दूत के रूप में पूर्ण समर्पण व्यक्त करने वाला मंत्र।",
+        "en": "A mantra expressing complete surrender to Lord Hanuman as the divine messenger of Lord Rama."
+      },
+      "meaning": {
+        "hi": "मैं श्रीराम के दूत हनुमान की शरण ग्रहण करता हूँ।",
+        "en": "I surrender to Hanuman, the divine messenger of Lord Rama."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "devotion"
+      ],
+      "keywords": {
+        "hi": [
+          "रामदूत",
+          "शरणं प्रपद्ये",
+          "हनुमान"
+        ],
+        "en": [
+          "ramaduta",
+          "sharanam prapadye",
+          "hanuman"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समर्पण",
+          "भक्ति",
+          "आत्मिक बल",
+          "साहस",
+          "रक्षा",
+          "शांति"
+        ],
+        "en": [
+          "Surrender",
+          "Devotion",
+          "Inner strength",
+          "Courage",
+          "Protection",
+          "Peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "surrender",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "tuesday"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "हनुमान उपासना एवं ध्यान में।",
+        "en": "For Hanuman worship and meditation."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'प्रपद्ये' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Prapadye' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "hanuman_stuti",
+        "hanuman_moola_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_anjaneyaya_namah",
+      "title": {
+        "hi": "ॐ आञ्जनेयाय नमः",
+        "en": "Om Anjaneyaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ आञ्जनेयाय नमः॥",
+        "transliteration": "Om Āñjaneyāya Namaḥ"
+      },
+      "description": {
+        "hi": "माता अंजना के पुत्र भगवान हनुमान को समर्पित अत्यंत लोकप्रिय नाम मंत्र।",
+        "en": "A popular mantra dedicated to Lord Hanuman as the son of Mother Anjana."
+      },
+      "meaning": {
+        "hi": "मैं भगवान आञ्जनेय (हनुमान) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Anjaneya (Hanuman)."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "आञ्जनेय",
+          "हनुमान",
+          "आञ्जनेयाय नमः"
+        ],
+        "en": [
+          "anjaneya",
+          "hanuman",
+          "anjaneyaya namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "रक्षा",
+          "साहस",
+          "शक्ति",
+          "मानसिक शांति",
+          "आत्मविश्वास"
+        ],
+        "en": [
+          "Devotion",
+          "Protection",
+          "Courage",
+          "Strength",
+          "Peace",
+          "Confidence"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "strength",
+        "protection"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "tuesday",
+        "saturday"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक हनुमान नामजप में।",
+        "en": "For daily Hanuman nama japa."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'आञ्जनेयाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Āñjaneyāya' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "hanuman_moola_mantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hanuman_gayatri",
+      "title": {
+        "hi": "हनुमान गायत्री",
+        "en": "Hanuman Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि। तन्नो हनुमान् प्रचोदयात्॥",
+        "transliteration": "Om Āñjaneyāya Vidmahe Vāyuputrāya Dhīmahi Tanno Hanumān Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान हनुमान की कृपा, बुद्धि, साहस एवं आध्यात्मिक शक्ति प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Lord Hanuman for wisdom, courage, strength, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम आञ्जनेय, वायुपुत्र हनुमान का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Anjaneya, the son of Vayu. May Hanuman illuminate our intellect."
+      },
+      "deities": [
+        "hanuman"
+      ],
+      "deityInfo": {
+        "primary": "hanuman",
+        "group": "ramayana",
+        "parent": null
+      },
+      "categories": [
+        "hanuman",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "हनुमान गायत्री",
+          "आञ्जनेय",
+          "वायुपुत्र"
+        ],
+        "en": [
+          "hanuman gayatri",
+          "anjaneya",
+          "vayuputra"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "बुद्धि",
+          "साहस",
+          "शक्ति",
+          "भक्ति",
+          "एकाग्रता",
+          "हनुमान कृपा"
+        ],
+        "en": [
+          "Wisdom",
+          "Courage",
+          "Strength",
+          "Devotion",
+          "Concentration",
+          "Grace of Hanuman"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "strength",
+        "devotion"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "tuesday",
+        "hanuman_jayanti"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक हनुमान साधना एवं ध्यान में।",
+        "en": "For daily Hanuman sadhana and meditation."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वायुपुत्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vāyuputrāya' clearly."
+      },
+      "tradition": "Ram Bhakti",
+      "source": "Traditional",
+      "related": [
+        "hanuman_moola_mantra",
+        "jai_hanuman_japa"
+      ],
+      "isPopular": true
+    }
+  ]
+}

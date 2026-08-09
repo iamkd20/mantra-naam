@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "kartikeya_gayatri",
+  "category": "kartikeya",
+  "title": {
+    "hi": "कार्तिकेय गायत्री मंत्र",
+    "en": "Kartikeya Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kartikeya_gayatri",
+      "title": {
+        "hi": "कार्तिकेय गायत्री मंत्र",
+        "en": "Kartikeya Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ तत्पुरुषाय विद्महे महासेनाय धीमहि । तन्नः षण्मुखः प्रचोदयात् ॥",
+        "en": "Om Tatpurushaya Vidmahe Mahasenaya Dhimahi. Tannah Shanmukhah Prachodayat."
+      },
+      "description": {
+        "hi": "कार्तिकेय, स्कंद या महासेन के वीर्यवान और ज्ञानमय स्वरूप के ध्यान हेतु प्रचलित गायत्री मंत्र।",
+        "en": "A devotional chant associated with Kartikeya Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "कार्तिकेय गायत्री मंत्र",
+          "kartikeya gayatri",
+          "kartikeya",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Kartikeya Gayatri Mantra",
+          "kartikeya gayatri",
+          "kartikeya",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "kartikeya_gayatri.mp3"
+    }
+  ]
+}

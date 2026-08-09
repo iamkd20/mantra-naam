@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "guru_brihaspati_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बृहस्पति गायत्री मंत्र",
+    "en": "Brihaspati Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "guru_brihaspati_gayatri",
+      "title": {
+        "hi": "बृहस्पति गायत्री मंत्र",
+        "en": "Brihaspati Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ अंगिरसाय विद्महे दिव्यदेहाय धीमहि । तन्नो जीवः प्रचोदयात् ॥",
+        "en": "Om Angirasaya Vidmahe Divyadehaya Dhimahi. Tanno Jivah Prachodayat."
+      },
+      "description": {
+        "hi": "बृहस्पति के ज्ञान और मार्गदर्शन के प्रतीकात्मक स्वरूप का ध्यान।",
+        "en": "A devotional chant associated with Brihaspati Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "बृहस्पति गायत्री मंत्र",
+          "guru brihaspati gayatri",
+          "nav_graha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Brihaspati Gayatri Mantra",
+          "guru brihaspati gayatri",
+          "nav graha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "guru_brihaspati_gayatri.mp3"
+    }
+  ]
+}

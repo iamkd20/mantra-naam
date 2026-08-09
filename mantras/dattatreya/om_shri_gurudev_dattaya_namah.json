@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_shri_gurudev_dattaya_namah",
+  "category": "dattatreya",
+  "title": {
+    "hi": "ॐ श्री गुरुदेव दत्ताय नमः",
+    "en": "Om Shri Gurudev Dattaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_gurudev_dattaya_namah",
+      "title": {
+        "hi": "ॐ श्री गुरुदेव दत्ताय नमः",
+        "en": "Om Shri Gurudev Dattaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री गुरुदेव दत्ताय नमः ॥",
+        "en": "Om Shri Gurudev Dattaya Namah."
+      },
+      "description": {
+        "hi": "दत्त परंपरा का लोकप्रिय नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Shri Gurudev Dattaya Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ श्री गुरुदेव दत्ताय नमः",
+          "om shri gurudev dattaya namah",
+          "dattatreya",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Shri Gurudev Dattaya Namah",
+          "om shri gurudev dattaya namah",
+          "dattatreya",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_shri_gurudev_dattaya_namah.mp3"
+    }
+  ]
+}

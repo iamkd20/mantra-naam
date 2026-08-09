@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "guru_gayatri",
+  "category": "guru",
+  "title": {
+    "hi": "गुरु गायत्री मंत्र",
+    "en": "Guru Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "guru_gayatri",
+      "title": {
+        "hi": "गुरु गायत्री मंत्र",
+        "en": "Guru Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गुरुदेवाय विद्महे परब्रह्मणे धीमहि । तन्नो गुरुः प्रचोदयात् ॥",
+        "en": "Om Gurudevaya Vidmahe Parabrahmane Dhimahi. Tanno Guruh Prachodayat."
+      },
+      "description": {
+        "hi": "गुरु-तत्त्व, ज्ञान और मार्गदर्शन के प्रति श्रद्धा के लिए प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Guru Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "गुरु गायत्री मंत्र",
+          "guru gayatri",
+          "guru",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Guru Gayatri Mantra",
+          "guru gayatri",
+          "guru",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "guru_gayatri.mp3"
+    }
+  ]
+}

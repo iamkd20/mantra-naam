@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "devi_gayatri",
+  "category": "devi",
+  "title": {
+    "hi": "देवी गायत्री मंत्र",
+    "en": "Devi Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "devi_gayatri",
+      "title": {
+        "hi": "देवी गायत्री मंत्र",
+        "en": "Devi Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महादेव्यै च विद्महे दुर्गायै च धीमहि । तन्नो देवी प्रचोदयात् ॥",
+        "en": "Om Mahadevyai Cha Vidmahe Durgayai Cha Dhimahi. Tanno Devi Prachodayat."
+      },
+      "description": {
+        "hi": "देवी के दिव्य शक्ति-स्वरूप के ध्यान और भक्ति के लिए प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Devi Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "देवी गायत्री मंत्र",
+          "devi gayatri",
+          "devi",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Devi Gayatri Mantra",
+          "devi gayatri",
+          "devi",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "devi_gayatri.mp3"
+    }
+  ]
+}

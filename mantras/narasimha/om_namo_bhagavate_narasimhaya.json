@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_namo_bhagavate_narasimhaya",
+  "category": "narasimha",
+  "title": {
+    "hi": "ॐ नमो भगवते नरसिंहाय",
+    "en": "Om Namo Bhagavate Narasimhaya"
+  },
+  "mantras": [
+    {
+      "id": "om_namo_bhagavate_narasimhaya",
+      "title": {
+        "hi": "ॐ नमो भगवते नरसिंहाय",
+        "en": "Om Namo Bhagavate Narasimhaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते नरसिंहाय ॥",
+        "en": "Om Namo Bhagavate Narasimhaya."
+      },
+      "description": {
+        "hi": "भगवान नरसिंह को समर्पित भक्तिमय नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Namo Bhagavate Narasimhaya, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ नमो भगवते नरसिंहाय",
+          "om namo bhagavate narasimhaya",
+          "narasimha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Namo Bhagavate Narasimhaya",
+          "om namo bhagavate narasimhaya",
+          "narasimha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_namo_bhagavate_narasimhaya.mp3"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "shri_mahadev_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "श्री महादेव मंत्र",
+    "en": "Shri Mahadev Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shri_mahadev_mantra",
+      "title": {
+        "hi": "श्री महादेव मंत्र",
+        "en": "Shri Mahadev Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री महादेवाय नमः ॥",
+        "en": "Om Shri Mahadevaya Namah."
+      },
+      "description": {
+        "hi": "यह भगवान शिव के महादेव स्वरूप को समर्पित एक सरल और लोकप्रिय नमस्कार मंत्र है। इसका जप श्रद्धा, स्मरण और शिव-भक्ति की भावना से किया जाता है।",
+        "en": "This is a simple and popular salutation mantra dedicated to Lord Shiva in His form as Mahadeva. It is chanted with reverence, remembrance, and devotion to Shiva."
+      },
+      "meaning": {
+        "hi": "मैं श्री महादेव, भगवान शिव के महान और मंगलमय स्वरूप, को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Mahadeva, the great and auspicious form of Lord Shiva."
+      },
+      "keywords": {
+        "hi": [
+          "श्री महादेव मंत्र",
+          "ॐ श्री महादेवाय नमः",
+          "महादेव",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "Shri Mahadev Mantra",
+          "Om Shri Mahadevaya Namah",
+          "Mahadev",
+          "Shiva Mantra",
+          "Shiva Japa"
+        ]
+      },
+      "audio": "shri_mahadev_mantra.mp3"
+    }
+  ]
+}

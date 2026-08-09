@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "shukra_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "शुक्र गायत्री मंत्र",
+    "en": "Shukra Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shukra_gayatri",
+      "title": {
+        "hi": "शुक्र गायत्री मंत्र",
+        "en": "Shukra Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भृगुसुताय विद्महे दिव्यरूपाय धीमहि । तन्नः शुक्रः प्रचोदयात् ॥",
+        "en": "Om Bhrigusutaya Vidmahe Divyarupaya Dhimahi. Tannah Shukrah Prachodayat."
+      },
+      "description": {
+        "hi": "शुक्र के सौंदर्य, संतुलन और कला के प्रतीकात्मक स्वरूप का स्मरण।",
+        "en": "A devotional chant associated with Shukra Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "शुक्र गायत्री मंत्र",
+          "shukra gayatri",
+          "nav_graha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Shukra Gayatri Mantra",
+          "shukra gayatri",
+          "nav graha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "shukra_gayatri.mp3"
+    }
+  ]
+}

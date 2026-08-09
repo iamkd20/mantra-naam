@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "chandrashekhara_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "चन्द्रशेखर मंत्र",
+    "en": "Chandrashekhara Mantra"
+  },
+  "mantras": [
+    {
+      "id": "chandrashekhara_mantra",
+      "title": {
+        "hi": "चन्द्रशेखर मंत्र",
+        "en": "Chandrashekhara Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ चन्द्रशेखराय नमः ॥",
+        "en": "Om Chandrashekharaya Namah."
+      },
+      "description": {
+        "hi": "ॐ चन्द्रशेखराय नमः भगवान शिव के चन्द्रशेखर स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। 'चन्द्रशेखर' का अर्थ है मस्तक पर चन्द्रमा धारण करने वाले भगवान। यह नाम शिव के शांत, सौम्य और चन्द्रधारी स्वरूप का स्मरण कराता है। इसका जप शिव भक्ति, मानसिक शांति, ध्यान और नाम-स्मरण में किया जाता है।",
+        "en": "Om Chandrashekharaya Namah is a sacred devotional name-mantra dedicated to Lord Shiva as Chandrashekhara. The name refers to the Lord who bears the moon upon his head and recalls Shiva's serene and moon-bearing form. It is chanted in devotion, meditation, remembrance, and prayer for inner peace."
+      },
+      "meaning": {
+        "hi": "मस्तक पर चन्द्रमा धारण करने वाले भगवान चन्द्रशेखर शिव को नमन।",
+        "en": "Salutations to Lord Shiva as Chandrashekhara, the one who bears the moon upon his head."
+      },
+      "keywords": {
+        "hi": [
+          "चन्द्रशेखर मंत्र",
+          "चंद्रशेखर",
+          "शिव मंत्र",
+          "महादेव",
+          "सोम",
+          "चन्द्रशेखर",
+          "चन्द्रधारी शिव"
+        ],
+        "en": [
+          "chandrashekhara mantra",
+          "chandrashekhar",
+          "shiva mantra",
+          "mahadev",
+          "soma",
+          "chandrashekhara",
+          "moon-bearing shiva"
+        ]
+      },
+      "audio": "chandrashekhara_mantra.mp3"
+    }
+  ]
+}

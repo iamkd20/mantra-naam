@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "nataraja_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "नटराज मंत्र",
+    "en": "Nataraja Mantra"
+  },
+  "mantras": [
+    {
+      "id": "nataraja_mantra",
+      "title": {
+        "hi": "नटराज मंत्र",
+        "en": "Nataraja Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नटराजाय नमः ॥",
+        "en": "Om Natarajaya Namah."
+      },
+      "description": {
+        "hi": "ॐ नटराजाय नमः भगवान शिव के नटराज स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। 'नटराज' का अर्थ है नृत्य के स्वामी और यह शिव के दिव्य ताण्डव तथा ब्रह्मांडीय नृत्य का स्मरण कराता है। नटराज का स्वरूप सृष्टि, स्थिति, परिवर्तन और लय की निरंतर गति का प्रतीक माना जाता है।",
+        "en": "Om Natarajaya Namah is a sacred devotional name-mantra dedicated to Lord Shiva as Nataraja, the Lord of Dance. The Nataraja form recalls Shiva's divine Tandava and the cosmic dance. It is traditionally understood as a symbol of the continuous processes of creation, preservation, transformation, and dissolution."
+      },
+      "meaning": {
+        "hi": "दिव्य नृत्य के स्वामी भगवान नटराज शिव को नमन।",
+        "en": "Salutations to Lord Nataraja, the Lord of the divine and cosmic dance."
+      },
+      "keywords": {
+        "hi": [
+          "नटराज मंत्र",
+          "नटराज",
+          "शिव मंत्र",
+          "महादेव",
+          "तांडव",
+          "ताण्डव",
+          "दिव्य नृत्य"
+        ],
+        "en": [
+          "nataraja mantra",
+          "nataraja",
+          "shiva mantra",
+          "mahadev",
+          "tandava",
+          "divine dance"
+        ]
+      },
+      "audio": "nataraja_mantra.mp3"
+    }
+  ]
+}

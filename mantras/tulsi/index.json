@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "category": "tulsi",
+  "title": {
+    "hi": "तुलसी माता",
+    "en": "Tulsi Mata"
+  },
+  "mantras": [
+    {
+      "id": "tulsi_gayatri",
+      "title": {
+        "hi": "ॐ तुलस्यै विद्महे विष्णुप्रियायै धीमहि। तन्नो वृन्दा प्रचोदयात्॥",
+        "en": "Tulsi Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ तुलस्यै विद्महे विष्णुप्रियायै धीमहि। तन्नो वृन्दा प्रचोदयात्॥",
+        "transliteration": "Om TulasyaI Vidmahe Vishnu-priyayai Dhimahi Tanno Vrinda Prachodayat"
+      },
+      "description": {
+        "hi": "तुलसी/वृंदा देवी के स्मरण का प्रचलित गायत्री रूप।",
+        "en": "A commonly used Gayatri-style invocation of Tulsi/Vrinda."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "tulsi"
+      ],
+      "deityInfo": {
+        "primary": "tulsi"
+      },
+      "categories": [
+        "tulsi"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ तुलस्यै विद्महे विष्णुप्रियायै धीमहि। तन्नो वृन्दा प्रचोदयात्॥"
+        ],
+        "en": [
+          "Tulsi Gayatri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    }
+  ]
+}

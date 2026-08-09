@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "hare_krishna_mahamantra",
+  "category": "krishna",
+  "title": {
+    "hi": "हरे कृष्ण महामंत्र",
+    "en": "Hare Krishna Maha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "hare_krishna_mahamantra",
+      "title": {
+        "hi": "हरे कृष्ण महामंत्र",
+        "en": "Hare Krishna Maha Mantra"
+      },
+      "mantra": {
+        "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे । हरे राम हरे राम राम राम हरे हरे ॥",
+        "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare. Hare Rama Hare Rama Rama Rama Hare Hare."
+      },
+      "description": {
+        "hi": "वैष्णव परंपरा में व्यापक रूप से किया जाने वाला नाम-संकीर्तन और भक्ति का प्रसिद्ध महामंत्र।",
+        "en": "A devotional chant associated with Hare Krishna Maha Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "हरे कृष्ण महामंत्र",
+          "hare krishna mahamantra",
+          "krishna",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Hare Krishna Maha Mantra",
+          "hare krishna mahamantra",
+          "krishna",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "hare_krishna_mahamantra.mp3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_brahmane_namah",
+  "category": "brahma",
+  "title": {
+    "hi": "ॐ ब्रह्मणे नमः",
+    "en": "Om Brahmane Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_brahmane_namah",
+      "title": {
+        "hi": "ॐ ब्रह्मणे नमः",
+        "en": "Om Brahmane Namah"
+      },
+      "mantra": {
+        "hi": "ॐ ब्रह्मणे नमः ॥",
+        "en": "Om Brahmane Namah."
+      },
+      "description": {
+        "hi": "भगवान ब्रह्मा को प्रणाम का संक्षिप्त मंत्र।",
+        "en": "A devotional chant associated with Om Brahmane Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ ब्रह्मणे नमः",
+          "om brahmane namah",
+          "brahma",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Brahmane Namah",
+          "om brahmane namah",
+          "brahma",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_brahmane_namah.mp3"
+    }
+  ]
+}

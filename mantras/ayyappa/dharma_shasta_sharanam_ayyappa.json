@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "dharma_shasta_sharanam_ayyappa",
+  "category": "ayyappa",
+  "title": {
+    "hi": "धर्मशास्ता शरणम् अय्यप्पा",
+    "en": "Dharma Shasta Sharanam Ayyappa"
+  },
+  "mantras": [
+    {
+      "id": "dharma_shasta_sharanam_ayyappa",
+      "title": {
+        "hi": "धर्मशास्ता शरणम् अय्यप्पा",
+        "en": "Dharma Shasta Sharanam Ayyappa"
+      },
+      "mantra": {
+        "hi": "धर्मशास्ता शरणम् अय्यप्पा ॥",
+        "en": "Dharma Shasta Sharanam Ayyappa."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा के धर्मशास्ता स्वरूप के प्रति श्रद्धा और शरणागति व्यक्त करने वाला भक्तिपूर्ण जप है।",
+        "en": "This devotional chant expresses reverence and surrender to Lord Ayyappa in His Dharma Shasta form."
+      },
+      "meaning": {
+        "hi": "हे धर्मशास्ता भगवान अय्यप्पा, मैं आपकी शरण में हूँ।",
+        "en": "O Lord Ayyappa, revered as Dharma Shasta, I take refuge in You."
+      },
+      "keywords": {
+        "hi": [
+          "धर्मशास्ता शरणम् अय्यप्पा",
+          "धर्मशास्ता",
+          "अय्यप्पा शरणम्",
+          "अय्यप्पा मंत्र"
+        ],
+        "en": [
+          "dharma shasta sharanam ayyappa",
+          "dharma shasta",
+          "ayyappa sharanam",
+          "ayyappa mantra"
+        ]
+      },
+      "audio": "dharma_shasta_sharanam_ayyappa.mp3"
+    }
+  ]
+}

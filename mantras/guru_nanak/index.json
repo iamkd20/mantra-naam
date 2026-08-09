@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "category": "guru_nanak",
+  "title": {
+    "hi": "गुरु नानक",
+    "en": "Guru Nanak"
+  },
+  "mantras": [
+    {
+      "id": "mul_mantar",
+      "title": {
+        "hi": "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद॥",
+        "en": "Mul Mantar"
+      },
+      "mantra": {
+        "hi": "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद॥",
+        "transliteration": "Ik Onkar Sat Nam Karta Purakh Nirbhau Nirvair Akal Murat Ajuni Saibhang Gur Prasad"
+      },
+      "description": {
+        "hi": "सिख परंपरा का मूल उद्घोष, गुरु ग्रंथ साहिब के आरंभ में।",
+        "en": "The foundational Sikh invocation at the opening of the Guru Granth Sahib."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "guru_nanak"
+      ],
+      "deityInfo": {
+        "primary": "guru_nanak"
+      },
+      "categories": [
+        "guru_nanak"
+      ],
+      "keywords": {
+        "hi": [
+          "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद॥"
+        ],
+        "en": [
+          "Mul Mantar"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    },
+    {
+      "id": "waheguru_simran",
+      "title": {
+        "hi": "वाहेगुरु॥",
+        "en": "Waheguru Simran"
+      },
+      "mantra": {
+        "hi": "वाहेगुरु॥",
+        "transliteration": "Waheguru"
+      },
+      "description": {
+        "hi": "गुरुमत परंपरा में व्यापक नाम सिमरन।",
+        "en": "A widely practiced Naam Simran in the Sikh tradition."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "guru_nanak"
+      ],
+      "deityInfo": {
+        "primary": "guru_nanak"
+      },
+      "categories": [
+        "guru_nanak"
+      ],
+      "keywords": {
+        "hi": [
+          "वाहेगुरु॥"
+        ],
+        "en": [
+          "Waheguru Simran"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    }
+  ]
+}

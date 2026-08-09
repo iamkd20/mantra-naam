@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "giri_nandini_shiva_parvati",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "गिरिजा शंकर मंत्र",
+    "en": "Girija Shankar Mantra"
+  },
+  "mantras": [
+    {
+      "id": "giri_nandini_shiva_parvati",
+      "title": {
+        "hi": "गिरिजा शंकर मंत्र",
+        "en": "Girija Shankar Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गिरिजापतये नमः ॥",
+        "en": "Om Girijapataye Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र भगवान शिव को गिरिजा, अर्थात् देवी पार्वती, के पति और दिव्य सहचर के रूप में स्मरण करता है।",
+        "en": "This mantra remembers Lord Shiva as Girijapati, the divine consort of Girija, another name of Goddess Parvati."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शिव को प्रणाम करता हूँ, जो देवी गिरिजा के पति हैं।",
+        "en": "I bow to Lord Shiva, who is the consort of Goddess Girija."
+      },
+      "keywords": {
+        "hi": [
+          "गिरिजा शंकर मंत्र",
+          "ॐ गिरिजापतये नमः",
+          "गिरिजापति",
+          "पार्वतीपति",
+          "शिव पार्वती"
+        ],
+        "en": [
+          "Girija Shankar Mantra",
+          "Om Girijapataye Namah",
+          "Girijapati",
+          "Parvati Pati",
+          "Shiva Parvati"
+        ]
+      },
+      "audio": "giri_nandini_shiva_parvati.mp3"
+    }
+  ]
+}

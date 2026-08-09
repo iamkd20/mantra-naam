@@ -1,0 +1,916 @@
+{
+  "version": 2,
+  "category": "krishna",
+  "title": {
+    "hi": "कृष्ण",
+    "en": "Krishna"
+  },
+  "mantras": [
+    {
+      "id": "shri_krishna_govinda_hare_murari",
+      "title": {
+        "hi": "श्री कृष्ण गोविन्द हरे मुरारे",
+        "en": "Shri Krishna Govinda Hare Murari"
+      },
+      "mantra": {
+        "hi": "श्री कृष्ण गोविन्द हरे मुरारे। हे नाथ नारायण वासुदेव॥",
+        "transliteration": "Śrī Kṛṣṇa Govinda Hare Murāre He Nātha Nārāyaṇa Vāsudeva"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण के विभिन्न दिव्य नामों का मधुर कीर्तन। यह भक्ति, शांति एवं भगवान के स्मरण के लिए अत्यंत लोकप्रिय है।",
+        "en": "A beloved devotional chant invoking Lord Krishna through His divine names, fostering devotion and inner peace."
+      },
+      "meaning": {
+        "hi": "हे श्रीकृष्ण, गोविन्द, मुरारी, नारायण एवं वासुदेव! मैं आपकी शरण में हूँ।",
+        "en": "O Lord Krishna, Govinda, Murari, Narayana, and Vasudeva, I seek refuge in You."
+      },
+      "deities": [
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "श्री कृष्ण",
+          "गोविन्द",
+          "हरे मुरारे",
+          "वासुदेव"
+        ],
+        "en": [
+          "krishna",
+          "govinda",
+          "hare murari",
+          "vasudeva"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "मानसिक शांति",
+          "आनंद",
+          "नामस्मरण",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Inner peace",
+          "Joy",
+          "Divine remembrance",
+          "Concentration",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "भजन, कीर्तन एवं दैनिक जप में।",
+        "en": "For bhajans, kirtan, and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'मुरारे' एवं 'वासुदेव' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Murāre' and 'Vāsudeva' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "hare_krishna_mahamantra",
+        "krishna_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "hare_krishna_mahamantra",
+      "title": {
+        "hi": "हरे कृष्ण महामंत्र",
+        "en": "Hare Krishna Mahamantra"
+      },
+      "mantra": {
+        "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+        "transliteration": "Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare Hare Rāma Hare Rāma Rāma Rāma Hare Hare"
+      },
+      "description": {
+        "hi": "कलियुग का महा-मंत्र, जो भगवान कृष्ण एवं श्रीराम के नामों का संकीर्तन है।",
+        "en": "The Mahamantra for the present age, glorifying the holy names of Lord Krishna and Lord Rama."
+      },
+      "meaning": {
+        "hi": "हे भगवान! कृपया मुझे अपनी प्रेममयी सेवा में लगाएँ।",
+        "en": "O Lord, please engage me in Your loving devotional service."
+      },
+      "deities": [
+        "krishna",
+        "rama"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "mahamantra"
+      ],
+      "keywords": {
+        "hi": [
+          "हरे कृष्ण",
+          "महामंत्र",
+          "हरे राम"
+        ],
+        "en": [
+          "hare krishna",
+          "mahamantra",
+          "hare rama"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "चित्त शुद्धि",
+          "भक्ति",
+          "मानसिक शांति",
+          "नामस्मरण",
+          "आनंद",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Purification",
+          "Devotion",
+          "Peace",
+          "Divine remembrance",
+          "Joy",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "liberation",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "anytime"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "kirtan",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "जपमाला एवं संकीर्तन में।",
+        "en": "For japa and congregational chanting."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हरे' एवं 'कृष्ण' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hare' and 'Krishna' clearly."
+      },
+      "tradition": "Gaudiya Vaishnava",
+      "source": "Kali-Santarana Upanishad",
+      "related": [
+        "shri_krishna_govinda_hare_murari"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "krishnaya_vasudevaya",
+      "title": {
+        "hi": "कृष्णाय वासुदेवाय",
+        "en": "Krishnaya Vasudevaya"
+      },
+      "mantra": {
+        "hi": "कृष्णाय वासुदेवाय हरये परमात्मने। प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः॥",
+        "transliteration": "Kṛṣṇāya Vāsudevāya Haraye Paramātmane Praṇataḥ Kleśanāśāya Govindāya Namo Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण की स्तुति एवं शरणागति का प्रसिद्ध मंत्र।",
+        "en": "A renowned prayer praising Lord Krishna and seeking His protection."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीकृष्ण, वासुदेव, हरि एवं गोविन्द को बार-बार प्रणाम करता हूँ, जो सभी कष्टों का नाश करते हैं।",
+        "en": "I repeatedly bow to Lord Krishna, Vasudeva, Hari, and Govinda, who remove all suffering."
+      },
+      "deities": [
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "कृष्णाय वासुदेवाय",
+          "गोविन्द",
+          "हरि"
+        ],
+        "en": [
+          "krishnaya vasudevaya",
+          "govinda",
+          "hari"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "रक्षा",
+          "मानसिक शांति",
+          "कष्टों से मुक्ति",
+          "आध्यात्मिक उन्नति",
+          "आत्मबल"
+        ],
+        "en": [
+          "Devotion",
+          "Protection",
+          "Peace",
+          "Freedom from suffering",
+          "Spiritual growth",
+          "Inner strength"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक श्रीकृष्ण उपासना में।",
+        "en": "For daily worship of Lord Krishna."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वासुदेवाय' एवं 'क्लेशनाशाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vāsudevāya' and 'Kleśanāśāya' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Bhagavata Tradition",
+      "related": [
+        "hare_krishna_mahamantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "krishna_namaskara_mantra",
+      "title": {
+        "hi": "कृष्ण नमस्कार मंत्र",
+        "en": "Krishna Namaskara Mantra"
+      },
+      "mantra": {
+        "hi": "हे कृष्ण करुणासिन्धो दीनबन्धो जगत्पते। गोपेश गोपिकाकान्त राधाकान्त नमोऽस्तु ते॥",
+        "transliteration": "He Kṛṣṇa Karuṇāsindho Dīnabandho Jagatpate Gopeśa Gopikākānta Rādhākānta Namo'stu Te"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण को करुणामय एवं जगत्पति स्वरूप में प्रणाम करने का प्रसिद्ध स्तुति मंत्र।",
+        "en": "A devotional salutation to Lord Krishna as the ocean of compassion and Lord of the universe."
+      },
+      "meaning": {
+        "hi": "हे करुणामय कृष्ण! हे राधाकान्त! आपको मेरा बार-बार प्रणाम।",
+        "en": "O compassionate Krishna, beloved of Radha, I offer my repeated salutations."
+      },
+      "deities": [
+        "krishna",
+        "radha"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "हे कृष्ण",
+          "राधाकान्त",
+          "कृष्ण नमस्कार"
+        ],
+        "en": [
+          "he krishna",
+          "radhakanta",
+          "krishna namaskara"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "विनम्रता",
+          "शांति",
+          "प्रेम",
+          "कृष्ण कृपा",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Humility",
+          "Peace",
+          "Divine love",
+          "Grace of Krishna",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        27
+      ],
+      "usage": {
+        "hi": "पूजा एवं प्रार्थना में।",
+        "en": "During worship and prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'करुणासिन्धो' एवं 'राधाकान्त' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Karuṇāsindho' and 'Rādhākānta' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "radha_krishnaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "radha_krishnaya_namah",
+      "title": {
+        "hi": "राधा कृष्णाय नमः",
+        "en": "Radha Krishnaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ राधा कृष्णाभ्यां नमः॥",
+        "transliteration": "Om Rādhā Kṛṣṇābhyāṁ Namaḥ"
+      },
+      "description": {
+        "hi": "श्री राधा एवं श्रीकृष्ण के दिव्य युगल स्वरूप को समर्पित सरल एवं पवित्र मंत्र।",
+        "en": "A simple sacred mantra dedicated to the divine couple, Radha and Krishna."
+      },
+      "meaning": {
+        "hi": "मैं श्री राधा एवं श्रीकृष्ण को प्रणाम करता हूँ।",
+        "en": "I bow to Sri Radha and Sri Krishna."
+      },
+      "deities": [
+        "radha",
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "divine_couple",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "radha",
+        "daily"
+      ],
+      "keywords": {
+        "hi": [
+          "राधा कृष्ण",
+          "राधा कृष्णाय नमः"
+        ],
+        "en": [
+          "radha krishna",
+          "radha krishnaya namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "प्रेम",
+          "शांति",
+          "सौहार्द",
+          "आध्यात्मिक उन्नति",
+          "ईश्वर स्मरण"
+        ],
+        "en": [
+          "Devotion",
+          "Divine love",
+          "Peace",
+          "Harmony",
+          "Spiritual growth",
+          "Divine remembrance"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "radhashtami",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "राधा-कृष्ण उपासना एवं नामजप में।",
+        "en": "For Radha-Krishna worship and daily chanting."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'कृष्णाभ्यां' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Kṛṣṇābhyām' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "radha_beej_mantra",
+        "krishna_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "radha_rani_stuti",
+      "title": {
+        "hi": "राधा रानी स्तुति",
+        "en": "Radha Rani Stuti"
+      },
+      "mantra": {
+        "hi": "तप्तकाञ्चन गौराङ्गी राधे वृन्दावनेश्वरी। वृषभानुसुते देवि प्रणमामि हरिप्रिये॥",
+        "transliteration": "Taptakāñcana Gaurāṅgī Rādhe Vṛndāvaneśvarī Vṛṣabhānusute Devi Praṇamāmi Haripriye"
+      },
+      "description": {
+        "hi": "श्री राधारानी की प्रसिद्ध स्तुति, जिसमें उन्हें वृन्दावन की अधिष्ठात्री एवं भगवान श्रीकृष्ण की परम प्रिया के रूप में वंदन किया जाता है।",
+        "en": "A celebrated prayer glorifying Sri Radha as the Queen of Vrindavan and the beloved of Lord Krishna."
+      },
+      "meaning": {
+        "hi": "हे स्वर्ण के समान गौरवर्ण वाली, वृन्दावन की अधिष्ठात्री, वृषभानु की पुत्री एवं श्रीहरि की प्रिय राधे! आपको मेरा प्रणाम।",
+        "en": "O golden-complexioned Radha, Queen of Vrindavan, daughter of Vrishabhanu and beloved of Lord Hari, I bow to You."
+      },
+      "deities": [
+        "radha"
+      ],
+      "deityInfo": {
+        "primary": "radha",
+        "group": "divine_couple",
+        "parent": null
+      },
+      "categories": [
+        "radha",
+        "krishna",
+        "stuti"
+      ],
+      "keywords": {
+        "hi": [
+          "राधा रानी",
+          "वृन्दावनेश्वरी",
+          "हरिप्रिया"
+        ],
+        "en": [
+          "radha rani",
+          "vrindavaneshwari",
+          "haripriya"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "प्रेम",
+          "कृष्ण कृपा",
+          "हृदय की शुद्धि",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Divine love",
+          "Grace of Krishna",
+          "Purity of heart",
+          "Peace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "radhashtami"
+      ],
+      "recommendedJapa": [
+        3,
+        11,
+        27
+      ],
+      "usage": {
+        "hi": "राधा-कृष्ण पूजा एवं दैनिक प्रार्थना में।",
+        "en": "For Radha-Krishna worship and daily prayer."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'वृन्दावनेश्वरी' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Vṛndāvaneśvarī' clearly."
+      },
+      "tradition": "Gaudiya Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "radha_beej_mantra",
+        "radha_krishnaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "radha_beej_mantra",
+      "title": {
+        "hi": "राधा बीज मंत्र",
+        "en": "Radha Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं राधिकायै नमः॥",
+        "transliteration": "Om Hrīṁ Rādhikāyai Namaḥ"
+      },
+      "description": {
+        "hi": "श्री राधारानी की कृपा, प्रेमभक्ति एवं अंतःकरण की शुद्धि के लिए जपा जाने वाला बीज मंत्र।",
+        "en": "A bija mantra invoking the grace of Sri Radha for divine love, devotion, and purity of heart."
+      },
+      "meaning": {
+        "hi": "मैं श्री राधिका देवी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Radhika."
+      },
+      "deities": [
+        "radha"
+      ],
+      "deityInfo": {
+        "primary": "radha",
+        "group": "divine_couple",
+        "parent": null
+      },
+      "categories": [
+        "radha",
+        "beej"
+      ],
+      "keywords": {
+        "hi": [
+          "राधा बीज",
+          "राधिका",
+          "ह्रीं"
+        ],
+        "en": [
+          "radha beej",
+          "radhika",
+          "hrim"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "प्रेमभक्ति",
+          "हृदय की शुद्धि",
+          "भक्ति",
+          "शांति",
+          "आध्यात्मिक उन्नति",
+          "राधा कृपा"
+        ],
+        "en": [
+          "Divine love",
+          "Purity",
+          "Devotion",
+          "Peace",
+          "Spiritual growth",
+          "Grace of Radha"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "brahma_muhurta",
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "radhashtami"
+      ],
+      "recommendedJapa": [
+        108
+      ],
+      "usage": {
+        "hi": "राधा साधना एवं नामजप में।",
+        "en": "For Radha sadhana and japa."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "intermediate",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'ह्रीं' का दीर्घ एवं स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hrīṁ' carefully."
+      },
+      "tradition": "Gaudiya Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "radha_rani_stuti",
+        "radha_krishnaya_namah"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "krishna_gayatri",
+      "title": {
+        "hi": "कृष्ण गायत्री",
+        "en": "Krishna Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ देवकीनन्दनाय विद्महे वासुदेवाय धीमहि। तन्नः कृष्णः प्रचोदयात्॥",
+        "transliteration": "Om Devakīnandanāya Vidmahe Vāsudevāya Dhīmahi Tannaḥ Kṛṣṇaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण की कृपा, ज्ञान एवं भक्ति प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra for invoking the grace, wisdom, and devotion of Lord Krishna."
+      },
+      "meaning": {
+        "hi": "हम देवकीनन्दन श्रीकृष्ण का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Krishna, the son of Devaki. May He enlighten our intellect."
+      },
+      "deities": [
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "krishna",
+        "group": "vishnu_avatar",
+        "parent": "vishnu"
+      },
+      "categories": [
+        "krishna",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "कृष्ण गायत्री",
+          "देवकीनन्दन"
+        ],
+        "en": [
+          "krishna gayatri",
+          "devakinandana"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "ज्ञान",
+          "शांति",
+          "एकाग्रता",
+          "आध्यात्मिक उन्नति",
+          "कृष्ण कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Wisdom",
+          "Peace",
+          "Concentration",
+          "Spiritual growth",
+          "Grace of Krishna"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक श्रीकृष्ण साधना में।",
+        "en": "For daily Krishna sadhana."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'देवकीनन्दनाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Devakīnandanāya' correctly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "gopala_gayatri",
+        "hare_krishna_mahamantra"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "gopala_gayatri",
+      "title": {
+        "hi": "गोपाल गायत्री",
+        "en": "Gopala Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ कृष्णाय विद्महे दामोदराय धीमहि। तन्नो गोपालः प्रचोदयात्॥",
+        "transliteration": "Om Kṛṣṇāya Vidmahe Dāmodarāya Dhīmahi Tanno Gopālaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान गोपाल श्रीकृष्ण की कृपा एवं वात्सल्य भाव की प्राप्ति हेतु गायत्री मंत्र।",
+        "en": "A Gayatri mantra dedicated to Lord Gopala Krishna for divine grace and loving devotion."
+      },
+      "meaning": {
+        "hi": "हम भगवान गोपाल का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Gopala. May He inspire and illuminate our intellect."
+      },
+      "deities": [
+        "gopala",
+        "krishna"
+      ],
+      "deityInfo": {
+        "primary": "gopala",
+        "group": "vishnu_avatar",
+        "parent": "krishna"
+      },
+      "categories": [
+        "krishna",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "गोपाल गायत्री",
+          "दामोदर",
+          "गोपाल"
+        ],
+        "en": [
+          "gopala gayatri",
+          "damodara",
+          "gopala"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "प्रेम",
+          "शांति",
+          "आध्यात्मिक उन्नति",
+          "कृष्ण कृपा",
+          "एकाग्रता"
+        ],
+        "en": [
+          "Devotion",
+          "Divine love",
+          "Peace",
+          "Spiritual growth",
+          "Grace of Krishna",
+          "Concentration"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "love",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "janmashtami"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक गोपाल उपासना में।",
+        "en": "For daily worship of Lord Gopala."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'दामोदराय' एवं 'गोपालः' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Dāmodarāya' and 'Gopālaḥ' clearly."
+      },
+      "tradition": "Vaishnava",
+      "source": "Traditional",
+      "related": [
+        "krishna_gayatri",
+        "shri_krishna_govinda_hare_murari"
+      ],
+      "isPopular": true
+    }
+  ]
+}

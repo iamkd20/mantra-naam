@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "har_gauri_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "हर गौरी मंत्र",
+    "en": "Hara Gauri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "har_gauri_mantra",
+      "title": {
+        "hi": "हर गौरी मंत्र",
+        "en": "Hara Gauri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हर गौर्यै नमः ॥",
+        "en": "Om Hara Gauryai Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र भगवान हर और देवी गौरी के दिव्य युगल स्वरूप के स्मरण के लिए एक सरल संयुक्त नमस्कार है।",
+        "en": "This is a simple paired salutation for remembering the divine union of Lord Hara and Goddess Gauri."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हर और देवी गौरी को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hara and Goddess Gauri."
+      },
+      "keywords": {
+        "hi": [
+          "हर गौरी मंत्र",
+          "ॐ हर गौर्यै नमः",
+          "हर गौरी",
+          "शिव गौरी"
+        ],
+        "en": [
+          "Hara Gauri Mantra",
+          "Om Hara Gauryai Namah",
+          "Hara Gauri",
+          "Shiva Gauri"
+        ]
+      },
+      "audio": "har_gauri_mantra.mp3"
+    }
+  ]
+}

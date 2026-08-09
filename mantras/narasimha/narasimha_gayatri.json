@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "narasimha_gayatri",
+  "category": "narasimha",
+  "title": {
+    "hi": "नरसिंह गायत्री मंत्र",
+    "en": "Narasimha Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "narasimha_gayatri",
+      "title": {
+        "hi": "नरसिंह गायत्री मंत्र",
+        "en": "Narasimha Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ वज्रनखाय विद्महे तीक्ष्णदंष्ट्राय धीमहि । तन्नो नरसिंहः प्रचोदयात् ॥",
+        "en": "Om Vajranakhaya Vidmahe Tikshnadamshtraya Dhimahi. Tanno Narasimhah Prachodayat."
+      },
+      "description": {
+        "hi": "भगवान नरसिंह के रक्षक और धर्मसंरक्षक स्वरूप के ध्यान के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A devotional chant associated with Narasimha Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "नरसिंह गायत्री मंत्र",
+          "narasimha gayatri",
+          "narasimha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Narasimha Gayatri Mantra",
+          "narasimha gayatri",
+          "narasimha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "narasimha_gayatri.mp3"
+    }
+  ]
+}

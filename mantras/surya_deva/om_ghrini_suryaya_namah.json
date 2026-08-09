@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_ghrini_suryaya_namah",
+  "category": "surya_deva",
+  "title": {
+    "hi": "ॐ घृणि सूर्याय नमः",
+    "en": "Om Ghrini Suryaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_ghrini_suryaya_namah",
+      "title": {
+        "hi": "ॐ घृणि सूर्याय नमः",
+        "en": "Om Ghrini Suryaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ घृणि सूर्याय नमः ॥",
+        "en": "Om Ghrini Suryaya Namah."
+      },
+      "description": {
+        "hi": "सूर्य उपासना का प्रसिद्ध नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Ghrini Suryaya Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ घृणि सूर्याय नमः",
+          "om ghrini suryaya namah",
+          "surya_deva",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Ghrini Suryaya Namah",
+          "om ghrini suryaya namah",
+          "surya deva",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_ghrini_suryaya_namah.mp3"
+    }
+  ]
+}

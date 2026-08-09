@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "hariharaputra_ayyappa_sharanam",
+  "category": "ayyappa",
+  "title": {
+    "hi": "हरिहरपुत्र अय्यप्पा शरणम्",
+    "en": "Hariharaputra Ayyappa Sharanam"
+  },
+  "mantras": [
+    {
+      "id": "hariharaputra_ayyappa_sharanam",
+      "title": {
+        "hi": "हरिहरपुत्र अय्यप्पा शरणम्",
+        "en": "Hariharaputra Ayyappa Sharanam"
+      },
+      "mantra": {
+        "hi": "हरिहरपुत्र अय्यप्पा शरणम् ॥",
+        "en": "Hariharaputra Ayyappa Sharanam."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा को हरिहरपुत्र स्वरूप में स्मरण करते हुए उनकी शरण ग्रहण करने की भावना व्यक्त करने वाला भक्तिपूर्ण जप है।",
+        "en": "This devotional chant invokes Lord Ayyappa as Hariharaputra while expressing a भावना of surrender and refuge."
+      },
+      "meaning": {
+        "hi": "हरिहरपुत्र भगवान अय्यप्पा, मैं आपकी शरण में हूँ।",
+        "en": "O Lord Ayyappa, revered as Hariharaputra, I take refuge in You."
+      },
+      "keywords": {
+        "hi": [
+          "हरिहरपुत्र अय्यप्पा शरणम्",
+          "हरिहरपुत्र",
+          "अय्यप्पा शरणम्",
+          "अय्यप्पा मंत्र"
+        ],
+        "en": [
+          "hariharaputra ayyappa sharanam",
+          "hariharaputra",
+          "ayyappa sharanam",
+          "ayyappa mantra"
+        ]
+      },
+      "audio": "hariharaputra_ayyappa_sharanam.mp3"
+    }
+  ]
+}

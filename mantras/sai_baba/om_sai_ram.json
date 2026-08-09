@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_sai_ram",
+  "category": "sai_baba",
+  "title": {
+    "hi": "ॐ साईं राम",
+    "en": "Om Sai Ram"
+  },
+  "mantras": [
+    {
+      "id": "om_sai_ram",
+      "title": {
+        "hi": "ॐ साईं राम",
+        "en": "Om Sai Ram"
+      },
+      "mantra": {
+        "hi": "ॐ साईं राम ॥",
+        "en": "Om Sai Ram."
+      },
+      "description": {
+        "hi": "साईं बाबा के प्रति प्रेम और श्रद्धा से किया जाने वाला लोकप्रिय नाम-जप।",
+        "en": "A devotional chant associated with Om Sai Ram, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ साईं राम",
+          "om sai ram",
+          "sai_baba",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Sai Ram",
+          "om sai ram",
+          "sai baba",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_sai_ram.mp3"
+    }
+  ]
+}

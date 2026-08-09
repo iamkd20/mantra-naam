@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_krishnaya_namah",
+  "category": "krishna",
+  "title": {
+    "hi": "ॐ कृष्णाय नमः",
+    "en": "Om Krishnaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_krishnaya_namah",
+      "title": {
+        "hi": "ॐ कृष्णाय नमः",
+        "en": "Om Krishnaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ कृष्णाय नमः ॥",
+        "en": "Om Krishnaya Namah."
+      },
+      "description": {
+        "hi": "भगवान कृष्ण के नाम का सरल और एकाग्र भक्तिमय जप।",
+        "en": "A devotional chant associated with Om Krishnaya Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ कृष्णाय नमः",
+          "om krishnaya namah",
+          "krishna",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Krishnaya Namah",
+          "om krishnaya namah",
+          "krishna",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_krishnaya_namah.mp3"
+    }
+  ]
+}

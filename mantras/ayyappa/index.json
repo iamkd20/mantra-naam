@@ -1,0 +1,317 @@
+{
+  "version": 2,
+  "category": "ayyappa",
+  "title": {
+    "hi": "अय्यप्पा",
+    "en": "Ayyappa"
+  },
+  "mantras": [
+    {
+      "id": "swamiye_sharanam_ayyappa",
+      "title": {
+        "hi": "स्वामीये शरणम् अय्यप्पा",
+        "en": "Swamiye Sharanam Ayyappa"
+      },
+      "mantra": {
+        "hi": "स्वामीये शरणम् अय्यप्पा॥",
+        "transliteration": "Swāmiyē Śaraṇam Ayyappā"
+      },
+      "description": {
+        "hi": "भगवान अय्यप्प का सर्वाधिक लोकप्रिय शरणागति मंत्र।",
+        "en": "The most popular surrender mantra dedicated to Lord Ayyappa."
+      },
+      "meaning": {
+        "hi": "हे भगवान अय्यप्प! मैं आपकी शरण में हूँ।",
+        "en": "O Lord Ayyappa, I surrender to You."
+      },
+      "deities": [
+        "ayyappa"
+      ],
+      "deityInfo": {
+        "primary": "ayyappa",
+        "group": "shaiva_vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "ayyappa",
+        "sharanagati"
+      ],
+      "keywords": {
+        "hi": [
+          "अय्यप्प",
+          "स्वामीये",
+          "शरणम्"
+        ],
+        "en": [
+          "ayyappa",
+          "swamiye",
+          "sharanam"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "समर्पण",
+          "भक्ति",
+          "आंतरिक शांति",
+          "साहस",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Surrender",
+          "Devotion",
+          "Inner peace",
+          "Courage",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "surrender",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "mandala_puja",
+        "sabarimala_yatra"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप एवं अय्यप्प उपासना में।",
+        "en": "For daily chanting and Ayyappa worship."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'शरणम्' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śaraṇam' clearly."
+      },
+      "tradition": "Ayyappa Tradition",
+      "source": "Traditional",
+      "related": [
+        "ayyappa_mantra",
+        "ayyappa_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ayyappa_mantra",
+      "title": {
+        "hi": "अय्यप्प मंत्र",
+        "en": "Ayyappa Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री हरिहरपुत्राय नमः॥",
+        "transliteration": "Om Śrī Hariharaputrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान अय्यप्प (हरिहरपुत्र) का प्रसिद्ध नाम मंत्र।",
+        "en": "A popular nama mantra dedicated to Lord Ayyappa, the son of Hari and Hara."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हरिहरपुत्र अय्यप्प को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ayyappa, the son of Hari and Hara."
+      },
+      "deities": [
+        "ayyappa"
+      ],
+      "deityInfo": {
+        "primary": "ayyappa",
+        "group": "shaiva_vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "ayyappa",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "अय्यप्प",
+          "हरिहरपुत्र",
+          "शबरीमला"
+        ],
+        "en": [
+          "ayyappa",
+          "hariharaputra",
+          "sabarimala"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "आत्मिक शक्ति",
+          "साहस",
+          "मानसिक शांति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Inner strength",
+          "Courage",
+          "Peace",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "protection",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "mandala_puja",
+        "sabarimala_yatra"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक अय्यप्प नामजप एवं पूजा में।",
+        "en": "For daily chanting and worship of Lord Ayyappa."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'हरिहरपुत्राय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Hariharaputrāya' clearly."
+      },
+      "tradition": "Ayyappa Tradition",
+      "source": "Traditional",
+      "related": [
+        "swamiye_sharanam_ayyappa",
+        "ayyappa_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "ayyappa_gayatri",
+      "title": {
+        "hi": "अय्यप्प गायत्री",
+        "en": "Ayyappa Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ तत्पुरुषाय विद्महे महाशास्ताय धीमहि। तन्नो शास्ता प्रचोदयात्॥",
+        "transliteration": "Om Tatpuruṣāya Vidmahe Mahāśāstāya Dhīmahi Tanno Śāstā Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान अय्यप्प (धर्मशास्ता) की कृपा, ज्ञान एवं धर्मपालन के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Ayyappa (Dharma Shasta) for wisdom, righteousness, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भगवान महाशास्ता का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Mahashasta. May He enlighten our intellect."
+      },
+      "deities": [
+        "ayyappa"
+      ],
+      "deityInfo": {
+        "primary": "ayyappa",
+        "group": "shaiva_vaishnava",
+        "parent": null
+      },
+      "categories": [
+        "ayyappa",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "अय्यप्प गायत्री",
+          "धर्मशास्ता",
+          "महाशास्ता"
+        ],
+        "en": [
+          "ayyappa gayatri",
+          "dharma shasta",
+          "mahashasta"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "सद्बुद्धि",
+          "भक्ति",
+          "साहस",
+          "धर्म पालन",
+          "मानसिक शांति",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Wisdom",
+          "Devotion",
+          "Courage",
+          "Righteousness",
+          "Peace",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "devotion",
+        "righteousness"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "mandala_puja",
+        "sabarimala_yatra"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "अय्यप्प उपासना एवं दैनिक साधना में।",
+        "en": "For Ayyappa worship and daily spiritual practice."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'महाशास्ताय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Mahāśāstāya' clearly."
+      },
+      "tradition": "Ayyappa Tradition",
+      "source": "Traditional",
+      "related": [
+        "swamiye_sharanam_ayyappa",
+        "ayyappa_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

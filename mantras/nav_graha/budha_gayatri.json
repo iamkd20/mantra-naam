@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "budha_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बुध गायत्री मंत्र",
+    "en": "Budha Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "budha_gayatri",
+      "title": {
+        "hi": "बुध गायत्री मंत्र",
+        "en": "Budha Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ बुद्धिप्रदाय विद्महे सौम्यरूपाय धीमहि । तन्नो बुधः प्रचोदयात् ॥",
+        "en": "Om Buddhipradaya Vidmahe Saumyarupaya Dhimahi. Tanno Budhah Prachodayat."
+      },
+      "description": {
+        "hi": "बुध के बुद्धि और विवेक के प्रतीकात्मक स्वरूप का स्मरण।",
+        "en": "A devotional chant associated with Budha Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "बुध गायत्री मंत्र",
+          "budha gayatri",
+          "nav_graha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Budha Gayatri Mantra",
+          "budha gayatri",
+          "nav graha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "budha_gayatri.mp3"
+    }
+  ]
+}

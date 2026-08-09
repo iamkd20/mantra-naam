@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "shiva_gayatri_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "शिव गायत्री मंत्र",
+    "en": "Shiva Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shiva_gayatri_mantra",
+      "title": {
+        "hi": "शिव गायत्री मंत्र",
+        "en": "Shiva Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महादेवाय विद्महे रुद्रमूर्तये धीमहि । तन्नः शिवः प्रचोदयात् ॥",
+        "en": "Om Mahadevaya Vidmahe Rudramurtaye Dhimahi, Tannah Shivah Prachodayat."
+      },
+      "description": {
+        "hi": "शिव गायत्री मंत्र भगवान शिव के महादेव और रुद्रस्वरूप का ध्यान करने वाला प्रचलित गायत्री-शैली का मंत्र है। इसमें साधक महादेव का ध्यान करते हुए शिव से अंतःप्रेरणा, विवेक और आध्यात्मिक प्रकाश के लिए प्रार्थना करता है। यह मंत्र ध्यान, शिव पूजा और नियमित आध्यात्मिक साधना में विशेष रूप से उपयोगी माना जाता है।",
+        "en": "The Shiva Gayatri Mantra is a traditional Gayatri-style prayer contemplating Lord Shiva as Mahadeva and Rudra. The practitioner meditates upon Shiva and seeks inner inspiration, discernment, and spiritual illumination. It is commonly used in meditation, Shiva worship, and regular spiritual practice."
+      },
+      "meaning": {
+        "hi": "हम महादेव और रुद्रमूर्ति का ध्यान करते हैं; वे शिव हमारे अंतःकरण को प्रेरित और प्रकाशित करें।",
+        "en": "We contemplate Mahadeva and the Rudra form; may Shiva inspire, guide, and illuminate our inner understanding."
+      },
+      "keywords": {
+        "hi": [
+          "शिव गायत्री मंत्र",
+          "महादेव",
+          "रुद्र",
+          "शिव मंत्र",
+          "गायत्री मंत्र",
+          "शिव जप",
+          "शिव ध्यान",
+          "अंतःप्रेरणा"
+        ],
+        "en": [
+          "shiva gayatri mantra",
+          "mahadev",
+          "rudra",
+          "shiva mantra",
+          "gayatri mantra",
+          "shiva japa",
+          "shiva meditation",
+          "inner inspiration"
+        ]
+      },
+      "audio": "shiva_gayatri_mantra.mp3"
+    }
+  ]
+}

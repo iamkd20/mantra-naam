@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "mahakaleshwar_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "महाकालेश्वर मंत्र",
+    "en": "Mahakaleshwar Mantra"
+  },
+  "mantras": [
+    {
+      "id": "mahakaleshwar_mantra",
+      "title": {
+        "hi": "महाकालेश्वर मंत्र",
+        "en": "Mahakaleshwar Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महाकालेश्वराय नमः ॥",
+        "en": "Om Mahakaleshwaraya Namah."
+      },
+      "description": {
+        "hi": "ॐ महाकालेश्वराय नमः भगवान शिव के महाकालेश्वर स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। उज्जैन का श्री महाकालेश्वर ज्योतिर्लिंग भगवान शिव के बारह ज्योतिर्लिंगों में प्रतिष्ठित है और महाकाल की उपासना से गहराई से जुड़ा है। इस मंत्र का जप शिव भक्ति, आंतरिक साहस, आध्यात्मिक साधना और महाकाल स्मरण के लिए किया जाता है।",
+        "en": "Om Mahakaleshwaraya Namah is a sacred devotional name-mantra dedicated to Lord Shiva as Mahakaleshwara. Shri Mahakaleshwar Jyotirlinga in Ujjain is one of the twelve revered Jyotirlingas and is deeply associated with the worship of Mahakala. The mantra is chanted in devotion, remembrance, spiritual practice, and prayer for inner strength."
+      },
+      "meaning": {
+        "hi": "उज्जैन के महाकालेश्वर स्वरूप भगवान शिव को नमन।",
+        "en": "Salutations to Lord Shiva as Mahakaleshwara, the revered form worshipped at Ujjain."
+      },
+      "keywords": {
+        "hi": [
+          "महाकालेश्वर मंत्र",
+          "महाकाल",
+          "उज्जैन महाकाल",
+          "शिव मंत्र",
+          "महादेव",
+          "महाकालेश्वर",
+          "उज्जैन",
+          "ज्योतिर्लिंग"
+        ],
+        "en": [
+          "mahakaleshwar mantra",
+          "mahakal",
+          "ujjain mahakal",
+          "shiva mantra",
+          "mahadev",
+          "mahakaleshwar",
+          "ujjain",
+          "jyotirlinga"
+        ]
+      },
+      "audio": "mahakaleshwar_mantra.mp3"
+    }
+  ]
+}

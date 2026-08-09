@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "id": "hariharaputra_mantra",
+  "category": "ayyappa",
+  "title": {
+    "hi": "हरिहरपुत्र मंत्र",
+    "en": "Hariharaputra Mantra"
+  },
+  "mantras": [
+    {
+      "id": "hariharaputra_mantra",
+      "title": {
+        "hi": "हरिहरपुत्र मंत्र",
+        "en": "Hariharaputra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री हरिहरपुत्राय नमः ॥",
+        "en": "Om Shri Hariharaputraya Namah."
+      },
+      "description": {
+        "hi": "भगवान अय्यप्पा के हरिहरपुत्र स्वरूप को समर्पित प्रसिद्ध नाम मंत्र।",
+        "en": "A popular nama mantra dedicated to Lord Ayyappa as Hariharaputra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान हरिहरपुत्र अय्यप्पा को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ayyappa, revered as Hariharaputra."
+      },
+      "keywords": {
+        "hi": ["हरिहरपुत्र मंत्र", "ॐ श्री हरिहरपुत्राय नमः", "अय्यप्पा", "हरिहरपुत्र"],
+        "en": ["hariharaputra mantra", "om shri hariharaputraya namah", "ayyappa", "hariharaputra"]
+      },
+      "audio": "hariharaputra_mantra.mp3"
+    }
+  ]
+}

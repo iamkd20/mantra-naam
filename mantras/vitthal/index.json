@@ -1,0 +1,317 @@
+{
+  "version": 2,
+  "category": "vitthal",
+  "title": {
+    "hi": "विठ्ठल",
+    "en": "Vitthal"
+  },
+  "mantras": [
+    {
+      "id": "vitthal_mantra",
+      "title": {
+        "hi": "विठ्ठल मंत्र",
+        "en": "Vitthal Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री विठ्ठलाय नमः॥",
+        "transliteration": "Om Śrī Viṭṭhalāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान विठ्ठल (पांडुरंग) का प्रसिद्ध नाम मंत्र।",
+        "en": "A revered nama mantra dedicated to Lord Vitthal (Panduranga)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान विठ्ठल को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Vitthal."
+      },
+      "deities": [
+        "vitthal"
+      ],
+      "deityInfo": {
+        "primary": "vitthal",
+        "group": "vaishnava",
+        "parent": "krishna"
+      },
+      "categories": [
+        "vitthal",
+        "nama_japa"
+      ],
+      "keywords": {
+        "hi": [
+          "विठ्ठल",
+          "पांडुरंग",
+          "विटोबा"
+        ],
+        "en": [
+          "vitthal",
+          "panduranga",
+          "vitoba"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "मानसिक शांति",
+          "नामस्मरण",
+          "सकारात्मकता",
+          "आत्मिक उन्नति",
+          "भगवत कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Mental peace",
+          "Nama japa",
+          "Positivity",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "ekadashi",
+        "ashadhi_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक विठ्ठल नामजप एवं भक्ति में।",
+        "en": "For daily Vitthal nama japa and devotion."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'विठ्ठलाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Viṭṭhalāya' clearly."
+      },
+      "tradition": "Varkari",
+      "source": "Traditional",
+      "related": [
+        "om_shri_pandurangaya_namah",
+        "panduranga_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "om_shri_pandurangaya_namah",
+      "title": {
+        "hi": "ॐ श्री पांडुरंगाय नमः",
+        "en": "Om Shri Pandurangaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री पांडुरंगाय नमः॥",
+        "transliteration": "Om Śrī Pāṇḍuraṅgāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान पांडुरंग (विठोबा) का प्रसिद्ध नमस्कार मंत्र।",
+        "en": "A revered salutation mantra dedicated to Lord Panduranga (Vitthal)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान पांडुरंग को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Panduranga."
+      },
+      "deities": [
+        "vitthal"
+      ],
+      "deityInfo": {
+        "primary": "vitthal",
+        "group": "vaishnava",
+        "parent": "krishna"
+      },
+      "categories": [
+        "vitthal",
+        "prayer"
+      ],
+      "keywords": {
+        "hi": [
+          "पांडुरंग",
+          "विठोबा",
+          "विठ्ठल"
+        ],
+        "en": [
+          "panduranga",
+          "vitoba",
+          "vitthal"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "नामस्मरण",
+          "मानसिक शांति",
+          "भगवत कृपा",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Nama japa",
+          "Mental peace",
+          "Divine grace",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "peace",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "ekadashi",
+        "ashadhi_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक विठ्ठल उपासना एवं नामजप में।",
+        "en": "For daily worship and chanting of Lord Panduranga."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'पांडुरंगाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Pāṇḍuraṅgāya' clearly."
+      },
+      "tradition": "Varkari",
+      "source": "Traditional",
+      "related": [
+        "vitthal_mantra",
+        "panduranga_gayatri"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "panduranga_gayatri",
+      "title": {
+        "hi": "पांडुरंग गायत्री",
+        "en": "Panduranga Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ पाण्डुरंगाय विद्महे भक्तप्रियाय धीमहि। तन्नो विठ्ठलः प्रचोदयात्॥",
+        "transliteration": "Om Pāṇḍuraṅgāya Vidmahe Bhaktapriyāya Dhīmahi Tanno Viṭṭhalaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान पांडुरंग की कृपा, भक्ति एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Panduranga for devotion, wisdom, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भक्तप्रिय भगवान पांडुरंग का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Panduranga, who is dearly loved by His devotees. May He enlighten our intellect."
+      },
+      "deities": [
+        "vitthal"
+      ],
+      "deityInfo": {
+        "primary": "vitthal",
+        "group": "vaishnava",
+        "parent": "krishna"
+      },
+      "categories": [
+        "vitthal",
+        "gayatri"
+      ],
+      "keywords": {
+        "hi": [
+          "पांडुरंग गायत्री",
+          "विठ्ठल",
+          "विठोबा"
+        ],
+        "en": [
+          "panduranga gayatri",
+          "vitthal",
+          "vitoba"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "सद्बुद्धि",
+          "मानसिक शांति",
+          "नामस्मरण",
+          "आध्यात्मिक उन्नति",
+          "भगवत कृपा"
+        ],
+        "en": [
+          "Devotion",
+          "Wisdom",
+          "Mental peace",
+          "Nama japa",
+          "Spiritual growth",
+          "Divine grace"
+        ]
+      },
+      "purpose": [
+        "knowledge",
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning"
+      ],
+      "recommendedOccasion": [
+        "daily_japa",
+        "ekadashi",
+        "ashadhi_ekadashi"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "एकादशी एवं दैनिक विठ्ठल उपासना में।",
+        "en": "For Ekadashi observances and daily worship of Lord Panduranga."
+      },
+      "dailyRoutine": [
+        "morning"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'भक्तप्रियाय' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Bhaktapriyāya' clearly."
+      },
+      "tradition": "Varkari",
+      "source": "Traditional",
+      "related": [
+        "vitthal_mantra",
+        "om_shri_pandurangaya_namah"
+      ],
+      "isPopular": true
+    }
+  ]
+}

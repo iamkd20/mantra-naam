@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "swamiye_sharanam_ayyappa",
+  "category": "ayyappa",
+  "title": {
+    "hi": "स्वामिये शरणम् अय्यप्पा",
+    "en": "Swamiye Sharanam Ayyappa"
+  },
+  "mantras": [
+    {
+      "id": "swamiye_sharanam_ayyappa",
+      "title": {
+        "hi": "स्वामिये शरणम् अय्यप्पा",
+        "en": "Swamiye Sharanam Ayyappa"
+      },
+      "mantra": {
+        "hi": "स्वामिये शरणम् अय्यप्पा ॥",
+        "en": "Swamiye Sharanam Ayyappa."
+      },
+      "description": {
+        "hi": "भगवान अय्यप्पा को समर्पित सबसे प्रसिद्ध शरणागति मंत्रों में से एक। यह अय्यप्पा भक्ति और सबरीमाला परंपरा का अत्यंत लोकप्रिय भक्तिपूर्ण उद्घोष है।",
+        "en": "One of the most famous surrender chants dedicated to Lord Ayyappa. It is a widely practiced devotional invocation in Ayyappa worship and the Sabarimala tradition."
+      },
+      "meaning": {
+        "hi": "हे भगवान अय्यप्पा, मैं आपकी शरण में हूँ।",
+        "en": "O Lord Ayyappa, I take refuge in You."
+      },
+      "keywords": {
+        "hi": [
+          "स्वामिये शरणम् अय्यप्पा",
+          "अय्यप्पा",
+          "शरणम्",
+          "सबरीमाला",
+          "अय्यप्पा मंत्र"
+        ],
+        "en": [
+          "swamiye sharanam ayyappa",
+          "ayyappa",
+          "sharanam",
+          "sabarimala",
+          "ayyappa mantra"
+        ]
+      },
+      "audio": "swamiye_sharanam_ayyappa.mp3"
+    }
+  ]
+}

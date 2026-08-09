@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "shambhu_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "शम्भु मंत्र",
+    "en": "Shambhu Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shambhu_mantra",
+      "title": {
+        "hi": "शम्भु मंत्र",
+        "en": "Shambhu Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शम्भवे नमः ॥",
+        "en": "Om Shambhave Namah."
+      },
+      "description": {
+        "hi": "ॐ शम्भवे नमः भगवान शिव के शम्भु स्वरूप को समर्पित पवित्र नाम-जप मंत्र है। 'शम्भु' शिव के मंगलकारी, कल्याणकारी और सुखदायक स्वरूप का प्रसिद्ध नाम है। इस मंत्र का जप शिव भक्ति, मानसिक शांति, एकाग्रता और नाम-स्मरण के लिए किया जाता है।",
+        "en": "Om Shambhave Namah is a sacred devotional name-mantra dedicated to Lord Shiva as Shambhu. Shambhu is a well-known name of Shiva associated with his auspicious, benevolent, and beneficent nature. The mantra is chanted for devotion, mental peace, concentration, and devotional remembrance."
+      },
+      "meaning": {
+        "hi": "मंगलकारी और कल्याणकारी भगवान शम्भु को नमन।",
+        "en": "Salutations to the auspicious and benevolent Lord Shambhu."
+      },
+      "keywords": {
+        "hi": [
+          "शम्भु मंत्र",
+          "ॐ शम्भवे नमः",
+          "शम्भो",
+          "शिव मंत्र",
+          "महादेव",
+          "शम्भु",
+          "कल्याणकारी शिव"
+        ],
+        "en": [
+          "shambhu mantra",
+          "om shambhave namah",
+          "shambho",
+          "shiva mantra",
+          "mahadev",
+          "shambhu",
+          "auspicious shiva"
+        ]
+      },
+      "audio": "shambhu_mantra.mp3"
+    }
+  ]
+}

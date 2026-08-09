@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "santoshi_mata_mantra",
+  "category": "santoshi_mata",
+  "title": {
+    "hi": "संतोषी माता मंत्र",
+    "en": "Santoshi Mata Mantra"
+  },
+  "mantras": [
+    {
+      "id": "santoshi_mata_mantra",
+      "title": {
+        "hi": "संतोषी माता मंत्र",
+        "en": "Santoshi Mata Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं संतोषी देव्यै नमः ॥",
+        "en": "Om Shreem Santoshi Devyai Namah."
+      },
+      "description": {
+        "hi": "संतोषी माता के प्रति भक्ति और संतोष के भाव से किया जाने वाला नाम-जप।",
+        "en": "A devotional chant associated with Santoshi Mata Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "संतोषी माता मंत्र",
+          "santoshi mata mantra",
+          "santoshi_mata",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Santoshi Mata Mantra",
+          "santoshi mata mantra",
+          "santoshi mata",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "santoshi_mata_mantra.mp3"
+    }
+  ]
+}

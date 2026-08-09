@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "shani_deva_gayatri",
+  "category": "shani_deva",
+  "title": {
+    "hi": "शनि गायत्री मंत्र",
+    "en": "Shani Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shani_deva_gayatri",
+      "title": {
+        "hi": "शनि गायत्री मंत्र",
+        "en": "Shani Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सूर्यपुत्राय विद्महे मृत्युरूपाय धीमहि । तन्नः शनि प्रचोदयात् ॥",
+        "en": "Om Suryaputraya Vidmahe Mrityurupaya Dhimahi. Tannah Shani Prachodayat."
+      },
+      "description": {
+        "hi": "शनि देव के कर्म, धैर्य और आत्मअनुशासन के प्रतीकात्मक स्वरूप के ध्यान हेतु प्रचलित गायत्री मंत्र।",
+        "en": "A devotional chant associated with Shani Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "शनि गायत्री मंत्र",
+          "shani deva gayatri",
+          "shani_deva",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Shani Gayatri Mantra",
+          "shani deva gayatri",
+          "shani deva",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "shani_deva_gayatri.mp3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "saravanabhava_mantra",
+  "category": "kartikeya",
+  "title": {
+    "hi": "सरवणभव मंत्र",
+    "en": "Saravanabhava Mantra"
+  },
+  "mantras": [
+    {
+      "id": "saravanabhava_mantra",
+      "title": {
+        "hi": "सरवणभव मंत्र",
+        "en": "Saravanabhava Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सरवणभवाय नमः ॥",
+        "en": "Om Saravanabhavaya Namah."
+      },
+      "description": {
+        "hi": "दक्षिण भारतीय परंपराओं में मुरुगन या स्कंद के नाम का लोकप्रिय जप।",
+        "en": "A devotional chant associated with Saravanabhava Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "सरवणभव मंत्र",
+          "saravanabhava mantra",
+          "kartikeya",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Saravanabhava Mantra",
+          "saravanabhava mantra",
+          "kartikeya",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "saravanabhava_mantra.mp3"
+    }
+  ]
+}

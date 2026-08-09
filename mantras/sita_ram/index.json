@@ -1,0 +1,162 @@
+{
+  "version": 2,
+  "category": "sita_ram",
+  "title": {
+    "hi": "सीता राम",
+    "en": "Sita Ram"
+  },
+  "mantras": [
+    {
+      "id": "sita_ram_mantra",
+      "title": {
+        "hi": "ॐ सीतारामाभ्यां नमः॥",
+        "en": "Om Sita Ramabhyam Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सीतारामाभ्यां नमः॥",
+        "transliteration": "Om Sītārāmābhyām Namah"
+      },
+      "description": {
+        "hi": "सीता और राम के संयुक्त स्मरण का मंत्र।",
+        "en": "A devotional invocation of Sita and Rama together."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "sita_ram"
+      ],
+      "deityInfo": {
+        "primary": "sita_ram"
+      },
+      "categories": [
+        "sita_ram"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ सीतारामाभ्यां नमः॥"
+        ],
+        "en": [
+          "Om Sita Ramabhyam Namah"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    },
+    {
+      "id": "sita_ram_gayatri",
+      "title": {
+        "hi": "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+        "en": "Sita Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+        "transliteration": "Om Janakanandinyai Vidmahe Rama-priyāyai Dhimahi Tannah Sita Prachodayat"
+      },
+      "description": {
+        "hi": "सीता जी के स्मरण का प्रचलित गायत्री रूप।",
+        "en": "A commonly used Gayatri-style invocation for Sita."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "deities": [
+        "sita_ram"
+      ],
+      "deityInfo": {
+        "primary": "sita_ram"
+      },
+      "categories": [
+        "sita_ram"
+      ],
+      "keywords": {
+        "hi": [
+          "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥"
+        ],
+        "en": [
+          "Sita Gayatri"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "एकाग्रता",
+          "आंतरिक शांति"
+        ],
+        "en": [
+          "Devotion",
+          "Focus",
+          "Inner peace"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "spiritual_growth"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_japa"
+      ],
+      "recommendedJapa": [
+        11,
+        27,
+        108
+      ],
+      "usage": {
+        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
+        "en": "For daily japa and devotional practice."
+      },
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "tradition": "Traditional",
+      "source": "Traditional",
+      "related": [],
+      "isPopular": true
+    }
+  ]
+}

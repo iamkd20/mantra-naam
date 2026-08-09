@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "uma_maheshwara_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "उमा महेश्वर मंत्र",
+    "en": "Uma Maheshwara Mantra"
+  },
+  "mantras": [
+    {
+      "id": "uma_maheshwara_mantra",
+      "title": {
+        "hi": "उमा महेश्वर मंत्र",
+        "en": "Uma Maheshwara Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ उमामहेश्वराभ्यां नमः ॥",
+        "en": "Om Uma Maheshwarabhyam Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र देवी उमा और भगवान महेश्वर के संयुक्त दिव्य स्वरूप को समर्पित एक पारंपरिक नमस्कार मंत्र है।",
+        "en": "This is a traditional salutation mantra dedicated to the united divine form of Goddess Uma and Lord Maheshwara."
+      },
+      "meaning": {
+        "hi": "मैं देवी उमा और भगवान महेश्वर को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Uma and Lord Maheshwara."
+      },
+      "keywords": {
+        "hi": [
+          "उमा महेश्वर मंत्र",
+          "ॐ उमामहेश्वराभ्यां नमः",
+          "शिव पार्वती",
+          "उमा महेश्वर",
+          "गौरी शंकर"
+        ],
+        "en": [
+          "Uma Maheshwara Mantra",
+          "Om Uma Maheshwarabhyam Namah",
+          "Shiva Parvati",
+          "Uma Maheshwara",
+          "Gauri Shankar"
+        ]
+      },
+      "audio": "uma_maheshwara_mantra.mp3"
+    }
+  ]
+}

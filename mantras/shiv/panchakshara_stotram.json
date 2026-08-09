@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "panchakshara_stotram",
+  "category": "shiva",
+  "title": {
+    "hi": "पंचाक्षर स्तोत्र",
+    "en": "Panchakshara Stotram"
+  },
+  "mantras": [
+    {
+      "id": "panchakshara_stotram",
+      "title": {
+        "hi": "पंचाक्षर स्तोत्र",
+        "en": "Panchakshara Stotram"
+      },
+      "mantra": {
+        "hi": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय । नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय ॥",
+        "en": "Nagendraharaya Trilochanaya Bhasmangaragaya Maheshvaraya. Nityaya Shuddhaya Digambaraya Tasmai Nakaraya Namah Shivaya."
+      },
+      "description": {
+        "hi": "पंचाक्षर स्तोत्र भगवान शिव की स्तुति है, जिसमें ‘नमः शिवाय’ पंचाक्षर मंत्र के अक्षरों के माध्यम से शिव के विभिन्न दिव्य स्वरूपों का वर्णन किया जाता है।",
+        "en": "The Panchakshara Stotram is a hymn in praise of Lord Shiva that contemplates His divine attributes through the syllables of the sacred five-syllable mantra, ‘Namah Shivaya.’"
+      },
+      "meaning": {
+        "hi": "मैं उन भगवान शिव को प्रणाम करता हूँ जो सर्पों की माला धारण करते हैं, त्रिनेत्रधारी हैं, भस्म से विभूषित हैं, महेश्वर हैं, नित्य, शुद्ध और दिगम्बर हैं।",
+        "en": "I bow to Lord Shiva, who wears a garland of serpents, is three-eyed, adorned with sacred ash, the great Lord, eternal, pure, and clad in the directions."
+      },
+      "keywords": {
+        "hi": [
+          "पंचाक्षर स्तोत्र",
+          "नागेन्द्रहाराय त्रिलोचनाय",
+          "नमः शिवाय",
+          "शिव स्तोत्र",
+          "शिव मंत्र"
+        ],
+        "en": [
+          "Panchakshara Stotram",
+          "Nagendraharaya Trilochanaya",
+          "Namah Shivaya",
+          "Shiva Stotram",
+          "Shiva Mantra"
+        ]
+      },
+      "audio": "panchakshara_stotram.mp3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "hanuman_gayatri",
+  "category": "hanuman",
+  "title": {
+    "hi": "हनुमान गायत्री मंत्र",
+    "en": "Hanuman Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "hanuman_gayatri",
+      "title": {
+        "hi": "हनुमान गायत्री मंत्र",
+        "en": "Hanuman Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि । तन्नो हनुमान् प्रचोदयात् ॥",
+        "en": "Om Anjaneyaya Vidmahe Vayuputraya Dhimahi. Tanno Hanuman Prachodayat."
+      },
+      "description": {
+        "hi": "भगवान हनुमान को समर्पित लोकप्रिय गायत्री शैली का मंत्र, जो भक्ति, साहस और सेवा-भाव के स्मरण में जपा जाता है।",
+        "en": "A devotional chant associated with Hanuman Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "हनुमान गायत्री मंत्र",
+          "hanuman gayatri",
+          "hanuman",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Hanuman Gayatri Mantra",
+          "hanuman gayatri",
+          "hanuman",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "hanuman_gayatri.mp3"
+    }
+  ]
+}

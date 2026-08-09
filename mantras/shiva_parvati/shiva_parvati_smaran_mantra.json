@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "shiva_parvati_smaran_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "शिव पार्वती स्मरण मंत्र",
+    "en": "Shiva Parvati Smaran Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shiva_parvati_smaran_mantra",
+      "title": {
+        "hi": "शिव पार्वती स्मरण मंत्र",
+        "en": "Shiva Parvati Smaran Mantra"
+      },
+      "mantra": {
+        "hi": "जय शिव शंकर, जय गौरी शंकर ॥",
+        "en": "Jai Shiva Shankar, Jai Gauri Shankar."
+      },
+      "description": {
+        "hi": "यह सरल भक्तिपूर्ण स्मरण-जप भगवान शिव और देवी पार्वती के संयुक्त स्वरूप के प्रति प्रेम और श्रद्धा व्यक्त करता है।",
+        "en": "This simple devotional remembrance chant expresses love and reverence for the united divine form of Lord Shiva and Goddess Parvati."
+      },
+      "meaning": {
+        "hi": "शिव शंकर और गौरी शंकर की जय हो।",
+        "en": "Victory and praise to Shiva Shankar and Gauri Shankar."
+      },
+      "keywords": {
+        "hi": [
+          "जय शिव शंकर",
+          "जय गौरी शंकर",
+          "शिव पार्वती जप",
+          "गौरी शंकर"
+        ],
+        "en": [
+          "Jai Shiva Shankar",
+          "Jai Gauri Shankar",
+          "Shiva Parvati Japa",
+          "Gauri Shankar"
+        ]
+      },
+      "audio": "shiva_parvati_smaran_mantra.mp3"
+    }
+  ]
+}

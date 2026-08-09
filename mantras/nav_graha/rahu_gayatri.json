@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "rahu_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "राहु गायत्री मंत्र",
+    "en": "Rahu Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "rahu_gayatri",
+      "title": {
+        "hi": "राहु गायत्री मंत्र",
+        "en": "Rahu Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नागध्वजाय विद्महे पद्महस्ताय धीमहि । तन्नो राहुः प्रचोदयात् ॥",
+        "en": "Om Nagadhvajaya Vidmahe Padmahastaya Dhimahi. Tanno Rahuh Prachodayat."
+      },
+      "description": {
+        "hi": "राहु के प्रतीकात्मक और ज्योतिषीय स्वरूप का ध्यान।",
+        "en": "A devotional chant associated with Rahu Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "राहु गायत्री मंत्र",
+          "rahu gayatri",
+          "nav_graha",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Rahu Gayatri Mantra",
+          "rahu gayatri",
+          "nav graha",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "rahu_gayatri.mp3"
+    }
+  ]
+}

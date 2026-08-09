@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_jagannathaya_namah",
+  "category": "jagannath",
+  "title": {
+    "hi": "ॐ जगन्नाथाय नमः",
+    "en": "Om Jagannathaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_jagannathaya_namah",
+      "title": {
+        "hi": "ॐ जगन्नाथाय नमः",
+        "en": "Om Jagannathaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ जगन्नाथाय नमः ॥",
+        "en": "Om Jagannathaya Namah."
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ को प्रणाम का संक्षिप्त नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Jagannathaya Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ जगन्नाथाय नमः",
+          "om jagannathaya namah",
+          "jagannath",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Jagannathaya Namah",
+          "om jagannathaya namah",
+          "jagannath",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_jagannathaya_namah.mp3"
+    }
+  ]
+}

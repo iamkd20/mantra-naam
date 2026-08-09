@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "id": "neelkantha_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "नीलकण्ठ मंत्र",
+    "en": "Neelkantha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "neelkantha_mantra",
+      "title": {
+        "hi": "नीलकण्ठ मंत्र",
+        "en": "Neelakantha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नीलकण्ठाय नमः ॥",
+        "en": "Om Neelkanthaya Namah."
+      },
+      "description": {
+        "hi": "नीलकण्ठ मंत्र भगवान शिव के उस दिव्य स्वरूप को समर्पित है जिसने समुद्र मंथन के समय निकले कालकूट (हलाहल) विष का पान कर समस्त सृष्टि की रक्षा की। इसी कारण भगवान शिव 'नीलकण्ठ' कहलाए। यह मंत्र भगवान शिव के त्याग, करुणा, धैर्य तथा लोककल्याण की भावना का स्मरण कराता है और श्रद्धापूर्वक जपा जाता है।",
+        "en": "The Neelkantha Mantra is dedicated to Lord Shiva in His form as Neelkantha, the Blue-Throated One. According to Hindu tradition, Lord Shiva consumed the deadly Halahala poison during the Samudra Manthana to protect the universe. This mantra honors His compassion, sacrifice, courage, and divine protection."
+      },
+      "meaning": {
+        "hi": "मैं भगवान नीलकण्ठ को प्रणाम करता हूँ, जिन्होंने सम्पूर्ण सृष्टि की रक्षा के लिए विष का पान किया। वे हमें धैर्य, करुणा, साहस और आध्यात्मिक शक्ति प्रदान करें।",
+        "en": "I bow to Lord Neelkantha, who consumed the cosmic poison to protect creation. May He bless us with courage, compassion, patience, and spiritual strength."
+      },
+      "keywords": {
+        "hi": [
+          "नीलकण्ठ मंत्र",
+          "नीलकंठ मंत्र",
+          "ॐ नीलकण्ठाय नमः",
+          "नीलकण्ठ",
+          "महादेव",
+          "शिव",
+          "हलाहल",
+          "समुद्र मंथन",
+          "शिव मंत्र",
+          "शिव जप"
+        ],
+        "en": [
+          "neelkantha mantra",
+          "neelkanth mantra",
+          "om neelakanthaya namah",
+          "lord neelkantha",
+          "mahadev",
+          "shiva",
+          "halahala",
+          "samudra manthana",
+          "shiva mantra",
+          "shiva chant"
+        ]
+      },
+      "audio": "neelkantha_mantra.mp3"
+    }
+  ]
+}

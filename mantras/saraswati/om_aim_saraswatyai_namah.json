@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "om_aim_saraswatyai_namah",
+  "category": "saraswati",
+  "title": {
+    "hi": "ॐ ऐं सरस्वत्यै नमः",
+    "en": "Om Aim Saraswatyai Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_aim_saraswatyai_namah",
+      "title": {
+        "hi": "ॐ ऐं सरस्वत्यै नमः",
+        "en": "Om Aim Saraswatyai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं सरस्वत्यै नमः ॥",
+        "en": "Om Aim Saraswatyai Namah."
+      },
+      "description": {
+        "hi": "सरस्वती उपासना का लोकप्रिय बीज सहित नाम-मंत्र।",
+        "en": "A devotional chant associated with Om Aim Saraswatyai Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ ऐं सरस्वत्यै नमः",
+          "om aim saraswatyai namah",
+          "saraswati",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Om Aim Saraswatyai Namah",
+          "om aim saraswatyai namah",
+          "saraswati",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "om_aim_saraswatyai_namah.mp3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "shyam_mantra",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "श्याम मंत्र",
+    "en": "Shyam Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shyam_mantra",
+      "title": {
+        "hi": "श्याम मंत्र",
+        "en": "Shyam Mantra"
+      },
+      "mantra": {
+        "hi": "हारे का सहारा बाबा श्याम हमारा ॥",
+        "en": "Hare Ka Sahara Baba Shyam Hamara."
+      },
+      "description": {
+        "hi": "श्याम भक्तों में अत्यंत लोकप्रिय श्रद्धामय उद्घोष।",
+        "en": "A devotional chant associated with Shyam Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "श्याम मंत्र",
+          "shyam mantra",
+          "khatu_shyam",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Shyam Mantra",
+          "shyam mantra",
+          "khatu shyam",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "shyam_mantra.mp3"
+    }
+  ]
+}

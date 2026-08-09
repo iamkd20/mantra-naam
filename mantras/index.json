@@ -1,4 +1,6 @@
 {
+  "version": 2,
+  "type": "mantra_index",
   "categories": [
     {
       "id": "shiva",
@@ -6,199 +8,15 @@
         "hi": "शिव",
         "en": "Shiva"
       },
-      "file": "deities/shiv/index.json",
-      "image": {
-        "file": "shiv.webp"
-      }
+      "file": "shiv/index.json"
     },
     {
-      "id": "ayyappa",
+      "id": "ram",
       "name": {
-        "hi": "अय्यप्पा",
-        "en": "Ayyappa"
+        "hi": "राम",
+        "en": "Ram"
       },
-      "description": "",
-      "file": "deities/ayyappa.json"
-    },
-    {
-      "id": "beej",
-      "name": {
-        "hi": "बीज मंत्र",
-        "en": "Beej Mantras"
-      },
-      "description": "",
-      "file": "general/beej.json"
-    },
-    {
-      "id": "bilva",
-      "name": {
-        "hi": "बिल्व",
-        "en": "Bilva"
-      },
-      "description": "",
-      "file": "nature/bilva.json"
-    },
-    {
-      "id": "budha",
-      "name": {
-        "hi": "बुध",
-        "en": "Budha"
-      },
-      "description": "",
-      "file": "astrology/budha.json"
-    },
-    {
-      "id": "chandra",
-      "name": {
-        "hi": "चंद्र",
-        "en": "Chandra"
-      },
-      "description": "",
-      "file": "astrology/chandra.json"
-    },
-    {
-      "id": "daily",
-      "name": {
-        "hi": "दैनिक मंत्र",
-        "en": "Daily Mantras"
-      },
-      "description": "",
-      "file": "general/daily.json"
-    },
-    {
-      "id": "dattatreya",
-      "name": {
-        "hi": "दत्तात्रेय",
-        "en": "Dattatreya"
-      },
-      "description": "",
-      "file": "deities/dattatreya.json"
-    },
-    {
-      "id": "dhanvantari",
-      "name": {
-        "hi": "धन्वंतरि",
-        "en": "Dhanvantari"
-      },
-      "description": "",
-      "file": "deities/dhanvantari.json"
-    },
-    {
-      "id": "durga",
-      "name": {
-        "hi": "दुर्गा",
-        "en": "Durga"
-      },
-      "description": "",
-      "file": "deities/durga.json"
-    },
-    {
-      "id": "extra_gayatri",
-      "name": {
-        "hi": "अतिरिक्त गायत्री (Sanskrit Docs)",
-        "en": "Extra Gayatri (Sanskrit Docs)"
-      },
-      "description": "223 Authentic Gayatri Mantras extracted from sanskritdocuments.org",
-      "file": "general/extra_gayatri.json"
-    },
-    {
-      "id": "ganesha",
-      "name": {
-        "hi": "गणेश",
-        "en": "Ganesha"
-      },
-      "description": "",
-      "file": "deities/ganesha.json"
-    },
-    {
-      "id": "gayatri",
-      "name": {
-        "hi": "गायत्री मंत्र",
-        "en": "Gayatri Mantras"
-      },
-      "description": "",
-      "file": "general/gayatri.json"
-    },
-    {
-      "id": "godavari",
-      "name": {
-        "hi": "गोदावरी",
-        "en": "Godavari"
-      },
-      "description": "",
-      "file": "nature/godavari.json"
-    },
-    {
-      "id": "guru",
-      "name": {
-        "hi": "गुरु",
-        "en": "Guru"
-      },
-      "description": "",
-      "file": "astrology/guru.json"
-    },
-    {
-      "id": "hanuman",
-      "name": {
-        "hi": "हनुमान",
-        "en": "Hanuman"
-      },
-      "description": "",
-      "file": "deities/hanuman.json"
-    },
-    {
-      "id": "hayagriva",
-      "name": {
-        "hi": "हयग्रीव",
-        "en": "Hayagriva"
-      },
-      "description": "",
-      "file": "deities/hayagriva.json"
-    },
-    {
-      "id": "jagannath",
-      "name": {
-        "hi": "जगन्नाथ",
-        "en": "Jagannath"
-      },
-      "description": "",
-      "file": "deities/jagannath.json"
-    },
-    {
-      "id": "kalima",
-      "name": {
-        "hi": "काली माँ",
-        "en": "Kali Ma"
-      },
-      "description": "",
-      "file": "deities/kalima.json"
-    },
-    {
-      "id": "kaveri",
-      "name": {
-        "hi": "कावेरी",
-        "en": "Kaveri"
-      },
-      "description": "",
-      "file": "nature/kaveri.json"
-    },
-    {
-      "id": "ketu",
-      "name": {
-        "hi": "केतु",
-        "en": "Ketu"
-      },
-      "description": "",
-      "file": "astrology/ketu.json"
-    },
-    {
-      "id": "khatu_shyam",
-      "name": {
-        "hi": "खाटू श्याम",
-        "en": "Khatu Shyam"
-      },
-      "description": "",
-      "file": "deities/khatu_shyam.json"
+      "file": "ram/index.json"
     },
     {
       "id": "krishna",
@@ -206,17 +24,39 @@
         "hi": "कृष्ण",
         "en": "Krishna"
       },
-      "description": "",
-      "file": "deities/krishna.json"
+      "file": "krishna/index.json"
     },
     {
-      "id": "kuber",
+      "id": "hanuman",
       "name": {
-        "hi": "कुबेर",
-        "en": "Kuber"
+        "hi": "हनुमान",
+        "en": "Hanuman"
       },
-      "description": "",
-      "file": "deities/kuber.json"
+      "file": "hanuman/index.json"
+    },
+    {
+      "id": "ganesh",
+      "name": {
+        "hi": "गणेश",
+        "en": "Ganesh"
+      },
+      "file": "ganesh/index.json"
+    },
+    {
+      "id": "devi",
+      "name": {
+        "hi": "देवी माता",
+        "en": "Devi Mata"
+      },
+      "file": "devi/index.json"
+    },
+    {
+      "id": "vishnu_narayana",
+      "name": {
+        "hi": "विष्णु नारायण",
+        "en": "Vishnu Narayana"
+      },
+      "file": "vishnu_narayana/index.json"
     },
     {
       "id": "lakshmi",
@@ -224,107 +64,39 @@
         "hi": "लक्ष्मी",
         "en": "Lakshmi"
       },
-      "description": "",
-      "file": "deities/lakshmi.json"
+      "file": "lakshmi/index.json"
     },
     {
-      "id": "mangala",
+      "id": "radha",
       "name": {
-        "hi": "मंगल",
-        "en": "Mangala"
+        "hi": "राधा",
+        "en": "Radha"
       },
-      "description": "",
-      "file": "astrology/mangala.json"
+      "file": "radha/index.json"
     },
     {
-      "id": "mix",
+      "id": "sita_ram",
       "name": {
-        "hi": "विविध",
-        "en": "Mix"
+        "hi": "सीता राम",
+        "en": "Sita Ram"
       },
-      "description": "",
-      "file": "general/mix.json"
+      "file": "sita_ram/index.json"
     },
     {
-      "id": "nandi",
+      "id": "radha_krishna",
       "name": {
-        "hi": "नंदी",
-        "en": "Nandi"
+        "hi": "राधा कृष्ण",
+        "en": "Radha Krishna"
       },
-      "description": "",
-      "file": "nature/nandi.json"
+      "file": "radha_krishna/index.json"
     },
     {
-      "id": "narmada",
+      "id": "shiva_parvati",
       "name": {
-        "hi": "नर्मदा",
-        "en": "Narmada"
+        "hi": "शिव पार्वती",
+        "en": "Shiva Parvati"
       },
-      "description": "",
-      "file": "nature/narmada.json"
-    },
-    {
-      "id": "narsimha",
-      "name": {
-        "hi": "नरसिंह",
-        "en": "Narsimha"
-      },
-      "description": "",
-      "file": "deities/narsimha.json"
-    },
-    {
-      "id": "navagraha",
-      "name": {
-        "hi": "नवग्रह",
-        "en": "Navagraha"
-      },
-      "description": "",
-      "file": "astrology/navagraha.json"
-    },
-    {
-      "id": "peepal",
-      "name": {
-        "hi": "पीपल",
-        "en": "Peepal"
-      },
-      "description": "",
-      "file": "nature/peepal.json"
-    },
-    {
-      "id": "protection",
-      "name": {
-        "hi": "रक्षा मंत्र",
-        "en": "Protection Mantras"
-      },
-      "description": "",
-      "file": "general/protection.json"
-    },
-    {
-      "id": "rahu",
-      "name": {
-        "hi": "राहु",
-        "en": "Rahu"
-      },
-      "description": "",
-      "file": "astrology/rahu.json"
-    },
-    {
-      "id": "rama",
-      "name": {
-        "hi": "राम",
-        "en": "Rama"
-      },
-      "description": "",
-      "file": "deities/rama.json"
-    },
-    {
-      "id": "sai_baba",
-      "name": {
-        "hi": "साईं बाबा",
-        "en": "Sai Baba"
-      },
-      "description": "",
-      "file": "deities/sai_baba.json"
+      "file": "shiva_parvati/index.json"
     },
     {
       "id": "saraswati",
@@ -332,80 +104,191 @@
         "hi": "सरस्वती",
         "en": "Saraswati"
       },
-      "description": "",
-      "file": "deities/saraswati.json"
+      "file": "saraswati/index.json"
     },
     {
-      "id": "shani",
+      "id": "gayatri",
       "name": {
-        "hi": "शनि",
-        "en": "Shani"
+        "hi": "गायत्री माता",
+        "en": "Gayatri Mata"
       },
-      "description": "",
-      "file": "astrology/shani.json"
+      "file": "gayatri/index.json"
     },
     {
-      "id": "shukra",
+      "id": "kali",
       "name": {
-        "hi": "शुक्र",
-        "en": "Shukra"
+        "hi": "माँ काली",
+        "en": "Maa Kali"
       },
-      "description": "",
-      "file": "astrology/shukra.json"
+      "file": "kali/index.json"
     },
     {
-      "id": "surya",
+      "id": "vaishno_devi",
       "name": {
-        "hi": "सूर्य",
-        "en": "Surya"
+        "hi": "माँ वैष्णो देवी",
+        "en": "Maa Vaishno Devi"
       },
-      "description": "",
-      "file": "astrology/surya.json"
+      "file": "vaishno_devi/index.json"
     },
     {
-      "id": "swaminarayan",
+      "id": "kartikeya",
       "name": {
-        "hi": "स्वामीनारायण",
-        "en": "Swaminarayan"
+        "hi": "कार्तिकेय / मुरुगन",
+        "en": "Kartikeya / Murugan"
       },
-      "description": "",
-      "file": "deities/swaminarayan.json"
+      "file": "kartikeya/index.json"
     },
     {
-      "id": "vishnu",
+      "id": "ayyappa",
       "name": {
-        "hi": "विष्णु",
-        "en": "Vishnu"
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
       },
-      "description": "",
-      "file": "deities/vishnu.json"
+      "file": "ayyappa/index.json"
     },
     {
-      "id": "vishwakarma",
+      "id": "surya_deva",
       "name": {
-        "hi": "विश्वकर्मा",
-        "en": "Vishwakarma"
+        "hi": "सूर्य देव",
+        "en": "Surya Dev"
       },
-      "description": "",
-      "file": "deities/vishwakarma.json"
+      "file": "surya_deva/index.json"
+    },
+    {
+      "id": "shani_deva",
+      "name": {
+        "hi": "शनि देव",
+        "en": "Shani Dev"
+      },
+      "file": "shani_deva/index.json"
+    },
+    {
+      "id": "nav_graha",
+      "name": {
+        "hi": "नवग्रह",
+        "en": "Nav Graha"
+      },
+      "file": "nav_graha/index.json"
+    },
+    {
+      "id": "nav_durga",
+      "name": {
+        "hi": "नवदुर्गा",
+        "en": "Nav Durga"
+      },
+      "file": "nav_durga/index.json"
+    },
+    {
+      "id": "santoshi_mata",
+      "name": {
+        "hi": "संतोषी माता",
+        "en": "Santoshi Mata"
+      },
+      "file": "santoshi_mata/index.json"
+    },
+    {
+      "id": "tulsi",
+      "name": {
+        "hi": "तुलसी माता",
+        "en": "Tulsi Mata"
+      },
+      "file": "tulsi/index.json"
+    },
+    {
+      "id": "brahma",
+      "name": {
+        "hi": "ब्रह्मा",
+        "en": "Brahma"
+      },
+      "file": "brahma/index.json"
+    },
+    {
+      "id": "narasimha",
+      "name": {
+        "hi": "नरसिंह",
+        "en": "Narasimha"
+      },
+      "file": "narasimha/index.json"
+    },
+    {
+      "id": "dattatreya",
+      "name": {
+        "hi": "दत्तात्रेय",
+        "en": "Dattatreya"
+      },
+      "file": "dattatreya/index.json"
+    },
+    {
+      "id": "swami_samarth",
+      "name": {
+        "hi": "स्वामी समर्थ",
+        "en": "Swami Samarth"
+      },
+      "file": "swami_samarth/index.json"
+    },
+    {
+      "id": "sai_baba",
+      "name": {
+        "hi": "साईं बाबा",
+        "en": "Sai Baba"
+      },
+      "file": "sai_baba/index.json"
+    },
+    {
+      "id": "khatu_shyam",
+      "name": {
+        "hi": "खाटू श्याम",
+        "en": "Khatu Shyam"
+      },
+      "file": "khatu_shyam/index.json"
     },
     {
       "id": "vitthal",
       "name": {
-        "hi": "विट्ठल",
+        "hi": "विठ्ठल",
         "en": "Vitthal"
       },
-      "description": "",
-      "file": "deities/vitthal.json"
+      "file": "vitthal/index.json"
     },
     {
-      "id": "yamuna",
+      "id": "jagannath",
       "name": {
-        "hi": "यमुना",
-        "en": "Yamuna"
+        "hi": "जगन्नाथ",
+        "en": "Jagannath"
       },
-      "description": "",
-      "file": "nature/yamuna.json"
+      "file": "jagannath/index.json"
+    },
+    {
+      "id": "venkatesh_srinivas",
+      "name": {
+        "hi": "वेंकटेश",
+        "en": "Venkatesh"
+      },
+      "file": "venkatesh_srinivas/index.json"
+    },
+    {
+      "id": "guru",
+      "name": {
+        "hi": "गुरु",
+        "en": "Guru"
+      },
+      "file": "guru/index.json"
+    },
+    {
+      "id": "guru_nanak",
+      "name": {
+        "hi": "गुरु नानक",
+        "en": "Guru Nanak"
+      },
+      "file": "guru_nanak/index.json"
+    },
+    {
+      "id": "mahavir",
+      "name": {
+        "hi": "महावीर स्वामी",
+        "en": "Mahavir Swami"
+      },
+      "file": "mahavir/index.json"
     }
   ]
 }

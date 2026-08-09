@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "govinda_nama",
+  "category": "venkatesh_srinivas",
+  "title": {
+    "hi": "गोविंदा गोविंदा",
+    "en": "Govinda Govinda"
+  },
+  "mantras": [
+    {
+      "id": "govinda_nama",
+      "title": {
+        "hi": "गोविंदा गोविंदा",
+        "en": "Govinda Govinda"
+      },
+      "mantra": {
+        "hi": "गोविंदा गोविंदा ॥",
+        "en": "Govinda Govinda."
+      },
+      "description": {
+        "hi": "तिरुपति और वैष्णव भक्ति में अत्यंत लोकप्रिय नाम-स्मरण।",
+        "en": "A devotional chant associated with Govinda Govinda, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "गोविंदा गोविंदा",
+          "govinda nama",
+          "venkatesh_srinivas",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Govinda Govinda",
+          "govinda nama",
+          "venkatesh srinivas",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "govinda_nama.mp3"
+    }
+  ]
+}

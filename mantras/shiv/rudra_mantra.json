@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "rudra_mantra",
+  "category": "shiva",
+  "title": {
+    "hi": "रुद्र मंत्र",
+    "en": "Rudra Mantra"
+  },
+  "mantras": [
+    {
+      "id": "rudra_mantra",
+      "title": {
+        "hi": "रुद्र मंत्र",
+        "en": "Rudra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते रुद्राय ॥",
+        "en": "Om Namo Bhagavate Rudraya."
+      },
+      "description": {
+        "hi": "ॐ नमो भगवते रुद्राय भगवान रुद्र को समर्पित प्रसिद्ध शिव मंत्र है। 'रुद्र' शिव के प्राचीन और शक्तिशाली वैदिक स्वरूपों में से एक है। इस मंत्र में भगवान रुद्र के प्रति नमस्कार, श्रद्धा और शरणागति की भावना व्यक्त होती है। इसका जप रुद्र उपासना, शिव ध्यान और दैनिक आध्यात्मिक साधना में किया जाता है।",
+        "en": "Om Namo Bhagavate Rudraya is a well-known mantra dedicated to Lord Rudra. Rudra is one of the ancient and powerful Vedic forms of Shiva. The mantra expresses salutation, reverence, and surrender to Rudra and is used in Rudra worship, Shiva meditation, and daily spiritual practice."
+      },
+      "meaning": {
+        "hi": "भगवान रुद्र को नमन। यह मंत्र रुद्र के प्रति श्रद्धा, भक्ति, समर्पण और उनकी शरण ग्रहण करने की भावना व्यक्त करता है।",
+        "en": "Salutations to Lord Rudra. This mantra expresses reverence, devotion, surrender, and the feeling of seeking refuge in Rudra."
+      },
+      "keywords": {
+        "hi": [
+          "रुद्र मंत्र",
+          "ॐ नमो भगवते रुद्राय",
+          "शिव मंत्र",
+          "रुद्र",
+          "महादेव",
+          "रुद्र जप",
+          "रुद्र उपासना",
+          "शरणागति"
+        ],
+        "en": [
+          "rudra mantra",
+          "om namo bhagavate rudraya",
+          "shiva mantra",
+          "rudra",
+          "mahadev",
+          "rudra japa",
+          "rudra worship",
+          "surrender"
+        ]
+      },
+      "audio": "rudra_mantra.mp3"
+    }
+  ]
+}

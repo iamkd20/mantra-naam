@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "gurur_brahma",
+  "category": "guru",
+  "title": {
+    "hi": "गुरुर ब्रह्मा मंत्र",
+    "en": "Gurur Brahma Mantra"
+  },
+  "mantras": [
+    {
+      "id": "gurur_brahma",
+      "title": {
+        "hi": "गुरुर ब्रह्मा मंत्र",
+        "en": "Gurur Brahma Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर् ब्रह्मा गुरुर् विष्णुः गुरुर् देवो महेश्वरः । गुरुः साक्षात् परब्रह्म तस्मै श्रीगुरवे नमः ॥",
+        "en": "Gurur Brahma Gurur Vishnuh Gurur Devo Maheshvarah. Guruh Sakshat Parabrahma Tasmai Shri Gurave Namah."
+      },
+      "description": {
+        "hi": "गुरु को परम ज्ञान के माध्यम और सम्माननीय आध्यात्मिक मार्गदर्शक के रूप में प्रणाम करने वाला प्रसिद्ध श्लोक।",
+        "en": "A devotional chant associated with Gurur Brahma Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "गुरुर ब्रह्मा मंत्र",
+          "gurur brahma",
+          "guru",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Gurur Brahma Mantra",
+          "gurur brahma",
+          "guru",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "gurur_brahma.mp3"
+    }
+  ]
+}

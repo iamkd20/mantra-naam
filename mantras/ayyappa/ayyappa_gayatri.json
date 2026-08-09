@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "ayyappa_gayatri",
+  "category": "ayyappa",
+  "title": {
+    "hi": "अय्यप्पा गायत्री मंत्र",
+    "en": "Ayyappa Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ayyappa_gayatri",
+      "title": {
+        "hi": "अय्यप्पा गायत्री मंत्र",
+        "en": "Ayyappa Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भूतनाथाय विद्महे महादेवाय धीमहि । तन्नः शास्ता प्रचोदयात् ॥",
+        "en": "Om Bhutanathaya Vidmahe Mahadevaya Dhimahi. Tannah Shasta Prachodayat."
+      },
+      "description": {
+        "hi": "भगवान अय्यप्पा के शास्ता स्वरूप की भक्ति और समर्पण के लिए प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Ayyappa Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "अय्यप्पा गायत्री मंत्र",
+          "ayyappa gayatri",
+          "ayyappa",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Ayyappa Gayatri Mantra",
+          "ayyappa gayatri",
+          "ayyappa",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "ayyappa_gayatri.mp3"
+    }
+  ]
+}

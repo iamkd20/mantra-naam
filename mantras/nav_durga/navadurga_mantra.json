@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "navadurga_mantra",
+  "category": "nav_durga",
+  "title": {
+    "hi": "नवदुर्गा मंत्र",
+    "en": "Navadurga Mantra"
+  },
+  "mantras": [
+    {
+      "id": "navadurga_mantra",
+      "title": {
+        "hi": "नवदुर्गा मंत्र",
+        "en": "Navadurga Mantra"
+      },
+      "mantra": {
+        "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः ॥",
+        "en": "Ya Devi Sarvabhuteshu Shaktirupena Samsthita. Namastasyai Namastasyai Namastasyai Namo Namah."
+      },
+      "description": {
+        "hi": "देवी के सर्वव्यापी शक्ति-स्वरूप की स्तुति, नवरात्रि और देवी उपासना में व्यापक रूप से पाठित।",
+        "en": "A devotional chant associated with Navadurga Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "नवदुर्गा मंत्र",
+          "navadurga mantra",
+          "nav_durga",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Navadurga Mantra",
+          "navadurga mantra",
+          "nav durga",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "navadurga_mantra.mp3"
+    }
+  ]
+}

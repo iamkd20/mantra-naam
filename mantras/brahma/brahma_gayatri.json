@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "brahma_gayatri",
+  "category": "brahma",
+  "title": {
+    "hi": "ब्रह्मा गायत्री मंत्र",
+    "en": "Brahma Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "brahma_gayatri",
+      "title": {
+        "hi": "ब्रह्मा गायत्री मंत्र",
+        "en": "Brahma Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ चतुर्मुखाय विद्महे हंसारूढाय धीमहि । तन्नो ब्रह्मा प्रचोदयात् ॥",
+        "en": "Om Chaturmukhaya Vidmahe Hamsarudhaya Dhimahi. Tanno Brahma Prachodayat."
+      },
+      "description": {
+        "hi": "सृष्टिकर्ता ब्रह्मा के ज्ञान और सृजन के प्रतीकात्मक स्वरूप का ध्यान।",
+        "en": "A devotional chant associated with Brahma Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "ब्रह्मा गायत्री मंत्र",
+          "brahma gayatri",
+          "brahma",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति"
+        ],
+        "en": [
+          "Brahma Gayatri Mantra",
+          "brahma gayatri",
+          "brahma",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion"
+        ]
+      },
+      "audio": "brahma_gayatri.mp3"
+    }
+  ]
+}
