@@ -7,189 +7,182 @@
   },
   "names": [
     {
-      "id": "radha_krishna",
+      "id": "radha_krishna_radha_krishna",
       "name": {
         "hi": "राधा कृष्ण",
         "en": "Radha Krishna"
       }
     },
     {
-      "id": "radhe_krishna",
+      "id": "radha_krishna_radhe_krishna",
       "name": {
         "hi": "राधे कृष्ण",
         "en": "Radhe Krishna"
       }
     },
     {
-      "id": "jai_shri_radhe_krishna",
+      "id": "radha_krishna_jai_shri_radhe_krishna",
       "name": {
         "hi": "जय श्री राधे कृष्ण",
         "en": "Jai Shri Radhe Krishna"
       }
     },
     {
-      "id": "shri_radhe_krishna",
+      "id": "radha_krishna_shri_radhe_krishna",
       "name": {
         "hi": "श्री राधे कृष्ण",
         "en": "Shri Radhe Krishna"
       }
     },
     {
-      "id": "radhe_krishna_radhe_govind",
+      "id": "radha_krishna_radhe_krishna_radhe_govind",
       "name": {
         "hi": "राधे कृष्ण राधे गोविंद",
         "en": "Radhe Krishna Radhe Govind"
       }
     },
     {
-      "id": "radha_krishna_radha_krishna",
+      "id": "radha_krishna_radha_krishna_radha_krishna",
       "name": {
         "hi": "राधा कृष्ण राधा कृष्ण",
         "en": "Radha Krishna Radha Krishna"
       }
     },
     {
-      "id": "radhe_radhe_krishna_krishna",
+      "id": "radha_krishna_radhe_radhe_krishna_krishna",
       "name": {
         "hi": "राधे राधे कृष्ण कृष्ण",
         "en": "Radhe Radhe Krishna Krishna"
       }
     },
     {
-      "id": "radha_madhava",
+      "id": "radha_krishna_radha_madhava",
       "name": {
         "hi": "राधा माधव",
         "en": "Radha Madhava"
       }
     },
     {
-      "id": "radha_govinda",
+      "id": "radha_krishna_radha_govinda",
       "name": {
         "hi": "राधा गोविंद",
         "en": "Radha Govinda"
       }
     },
     {
-      "id": "radha_gopala",
+      "id": "radha_krishna_radha_gopala",
       "name": {
         "hi": "राधा गोपाल",
         "en": "Radha Gopala"
       }
     },
     {
-      "id": "radha_gopinatha",
+      "id": "radha_krishna_radha_gopinatha",
       "name": {
         "hi": "राधा गोपीनाथ",
         "en": "Radha Gopinatha"
       }
     },
     {
-      "id": "radha_mohana",
+      "id": "radha_krishna_radha_mohana",
       "name": {
         "hi": "राधा मोहन",
         "en": "Radha Mohana"
       }
     },
     {
-      "id": "radha_ramana",
+      "id": "radha_krishna_radha_ramana",
       "name": {
         "hi": "राधा रमण",
         "en": "Radha Ramana"
       }
     },
     {
-      "id": "radha_vallabha",
+      "id": "radha_krishna_radha_vallabha",
       "name": {
         "hi": "राधा वल्लभ",
         "en": "Radha Vallabha"
       }
     },
     {
-      "id": "radha_damodara",
+      "id": "radha_krishna_radha_damodara",
       "name": {
         "hi": "राधा दामोदर",
         "en": "Radha Damodara"
       }
     },
     {
-      "id": "radha_giridhari",
+      "id": "radha_krishna_radha_giridhari",
       "name": {
         "hi": "राधा गिरिधारी",
         "en": "Radha Giridhari"
       }
     },
     {
-      "id": "radha_muralidhara",
+      "id": "radha_krishna_radha_muralidhara",
       "name": {
         "hi": "राधा मुरलीधर",
         "en": "Radha Muralidhara"
       }
     },
     {
-      "id": "radha_shyam",
+      "id": "radha_krishna_radha_shyam",
       "name": {
         "hi": "राधा श्याम",
         "en": "Radha Shyam"
       }
     },
     {
-      "id": "radha_kanha",
+      "id": "radha_krishna_radha_kanha",
       "name": {
         "hi": "राधा कान्हा",
         "en": "Radha Kanha"
       }
     },
     {
-      "id": "radha_kanhaiya",
+      "id": "radha_krishna_radha_kanhaiya",
       "name": {
         "hi": "राधा कन्हैया",
         "en": "Radha Kanhaiya"
       }
     },
     {
-      "id": "radha_bihari",
+      "id": "radha_krishna_radha_bihari",
       "name": {
         "hi": "राधा बिहारी",
         "en": "Radha Bihari"
       }
     },
     {
-      "id": "radha_banke_bihari",
+      "id": "radha_krishna_radha_banke_bihari",
       "name": {
         "hi": "राधा बाँके बिहारी",
         "en": "Radha Banke Bihari"
       }
     },
     {
-      "id": "radha_shyam_sundar",
+      "id": "radha_krishna_radha_shyam_sundar",
       "name": {
         "hi": "राधा श्यामसुंदर",
         "en": "Radha Shyam Sundar"
       }
     },
     {
-      "id": "radhe_shyam",
+      "id": "radha_krishna_radhe_shyam",
       "name": {
         "hi": "राधे श्याम",
         "en": "Radhe Shyam"
       }
     },
     {
-      "id": "radha_govinda",
-      "name": {
-        "hi": "राधा गोविंद",
-        "en": "Radha Govinda"
-      }
-    },
-    {
-      "id": "radharaman",
+      "id": "radha_krishna_radharaman",
       "name": {
         "hi": "राधारमण",
         "en": "Radharaman"
       }
     },
     {
-      "id": "radhavallabha_shri_harivansh",
+      "id": "radha_krishna_radhavallabha_shri_harivansh",
       "name": {
         "hi": "राधावल्लभ श्री हरिवंश",
         "en": "Radhavallabha Shri Harivansh"

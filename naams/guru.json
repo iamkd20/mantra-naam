@@ -7,266 +7,266 @@
   },
   "names": [
     {
-      "id": "guru",
+      "id": "guru_guru",
       "name": {
         "hi": "गुरु",
         "en": "Guru"
       }
     },
     {
-      "id": "shri_guru",
+      "id": "guru_shri_guru",
       "name": {
         "hi": "श्री गुरु",
         "en": "Shri Guru"
       }
     },
     {
-      "id": "gurudev",
+      "id": "guru_guru_dev",
       "name": {
         "hi": "गुरु देव",
         "en": "Guru Dev"
       }
     },
     {
-      "id": "sadguru",
+      "id": "guru_sadguru",
       "name": {
         "hi": "सद्गुरु",
         "en": "Sadguru"
       }
     },
     {
-      "id": "guruji",
+      "id": "guru_guruji",
       "name": {
         "hi": "गुरुजी",
         "en": "Guruji"
       }
     },
     {
-      "id": "guru_maharaj",
+      "id": "guru_guru_maharaj",
       "name": {
         "hi": "गुरु महाराज",
         "en": "Guru Maharaj"
       }
     },
     {
-      "id": "jai_guru",
+      "id": "guru_jai_guru",
       "name": {
         "hi": "जय गुरु",
         "en": "Jai Guru"
       }
     },
     {
-      "id": "jai_gurudev",
+      "id": "guru_jai_guru_dev",
       "name": {
         "hi": "जय गुरु देव",
         "en": "Jai Guru Dev"
       }
     },
     {
-      "id": "jai_shri_guru",
+      "id": "guru_jai_shri_guru",
       "name": {
         "hi": "जय श्री गुरु",
         "en": "Jai Shri Guru"
       }
     },
     {
-      "id": "guru_kripa",
+      "id": "guru_guru_kripa",
       "name": {
         "hi": "गुरु कृपा",
         "en": "Guru Kripa"
       }
     },
     {
-      "id": "shri_guru_charan",
+      "id": "guru_shri_guru_charan",
       "name": {
         "hi": "श्री गुरु चरण",
         "en": "Shri Guru Charan"
       }
     },
     {
-      "id": "guru_brahma",
+      "id": "guru_guru_brahma",
       "name": {
         "hi": "गुरु ब्रह्मा",
         "en": "Guru Brahma"
       }
     },
     {
-      "id": "guru_vishnu",
+      "id": "guru_guru_vishnu",
       "name": {
         "hi": "गुरु विष्णु",
         "en": "Guru Vishnu"
       }
     },
     {
-      "id": "guru_devo_maheshwara",
+      "id": "guru_guru_devo_maheshwara",
       "name": {
         "hi": "गुरु देवो महेश्वर",
         "en": "Guru Devo Maheshwara"
       }
     },
     {
-      "id": "sadgurunath",
+      "id": "guru_sadgurunath",
       "name": {
         "hi": "सद्गुरुनाथ",
         "en": "Sadgurunath"
       }
     },
     {
-      "id": "gajanan_maharaj",
+      "id": "guru_gajanan_maharaj",
       "name": {
         "hi": "गजानन महाराज",
         "en": "Gajanan Maharaj"
       }
     },
     {
-      "id": "shri_gajanan_maharaj",
+      "id": "guru_shri_gajanan_maharaj",
       "name": {
         "hi": "श्री गजानन महाराज",
         "en": "Shri Gajanan Maharaj"
       }
     },
     {
-      "id": "gajanan_baba",
+      "id": "guru_gajanan_baba",
       "name": {
         "hi": "गजानन बाबा",
         "en": "Gajanan Baba"
       }
     },
     {
-      "id": "gajanan_swami",
+      "id": "guru_gajanan_swami",
       "name": {
         "hi": "गजानन स्वामी",
         "en": "Gajanan Swami"
       }
     },
     {
-      "id": "neem_karoli_baba",
+      "id": "guru_neem_karoli_baba",
       "name": {
         "hi": "नीम करोली बाबा",
         "en": "Neem Karoli Baba"
       }
     },
     {
-      "id": "neeb_karori_baba",
+      "id": "guru_neeb_karori_baba",
       "name": {
         "hi": "नीब करौरी बाबा",
         "en": "Neeb Karori Baba"
       }
     },
     {
-      "id": "maharajji",
+      "id": "guru_maharajji",
       "name": {
         "hi": "महाराजजी",
         "en": "Maharajji"
       }
     },
     {
-      "id": "baba_neem_karoli",
+      "id": "guru_baba_neem_karoli",
       "name": {
         "hi": "बाबा नीम करोली",
         "en": "Baba Neem Karoli"
       }
     },
     {
-      "id": "gahininath",
+      "id": "guru_gahininath",
       "name": {
         "hi": "गहिनीनाथ",
         "en": "Gahininath"
       }
     },
     {
-      "id": "shri_gahininath",
+      "id": "guru_shri_gahininath",
       "name": {
         "hi": "श्री गहिनीनाथ",
         "en": "Shri Gahininath"
       }
     },
     {
-      "id": "gahinath",
+      "id": "guru_gahinath",
       "name": {
         "hi": "गहिनाथ",
         "en": "Gahinath"
       }
     },
     {
-      "id": "gahininath_maharaj",
+      "id": "guru_gahininath_maharaj",
       "name": {
         "hi": "गहिनीनाथ महाराज",
         "en": "Gahininath Maharaj"
       }
     },
     {
-      "id": "navnath",
+      "id": "guru_navnath",
       "name": {
         "hi": "नवनाथ",
         "en": "Navnath"
       }
     },
     {
-      "id": "shri_navnath",
+      "id": "guru_shri_navnath",
       "name": {
         "hi": "श्री नवनाथ",
         "en": "Shri Navnath"
       }
     },
     {
-      "id": "navnath_maharaj",
+      "id": "guru_navnath_maharaj",
       "name": {
         "hi": "नवनाथ महाराज",
         "en": "Navnath Maharaj"
       }
     },
     {
-      "id": "matsyendranath",
+      "id": "guru_matsyendranath",
       "name": {
         "hi": "मत्स्येन्द्रनाथ",
         "en": "Matsyendranath"
       }
     },
     {
-      "id": "gorakhnath",
+      "id": "guru_gorakhnath",
       "name": {
         "hi": "गोरखनाथ",
         "en": "Gorakhnath"
       }
     },
     {
-      "id": "jalandharnath",
+      "id": "guru_jalandharnath",
       "name": {
         "hi": "जालंधरनाथ",
         "en": "Jalandharnath"
       }
     },
     {
-      "id": "kanifnath",
+      "id": "guru_kanifnath",
       "name": {
         "hi": "कानिफनाथ",
         "en": "Kanifnath"
       }
     },
     {
-      "id": "charpatinath",
+      "id": "guru_charpatinath",
       "name": {
         "hi": "चरपटीनाथ",
         "en": "Charpatinath"
       }
     },
     {
-      "id": "nagnath",
+      "id": "guru_nagnath",
       "name": {
         "hi": "नागनाथ",
         "en": "Nagnath"
       }
     },
     {
-      "id": "bhartriharinath",
+      "id": "guru_bhartriharinath",
       "name": {
         "hi": "भर्तृहरिनाथ",
         "en": "Bhartriharinath"
       }
     },
     {
-      "id": "revannath",
+      "id": "guru_revannath",
       "name": {
         "hi": "रेवणनाथ",
         "en": "Revannath"

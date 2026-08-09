@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "category": "gayatri",
+  "title": {
+    "hi": "गायत्री माता",
+    "en": "Gayatri Mata"
+  },
+  "names": [
+    {
+      "id": "gayatri_gayatri_mata",
+      "name": {
+        "hi": "गायत्री माता",
+        "en": "Gayatri Mata"
+      }
+    },
+    {
+      "id": "gayatri_maa_gayatri",
+      "name": {
+        "hi": "माँ गायत्री",
+        "en": "Maa Gayatri"
+      }
+    },
+    {
+      "id": "gayatri_gayatri",
+      "name": {
+        "hi": "गायत्री",
+        "en": "Gayatri"
+      }
+    },
+    {
+      "id": "gayatri_ved_mata",
+      "name": {
+        "hi": "वेद माता",
+        "en": "Ved Mata"
+      }
+    },
+    {
+      "id": "gayatri_vishwamata",
+      "name": {
+        "hi": "विश्वमाता",
+        "en": "Vishwamata"
+      }
+    },
+    {
+      "id": "gayatri_savitri",
+      "name": {
+        "hi": "सावित्री",
+        "en": "Savitri"
+      }
+    },
+    {
+      "id": "gayatri_savitri_mata",
+      "name": {
+        "hi": "सावित्री माता",
+        "en": "Savitri Mata"
+      }
+    }
+  ]
+}

@@ -372,20 +372,6 @@
       ]
     },
     {
-      "id": "annapurna",
-      "name": {
-        "hi": "माँ अन्नपूर्णा",
-        "en": "Maa Annapurna"
-      },
-      "file": "annapurna.json",
-      "aliases": [
-        "अन्नपूर्णेश्वरी",
-        "काशी अन्नपूर्णा",
-        "Maa Annapurna",
-        "Annapurneshwari"
-      ]
-    },
-    {
       "id": "santoshi_mata",
       "name": {
         "hi": "संतोषी माता",
@@ -424,10 +410,59 @@
         "Brahma Deva",
         "Prajapati"
       ]
+    },
+    {
+      "id": "gayatri",
+      "name": {
+        "hi": "गायत्री माता",
+        "en": "Gayatri Mata"
+      },
+      "file": "gayatri.json",
+      "aliases": [
+        "गायत्री",
+        "माँ गायत्री",
+        "Gayatri",
+        "Maa Gayatri",
+        "Ved Mata"
+      ]
+    },
+    {
+      "id": "mahavir",
+      "name": {
+        "hi": "महावीर स्वामी",
+        "en": "Mahavir Swami"
+      },
+      "file": "mahavir.json",
+      "aliases": [
+        "महावीर",
+        "वर्धमान",
+        "वीर प्रभु",
+        "Mahavir",
+        "Vardhaman"
+      ]
+    },
+    {
+      "id": "guru_nanak",
+      "name": {
+        "hi": "गुरु नानक देव जी",
+        "en": "Guru Nanak Dev Ji"
+      },
+      "file": "guru_nanak.json",
+      "aliases": [
+        "वाहेगुरु",
+        "गुरु नानक",
+        "नानक नाम",
+        "Waheguru",
+        "Guru Nanak",
+        "Nanak"
+      ]
     }
   ],
   "metadata": {
     "search_aliases_supported": true,
-    "note": "Aliases are intended for search/discovery. Existing app clients can safely ignore them."
+    "note": "Aliases are intended for search/discovery. Existing app clients can safely ignore them.",
+    "production_validated": true,
+    "global_unique_ids": true,
+    "canonical_naam_entries": true
   }
 }

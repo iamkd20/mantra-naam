@@ -7,56 +7,56 @@
   },
   "names": [
     {
-      "id": "tulsi",
+      "id": "tulsi_tulsi",
       "name": {
         "hi": "तुलसी",
         "en": "Tulsi"
       }
     },
     {
-      "id": "tulsi_mata",
+      "id": "tulsi_tulsi_mata",
       "name": {
         "hi": "तुलसी माता",
         "en": "Tulsi Mata"
       }
     },
     {
-      "id": "vrinda",
+      "id": "tulsi_vrinda",
       "name": {
         "hi": "वृंदा",
         "en": "Vrinda"
       }
     },
     {
-      "id": "vrinda_devi",
+      "id": "tulsi_vrinda_devi",
       "name": {
         "hi": "वृंदा देवी",
         "en": "Vrinda Devi"
       }
     },
     {
-      "id": "vishnu_priya",
+      "id": "tulsi_vishnu_priya",
       "name": {
         "hi": "विष्णुप्रिया",
         "en": "Vishnu Priya"
       }
     },
     {
-      "id": "hari_priya",
+      "id": "tulsi_hari_priya",
       "name": {
         "hi": "हरिप्रिया",
         "en": "Hari Priya"
       }
     },
     {
-      "id": "vrindavani",
+      "id": "tulsi_vrindavani",
       "name": {
         "hi": "वृंदावनी",
         "en": "Vrindavani"
       }
     },
     {
-      "id": "jai_tulsi_mata",
+      "id": "tulsi_jai_tulsi_mata",
       "name": {
         "hi": "जय तुलसी माता",
         "en": "Jai Tulsi Mata"

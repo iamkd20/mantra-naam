@@ -7,77 +7,77 @@
   },
   "names": [
     {
-      "id": "surya",
+      "id": "surya_deva_surya",
       "name": {
         "hi": "सूर्य",
         "en": "Surya"
       }
     },
     {
-      "id": "surya_deva",
+      "id": "surya_deva_surya_dev",
       "name": {
         "hi": "सूर्य देव",
         "en": "Surya Dev"
       }
     },
     {
-      "id": "bhaskar",
+      "id": "surya_deva_bhaskar",
       "name": {
         "hi": "भास्कर",
         "en": "Bhaskar"
       }
     },
     {
-      "id": "aditya",
+      "id": "surya_deva_aditya",
       "name": {
         "hi": "आदित्य",
         "en": "Aditya"
       }
     },
     {
-      "id": "dinakar",
+      "id": "surya_deva_dinakar",
       "name": {
         "hi": "दिनकर",
         "en": "Dinakar"
       }
     },
     {
-      "id": "divakar",
+      "id": "surya_deva_divakar",
       "name": {
         "hi": "दिवाकर",
         "en": "Divakar"
       }
     },
     {
-      "id": "ravi",
+      "id": "surya_deva_ravi",
       "name": {
         "hi": "रवि",
         "en": "Ravi"
       }
     },
     {
-      "id": "prabhakar",
+      "id": "surya_deva_prabhakar",
       "name": {
         "hi": "प्रभाकर",
         "en": "Prabhakar"
       }
     },
     {
-      "id": "martanda",
+      "id": "surya_deva_martanda",
       "name": {
         "hi": "मार्तण्ड",
         "en": "Martanda"
       }
     },
     {
-      "id": "bhanu",
+      "id": "surya_deva_bhanu",
       "name": {
         "hi": "भानु",
         "en": "Bhanu"
       }
     },
     {
-      "id": "jai_surya_dev",
+      "id": "surya_deva_jai_surya_dev",
       "name": {
         "hi": "जय सूर्य देव",
         "en": "Jai Surya Dev"

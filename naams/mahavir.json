@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "category": "mahavir",
+  "title": {
+    "hi": "महावीर स्वामी",
+    "en": "Mahavir Swami"
+  },
+  "names": [
+    {
+      "id": "mahavir_mahavir_swami",
+      "name": {
+        "hi": "महावीर स्वामी",
+        "en": "Mahavir Swami"
+      }
+    },
+    {
+      "id": "mahavir_bhagwan_mahavir",
+      "name": {
+        "hi": "भगवान महावीर",
+        "en": "Bhagwan Mahavir"
+      }
+    },
+    {
+      "id": "mahavir_mahavir",
+      "name": {
+        "hi": "महावीर",
+        "en": "Mahavir"
+      }
+    },
+    {
+      "id": "mahavir_vardhaman",
+      "name": {
+        "hi": "वर्धमान",
+        "en": "Vardhaman"
+      }
+    },
+    {
+      "id": "mahavir_veer_prabhu",
+      "name": {
+        "hi": "वीर प्रभु",
+        "en": "Veer Prabhu"
+      }
+    },
+    {
+      "id": "mahavir_jinendra",
+      "name": {
+        "hi": "जिनेंद्र",
+        "en": "Jinendra"
+      }
+    },
+    {
+      "id": "mahavir_arihant",
+      "name": {
+        "hi": "अरिहंत",
+        "en": "Arihant"
+      }
+    }
+  ]
+}

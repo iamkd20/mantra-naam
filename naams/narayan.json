@@ -7,280 +7,210 @@
   },
   "names": [
     {
-      "id": "vishnu",
+      "id": "vishnu_narayana_vishnu",
       "name": {
         "hi": "विष्णु",
         "en": "Vishnu"
       }
     },
     {
-      "id": "narayana",
+      "id": "vishnu_narayana_narayana",
       "name": {
         "hi": "नारायण",
         "en": "Narayana"
       }
     },
     {
-      "id": "shri_vishnu",
+      "id": "vishnu_narayana_shri_vishnu",
       "name": {
         "hi": "श्री विष्णु",
         "en": "Shri Vishnu"
       }
     },
     {
-      "id": "shri_narayana",
+      "id": "vishnu_narayana_shri_narayana",
       "name": {
         "hi": "श्री नारायण",
         "en": "Shri Narayana"
       }
     },
     {
-      "id": "hari__vishnu_narayana",
-      "name": {
-        "hi": "हरि",
-        "en": "Hari"
-      }
-    },
-    {
-      "id": "shri_hari",
+      "id": "vishnu_narayana_shri_hari",
       "name": {
         "hi": "श्री हरि",
         "en": "Shri Hari"
       }
     },
     {
-      "id": "jai_shri_hari",
+      "id": "vishnu_narayana_jai_shri_hari",
       "name": {
         "hi": "जय श्री हरि",
         "en": "Jai Shri Hari"
       }
     },
     {
-      "id": "om_namo_narayana",
+      "id": "vishnu_narayana_om_namo_narayana",
       "name": {
         "hi": "ॐ नमो नारायण",
         "en": "Om Namo Narayana"
       }
     },
     {
-      "id": "narayan_narayan",
+      "id": "vishnu_narayana_narayan_narayan",
       "name": {
         "hi": "नारायण नारायण",
         "en": "Narayan Narayan"
       }
     },
     {
-      "id": "jai_shri_narayana",
+      "id": "vishnu_narayana_jai_shri_narayana",
       "name": {
         "hi": "जय श्री नारायण",
         "en": "Jai Shri Narayana"
       }
     },
     {
-      "id": "lakshmipati",
+      "id": "vishnu_narayana_lakshmipati",
       "name": {
         "hi": "लक्ष्मीपति",
         "en": "Lakshmipati"
       }
     },
     {
-      "id": "lakshmi_narayana",
+      "id": "vishnu_narayana_lakshmi_narayana",
       "name": {
         "hi": "लक्ष्मी नारायण",
         "en": "Lakshmi Narayana"
       }
     },
     {
-      "id": "jagadisha",
+      "id": "vishnu_narayana_jagadisha",
       "name": {
         "hi": "जगदीश",
         "en": "Jagadisha"
       }
     },
     {
-      "id": "vishwambhara",
+      "id": "vishnu_narayana_vishvambhara",
       "name": {
         "hi": "विश्वम्भर",
         "en": "Vishvambhara"
       }
     },
     {
-      "id": "ananta",
+      "id": "vishnu_narayana_ananta",
       "name": {
         "hi": "अनन्त",
         "en": "Ananta"
       }
     },
     {
-      "id": "achyuta__vishnu_narayana",
-      "name": {
-        "hi": "अच्युत",
-        "en": "Achyuta"
-      }
-    },
-    {
-      "id": "keshava__vishnu_narayana",
-      "name": {
-        "hi": "केशव",
-        "en": "Keshava"
-      }
-    },
-    {
-      "id": "madhava__vishnu_narayana",
-      "name": {
-        "hi": "माधव",
-        "en": "Madhava"
-      }
-    },
-    {
-      "id": "govinda__vishnu_narayana",
-      "name": {
-        "hi": "गोविंद",
-        "en": "Govinda"
-      }
-    },
-    {
-      "id": "damodara__vishnu_narayana",
-      "name": {
-        "hi": "दामोदर",
-        "en": "Damodara"
-      }
-    },
-    {
-      "id": "vasudeva__vishnu_narayana",
-      "name": {
-        "hi": "वासुदेव",
-        "en": "Vasudeva"
-      }
-    },
-    {
-      "id": "janardana__vishnu_narayana",
-      "name": {
-        "hi": "जनार्दन",
-        "en": "Janardana"
-      }
-    },
-    {
-      "id": "padmanabha",
+      "id": "vishnu_narayana_padmanabha",
       "name": {
         "hi": "पद्मनाभ",
         "en": "Padmanabha"
       }
     },
     {
-      "id": "purushottama",
+      "id": "vishnu_narayana_purushottama",
       "name": {
         "hi": "पुरुषोत्तम",
         "en": "Purushottama"
       }
     },
     {
-      "id": "shridhara",
+      "id": "vishnu_narayana_shridhara",
       "name": {
         "hi": "श्रीधर",
         "en": "Shridhara"
       }
     },
     {
-      "id": "hrishikesha",
+      "id": "vishnu_narayana_hrishikesha",
       "name": {
         "hi": "हृषीकेश",
         "en": "Hrishikesha"
       }
     },
     {
-      "id": "mukunda",
+      "id": "vishnu_narayana_mukunda",
       "name": {
         "hi": "मुकुन्द",
         "en": "Mukunda"
       }
     },
     {
-      "id": "madhusudana__vishnu_narayana",
-      "name": {
-        "hi": "मधुसूदन",
-        "en": "Madhusudana"
-      }
-    },
-    {
-      "id": "trivikrama",
+      "id": "vishnu_narayana_trivikrama",
       "name": {
         "hi": "त्रिविक्रम",
         "en": "Trivikrama"
       }
     },
     {
-      "id": "upendra",
+      "id": "vishnu_narayana_upendra",
       "name": {
         "hi": "उपेन्द्र",
         "en": "Upendra"
       }
     },
     {
-      "id": "narasimha__vishnu_narayana",
-      "name": {
-        "hi": "नरसिंह",
-        "en": "Narasimha"
-      }
-    },
-    {
-      "id": "vishnu_narayana",
+      "id": "vishnu_narayana_vishnu_narayana",
       "name": {
         "hi": "विष्णु नारायण",
         "en": "Vishnu Narayana"
       }
     },
     {
-      "id": "jai_shri_vishnu",
+      "id": "vishnu_narayana_jai_shri_vishnu",
       "name": {
         "hi": "जय श्री विष्णु",
         "en": "Jai Shri Vishnu"
       }
     },
     {
-      "id": "shri_vishnu_shri_vishnu",
+      "id": "vishnu_narayana_shri_vishnu_shri_vishnu",
       "name": {
         "hi": "श्री विष्णु श्री विष्णु",
         "en": "Shri Vishnu Shri Vishnu"
       }
     },
     {
-      "id": "vishnu_vishnu",
+      "id": "vishnu_narayana_vishnu_vishnu",
       "name": {
         "hi": "विष्णु विष्णु",
         "en": "Vishnu Vishnu"
       }
     },
     {
-      "id": "narayana_hari",
+      "id": "vishnu_narayana_narayana_hari",
       "name": {
         "hi": "नारायण हरि",
         "en": "Narayana Hari"
       }
     },
     {
-      "id": "hari_narayana",
+      "id": "vishnu_narayana_hari_narayana",
       "name": {
         "hi": "हरि नारायण",
         "en": "Hari Narayana"
       }
     },
     {
-      "id": "shri_hari_narayana",
+      "id": "vishnu_narayana_shri_hari_narayana",
       "name": {
         "hi": "श्री हरि नारायण",
         "en": "Shri Hari Narayana"
       }
     },
     {
-      "id": "jaya_narayana",
+      "id": "vishnu_narayana_jaya_narayana",
       "name": {
         "hi": "जय नारायण",
         "en": "Jaya Narayana"
       }
     },
     {
-      "id": "narayana_narayana_hari_hari",
+      "id": "vishnu_narayana_narayana_narayana_hari_hari",
       "name": {
         "hi": "नारायण नारायण हरि हरि",
         "en": "Narayana Narayana Hari Hari"

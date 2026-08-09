@@ -7,196 +7,154 @@
   },
   "names": [
     {
-      "id": "ram",
+      "id": "ram_ram",
       "name": {
         "hi": "राम",
         "en": "Ram"
       }
     },
     {
-      "id": "shri_ram",
+      "id": "ram_shri_ram",
       "name": {
         "hi": "श्री राम",
         "en": "Shri Ram"
       }
     },
     {
-      "id": "jai_shri_ram",
+      "id": "ram_jai_shri_ram",
       "name": {
         "hi": "जय श्री राम",
         "en": "Jai Shri Ram"
       }
     },
     {
-      "id": "ram_ram",
+      "id": "ram_ram_ram",
       "name": {
         "hi": "राम राम",
         "en": "Ram Ram"
       }
     },
     {
-      "id": "jai_ram",
+      "id": "ram_jai_ram",
       "name": {
         "hi": "जय राम",
         "en": "Jai Ram"
       }
     },
     {
-      "id": "sita_ram",
-      "name": {
-        "hi": "सीताराम",
-        "en": "Sita Ram"
-      }
-    },
-    {
-      "id": "siya_ram",
-      "name": {
-        "hi": "सियाराम",
-        "en": "Siya Ram"
-      }
-    },
-    {
-      "id": "jai_siya_ram",
-      "name": {
-        "hi": "जय सियाराम",
-        "en": "Jai Siya Ram"
-      }
-    },
-    {
-      "id": "shri_ram_jai_ram",
+      "id": "ram_shri_ram_jai_ram_jai_jai_ram",
       "name": {
         "hi": "श्री राम जय राम जय जय राम",
         "en": "Shri Ram Jai Ram Jai Jai Ram"
       }
     },
     {
-      "id": "raghupati_raghav_raja_ram",
+      "id": "ram_raghupati_raghav_rajaram",
       "name": {
         "hi": "रघुपति राघव राजाराम",
         "en": "Raghupati Raghav Rajaram"
       }
     },
     {
-      "id": "raghunath",
+      "id": "ram_raghunath",
       "name": {
         "hi": "रघुनाथ",
         "en": "Raghunath"
       }
     },
     {
-      "id": "raghuveer",
+      "id": "ram_raghuveer",
       "name": {
         "hi": "रघुवीर",
         "en": "Raghuveer"
       }
     },
     {
-      "id": "raghav",
+      "id": "ram_raghav",
       "name": {
         "hi": "राघव",
         "en": "Raghav"
       }
     },
     {
-      "id": "ramachandra",
+      "id": "ram_ramachandra",
       "name": {
         "hi": "रामचन्द्र",
         "en": "Ramachandra"
       }
     },
     {
-      "id": "shri_ramachandra",
+      "id": "ram_shri_ramachandra",
       "name": {
         "hi": "श्री रामचन्द्र",
         "en": "Shri Ramachandra"
       }
     },
     {
-      "id": "raghupati",
+      "id": "ram_raghupati",
       "name": {
         "hi": "रघुपति",
         "en": "Raghupati"
       }
     },
     {
-      "id": "raghunandan",
+      "id": "ram_raghunandan",
       "name": {
         "hi": "रघुनन्दन",
         "en": "Raghunandan"
       }
     },
     {
-      "id": "dasharatha_nandana",
+      "id": "ram_dasharatha_nandana",
       "name": {
         "hi": "दशरथ नन्दन",
         "en": "Dasharatha Nandana"
       }
     },
     {
-      "id": "kausalya_nandana",
+      "id": "ram_kausalya_nandana",
       "name": {
         "hi": "कौसल्या नन्दन",
         "en": "Kausalya Nandana"
       }
     },
     {
-      "id": "janaki_vallabha",
+      "id": "ram_janaki_vallabha",
       "name": {
         "hi": "जानकीवल्लभ",
         "en": "Janaki Vallabha"
       }
     },
     {
-      "id": "shri_sita_ram",
-      "name": {
-        "hi": "श्री सीताराम",
-        "en": "Shri Sita Ram"
-      }
-    },
-    {
-      "id": "jai_shri_sita_ram",
-      "name": {
-        "hi": "जय श्री सीताराम",
-        "en": "Jai Shri Sita Ram"
-      }
-    },
-    {
-      "id": "sita_ram_sita_ram",
-      "name": {
-        "hi": "सीताराम सीताराम",
-        "en": "Sita Ram Sita Ram"
-      }
-    },
-    {
-      "id": "kodanda_rama",
+      "id": "ram_kodanda_rama",
       "name": {
         "hi": "कोदण्ड राम",
         "en": "Kodanda Rama"
       }
     },
     {
-      "id": "ram_lalla",
+      "id": "ram_ram_lalla",
       "name": {
         "hi": "रामलला",
         "en": "Ram Lalla"
       }
     },
     {
-      "id": "maryada_purushottama",
+      "id": "ram_maryada_purushottama",
       "name": {
         "hi": "मर्यादा पुरुषोत्तम",
         "en": "Maryada Purushottama"
       }
     },
     {
-      "id": "ram_krishna",
+      "id": "ram_ram_krishna",
       "name": {
         "hi": "राम कृष्ण",
         "en": "Ram Krishna"
       }
     },
     {
-      "id": "ram_krishna_hari",
+      "id": "ram_ram_krishna_hari",
       "name": {
         "hi": "राम कृष्ण हरी",
         "en": "Ram Krishna Hari"

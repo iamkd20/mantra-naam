@@ -7,189 +7,189 @@
   },
   "names": [
     {
-      "id": "narasimha",
+      "id": "narasimha_narasimha",
       "name": {
         "hi": "नरसिंह",
         "en": "Narasimha"
       }
     },
     {
-      "id": "shri_narasimha",
+      "id": "narasimha_shri_narasimha",
       "name": {
         "hi": "श्री नरसिंह",
         "en": "Shri Narasimha"
       }
     },
     {
-      "id": "narsimha",
+      "id": "narasimha_nrisimha",
       "name": {
         "hi": "नृसिंह",
         "en": "Nrisimha"
       }
     },
     {
-      "id": "ugra_narasimha",
+      "id": "narasimha_ugra_narasimha",
       "name": {
         "hi": "उग्र नरसिंह",
         "en": "Ugra Narasimha"
       }
     },
     {
-      "id": "lakshmi_narasimha",
+      "id": "narasimha_lakshmi_narasimha",
       "name": {
         "hi": "लक्ष्मी नरसिंह",
         "en": "Lakshmi Narasimha"
       }
     },
     {
-      "id": "shri_lakshmi_narasimha",
+      "id": "narasimha_shri_lakshmi_narasimha",
       "name": {
         "hi": "श्री लक्ष्मी नरसिंह",
         "en": "Shri Lakshmi Narasimha"
       }
     },
     {
-      "id": "jai_narasimha",
+      "id": "narasimha_jai_narasimha",
       "name": {
         "hi": "जय नरसिंह",
         "en": "Jai Narasimha"
       }
     },
     {
-      "id": "jai_shri_narasimha",
+      "id": "narasimha_jai_shri_narasimha",
       "name": {
         "hi": "जय श्री नरसिंह",
         "en": "Jai Shri Narasimha"
       }
     },
     {
-      "id": "narasimha_narasimha",
+      "id": "narasimha_narasimha_narasimha",
       "name": {
         "hi": "नरसिंह नरसिंह",
         "en": "Narasimha Narasimha"
       }
     },
     {
-      "id": "namo_narasimhaya",
+      "id": "narasimha_namo_narasimhaya",
       "name": {
         "hi": "नमो नरसिंहाय",
         "en": "Namo Narasimhaya"
       }
     },
     {
-      "id": "om_namo_narasimhaya",
+      "id": "narasimha_om_namo_narasimhaya",
       "name": {
         "hi": "ॐ नमो नरसिंहाय",
         "en": "Om Namo Narasimhaya"
       }
     },
     {
-      "id": "narasimhaya_namah",
+      "id": "narasimha_narasimhaya_namah",
       "name": {
         "hi": "नरसिंहाय नमः",
         "en": "Narasimhaya Namah"
       }
     },
     {
-      "id": "vira_narasimha",
+      "id": "narasimha_vira_narasimha",
       "name": {
         "hi": "वीर नरसिंह",
         "en": "Vira Narasimha"
       }
     },
     {
-      "id": "jwala_narasimha",
+      "id": "narasimha_jwala_narasimha",
       "name": {
         "hi": "ज्वाला नरसिंह",
         "en": "Jwala Narasimha"
       }
     },
     {
-      "id": "yoga_narasimha",
+      "id": "narasimha_yoga_narasimha",
       "name": {
         "hi": "योग नरसिंह",
         "en": "Yoga Narasimha"
       }
     },
     {
-      "id": "bhargava_narasimha",
+      "id": "narasimha_bhargava_narasimha",
       "name": {
         "hi": "भार्गव नरसिंह",
         "en": "Bhargava Narasimha"
       }
     },
     {
-      "id": "prahlada_varada",
+      "id": "narasimha_prahlada_varada",
       "name": {
         "hi": "प्रह्लादवरद",
         "en": "Prahlada Varada"
       }
     },
     {
-      "id": "prahlada_priya",
+      "id": "narasimha_prahlada_priya",
       "name": {
         "hi": "प्रह्लादप्रिय",
         "en": "Prahlada Priya"
       }
     },
     {
-      "id": "hiranyakashipu_mardana",
+      "id": "narasimha_hiranyakashipu_mardana",
       "name": {
         "hi": "हिरण्यकशिपुमर्दन",
         "en": "Hiranyakashipu Mardana"
       }
     },
     {
-      "id": "bhakta_vatsala_narasimha",
+      "id": "narasimha_bhakta_vatsala_narasimha",
       "name": {
         "hi": "भक्तवत्सल नरसिंह",
         "en": "Bhakta Vatsala Narasimha"
       }
     },
     {
-      "id": "hari_narasimha",
+      "id": "narasimha_hari_narasimha",
       "name": {
         "hi": "हरि नरसिंह",
         "en": "Hari Narasimha"
       }
     },
     {
-      "id": "narahari",
+      "id": "narasimha_narahari",
       "name": {
         "hi": "नरहरि",
         "en": "Narahari"
       }
     },
     {
-      "id": "shri_narahari",
+      "id": "narasimha_shri_narahari",
       "name": {
         "hi": "श्री नरहरि",
         "en": "Shri Narahari"
       }
     },
     {
-      "id": "simhavadana",
+      "id": "narasimha_simhavadana",
       "name": {
         "hi": "सिंहवदन",
         "en": "Simhavadana"
       }
     },
     {
-      "id": "simhamukha",
+      "id": "narasimha_simhamukha",
       "name": {
         "hi": "सिंहमुख",
         "en": "Simhamukha"
       }
     },
     {
-      "id": "nrisimhadeva",
+      "id": "narasimha_nrisimhadeva",
       "name": {
         "hi": "नृसिंहदेव",
         "en": "Nrisimhadeva"
       }
     },
     {
-      "id": "lakshmi_narasimha_swami",
+      "id": "narasimha_lakshmi_narasimha_swami",
       "name": {
         "hi": "लक्ष्मी नरसिंह स्वामी",
         "en": "Lakshmi Narasimha Swami"

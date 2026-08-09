@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "category": "guru_nanak",
+  "title": {
+    "hi": "गुरु नानक",
+    "en": "Guru Nanak"
+  },
+  "names": [
+    {
+      "id": "guru_nanak_waheguru",
+      "name": {
+        "hi": "वाहेगुरु",
+        "en": "Waheguru"
+      }
+    },
+    {
+      "id": "guru_nanak_satnam",
+      "name": {
+        "hi": "सतनाम",
+        "en": "Satnam"
+      }
+    },
+    {
+      "id": "guru_nanak_satnam_waheguru",
+      "name": {
+        "hi": "सतनाम वाहेगुरु",
+        "en": "Satnam Waheguru"
+      }
+    },
+    {
+      "id": "guru_nanak_ik_onkar",
+      "name": {
+        "hi": "ੴ",
+        "en": "Ik Onkar"
+      }
+    },
+    {
+      "id": "guru_nanak_guru_nanak_dev_ji",
+      "name": {
+        "hi": "गुरु नानक देव जी",
+        "en": "Guru Nanak Dev Ji"
+      }
+    }
+  ]
+}

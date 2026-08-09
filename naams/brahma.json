@@ -7,49 +7,49 @@
   },
   "names": [
     {
-      "id": "brahma",
+      "id": "brahma_brahma",
       "name": {
         "hi": "ब्रह्मा",
         "en": "Brahma"
       }
     },
     {
-      "id": "brahma_deva",
+      "id": "brahma_brahma_deva",
       "name": {
         "hi": "ब्रह्मा देव",
         "en": "Brahma Deva"
       }
     },
     {
-      "id": "prajapati",
+      "id": "brahma_prajapati",
       "name": {
         "hi": "प्रजापति",
         "en": "Prajapati"
       }
     },
     {
-      "id": "pitamaha",
+      "id": "brahma_pitamaha",
       "name": {
         "hi": "पितामह",
         "en": "Pitamaha"
       }
     },
     {
-      "id": "chaturmukha",
+      "id": "brahma_chaturmukha",
       "name": {
         "hi": "चतुर्मुख",
         "en": "Chaturmukha"
       }
     },
     {
-      "id": "vedanatha",
+      "id": "brahma_vedanatha",
       "name": {
         "hi": "वेदनाथ",
         "en": "Vedanatha"
       }
     },
     {
-      "id": "kamalasana",
+      "id": "brahma_kamalasana",
       "name": {
         "hi": "कमलासन",
         "en": "Kamalasana"
