@@ -1,80 +1,14 @@
 {
-  "version": 2,
-  "category": "shiva_parvati",
-  "title": {
-    "hi": "शिव पार्वती",
-    "en": "Shiva Parvati"
-  },
-  "names": [
-    {
-      "id": "uma_maheshwara_mantra",
-      "name": {
-        "hi": "उमा महेश्वर मंत्र",
-        "en": "Uma Maheshwara Mantra"
-      }
-    },
-    {
-      "id": "gauri_shankar_mantra",
-      "name": {
-        "hi": "गौरी शंकर मंत्र",
-        "en": "Gauri Shankar Mantra"
-      }
-    },
-    {
-      "id": "uma_maheshwara_gayatri",
-      "name": {
-        "hi": "उमा महेश्वर गायत्री मंत्र",
-        "en": "Uma Maheshwara Gayatri Mantra"
-      }
-    },
-    {
-      "id": "shiva_parvati_mantra",
-      "name": {
-        "hi": "शिव पार्वती मंत्र",
-        "en": "Shiva Parvati Mantra"
-      }
-    },
-    {
-      "id": "har_gauri_mantra",
-      "name": {
-        "hi": "हर गौरी मंत्र",
-        "en": "Hara Gauri Mantra"
-      }
-    },
-    {
-      "id": "parvati_shiva_namah",
-      "name": {
-        "hi": "पार्वती शिव मंत्र",
-        "en": "Parvati Shiva Mantra"
-      }
-    },
-    {
-      "id": "shiva_shakti_mantra",
-      "name": {
-        "hi": "शिव शक्ति मंत्र",
-        "en": "Shiva Shakti Mantra"
-      }
-    },
-    {
-      "id": "giri_nandini_shiva_parvati",
-      "name": {
-        "hi": "गिरिजा शंकर मंत्र",
-        "en": "Girija Shankar Mantra"
-      }
-    },
-    {
-      "id": "girishwara_gauri_mantra",
-      "name": {
-        "hi": "गौरीपति मंत्र",
-        "en": "Gauripati Mantra"
-      }
-    },
-    {
-      "id": "shiva_parvati_smaran_mantra",
-      "name": {
-        "hi": "शिव पार्वती स्मरण मंत्र",
-        "en": "Shiva Parvati Smaran Mantra"
-      }
-    }
+  "files": [
+    "gauri_shankar_mantra.json",
+    "giri_nandini_shiva_parvati.json",
+    "girishwara_gauri_mantra.json",
+    "har_gauri_mantra.json",
+    "parvati_shiva_namah.json",
+    "shiva_parvati_mantra.json",
+    "shiva_parvati_smaran_mantra.json",
+    "shiva_shakti_mantra.json",
+    "uma_maheshwara_gayatri.json",
+    "uma_maheshwara_mantra.json"
   ]
 }
