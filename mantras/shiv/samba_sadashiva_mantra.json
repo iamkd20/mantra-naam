@@ -54,6 +54,30 @@
         "en": []
       },
       "audio": "samba_sadashiva_short.mp3"
+    },
+    {
+      "id": "samba_sadashiva_half_m",
+      "title": {
+        "hi": "साम्ब सदाशिव मंत्र",
+        "en": "Samba Sadashiva Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ साम्ब सदाशिवाय नमः ॥",
+        "en": "Om Samba Sadashivaya Namah."
+      },
+      "description": {
+        "hi": "यह 'साम्ब' (आधा म) वर्तनी के साथ सांब सदाशिव का एक और प्रचलित रूप है।",
+        "en": "This is another popular spelling variation of the Samba Sadashiva mantra."
+      },
+      "meaning": {
+        "hi": "माता अंबा (पार्वती) सहित सदाशिव को नमन।",
+        "en": "Salutations to Sadashiva along with Mother Amba (Parvati)."
+      },
+      "keywords": {
+        "hi": [],
+        "en": []
+      },
+      "audio": "samba_sadashiva.mp3"
     }
   ]
 }
