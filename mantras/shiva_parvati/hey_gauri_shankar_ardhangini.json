@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "hey_gauri_shankar_ardhangini",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "हे गौरी शंकर अर्धांगिनी मंत्र",
+    "en": "Hey Gauri Shankar Ardhangini Mantra"
+  },
+  "mantras": [
+    {
+      "id": "hey_gauri_shankar_ardhangini",
+      "title": {
+        "hi": "हे गौरी शंकर अर्धांगिनी मंत्र",
+        "en": "Hey Gauri Shankar Ardhangini Mantra"
+      },
+      "mantra": {
+        "hi": "हे गौरी शंकर अर्धांगिनी यथा त्वं शंकर प्रिया, तथा माम कुरु कल्याणी कांतकांता सुदुर्लाभाम्॥",
+        "en": "Hey Gauri Shankar Ardhangini Yatha Tvam Shankar Priya, Tatha Mam Kuru Kalyani Kantakanta Sudurlabham."
+      },
+      "description": {
+        "hi": "मनचाहे वर की प्राप्ति के लिए शिव-पार्वती का एक सिद्ध और अत्यंत फलदायी मंत्र।",
+        "en": "A proven and highly fruitful mantra of Shiva-Parvati chanted by women to attain a desired and virtuous husband."
+      },
+      "meaning": {
+        "hi": "हे माता गौरी, शंकर की अर्धांगिनी! जिस प्रकार आप भगवान शिव की प्रिय हैं, उसी प्रकार हे कल्याणी, मुझे भी मेरे मनचाहे और सुदुर्लभ वर का प्रेम और सान्निध्य प्रदान करें।",
+        "en": "O Goddess Gauri, the half of Lord Shankar! Just as you are beloved to Lord Shiva, O Kalyani, bless me similarly with the love and companionship of a rare and desired husband."
+      },
+      "keywords": {
+        "hi": [
+          "मनचाहा वर मंत्र",
+          "गौरी शंकर अर्धांगिनी",
+          "विवाह मंत्र"
+        ],
+        "en": [
+          "desired husband mantra",
+          "gauri shankar ardhangini",
+          "marriage mantra"
+        ]
+      },
+      "audio": "hey_gauri_shankar_ardhangini.mp3"
+    }
+  ]
+}

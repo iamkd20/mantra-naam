@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "om_namah_parvati_pataye_har_har_mahadev",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "ॐ नमः पार्वती पतये हर हर महादेव",
+    "en": "Om Namah Parvati Pataye Har Har Mahadev"
+  },
+  "mantras": [
+    {
+      "id": "om_namah_parvati_pataye_har_har_mahadev",
+      "title": {
+        "hi": "ॐ नमः पार्वती पतये हर हर महादेव",
+        "en": "Om Namah Parvati Pataye Har Har Mahadev"
+      },
+      "mantra": {
+        "hi": "ॐ नमः पार्वती पतये हर हर महादेव ॥",
+        "en": "Om Namah Parvati Pataye Har Har Mahadev."
+      },
+      "description": {
+        "hi": "शिव-पार्वती की सामूहिक स्तुति का यह एक अत्यंत ऊर्जावान और प्रसिद्ध उद्घोष (जयकारा) है।",
+        "en": "This is an extremely energetic and famous invocation (jaikara) celebrating the collective glory of Shiva and Parvati."
+      },
+      "meaning": {
+        "hi": "माता पार्वती के पति भगवान शिव को नमस्कार है। महादेव (जो सब कष्टों को हरने वाले हैं) की जय हो।",
+        "en": "Salutations to Lord Shiva, the husband of Mother Parvati. Victory to Mahadeva (the one who removes all sufferings)."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ नमः पार्वती पतये हर हर महादेव",
+          "हर हर महादेव"
+        ],
+        "en": [
+          "om namah parvati pataye har har mahadev",
+          "har har mahadev"
+        ]
+      },
+      "audio": "om_namah_parvati_pataye_har_har_mahadev.mp3"
+    }
+  ]
+}
