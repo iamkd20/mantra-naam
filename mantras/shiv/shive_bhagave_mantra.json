@@ -1,21 +1,39 @@
 {
+  "version": 1,
   "id": "shiva_shive_bhagave",
+  "category": "shiva",
   "title": {
     "hi": "शिवे भगवे मंत्र",
     "en": "Shive Bhagave Mantra"
   },
-  "mantra": {
-    "hi": "ॐ शिवे भगवे भगे-भगे भगं|\nक्षोभय-क्षोभय-मोहय-मोहय||\nछादय-छादय, क्लेदय-क्लेदय|\nक्लीं शरीरे ॐ फट् स्वाहा||",
-    "en": "Om Shive Bhagave Bhage-Bhage Bhagam |\nKshobhaya-Kshobhaya-Mohaya-Mohaya ||\nChhaadaya-Chhaadaya, Kledaya-Kledaya |\nKleem Shareere Om Phat Swaahaa ||",
-    "sa": "ॐ शिवे भगवे भगे-भगे भगं|\nक्षोभय-क्षोभय-मोहय-मोहय||\nछादय-छादय, क्लेदय-क्लेदय|\nक्लीं शरीरे ॐ फट् स्वाहा||"
-  },
-  "meaning": {
-    "hi": "यह भगवान शिव का एक तीव्र तांत्रिक वशीकरण और आकर्षण मंत्र है। (क्षोभय = मन को आंदोलित करें, मोहय = मोहित करें, छादय = आवरण करें, क्लेदय = पिघलाएं)।",
-    "en": "This is an intense Tantrik Vashikaran (attraction) mantra of Lord Shiva. (Kshobhaya = Agitate/Stir the mind, Mohaya = Infatuate, Chhadaya = Envelop, Kledaya = Melt/Moisten)."
-  },
-  "deity": "shiva",
-  "benefits": {
-    "hi": "प्रबल मानसिक शक्ति, नकारात्मक शक्तियों से सुरक्षा, और सम्मोहन शक्ति की प्राप्ति।",
-    "en": "Attainment of strong mental power, protection from negative energies, and hypnotic influence."
-  }
+  "mantras": [
+    {
+      "id": "shiva_shive_bhagave",
+      "title": {
+        "hi": "शिवे भगवे मंत्र",
+        "en": "Shive Bhagave Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शिवे भगवे भगे-भगे भगं|\nक्षोभय-क्षोभय-मोहय-मोहय||\nछादय-छादय, क्लेदय-क्लेदय|\nक्लीं शरीरे ॐ फट् स्वाहा||",
+        "en": "Om Shive Bhagave Bhage-Bhage Bhagam |\nKshobhaya-Kshobhaya-Mohaya-Mohaya ||\nChhaadaya-Chhaadaya, Kledaya-Kledaya |\nKleem Shareere Om Phat Swaahaa ||"
+      },
+      "description": {
+        "hi": "यह भगवान शिव का एक तीव्र तांत्रिक वशीकरण और आकर्षण मंत्र है। (क्षोभय = मन को आंदोलित करें, मोहय = मोहित करें, छादय = आवरण करें, क्लेदय = पिघलाएं)।",
+        "en": "This is an intense Tantrik Vashikaran (attraction) mantra of Lord Shiva. (Kshobhaya = Agitate/Stir the mind, Mohaya = Infatuate, Chhadaya = Envelop, Kledaya = Melt/Moisten)."
+      },
+      "meaning": {
+        "hi": "हे शिवे! हे भगवे! मन को आंदोलित करें, मोहित करें, आवरण करें, और पिघलाएं। (यह शिव का एक तीव्र तांत्रिक मंत्र है)।",
+        "en": "O Shive! O Bhagave! Agitate the mind, infatuate, envelop, and melt it. (This is an intense Tantric mantra of Lord Shiva)."
+      },
+      "keywords": {
+        "hi": [
+          "शिवे भगवे मंत्र"
+        ],
+        "en": [
+          "Shive Bhagave Mantra"
+        ]
+      },
+      "audio": "shiva_shive_bhagave.mp3"
+    }
+  ]
 }

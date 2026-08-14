@@ -1,20 +1,41 @@
 {
-  "id": "shiva_om_haum_namah_shivaya",
+  "version": 1,
+  "id": "om_haum_namah_shivaya",
+  "category": "shiva",
   "title": {
     "hi": "ॐ हौं नमः शिवाय",
     "en": "Om Haum Namah Shivaya"
   },
-  "mantra": {
-    "sa": "ॐ हौं नमः शिवाय ॥",
-    "en": "Om Haum Namah Shivaya."
-  },
-  "meaning": {
-    "hi": "भगवान शिव को नमस्कार। 'हौं' शिव का बीज मंत्र है जो आध्यात्मिक शक्ति और चेतना को जागृत करता है।",
-    "en": "Salutations to Lord Shiva. 'Haum' is the seed (bija) mantra of Shiva, awakening spiritual power and consciousness."
-  },
-  "deity": "shiva",
-  "benefits": {
-    "hi": "आंतरिक शांति, आध्यात्मिक शक्ति, और ध्यान में गहराई प्राप्त होती है।",
-    "en": "Brings inner peace, spiritual power, and deepens meditative focus."
-  }
+  "mantras": [
+    {
+      "id": "om_haum_namah_shivaya",
+      "title": {
+        "hi": "ॐ हौं नमः शिवाय",
+        "en": "Om Haum Namah Shivaya"
+      },
+      "mantra": {
+        "hi": "ॐ हौं नमः शिवाय ॥",
+        "en": "Om Haum Namah Shivaya."
+      },
+      "description": {
+        "hi": "यह भगवान शिव का एक शक्तिशाली बीज मंत्र युक्त जप है।",
+        "en": "A powerful Shiva mantra containing the Haum beej."
+      },
+      "meaning": {
+        "hi": "शिव को नमन।",
+        "en": "Salutations to Shiva."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ हौं नमः शिवाय",
+          "शिव"
+        ],
+        "en": [
+          "Om हौं नमः शिवाय",
+          "शिव"
+        ]
+      },
+      "audio": "om_haum_namah_shivaya.mp3"
+    }
+  ]
 }

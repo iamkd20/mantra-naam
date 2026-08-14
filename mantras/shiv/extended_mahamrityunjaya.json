@@ -1,20 +1,41 @@
 {
-  "id": "shiva_extended_mahamrityunjaya",
+  "version": 1,
+  "id": "extended_mahamrityunjaya",
+  "category": "shiva",
   "title": {
-    "hi": "सम्पूर्ण महामृत्युंजय मंत्र",
+    "hi": "विस्तृत महामृत्युंजय मंत्र",
     "en": "Extended Mahamrityunjaya Mantra"
   },
-  "mantra": {
-    "sa": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥",
-    "en": "Om Haum Joom Sah Om Bhur Bhuvah Swah Om Tryambakam Yajamahe Sugandhim Pushtivardhanam, Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat Om Swah Bhuvah Bhuh Om Sah Joom Haum Om."
-  },
-  "meaning": {
-    "hi": "संपुट युक्त यह सम्पूर्ण महामृत्युंजय मंत्र अकाल मृत्यु को टालने और गंभीर रोगों से रक्षा करने वाला परम शक्तिशाली तांत्रिक और वैदिक मंत्र है।",
-    "en": "This is the complete, encapsulated (Samput) form of the Mahamrityunjaya Mantra. It is an extremely powerful Vedic-Tantrik chant used for averting untimely death and severe illnesses."
-  },
-  "deity": "shiva",
-  "benefits": {
-    "hi": "अकाल मृत्यु से रक्षा, उत्तम स्वास्थ्य, और पूर्ण सुरक्षा।",
-    "en": "Protection from untimely death, excellent health, and complete protection."
-  }
+  "mantras": [
+    {
+      "id": "extended_mahamrityunjaya",
+      "title": {
+        "hi": "विस्तृत महामृत्युंजय मंत्र",
+        "en": "Extended Mahamrityunjaya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥",
+        "en": "Om Haum Joom Sah Om Bhurbhuvah Swah Om Tryambakam Yajamahe Sugandhim Pushtivardhanam, Urvarukamiva Bandhanan Mrityormukshiya Maamritat Om Swah Bhuvah Bhuh Om Sah Joom Haum Om."
+      },
+      "description": {
+        "hi": "संपुट सहित विस्तृत महामृत्युंजय मंत्र।",
+        "en": "Extended Mahamrityunjaya mantra with Samput."
+      },
+      "meaning": {
+        "hi": "हम तीन नेत्रों वाले भगवान शिव की उपासना करते हैं, जो सुगंध के समान सर्वत्र व्याप्त हैं और समस्त प्राणियों का पालन-पोषण करते हैं। जैसे पका हुआ फल सहज रूप से अपने बन्धन से अलग हो जाता है, वैसे ही हम मृत्यु और बन्धनों से मुक्त होकर अमृतस्वरूप परम कल्याण को प्राप्त हों।",
+        "en": "We worship the three-eyed Lord Shiva, who nourishes and sustains all beings. Just as a ripe fruit naturally separates from its stem, may we be liberated from bondage and death, and attain immortality in the spiritual sense."
+      },
+      "keywords": {
+        "hi": [
+          "महामृत्युंजय",
+          "त्र्यम्बक"
+        ],
+        "en": [
+          "महामृत्युंजय",
+          "त्र्यम्बक"
+        ]
+      },
+      "audio": "extended_mahamrityunjaya.mp3"
+    }
+  ]
 }
