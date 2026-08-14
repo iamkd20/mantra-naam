@@ -1,43 +1,20 @@
 {
-  "version": 1,
-  "id": "kedarnath_mantra",
-  "category": "shiva",
+  "id": "shiva_kedarnath_mantra",
   "title": {
     "hi": "केदारनाथ मंत्र",
     "en": "Kedarnath Mantra"
   },
-  "mantras": [
-    {
-      "id": "kedarnath_mantra",
-      "title": {
-        "hi": "केदारनाथ मंत्र",
-        "en": "Kedarnath Mantra"
-      },
-      "mantra": {
-        "hi": "ॐ केदारनाथाय नमः ॥",
-        "en": "Om Kedarnathaya Namah."
-      },
-      "description": {
-        "hi": "बारह ज्योतिर्लिंगों में से एक, श्री केदारनाथ को समर्पित।",
-        "en": "Dedicated to Shri Kedarnath, one of the 12 Jyotirlingas."
-      },
-      "meaning": {
-        "hi": "केदारनाथ को नमन।",
-        "en": "Salutations to Kedarnath."
-      },
-      "keywords": {
-        "hi": [
-          "केदारनाथ",
-          "जय श्री केदार",
-          "बाबा केदार"
-        ],
-        "en": [
-          "केदारनाथ",
-          "जय श्री केदार",
-          "बाबा केदार"
-        ]
-      },
-      "audio": "kedarnath_mantra.mp3"
-    }
-  ]
+  "mantra": {
+    "sa": "ॐ केदारनाथाय नमः ॥",
+    "en": "Om Kedarnathaya Namah."
+  },
+  "meaning": {
+    "hi": "हिमालय में विराजित ज्योतिर्लिंग स्वरूप भगवान केदारनाथ को नमन।",
+    "en": "Salutations to Lord Kedarnath, the Jyotirlinga enshrined in the Himalayas."
+  },
+  "deity": "shiva",
+  "benefits": {
+    "hi": "पापों का नाश और केदारनाथ की कृपा प्राप्ति।",
+    "en": "Destruction of sins and attainment of Lord Kedarnath's grace."
+  }
 }

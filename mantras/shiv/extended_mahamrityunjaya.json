@@ -1,69 +1,20 @@
 {
-  "version": 1,
-  "id": "extended_mahamrityunjaya",
-  "category": "shiva",
+  "id": "shiva_extended_mahamrityunjaya",
   "title": {
-    "hi": "विस्तृत महामृत्युंजय मंत्र",
+    "hi": "सम्पूर्ण महामृत्युंजय मंत्र",
     "en": "Extended Mahamrityunjaya Mantra"
   },
-  "mantras": [
-    {
-      "id": "extended_mahamrityunjaya",
-      "title": {
-        "hi": "विस्तृत महामृत्युंजय मंत्र",
-        "en": "Extended Mahamrityunjaya Mantra"
-      },
-      "mantra": {
-        "hi": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥",
-        "en": "Om Haum Joom Sah Om Bhurbhuvah Swah Om Tryambakam Yajamahe Sugandhim Pushtivardhanam, Urvarukamiva Bandhanan Mrityormukshiya Maamritat Om Swah Bhuvah Bhuh Om Sah Joom Haum Om."
-      },
-      "description": {
-        "hi": "संपुट सहित विस्तृत महामृत्युंजय मंत्र।",
-        "en": "Extended Mahamrityunjaya mantra with Samput."
-      },
-      "meaning": {
-        "hi": "मृत्युंजय शिव को नमन।",
-        "en": "Salutations to Mrityunjaya."
-      },
-      "keywords": {
-        "hi": [
-          "महामृत्युंजय",
-          "त्र्यम्बक"
-        ],
-        "en": [
-          "महामृत्युंजय",
-          "त्र्यम्बक"
-        ]
-      },
-      "audio": "extended_mahamrityunjaya.mp3"
-    },
-    {
-      "id": "tantrik_mahamrityunjaya_mantra",
-      "title": {
-        "hi": "तांत्रिक महामृत्युंजय मंत्र",
-        "en": "Tantrik Mahamrityunjaya Mantra"
-      },
-      "mantra": {
-        "hi": "ॐ हौं जूं सः त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् उर्वारुकमिव बन्धनान्मृत्योर्मोक्षीय मामृतात् ॐ हौं ॐ जूं ॐ सौं ॥",
-        "en": "Om Haum Joom Sah Tryambakam Yajamahe Sugandhim Pushtivardhanam, Urvarukamiva Bandhanan Mrityormokshiya Maamritat Om Haum Om Joom Om Saum."
-      },
-      "description": {
-        "hi": "यह एक विशेष तांत्रिक महामृत्युंजय मंत्र है जो गंभीर संकटों और रोगों से मुक्ति के लिए अत्यंत शक्तिशाली माना जाता है।",
-        "en": "This is a special Tantrik Mahamrityunjaya mantra considered extremely powerful for liberation from severe crises and diseases."
-      },
-      "meaning": {
-        "hi": "त्र्यंबक शिव को प्रणाम, जो मृत्यु से रक्षा करते हैं।",
-        "en": "Salutations to the three-eyed Lord Shiva, who protects from death."
-      },
-      "keywords": {
-        "hi": [
-          "महामृत्युंजय"
-        ],
-        "en": [
-          "Mahamrityunjaya"
-        ]
-      },
-      "audio": "tantrik_mahamrityunjaya.mp3"
-    }
-  ]
+  "mantra": {
+    "sa": "ॐ हौं जूं सः ॐ भूर्भुवः स्वः ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् । उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात् ॐ स्वः भुवः भूः ॐ सः जूं हौं ॐ ॥",
+    "en": "Om Haum Joom Sah Om Bhur Bhuvah Swah Om Tryambakam Yajamahe Sugandhim Pushtivardhanam, Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat Om Swah Bhuvah Bhuh Om Sah Joom Haum Om."
+  },
+  "meaning": {
+    "hi": "संपुट युक्त यह सम्पूर्ण महामृत्युंजय मंत्र अकाल मृत्यु को टालने और गंभीर रोगों से रक्षा करने वाला परम शक्तिशाली तांत्रिक और वैदिक मंत्र है।",
+    "en": "This is the complete, encapsulated (Samput) form of the Mahamrityunjaya Mantra. It is an extremely powerful Vedic-Tantrik chant used for averting untimely death and severe illnesses."
+  },
+  "deity": "shiva",
+  "benefits": {
+    "hi": "अकाल मृत्यु से रक्षा, उत्तम स्वास्थ्य, और पूर्ण सुरक्षा।",
+    "en": "Protection from untimely death, excellent health, and complete protection."
+  }
 }
