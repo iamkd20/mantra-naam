@@ -1,20 +1,43 @@
 {
-  "id": "shiva_bhairava_mantra",
+  "version": 1,
+  "id": "bhairava_mantra",
+  "category": "shiva",
   "title": {
     "hi": "भैरव मंत्र",
     "en": "Bhairava Mantra"
   },
-  "mantra": {
-    "sa": "ॐ भैरवाय नमः ॥",
-    "en": "Om Bhairavaya Namah."
-  },
-  "meaning": {
-    "hi": "भगवान भैरव को नमन, जो भय का नाश करते हैं और समय के स्वामी हैं।",
-    "en": "Salutations to Lord Bhairava, the destroyer of fear and the Lord of time."
-  },
-  "deity": "shiva",
-  "benefits": {
-    "hi": "सुरक्षा, साहस, और नकारात्मक शक्तियों से मुक्ति।",
-    "en": "Provides protection, courage, and liberation from negative energies."
-  }
+  "mantras": [
+    {
+      "id": "bhairava_mantra",
+      "title": {
+        "hi": "भैरव मंत्र",
+        "en": "Bhairava Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भैरवाय नमः ॥",
+        "en": "Om Bhairavaya Namah."
+      },
+      "description": {
+        "hi": "भगवान शिव के उग्र स्वरूप भैरव को समर्पित।",
+        "en": "Dedicated to Bhairava, the fierce form of Lord Shiva."
+      },
+      "meaning": {
+        "hi": "भैरव को नमन।",
+        "en": "Salutations to Bhairava."
+      },
+      "keywords": {
+        "hi": [
+          "भैरव",
+          "काल भैरव",
+          "भैरवनाथ"
+        ],
+        "en": [
+          "भैरव",
+          "काल भैरव",
+          "भैरवनाथ"
+        ]
+      },
+      "audio": "bhairava_mantra.mp3"
+    }
+  ]
 }
