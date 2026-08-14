@@ -42,25 +42,6 @@
         ]
       },
       "audio": "gauri_shankar_mantra.mp3"
-    },
-    {
-      "id": "gauri_shankar_mantra_hreem",
-      "title": {
-        "hi": "ह्रीं गौरी शंकर मंत्र",
-        "en": "Hreem Gauri Shankar Mantra"
-      },
-      "mantra": {
-        "hi": "ॐ ह्रीं गौरीशंकराय नमः",
-        "en": "Om Hreem Gauri Shankaraya Namah."
-      },
-      "description": {
-        "hi": "यह गौरी शंकर मंत्र 'ह्रीं' बीज मंत्र के साथ जपा जाता है जो शक्ति का प्रतीक है।",
-        "en": "This Gauri Shankar mantra is chanted with the 'Hreem' seed mantra, symbolizing divine energy."
-      },
-      "meaning": {
-        "hi": "शक्ति स्वरूपा गौरी और भगवान शंकर को नमन।",
-        "en": "Salutations to Lord Shankar and Goddess Gauri, the embodiment of power."
-      }
     }
   ]
 }

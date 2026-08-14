@@ -1,35 +1,20 @@
 {
-  "version": 1,
   "id": "shiva_karpuragauram",
-  "category": "shiva",
   "title": {
     "hi": "कर्पूरगौरं करुणावतारम्",
     "en": "Karpuragauram Karunavataram"
   },
-  "mantras": [
-    {
-      "id": "shiva_karpuragauram",
-      "title": {
-        "hi": "कर्पूरगौरं करुणावतारम्",
-        "en": "Karpuragauram Karunavataram"
-      },
-      "mantra": {
-        "hi": "कर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि॥",
-        "en": "Karpura-gauram Karuna-avataram Samsara-saram Bhujagendra-haram |\nSada vasantam Hridaya-aravinde Bhavam Bhavani-sahitam Namami ||"
-      },
-      "description": {
-        "hi": "जो कर्पूर के समान गौर वर्ण वाले हैं, करुणा के अवतार हैं, जो संसार के सार हैं, और भुजंगों (सांपों) का हार धारण करते हैं। जो सदैव मेरे हृदय रूपी कमल में निवास करते हैं, उन भगवान शिव को माता भवानी सहित मैं प्रणाम करता हूँ।",
-        "en": "I bow to that Lord Shiva, who is as white as camphor, who is the incarnation of compassion, who is the essence of this world, who wears a garland of serpents. Who always resides in the lotus of my heart, I bow to that Lord Shiva along with Goddess Bhavani."
-      },
-      "meaning": {
-        "hi": "भगवान शिव और माता पार्वती की कृपा प्राप्त होती है, मन को शांति और सकारात्मक ऊर्जा मिलती है।",
-        "en": "Brings the blessings of Lord Shiva and Goddess Parvati, provides peace of mind and positive energy."
-      },
-      "keywords": {
-        "hi": [],
-        "en": []
-      },
-      "audio": "shiva_karpuragauram.mp3"
-    }
-  ]
+  "mantra": {
+    "hi": "कर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम्।\nसदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि॥",
+    "en": "Karpura-gauram Karuna-avataram Samsara-saram Bhujagendra-haram |\nSada vasantam Hridaya-aravinde Bhavam Bhavani-sahitam Namami ||"
+  },
+  "meaning": {
+    "hi": "जो कर्पूर के समान गौर वर्ण वाले हैं, करुणा के अवतार हैं, जो संसार के सार हैं, और भुजंगों (सांपों) का हार धारण करते हैं। जो सदैव मेरे हृदय रूपी कमल में निवास करते हैं, उन भगवान शिव को माता भवानी सहित मैं प्रणाम करता हूँ।",
+    "en": "I bow to that Lord Shiva, who is as white as camphor, who is the incarnation of compassion, who is the essence of this world, who wears a garland of serpents. Who always resides in the lotus of my heart, I bow to that Lord Shiva along with Goddess Bhavani."
+  },
+  "deity": "shiva",
+  "benefits": {
+    "hi": "भगवान शिव और माता पार्वती की कृपा प्राप्त होती है, मन को शांति और सकारात्मक ऊर्जा मिलती है।",
+    "en": "Brings the blessings of Lord Shiva and Goddess Parvati, provides peace of mind and positive energy."
+  }
 }

@@ -1,59 +1,20 @@
 {
-  "version": 1,
   "id": "shiva_samba_sadashiva_mantra",
-  "category": "shiva",
   "title": {
     "hi": "सांब सदाशिव मंत्र",
     "en": "Samba Sadashiva Mantra"
   },
-  "mantras": [
-    {
-      "id": "shiva_samba_sadashiva_mantra",
-      "title": {
-        "hi": "सांब सदाशिव मंत्र",
-        "en": "Samba Sadashiva Mantra"
-      },
-      "mantra": {
-        "sa": "ॐ सांब सदाशिवाय नमः ॥",
-        "en": "Om Samba Sadashivaya Namah."
-      },
-      "description": {
-        "hi": "माता अंबा (पार्वती) सहित सदाशिव को नमन। यह मंत्र शिव और शक्ति की पूर्णता को दर्शाता है।",
-        "en": "Salutations to Sadashiva along with Mother Amba (Parvati). This mantra honors the completeness of Shiva and Shakti."
-      },
-      "meaning": {
-        "hi": "पारिवारिक सुख, शांति, और शिव-शक्ति का आशीर्वाद प्राप्त होता है।",
-        "en": "Brings family harmony, peace, and the combined blessings of Shiva and Shakti."
-      },
-      "keywords": {
-        "hi": [],
-        "en": []
-      },
-      "audio": "shiva_samba_sadashiva_mantra.mp3"
-    },
-    {
-      "id": "samba_sadashiva_short",
-      "title": {
-        "hi": "साम्ब सदाशिव",
-        "en": "Samba Sadashiva"
-      },
-      "mantra": {
-        "hi": "ॐ साम्ब सदाशिव ॐ",
-        "en": "Om Samba Sadashiva Om"
-      },
-      "description": {
-        "hi": "यह साम्ब सदाशिव का अत्यंत प्रिय और संक्षिप्त ध्यान मंत्र है।",
-        "en": "This is a very dear and short meditation mantra of Samba Sadashiva."
-      },
-      "meaning": {
-        "hi": "माता पार्वती सहित भगवान सदाशिव को नमन।",
-        "en": "Salutations to Lord Sadashiva along with Mother Parvati."
-      },
-      "keywords": {
-        "hi": [],
-        "en": []
-      },
-      "audio": "samba_sadashiva_short.mp3"
-    }
-  ]
+  "mantra": {
+    "sa": "ॐ सांब सदाशिवाय नमः ॥",
+    "en": "Om Samba Sadashivaya Namah."
+  },
+  "meaning": {
+    "hi": "माता अंबा (पार्वती) सहित सदाशिव को नमन। यह मंत्र शिव और शक्ति की पूर्णता को दर्शाता है।",
+    "en": "Salutations to Sadashiva along with Mother Amba (Parvati). This mantra honors the completeness of Shiva and Shakti."
+  },
+  "deity": "shiva",
+  "benefits": {
+    "hi": "पारिवारिक सुख, शांति, और शिव-शक्ति का आशीर्वाद प्राप्त होता है।",
+    "en": "Brings family harmony, peace, and the combined blessings of Shiva and Shakti."
+  }
 }
