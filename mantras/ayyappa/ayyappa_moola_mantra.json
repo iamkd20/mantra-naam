@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "ayyappa_moola_mantra",
+  "category": "ayyappa",
+  "title": {
+    "hi": "अय्यप्पा मूल मंत्र",
+    "en": "Ayyappa Moola Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ayyappa_moola_mantra",
+      "title": {
+        "hi": "अय्यप्पा मूल मंत्र",
+        "en": "Ayyappa Moola Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री हरिहर पुत्राय पुत्रलाभाय शत्रु नाशाय मदगज वाहनाय ॐ श्री महा शास्त्यै नमः ॥",
+        "en": "Om Shri HariHara Puthraaya Puthra Laabhaaya Shatru Naashaya MadaGaja Vaahanaaya Om Shri Maha Shasthye Namah."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा का अत्यंत शक्तिशाली मूल मंत्र है, जिसका जप संकटों को दूर करने और शत्रुओं के नाश के लिए किया जाता है।",
+        "en": "This is the highly powerful Moola Mantra of Lord Ayyappa, chanted to overcome hurdles and destroy negativities."
+      },
+      "meaning": {
+        "hi": "मैं श्री हरिहर पुत्र को प्रणाम करता हूँ, जो शत्रुओं का नाश करते हैं और मदमत्त हाथी पर सवार होते हैं। उन महान शास्ता को मेरा नमन।",
+        "en": "I bow to the son of Hari and Hara, who destroys enemies and rides a magnificent elephant. Salutations to the great Lord Shasta."
+      },
+      "keywords": {
+        "hi": [
+          "अय्यप्पा मूल मंत्र",
+          "मूल मंत्र",
+          "हरिहर पुत्राय"
+        ],
+        "en": [
+          "ayyappa moola mantra",
+          "moola mantra",
+          "harihara puthraya"
+        ]
+      },
+      "audio": "ayyappa_moola_mantra.mp3"
+    }
+  ]
+}

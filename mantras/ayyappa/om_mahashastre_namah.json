@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "om_mahashastre_namah",
+  "category": "ayyappa",
+  "title": {
+    "hi": "ॐ महाशास्त्रे नमः",
+    "en": "Om Mahashastre Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_mahashastre_namah",
+      "title": {
+        "hi": "ॐ महाशास्त्रे नमः",
+        "en": "Om Mahashastre Namah"
+      },
+      "mantra": {
+        "hi": "ॐ महाशास्त्रे नमः ॥",
+        "en": "Om Mahashastre Namah."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा के 108 नामों (अष्टोत्तर शतनामावली) में से एक प्रमुख जप मंत्र है।",
+        "en": "This is one of the primary japa mantras from the 108 names (Ashtottara Shatanamavali) of Lord Ayyappa."
+      },
+      "meaning": {
+        "hi": "महान शास्ता (मार्गदर्शक/शिक्षक) भगवान अय्यप्पा को प्रणाम।",
+        "en": "Salutations to the Great Teacher and Guide, Lord Ayyappa."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ महाशास्त्रे नमः",
+          "महाशास्ता"
+        ],
+        "en": [
+          "om mahashastre namah",
+          "mahashasta"
+        ]
+      },
+      "audio": "om_mahashastre_namah.mp3"
+    }
+  ]
+}

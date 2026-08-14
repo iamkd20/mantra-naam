@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "om_dharmashastre_namah",
+  "category": "ayyappa",
+  "title": {
+    "hi": "ॐ धर्मशास्त्रे नमः",
+    "en": "Om Dharmashastre Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_dharmashastre_namah",
+      "title": {
+        "hi": "ॐ धर्मशास्त्रे नमः",
+        "en": "Om Dharmashastre Namah"
+      },
+      "mantra": {
+        "hi": "ॐ धर्मशास्त्रे नमः ॥",
+        "en": "Om Dharmashastre Namah."
+      },
+      "description": {
+        "hi": "यह मंत्र भगवान अय्यप्पा को धर्म के रक्षक और प्रवर्तक के रूप में स्मरण करता है।",
+        "en": "This mantra invokes Lord Ayyappa as the supreme protector and enforcer of Dharma (righteousness)."
+      },
+      "meaning": {
+        "hi": "धर्म के रक्षक और स्वामी भगवान अय्यप्पा को प्रणाम।",
+        "en": "Salutations to Lord Ayyappa, the protector of Dharma."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ धर्मशास्त्रे नमः",
+          "धर्मशास्ता"
+        ],
+        "en": [
+          "om dharmashastre namah",
+          "dharmashasta"
+        ]
+      },
+      "audio": "om_dharmashastre_namah.mp3"
+    }
+  ]
+}
