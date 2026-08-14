@@ -42,36 +42,6 @@
         ]
       },
       "audio": "uma_maheshwara_mantra.mp3"
-    },
-    {
-      "id": "shri_uma_maheshwara_mantra",
-      "title": {
-        "hi": "श्री उमा महेश्वर मंत्र",
-        "en": "Shri Uma Maheshwara Mantra"
-      },
-      "mantra": {
-        "hi": "श्री उमा महेश्वराभ्यां नमः ॥",
-        "en": "Shri Uma Maheshwarabhyam Namah."
-      },
-      "description": {
-        "hi": "यह मंत्र देवी उमा और भगवान महेश्वर के संयुक्त दिव्य स्वरूप को 'श्री' के सम्मान के साथ समर्पित है।",
-        "en": "This mantra is dedicated to the united divine form of Goddess Uma and Lord Maheshwara with the honorific 'Shri'."
-      },
-      "meaning": {
-        "hi": "मैं देवी उमा और भगवान महेश्वर को सादर प्रणाम करता हूँ।",
-        "en": "I respectfully bow to Goddess Uma and Lord Maheshwara."
-      },
-      "keywords": {
-        "hi": [
-          "श्री उमा महेश्वर मंत्र",
-          "श्री उमा महेश्वराभ्यां नमः"
-        ],
-        "en": [
-          "Shri Uma Maheshwara Mantra",
-          "Shri Uma Maheshwarabhyam Namah"
-        ]
-      },
-      "audio": "shri_uma_maheshwara_mantra.mp3"
     }
   ]
 }
