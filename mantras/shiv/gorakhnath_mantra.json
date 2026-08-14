@@ -1,0 +1,20 @@
+{
+  "id": "shiva_gorakhnath_mantra",
+  "title": {
+    "hi": "गोरखनाथ मंत्र",
+    "en": "Gorakhnath Mantra"
+  },
+  "mantra": {
+    "sa": "ॐ गोरखनाथाय नमः ॥",
+    "en": "Om Gorakhnathaya Namah."
+  },
+  "meaning": {
+    "hi": "महायोगी गुरु गोरखनाथ को नमन, जिन्हें भगवान शिव का अवतार माना जाता है।",
+    "en": "Salutations to Mahayogi Guru Gorakhnath, who is revered as an incarnation of Lord Shiva."
+  },
+  "deity": "shiva",
+  "benefits": {
+    "hi": "योग साधना में सफलता, स्वास्थ्य, और आध्यात्मिक सिद्धि।",
+    "en": "Success in Yogic practices, good health, and spiritual attainment."
+  }
+}

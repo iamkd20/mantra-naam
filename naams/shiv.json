@@ -460,6 +460,104 @@
         "hi": "शिव शिव",
         "en": "Shiv Shiv"
       }
+    },
+    {
+      "id": "shiva_om_namah_shivaya",
+      "name": {
+        "hi": "ॐ नमः शिवाय",
+        "en": "Om Namah Shivaya"
+      }
+    },
+    {
+      "id": "shiva_namah_shivaya",
+      "name": {
+        "hi": "नमः शिवाय",
+        "en": "Namah Shivaya"
+      }
+    },
+    {
+      "id": "shiva_om_bholenath",
+      "name": {
+        "hi": "ॐ भोलेनाथ",
+        "en": "Om Bholenath"
+      }
+    },
+    {
+      "id": "shiva_om_shiva_shambho",
+      "name": {
+        "hi": "ॐ शिव शम्भो",
+        "en": "Om Shiva Shambho"
+      }
+    },
+    {
+      "id": "shiva_shambhunath",
+      "name": {
+        "hi": "शम्भुनाथ",
+        "en": "Shambhunath"
+      }
+    },
+    {
+      "id": "shiva_mahadev_mahakal",
+      "name": {
+        "hi": "महादेव महाकाल",
+        "en": "Mahadev Mahakal"
+      }
+    },
+    {
+      "id": "shiva_bhairavnath",
+      "name": {
+        "hi": "भैरवनाथ",
+        "en": "Bhairavnath"
+      }
+    },
+    {
+      "id": "shiva_gorakhnath",
+      "name": {
+        "hi": "गोरखनाथ",
+        "en": "Gorakhnath"
+      }
+    },
+    {
+      "id": "shiva_shiv_goraksh",
+      "name": {
+        "hi": "शिव गोरक्ष",
+        "en": "Shiv Goraksh"
+      }
+    },
+    {
+      "id": "shiva_gorakshnath",
+      "name": {
+        "hi": "गोरक्षनाथ",
+        "en": "Gorakshnath"
+      }
+    },
+    {
+      "id": "shiva_jai_shree_kedar",
+      "name": {
+        "hi": "जय श्री केदार",
+        "en": "Jai Shree Kedar"
+      }
+    },
+    {
+      "id": "shiva_baba_kedar",
+      "name": {
+        "hi": "बाबा केदार",
+        "en": "Baba Kedar"
+      }
+    },
+    {
+      "id": "shiva_maha_rudra",
+      "name": {
+        "hi": "महा रुद्र",
+        "en": "Maha Rudra"
+      }
+    },
+    {
+      "id": "shiva_mahamrityunjaya",
+      "name": {
+        "hi": "महामृत्युंजय",
+        "en": "Mahamrityunjaya"
+      }
     }
   ]
 }
