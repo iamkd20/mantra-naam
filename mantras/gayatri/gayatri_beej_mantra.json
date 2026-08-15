@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "gayatri_beej_mantra",
+  "category": "gayatri",
+  "title": {
+    "hi": "गायत्री बीज मंत्र",
+    "en": "Gayatri Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "gayatri_beej_mantra",
+      "title": {
+        "hi": "गायत्री बीज मंत्र",
+        "en": "Gayatri Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ भूर्भुवः स्वः॥",
+        "en": "Om Bhur Bhuvah Svah"
+      },
+      "description": {
+        "hi": "गायत्री माता का अत्यंत शक्तिशाली बीज (व्याहृति) मंत्र।",
+        "en": "Highly powerful seed (Vyahriti) mantra of Gayatri Mata."
+      },
+      "meaning": {
+        "hi": "हे ईश्वर, आप प्राणस्वरूप, दुःखनाशक और सुखस्वरूप हैं।",
+        "en": "O God, You are the essence of life, the destroyer of pain, and the embodiment of happiness."
+      },
+      "keywords": {
+        "hi": [
+          "बीज",
+          "व्याहृति",
+          "भूर्भुवः",
+          "गायतरी",
+          "गाएत्री",
+          "भूरभुव"
+        ],
+        "en": [
+          "beej",
+          "vyahriti",
+          "bhur",
+          "gaytri",
+          "gaitri",
+          "gayitri",
+          "gaytari",
+          "om bhurbh bhubat",
+          "om bhurbhuvasvah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

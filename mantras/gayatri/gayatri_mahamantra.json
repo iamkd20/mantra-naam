@@ -3,59 +3,46 @@
   "id": "gayatri_mahamantra",
   "category": "gayatri",
   "title": {
-    "hi": "गायत्री महामंत्र",
+    "hi": "गायत्री महामन्त्र",
     "en": "Gayatri Mahamantra"
   },
   "mantras": [
     {
       "id": "gayatri_mahamantra",
       "title": {
-        "hi": "गायत्री महामंत्र",
+        "hi": "गायत्री महामन्त्र",
         "en": "Gayatri Mahamantra"
       },
       "mantra": {
-        "hi": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥",
-        "en": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi. Dhiyo Yo Nah Prachodayat."
+        "hi": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+        "en": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat"
       },
       "description": {
-        "hi": "वैदिक परंपरा का अत्यंत प्रतिष्ठित मंत्र, जिसे सविता के दिव्य प्रकाश और बुद्धि-प्रेरणा के भाव से जपा जाता है।",
-        "en": "A devotional chant associated with Gayatri Mahamantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "वेदों में अत्यंत प्रसिद्ध गायत्री महामंत्र।",
+        "en": "The renowned Gayatri Mahamantra from the Vedic tradition."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
       },
       "keywords": {
         "hi": [
-          "गायत्री महामंत्र",
-          "gayatri mahamantra",
-          "gayatri",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति",
-          "गायत्री",
+          "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+          "गायतरी",
           "गाएत्री",
-          "मंतर",
-          "मन्त्र"
+          "भूरभुव"
         ],
         "en": [
-          "gayatri mahamantra",
-          "gayatri",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "manter",
-          "mntra",
-          "mantr",
-          "matra",
-          "om bhurbh bhubat swah",
-          "om bhur bhuva swaha",
-          "gaterti manta"
+          "Gayatri Mahamantra",
+          "gaytri",
+          "gaitri",
+          "gayitri",
+          "gaytari",
+          "om bhurbh bhubat",
+          "om bhurbhuvasvah"
         ]
       },
-      "audio": "gayatri_mahamantra.mp3"
+      "audio": ""
     }
   ]
 }

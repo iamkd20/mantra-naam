@@ -54,6 +54,174 @@
         "hi": "सावित्री माता",
         "en": "Savitri Mata"
       }
+    },
+    {
+      "id": "gayatri_taruni",
+      "name": {
+        "hi": "तरुणी",
+        "en": "Taruni"
+      }
+    },
+    {
+      "id": "gayatri_shanti",
+      "name": {
+        "hi": "शान्ति",
+        "en": "Shanti"
+      }
+    },
+    {
+      "id": "gayatri_vidyadhari",
+      "name": {
+        "hi": "विद्याधरी",
+        "en": "Vidyadhari"
+      }
+    },
+    {
+      "id": "gayatri_kantimati",
+      "name": {
+        "hi": "कान्तिमती",
+        "en": "Kantimati"
+      }
+    },
+    {
+      "id": "gayatri_kama_rupini",
+      "name": {
+        "hi": "कामरूपिणी",
+        "en": "Kama Rupini"
+      }
+    },
+    {
+      "id": "gayatri_kamini",
+      "name": {
+        "hi": "कामिनी",
+        "en": "Kamini"
+      }
+    },
+    {
+      "id": "gayatri_padmavati",
+      "name": {
+        "hi": "पद्मावती",
+        "en": "Padmavati"
+      }
+    },
+    {
+      "id": "gayatri_padmasana",
+      "name": {
+        "hi": "पद्मासना",
+        "en": "Padmasana"
+      }
+    },
+    {
+      "id": "gayatri_patala_vasini",
+      "name": {
+        "hi": "पातालवासिनी",
+        "en": "Patala Vasini"
+      }
+    },
+    {
+      "id": "gayatri_parvati",
+      "name": {
+        "hi": "पार्वती",
+        "en": "Parvati"
+      }
+    },
+    {
+      "id": "gayatri_paapa_nashini",
+      "name": {
+        "hi": "पापनाशिनी",
+        "en": "Paapa Nashini"
+      }
+    },
+    {
+      "id": "gayatri_punyavati",
+      "name": {
+        "hi": "पुण्यवती",
+        "en": "Punyavati"
+      }
+    },
+    {
+      "id": "gayatri_pujya",
+      "name": {
+        "hi": "पूज्या",
+        "en": "Pujya"
+      }
+    },
+    {
+      "id": "gayatri_purnima",
+      "name": {
+        "hi": "पूर्णिमा",
+        "en": "Purnima"
+      }
+    },
+    {
+      "id": "gayatri_puja_rupini",
+      "name": {
+        "hi": "पूजारूपिणी",
+        "en": "Puja Rupini"
+      }
+    },
+    {
+      "id": "gayatri_para",
+      "name": {
+        "hi": "परा",
+        "en": "Para"
+      }
+    },
+    {
+      "id": "gayatri_parama",
+      "name": {
+        "hi": "परमा",
+        "en": "Parama"
+      }
+    },
+    {
+      "id": "gayatri_para_shakti",
+      "name": {
+        "hi": "पराशक्ति",
+        "en": "Para Shakti"
+      }
+    },
+    {
+      "id": "gayatri_prakriti",
+      "name": {
+        "hi": "प्रकृति",
+        "en": "Prakriti"
+      }
+    },
+    {
+      "id": "gayatri_prithvi",
+      "name": {
+        "hi": "पृथ्वी",
+        "en": "Prithvi"
+      }
+    },
+    {
+      "id": "gayatri_prabha",
+      "name": {
+        "hi": "प्रभा",
+        "en": "Prabha"
+      }
+    },
+    {
+      "id": "gayatri_prasanna",
+      "name": {
+        "hi": "प्रसन्ना",
+        "en": "Prasanna"
+      }
+    },
+    {
+      "id": "gayatri_pushti",
+      "name": {
+        "hi": "पुष्टि",
+        "en": "Pushti"
+      }
+    },
+    {
+      "id": "gayatri_bhagavati",
+      "name": {
+        "hi": "भगवती",
+        "en": "Bhagavati"
+      }
     }
   ]
 }
