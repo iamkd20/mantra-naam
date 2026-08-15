@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "venkatesha_gayatri",
+  "category": "venkatesh_srinivas",
+  "title": {
+    "hi": "ॐ श्रीनिवासाय विद्महे वेंकटेशाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+    "en": "Venkatesha Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "venkatesha_gayatri",
+      "title": {
+        "hi": "ॐ श्रीनिवासाय विद्महे वेंकटेशाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "en": "Venkatesha Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीनिवासाय विद्महे वेंकटेशाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "en": "Om Srinivasaya Vidmahe Venkateshaya Dhimahi Tanno Vishnuh Prachodayat"
+      },
+      "description": {
+        "hi": "वेंकटेश/श्रीनिवास के स्मरण का गायत्री रूप।",
+        "en": "A Gayatri-style invocation of Venkatesha/Srinivasa."
+      },
+      "meaning": {
+        "hi": "मैं भगवान Venkatesh Srinivas को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Venkatesh Srinivas."
+      },
+      "keywords": {
+        "hi": [
+          "venkatesh srinivas"
+        ],
+        "en": [
+          "venkatesh srinivas",
+          "venkatesh",
+          "srinivas"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

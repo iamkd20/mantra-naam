@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "siya_ram_mantra",
+  "category": "ram",
+  "title": {
+    "hi": "सिया राम मंत्र",
+    "en": "Siya Ram Mantra"
+  },
+  "mantras": [
+    {
+      "id": "siya_ram_mantra",
+      "title": {
+        "hi": "सिया राम मंत्र",
+        "en": "Siya Ram Mantra"
+      },
+      "mantra": {
+        "hi": "सीता राम। सीता राम॥",
+        "en": "Sītā Rāma, Sītā Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम एवं माता सीता के दिव्य युगल स्वरूप का अत्यंत लोकप्रिय नामजप।",
+        "en": "A beloved chant invoking the divine couple, Sita and Rama."
+      },
+      "meaning": {
+        "hi": "मैं माता सीता एवं भगवान श्रीराम को प्रणाम करता हूँ।",
+        "en": "I bow to Mother Sita and Lord Rama."
+      },
+      "keywords": {
+        "hi": [
+          "सीता राम",
+          "सिया राम",
+          "राम"
+        ],
+        "en": [
+          "sita rama",
+          "siya ram",
+          "rama",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

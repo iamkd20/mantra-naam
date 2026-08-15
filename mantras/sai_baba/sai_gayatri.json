@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "sai_gayatri",
+  "category": "sai_baba",
+  "title": {
+    "hi": "साईं गायत्री",
+    "en": "Sai Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "sai_gayatri",
+      "title": {
+        "hi": "साईं गायत्री",
+        "en": "Sai Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ शिरडीवासाय विद्महे सच्चिदानन्दाय धीमहि। तन्नः साई प्रचोदयात्॥",
+        "en": "Om Śirḍīvāsāya Vidmahe Saccidānandāya Dhīmahi Tanno Sāī Pracodayāt"
+      },
+      "description": {
+        "hi": "शिरडी साईं बाबा की कृपा, ज्ञान एवं सद्बुद्धि प्राप्त करने का प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Shirdi Sai Baba for wisdom, divine grace, and spiritual guidance."
+      },
+      "meaning": {
+        "hi": "हम शिरडी में विराजमान सच्चिदानन्द स्वरूप साईं बाबा का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Sai Baba, the embodiment of Truth, Consciousness, and Bliss. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "साईं गायत्री",
+          "शिरडी",
+          "सच्चिदानन्द"
+        ],
+        "en": [
+          "sai gayatri",
+          "shirdi",
+          "satchidananda",
+          "sai",
+          "baba"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

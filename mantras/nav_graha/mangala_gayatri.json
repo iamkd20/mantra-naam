@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "mangala_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "मंगल गायत्री",
+    "en": "Mangala Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "mangala_gayatri",
+      "title": {
+        "hi": "मंगल गायत्री",
+        "en": "Mangala Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ अङ्गारकाय विद्महे शक्तिहस्ताय धीमहि। तन्नो भौमः प्रचोदयात्॥",
+        "en": "Om Aṅgārakāya Vidmahe Śaktihastāya Dhīmahi Tanno Bhaumaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान मंगल (अंगारक) की कृपा, साहस एवं धर्मयुक्त शक्ति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Mangala (Angaraka) for courage, righteous strength, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भगवान अंगारक का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Angaraka. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "मंगल गायत्री",
+          "अंगारक",
+          "भौम"
+        ],
+        "en": [
+          "mangala gayatri",
+          "angaraka",
+          "bhauma",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "shani_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "शनि मंत्र",
+    "en": "Shani Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shani_mantra",
+      "title": {
+        "hi": "शनि मंत्र",
+        "en": "Shani Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शं शनैश्चराय नमः॥",
+        "en": "Om Śaṁ Śanaiścarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव का सर्वाधिक प्रचलित एवं सरल नाम मंत्र।",
+        "en": "The most popular and simple mantra dedicated to Lord Shani."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शनैश्चर को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shani."
+      },
+      "keywords": {
+        "hi": [
+          "शनि",
+          "शनैश्चर",
+          "शं"
+        ],
+        "en": [
+          "shani",
+          "shanaishchara",
+          "sham",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

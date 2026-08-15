@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "haridra_ganapati_mantra",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ हुं गं ग्लौं हरिद्रा गणपतये वर वरद सर्वजनहृदयं स्तम्भय स्तम्भय स्वाहा॥",
-        "transliteration": "Om Huṁ Gaṁ Glauṁ Haridrā Gaṇapataye Vara Varada Sarvajanahṛdayaṁ Stambhaya Stambhaya Svāhā"
+        "en": "Om Huṁ Gaṁ Glauṁ Haridrā Gaṇapataye Vara Varada Sarvajanahṛdayaṁ Stambhaya Stambhaya Svāhā"
       },
       "description": {
         "hi": "हरिद्रा (हल्दी) गणपति का तांत्रिक मंत्र, जो विशेष साधना एवं सिद्धि में प्रयुक्त होता है।",

@@ -498,6 +498,34 @@
       "aliases": [
         "Mahavir Swami"
       ]
+    },
+    {
+      "id": "ganga",
+      "name": {
+        "hi": "गंगा माता",
+        "en": "Ganga Mata"
+      },
+      "file": "ganga/index.json",
+      "aliases": [
+        "ganga",
+        "ganges",
+        "bhagirathi",
+        "jahnavi"
+      ]
+    },
+    {
+      "id": "kuber",
+      "name": {
+        "hi": "कुबेर देव",
+        "en": "Kuber Dev"
+      },
+      "file": "kuber/index.json",
+      "aliases": [
+        "kuber",
+        "kubera",
+        "kuberan",
+        "dhanapati"
+      ]
     }
   ]
 }

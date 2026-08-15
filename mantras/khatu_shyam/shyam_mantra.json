@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shyam_mantra",
   "category": "khatu_shyam",
   "title": {
@@ -33,7 +33,8 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "स्याम"
         ],
         "en": [
           "shyam mantra",
@@ -49,7 +50,11 @@
           "shyam mantr",
           "mantr",
           "shyam matra",
-          "matra"
+          "matra",
+          "khatushyam",
+          "shyam baba",
+          "haare ka sahara",
+          "syam"
         ]
       },
       "audio": "shyam_mantra.mp3"

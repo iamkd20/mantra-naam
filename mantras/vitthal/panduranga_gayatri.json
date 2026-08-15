@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "panduranga_gayatri",
+  "category": "vitthal",
+  "title": {
+    "hi": "पांडुरंग गायत्री",
+    "en": "Panduranga Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "panduranga_gayatri",
+      "title": {
+        "hi": "पांडुरंग गायत्री",
+        "en": "Panduranga Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ पाण्डुरंगाय विद्महे भक्तप्रियाय धीमहि। तन्नो विठ्ठलः प्रचोदयात्॥",
+        "en": "Om Pāṇḍuraṅgāya Vidmahe Bhaktapriyāya Dhīmahi Tanno Viṭṭhalaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान पांडुरंग की कृपा, भक्ति एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Panduranga for devotion, wisdom, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम भक्तप्रिय भगवान पांडुरंग का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Panduranga, who is dearly loved by His devotees. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "पांडुरंग गायत्री",
+          "विठ्ठल",
+          "विठोबा"
+        ],
+        "en": [
+          "panduranga gayatri",
+          "vitthal",
+          "vitoba"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

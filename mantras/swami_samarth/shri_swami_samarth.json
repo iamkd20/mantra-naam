@@ -1,54 +1,41 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shri_swami_samarth",
   "category": "swami_samarth",
   "title": {
-    "hi": "श्री स्वामी समर्थ",
+    "hi": "श्री स्वामी समर्थ॥",
     "en": "Shri Swami Samarth"
   },
   "mantras": [
     {
       "id": "shri_swami_samarth",
       "title": {
-        "hi": "श्री स्वामी समर्थ",
+        "hi": "श्री स्वामी समर्थ॥",
         "en": "Shri Swami Samarth"
       },
       "mantra": {
-        "hi": "श्री स्वामी समर्थ ॥",
-        "en": "Shri Swami Samarth."
+        "hi": "श्री स्वामी समर्थ॥",
+        "en": "Shri Swami Samarth"
       },
       "description": {
-        "hi": "स्वामी समर्थ के नाम का अत्यंत लोकप्रिय भक्तिमय जप।",
-        "en": "A devotional chant associated with Shri Swami Samarth, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "स्वामी समर्थ का लोकप्रिय नाम-जप।",
+        "en": "A popular devotional chant of Swami Samarth."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं भगवान Swami Samarth को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Swami Samarth."
       },
       "keywords": {
         "hi": [
-          "श्री स्वामी समर्थ",
-          "shri swami samarth",
-          "swami_samarth",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "श्री स्वामी समर्थ॥"
         ],
         "en": [
-          "shri swami samarth",
-          "swami samarth",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "manter",
-          "mntra",
-          "mantr",
-          "matra"
+          "Shri Swami Samarth",
+          "swami",
+          "samarth"
         ]
       },
-      "audio": "shri_swami_samarth.mp3"
+      "audio": ""
     }
   ]
 }

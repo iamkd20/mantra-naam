@@ -1,74 +1,51 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "krishna_gayatri",
   "category": "krishna",
   "title": {
-    "hi": "कृष्ण गायत्री मंत्र",
-    "en": "Krishna Gayatri Mantra"
+    "hi": "कृष्ण गायत्री",
+    "en": "Krishna Gayatri"
   },
   "mantras": [
     {
       "id": "krishna_gayatri",
       "title": {
-        "hi": "कृष्ण गायत्री मंत्र",
-        "en": "Krishna Gayatri Mantra"
+        "hi": "कृष्ण गायत्री",
+        "en": "Krishna Gayatri"
       },
       "mantra": {
-        "hi": "ॐ देवकीनन्दनाय विद्महे वासुदेवाय धीमहि । तन्नः कृष्णः प्रचोदयात् ॥",
-        "en": "Om Devakinandanaya Vidmahe Vasudevaya Dhimahi. Tannah Krishnah Prachodayat."
+        "hi": "ॐ देवकीनन्दनाय विद्महे वासुदेवाय धीमहि। तन्नः कृष्णः प्रचोदयात्॥",
+        "en": "Om Devakīnandanāya Vidmahe Vāsudevāya Dhīmahi Tannaḥ Kṛṣṇaḥ Pracodayāt"
       },
       "description": {
-        "hi": "भगवान श्रीकृष्ण के प्रति प्रेम, भक्ति और ध्यान के लिए प्रचलित गायत्री शैली का मंत्र।",
-        "en": "A devotional chant associated with Krishna Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान श्रीकृष्ण की कृपा, ज्ञान एवं भक्ति प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra for invoking the grace, wisdom, and devotion of Lord Krishna."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम देवकीनन्दन श्रीकृष्ण का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Krishna, the son of Devaki. May He enlighten our intellect."
       },
       "keywords": {
         "hi": [
-          "कृष्ण गायत्री मंत्र",
-          "krishna gayatri",
-          "krishna",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "कृष्ण गायत्री",
+          "देवकीनन्दन",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
-          "krishna gayatri mantra",
           "krishna gayatri",
-          "krishna",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "krisna gayatri mantra",
-          "krisna",
-          "krishan gayatri mantra",
+          "devakinandana",
           "krishan",
-          "kishan gayatri mantra",
-          "kishan",
-          "krishn gayatri mantra",
           "krishn",
-          "kirshna gayatri mantra",
-          "kirshna",
-          "krishna gayatri manter",
-          "manter",
-          "krishna gayatri mntra",
-          "mntra",
-          "krishna gayatri mantr",
-          "mantr",
-          "krishna gayatri matra",
-          "matra",
-          "krisna gayatri",
-          "krishan gayatri",
-          "kishan gayatri",
-          "krishn gayatri",
-          "kirshna gayatri"
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
-      "audio": "krishna_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

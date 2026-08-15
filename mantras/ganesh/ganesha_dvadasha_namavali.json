@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "ganesha_dvadasha_namavali",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "सुमुखश्चैकदन्तश्च कपिलो गजकर्णकः। लम्बोदरश्च विकटो विघ्ननाशो गणाधिपः॥ धूम्रकेतुर्गणाध्यक्षो भालचन्द्रो गजाननः। द्वादशैतानि नामानि यः पठेच्छृणुयादपि॥",
-        "transliteration": "Sumukhaśca Ekadantaśca Kapilo Gajakarṇakaḥ Lambodaraśca Vikaṭo Vighnanāśo Gaṇādhipaḥ Dhūmraketur Gaṇādhyakṣo Bhālacandro Gajānanaḥ"
+        "en": "Sumukhaśca Ekadantaśca Kapilo Gajakarṇakaḥ Lambodaraśca Vikaṭo Vighnanāśo Gaṇādhipaḥ Dhūmraketur Gaṇādhyakṣo Bhālacandro Gajānanaḥ"
       },
       "description": {
         "hi": "भगवान गणेश के बारह दिव्य नामों का प्रसिद्ध स्तोत्र।",

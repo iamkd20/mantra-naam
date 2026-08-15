@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "ganesha_gayatri",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि। तन्नो दन्तिः प्रचोदयात्॥",
-        "transliteration": "Om Ekadantāya Vidmahe Vakratuṇḍāya Dhīmahi Tanno Dantiḥ Pracodayāt"
+        "en": "Om Ekadantāya Vidmahe Vakratuṇḍāya Dhīmahi Tanno Dantiḥ Pracodayāt"
       },
       "description": {
         "hi": "भगवान गणेश की कृपा, बुद्धि एवं विघ्नों की निवृत्ति हेतु प्रसिद्ध गायत्री मंत्र।",

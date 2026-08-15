@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "hanuman_gayatri",
   "category": "hanuman",
   "title": {
@@ -14,8 +14,8 @@
         "en": "Hanuman Gayatri"
       },
       "mantra": {
-        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि। तन्नो हनुमान् प्रचोदयात्॥",
-        "en": "Om Āñjaneyāya Vidmahe Vāyuputrāya Dhīmahi Tanno Hanumān Pracodayāt"
+        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि। तन्नो हनुमत् प्रचोदयात्॥",
+        "en": "Om Anjaneyaya Vidmahe Vayuputraya Dhimahi. Tanno Hanumat Prachodayat."
       },
       "description": {
         "hi": "भगवान हनुमान की कृपा, बुद्धि, साहस एवं आध्यात्मिक शक्ति प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",

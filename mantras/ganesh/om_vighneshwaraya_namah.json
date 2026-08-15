@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_vighneshwaraya_namah",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ विघ्नेश्वराय नमः॥",
-        "transliteration": "Om Vighneśvarāya Namaḥ"
+        "en": "Om Vighneśvarāya Namaḥ"
       },
       "description": {
         "hi": "भगवान गणेश के विघ्नेश्वर स्वरूप का पवित्र नाम मंत्र, जो सभी बाधाओं को दूर करने के लिए जपा जाता है।",

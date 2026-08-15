@@ -1,13 +1,11 @@
 {
   "files": [
+    "lakshmi/dhanalakshmi_gayatri.json",
+    "lakshmi/karagre_vasate_lakshmi.json",
+    "lakshmi/lakshmi_gayatri.json",
+    "lakshmi/lakshmi_narayana_mantra.json",
     "lakshmi/mahalakshmi_mantra.json",
     "lakshmi/siddha_lakshmi_mantra.json",
-    "lakshmi/lakshmi_narayana_mantra.json",
-    "lakshmi/karagre_vasate_lakshmi.json",
-    "lakshmi/vande_padmakaram_lakshmi.json",
-    "lakshmi/dhanalakshmi_gayatri.json",
-    "lakshmi/lakshmi_beej_mantra.json",
-    "lakshmi/mahalakshmi_ashtakam.json",
-    "lakshmi/lakshmi_gayatri.json"
+    "lakshmi/vande_padmakaram_lakshmi.json"
   ]
 }

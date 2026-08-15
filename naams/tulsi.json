@@ -61,6 +61,13 @@
         "hi": "जय तुलसी माता",
         "en": "Jai Tulsi Mata"
       }
+    },
+    {
+      "id": "t_hari_vallabha",
+      "name": {
+        "hi": "हरिवल्लभा",
+        "en": "Hari Vallabha"
+      }
     }
   ]
 }

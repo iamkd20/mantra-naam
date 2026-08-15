@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "id": "krishnaya_vasudevaya",
+  "category": "krishna",
+  "title": {
+    "hi": "कृष्णाय वासुदेवाय",
+    "en": "Krishnaya Vasudevaya"
+  },
+  "mantras": [
+    {
+      "id": "krishnaya_vasudevaya",
+      "title": {
+        "hi": "कृष्णाय वासुदेवाय",
+        "en": "Krishnaya Vasudevaya"
+      },
+      "mantra": {
+        "hi": "कृष्णाय वासुदेवाय हरये परमात्मने। प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः॥",
+        "en": "Kṛṣṇāya Vāsudevāya Haraye Paramātmane Praṇataḥ Kleśanāśāya Govindāya Namo Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण की स्तुति एवं शरणागति का प्रसिद्ध मंत्र।",
+        "en": "A renowned prayer praising Lord Krishna and seeking His protection."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीकृष्ण, वासुदेव, हरि एवं गोविन्द को बार-बार प्रणाम करता हूँ, जो सभी कष्टों का नाश करते हैं।",
+        "en": "I repeatedly bow to Lord Krishna, Vasudeva, Hari, and Govinda, who remove all suffering."
+      },
+      "keywords": {
+        "hi": [
+          "कृष्णाय वासुदेवाय",
+          "गोविन्द",
+          "हरि",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
+        ],
+        "en": [
+          "krishnaya vasudevaya",
+          "govinda",
+          "hari",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

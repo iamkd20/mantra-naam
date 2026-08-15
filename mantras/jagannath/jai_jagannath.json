@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "id": "jai_jagannath",
+  "category": "jagannath",
+  "title": {
+    "hi": "जय जगन्नाथ",
+    "en": "Jai Jagannath"
+  },
+  "mantras": [
+    {
+      "id": "jai_jagannath",
+      "title": {
+        "hi": "जय जगन्नाथ",
+        "en": "Jai Jagannath"
+      },
+      "mantra": {
+        "hi": "जय जगन्नाथ॥",
+        "en": "Jaya Jagannātha"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ के जयघोष के रूप में बोला जाने वाला अत्यंत लोकप्रिय नाम-जप।",
+        "en": "A popular devotional chant glorifying Lord Jagannath."
+      },
+      "meaning": {
+        "hi": "हे समस्त जगत के स्वामी! आपकी जय हो।",
+        "en": "Victory to Lord Jagannath, the Lord of the Universe."
+      },
+      "keywords": {
+        "hi": [
+          "जय जगन्नाथ",
+          "जगन्नाथ",
+          "जगनाथ"
+        ],
+        "en": [
+          "jai jagannath",
+          "jagannath",
+          "jagnath",
+          "puri",
+          "krishna",
+          "jugganath"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

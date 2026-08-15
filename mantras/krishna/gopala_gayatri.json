@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "gopala_gayatri",
+  "category": "krishna",
+  "title": {
+    "hi": "गोपाल गायत्री",
+    "en": "Gopala Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "gopala_gayatri",
+      "title": {
+        "hi": "गोपाल गायत्री",
+        "en": "Gopala Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ कृष्णाय विद्महे दामोदराय धीमहि। तन्नो गोपालः प्रचोदयात्॥",
+        "en": "Om Kṛṣṇāya Vidmahe Dāmodarāya Dhīmahi Tanno Gopālaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान गोपाल श्रीकृष्ण की कृपा एवं वात्सल्य भाव की प्राप्ति हेतु गायत्री मंत्र।",
+        "en": "A Gayatri mantra dedicated to Lord Gopala Krishna for divine grace and loving devotion."
+      },
+      "meaning": {
+        "hi": "हम भगवान गोपाल का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Gopala. May He inspire and illuminate our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "गोपाल गायत्री",
+          "दामोदर",
+          "गोपाल",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
+        ],
+        "en": [
+          "gopala gayatri",
+          "damodara",
+          "gopala"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "vakratunda_mahakaya",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
-        "transliteration": "Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha Nirvighnaṁ Kuru Me Deva Sarvakāryeṣu Sarvadā"
+        "en": "Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha Nirvighnaṁ Kuru Me Deva Sarvakāryeṣu Sarvadā"
       },
       "description": {
         "hi": "भगवान गणेश का सर्वाधिक प्रसिद्ध प्रार्थना मंत्र, जो प्रत्येक शुभ कार्य से पहले बोला जाता है।",

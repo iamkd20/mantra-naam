@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "hare_ka_sahara_baba_shyam_hamara",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "हारे का सहारा बाबा श्याम हमारा",
+    "en": "Hare Ka Sahara Baba Shyam Hamara"
+  },
+  "mantras": [
+    {
+      "id": "hare_ka_sahara_baba_shyam_hamara",
+      "title": {
+        "hi": "हारे का सहारा बाबा श्याम हमारा",
+        "en": "Hare Ka Sahara Baba Shyam Hamara"
+      },
+      "mantra": {
+        "hi": "हारे का सहारा, बाबा श्याम हमारा॥",
+        "en": "Hāre Kā Sahārā Bābā Śyāma Hamārā"
+      },
+      "description": {
+        "hi": "खाटूश्याम भक्तों का सर्वाधिक लोकप्रिय श्रद्धा-वाक्य एवं भक्ति उद्घोष।",
+        "en": "A beloved devotional chant among devotees of Khatu Shyam Ji."
+      },
+      "meaning": {
+        "hi": "जो निराश एवं पराजित हैं, उनके सच्चे सहारा बाबा श्याम हैं।",
+        "en": "Baba Shyam is the refuge of those who have lost hope."
+      },
+      "keywords": {
+        "hi": [
+          "हारे का सहारा",
+          "श्याम बाबा",
+          "स्याम"
+        ],
+        "en": [
+          "hare ka sahara",
+          "shyam baba",
+          "syam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

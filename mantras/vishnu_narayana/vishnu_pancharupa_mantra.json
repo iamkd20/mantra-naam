@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "vishnu_pancharupa_mantra",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "विष्णु पंचरूप मंत्र",
+    "en": "Vishnu Pancharupa Mantra"
+  },
+  "mantras": [
+    {
+      "id": "vishnu_pancharupa_mantra",
+      "title": {
+        "hi": "विष्णु पंचरूप मंत्र",
+        "en": "Vishnu Pancharupa Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ नमो नारायणाय। ॐ नमो भगवते वासुदेवाय। ॐ विष्णवे नमः। ॐ श्रीधराय नमः। ॐ माधवाय नमः॥",
+        "en": "Om Namo Nārāyaṇāya, Om Namo Bhagavate Vāsudevāya, Om Viṣṇave Namaḥ, Om Śrīdharāya Namaḥ, Om Mādhavāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान विष्णु के प्रमुख स्वरूपों का सामूहिक स्मरण कराने वाला मंत्र।",
+        "en": "A collective invocation of the principal forms and names of Lord Vishnu."
+      },
+      "meaning": {
+        "hi": "मैं भगवान विष्णु के विभिन्न दिव्य स्वरूपों को प्रणाम करता हूँ।",
+        "en": "I bow to the various divine manifestations of Lord Vishnu."
+      },
+      "keywords": {
+        "hi": [
+          "विष्णु",
+          "पंचरूप",
+          "नारायण"
+        ],
+        "en": [
+          "vishnu",
+          "pancharupa",
+          "narayana"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

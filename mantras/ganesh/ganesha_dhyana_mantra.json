@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "ganesha_dhyana_mantra",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्। प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥",
-        "transliteration": "Śuklāmbaradharaṁ Viṣṇuṁ Śaśivarṇaṁ Caturbhujam Prasannavadanaṁ Dhyāyet Sarvavighnopaśāntaye"
+        "en": "Śuklāmbaradharaṁ Viṣṇuṁ Śaśivarṇaṁ Caturbhujam Prasannavadanaṁ Dhyāyet Sarvavighnopaśāntaye"
       },
       "description": {
         "hi": "भगवान गणेश के ध्यान के रूप में व्यापक रूप से प्रयुक्त मंगल श्लोक।",

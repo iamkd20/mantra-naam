@@ -68,6 +68,41 @@
         "hi": "शनि महाराज",
         "en": "Shani Maharaj"
       }
+    },
+    {
+      "id": "sh_suryaputra",
+      "name": {
+        "hi": "सूर्यपुत्र",
+        "en": "Suryaputra"
+      }
+    },
+    {
+      "id": "sh_chhayaputra",
+      "name": {
+        "hi": "छायापुत्र",
+        "en": "Chhayaputra"
+      }
+    },
+    {
+      "id": "sh_mandasvami",
+      "name": {
+        "hi": "मन्दस्वामी",
+        "en": "Mandasvami"
+      }
+    },
+    {
+      "id": "sh_pingala",
+      "name": {
+        "hi": "पिंगल",
+        "en": "Pingala"
+      }
+    },
+    {
+      "id": "sh_krishna",
+      "name": {
+        "hi": "कृष्ण",
+        "en": "Krishna"
+      }
     }
   ]
 }

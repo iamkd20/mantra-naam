@@ -54,6 +54,62 @@
         "hi": "अरिहंत",
         "en": "Arihant"
       }
+    },
+    {
+      "id": "m_sanmati",
+      "name": {
+        "hi": "सन्मति",
+        "en": "Sanmati"
+      }
+    },
+    {
+      "id": "m_nayaputta",
+      "name": {
+        "hi": "नायपुत्त",
+        "en": "Nayaputta"
+      }
+    },
+    {
+      "id": "m_kashyapa",
+      "name": {
+        "hi": "काश्यप",
+        "en": "Kashyapa"
+      }
+    },
+    {
+      "id": "m_jina",
+      "name": {
+        "hi": "जिन",
+        "en": "Jina"
+      }
+    },
+    {
+      "id": "m_tirthankara",
+      "name": {
+        "hi": "तीर्थंकर",
+        "en": "Tirthankara"
+      }
+    },
+    {
+      "id": "m_arihanta",
+      "name": {
+        "hi": "अरिहन्त",
+        "en": "Arihanta"
+      }
+    },
+    {
+      "id": "m_virsasna",
+      "name": {
+        "hi": "वीरशासन",
+        "en": "Virasasana"
+      }
+    },
+    {
+      "id": "m_shramana",
+      "name": {
+        "hi": "श्रमण",
+        "en": "Shramana"
+      }
     }
   ]
 }

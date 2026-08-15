@@ -1,15 +1,15 @@
 {
   "files": [
-    "kali/mahakali_dhyana.json",
-    "kali/jayanti_mangala_kali.json",
-    "kali/kali_gayatri.json",
-    "kali/om_krim_kalikayai_namah.json",
-    "kali/karalavadanam_ghoram.json",
-    "kali/bagalamukhi_moola_mantra.json",
     "kali/bagalamukhi_beej_mantra.json",
     "kali/bagalamukhi_gayatri.json",
+    "kali/bagalamukhi_moola_mantra.json",
     "kali/chamunda_mantra.json",
-    "kali/varahi_gayatri.json",
-    "kali/om_krim_kalyai_namah.json"
+    "kali/jayanti_mangala_kali.json",
+    "kali/kali_gayatri.json",
+    "kali/karalavadanam_ghoram.json",
+    "kali/mahakali_dhyana.json",
+    "kali/om_krim_kalikayai_namah.json",
+    "kali/om_krim_kalyai_namah.json",
+    "kali/varahi_gayatri.json"
   ]
 }

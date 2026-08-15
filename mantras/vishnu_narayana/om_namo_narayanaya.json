@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_namo_narayanaya",
   "category": "vishnu_narayana",
   "title": {
@@ -14,49 +14,31 @@
         "en": "Om Namo Narayanaya"
       },
       "mantra": {
-        "hi": "ॐ नमो नारायणाय ॥",
-        "en": "Om Namo Narayanaya."
+        "hi": "ॐ नमो नारायणाय॥",
+        "en": "Om Namo Nārāyaṇāya"
       },
       "description": {
-        "hi": "वैष्णव परंपरा का अत्यंत प्रसिद्ध अष्टाक्षरी मंत्र।",
-        "en": "A devotional chant associated with Om Namo Narayanaya, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान नारायण का अष्टाक्षरी महामंत्र। यह वैष्णव परंपरा के सबसे महत्वपूर्ण मंत्रों में से एक माना जाता है तथा भक्ति, शरणागति एवं आत्मशुद्धि के लिए जपा जाता है।",
+        "en": "The sacred eight-syllable Mahamantra of Lord Narayana, one of the most revered mantras in the Vaishnava tradition for devotion, surrender, and purification."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं भगवान नारायण को नमस्कार करता हूँ।",
+        "en": "I bow to Lord Narayana."
       },
       "keywords": {
         "hi": [
-          "ॐ नमो नारायणाय",
-          "om namo narayanaya",
-          "vishnu_narayana",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "नारायण",
+          "अष्टाक्षरी मंत्र",
+          "ॐ नमो नारायणाय"
         ],
         "en": [
+          "narayana",
+          "ashtakshari mantra",
           "om namo narayanaya",
-          "vishnu narayana",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "narayan",
-          "narain",
-          "visnu narayana",
-          "visnu",
-          "bishnu narayana",
-          "bishnu",
-          "vishnu narayan",
-          "vishnu narain",
-          "manter",
-          "mntra",
-          "mantr",
-          "matra"
+          "vishnu"
         ]
       },
-      "audio": "om_namo_narayanaya.mp3"
+      "audio": ""
     }
   ]
 }

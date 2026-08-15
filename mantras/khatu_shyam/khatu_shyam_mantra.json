@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "id": "khatu_shyam_mantra",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "खाटूश्यामजी मंत्र",
+    "en": "Khatu Shyam Mantra"
+  },
+  "mantras": [
+    {
+      "id": "khatu_shyam_mantra",
+      "title": {
+        "hi": "खाटूश्यामजी मंत्र",
+        "en": "Khatu Shyam Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री श्याम देवाय नमः॥",
+        "en": "Om Śrī Śyāma Devāya Namaḥ"
+      },
+      "description": {
+        "hi": "खाटूश्याम बाबा का अत्यंत लोकप्रिय नाम मंत्र, जो श्रद्धा एवं समर्पण के साथ जपा जाता है।",
+        "en": "A popular nama mantra dedicated to Khatu Shyam Ji, chanted with devotion and surrender."
+      },
+      "meaning": {
+        "hi": "मैं श्री श्याम बाबा को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Khatu Shyam Ji."
+      },
+      "keywords": {
+        "hi": [
+          "खाटू श्याम",
+          "श्याम बाबा",
+          "श्याम देव",
+          "खाटूश्याम",
+          "स्याम"
+        ],
+        "en": [
+          "khatu shyam",
+          "shyam baba",
+          "shyam",
+          "khatushyam",
+          "haare ka sahara",
+          "syam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

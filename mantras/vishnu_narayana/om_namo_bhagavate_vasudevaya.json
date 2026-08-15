@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "id": "om_namo_bhagavate_vasudevaya",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "ॐ नमो भगवते वासुदेवाय",
+    "en": "Om Namo Bhagavate Vasudevaya"
+  },
+  "mantras": [
+    {
+      "id": "om_namo_bhagavate_vasudevaya",
+      "title": {
+        "hi": "ॐ नमो भगवते वासुदेवाय",
+        "en": "Om Namo Bhagavate Vasudevaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते वासुदेवाय॥",
+        "en": "Om Namo Bhagavate Vāsudevāya"
+      },
+      "description": {
+        "hi": "भगवान विष्णु एवं श्रीकृष्ण के वासुदेव स्वरूप का यह द्वादशाक्षरी महामंत्र अत्यंत पवित्र एवं व्यापक रूप से पूजनीय है। यह भक्ति, आत्मसमर्पण, आंतरिक शांति एवं मोक्ष की भावना को जागृत करता है।",
+        "en": "The sacred twelve-syllable Mahamantra dedicated to Lord Vishnu in His Vasudeva form. It is revered for devotion, surrender, inner peace, and spiritual liberation."
+      },
+      "meaning": {
+        "hi": "मैं भगवान वासुदेव को नमस्कार करता हूँ, जो समस्त सृष्टि के पालनकर्ता एवं परमात्मा हैं।",
+        "en": "I bow to Lord Vasudeva, the Supreme Lord and sustainer of the universe."
+      },
+      "keywords": {
+        "hi": [
+          "वासुदेव",
+          "ॐ नमो भगवते वासुदेवाय",
+          "द्वादशाक्षरी मंत्र",
+          "नारायण"
+        ],
+        "en": [
+          "om namo bhagavate vasudevaya",
+          "vasudeva",
+          "dvadashakshari mantra",
+          "narayana",
+          "vishnu"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

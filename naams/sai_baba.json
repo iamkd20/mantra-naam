@@ -96,6 +96,20 @@
         "hi": "साईं देवा",
         "en": "Sai Deva"
       }
+    },
+    {
+      "id": "sb_sainath",
+      "name": {
+        "hi": "साईंनाथ",
+        "en": "Sainath"
+      }
+    },
+    {
+      "id": "sb_sadguru",
+      "name": {
+        "hi": "सद्गुरु",
+        "en": "Sadguru"
+      }
     }
   ]
 }

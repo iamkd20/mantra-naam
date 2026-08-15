@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "ganesha_mantra",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वर वरद सर्वजनं मे वशमानय स्वाहा॥",
-        "transliteration": "Om Śrīṁ Hrīṁ Klīṁ Glauṁ Gaṁ Gaṇapataye Vara Varada Sarvajanaṁ Me Vaśamānaya Svāhā"
+        "en": "Om Śrīṁ Hrīṁ Klīṁ Glauṁ Gaṁ Gaṇapataye Vara Varada Sarvajanaṁ Me Vaśamānaya Svāhā"
       },
       "description": {
         "hi": "भगवान श्रीगणेश का प्रसिद्ध सिद्धि मंत्र, जो विघ्नों की निवृत्ति, बुद्धि, सफलता एवं शुभारम्भ के लिए जपा जाता है।",

@@ -1,14 +1,15 @@
 {
   "files": [
-    "ganesh/ganesha_mantra.json",
-    "ganesh/om_gam_ganapataye_namah.json",
-    "ganesh/om_shri_ganeshaya_namah.json",
-    "ganesh/vakratunda_mahakaya.json",
-    "ganesh/om_gajananaya_namah.json",
-    "ganesh/om_vighneshwaraya_namah.json",
     "ganesh/ganesha_dhyana_mantra.json",
     "ganesh/ganesha_dvadasha_namavali.json",
+    "ganesh/ganesha_ekakshari.json",
+    "ganesh/ganesha_gayatri.json",
+    "ganesh/ganesha_mantra.json",
     "ganesh/haridra_ganapati_mantra.json",
-    "ganesh/ganesha_gayatri.json"
+    "ganesh/om_gajananaya_namah.json",
+    "ganesh/om_gam_ganapataye_namah.json",
+    "ganesh/om_shri_ganeshaya_namah.json",
+    "ganesh/om_vighneshwaraya_namah.json",
+    "ganesh/vakratunda_mahakaya.json"
   ]
 }

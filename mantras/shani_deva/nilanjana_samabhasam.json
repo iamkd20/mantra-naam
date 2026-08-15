@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "id": "nilanjana_samabhasam",
+  "category": "shani_deva",
+  "title": {
+    "hi": "नीलाञ्जनसमाभासं",
+    "en": "Nilanjana Samabhasam"
+  },
+  "mantras": [
+    {
+      "id": "nilanjana_samabhasam",
+      "title": {
+        "hi": "नीलाञ्जनसमाभासं",
+        "en": "Nilanjana Samabhasam"
+      },
+      "mantra": {
+        "hi": "नीलाञ्जनसमाभासं रविपुत्रं यमाग्रजम्। छायामार्तण्डसम्भूतं तं नमामि शनैश्चरम्॥",
+        "en": "Nīlāñjana Samābhāsaṁ Raviputraṁ Yamāgrajam Chāyāmārtaṇḍa Sambhūtaṁ Taṁ Namāmi Śanaiścaram"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव का सर्वाधिक प्रसिद्ध ध्यान श्लोक।",
+        "en": "The most famous meditation verse dedicated to Lord Shani."
+      },
+      "meaning": {
+        "hi": "मैं सूर्यपुत्र, छाया से उत्पन्न एवं तेजस्वी भगवान शनिदेव को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shani, the radiant son of Surya and Chhaya."
+      },
+      "keywords": {
+        "hi": [
+          "नीलाञ्जनसमाभासं",
+          "शनिदेव"
+        ],
+        "en": [
+          "nilanjana samabhasam",
+          "shani",
+          "deva"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

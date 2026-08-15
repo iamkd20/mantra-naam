@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_kleem_krishnaya_namah",
   "category": "radha_krishna",
   "title": {
@@ -29,14 +29,23 @@
         "hi": [
           "क्लीं",
           "कृष्णाय",
-          "मंत्र"
+          "मंत्र",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
           "kleem",
           "krishnaya",
           "mantra",
           "manter",
-          "krishn"
+          "krishn",
+          "krishan",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
       "audio": ""

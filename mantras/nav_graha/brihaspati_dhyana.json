@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "brihaspati_dhyana",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बृहस्पति ध्यान",
+    "en": "Brihaspati Dhyana"
+  },
+  "mantras": [
+    {
+      "id": "brihaspati_dhyana",
+      "title": {
+        "hi": "बृहस्पति ध्यान",
+        "en": "Brihaspati Dhyana"
+      },
+      "mantra": {
+        "hi": "देवानां च ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "en": "Devānāṁ Ca Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति के तेजस्वी स्वरूप का ध्यान करने हेतु प्रचलित ध्यान श्लोक।",
+        "en": "A meditation verse contemplating the radiant form of Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं एवं ऋषियों के गुरु, बुद्धि के स्वरूप भगवान बृहस्पति का ध्यान करता हूँ।",
+        "en": "I meditate upon Brihaspati, the Guru of the Devas and embodiment of wisdom."
+      },
+      "keywords": {
+        "hi": [
+          "बृहस्पति",
+          "ध्यान",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati",
+          "dhyana",
+          "guru graha",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

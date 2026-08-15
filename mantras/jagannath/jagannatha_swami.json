@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "id": "jagannatha_swami",
+  "category": "jagannath",
+  "title": {
+    "hi": "जगन्नाथ स्वामी",
+    "en": "Jagannatha Swami"
+  },
+  "mantras": [
+    {
+      "id": "jagannatha_swami",
+      "title": {
+        "hi": "जगन्नाथ स्वामी",
+        "en": "Jagannatha Swami"
+      },
+      "mantra": {
+        "hi": "जगन्नाथ स्वामी नयनपथगामी भवतु मे॥",
+        "en": "Jagannātha Svāmī Nayanapathagāmī Bhavatu Me"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ की प्रसिद्ध प्रार्थना, जिसमें सदैव उनके दर्शन की कामना की जाती है।",
+        "en": "A famous prayer seeking the constant vision of Lord Jagannath."
+      },
+      "meaning": {
+        "hi": "हे जगन्नाथ स्वामी! आप सदैव मेरी दृष्टि के सम्मुख रहें।",
+        "en": "O Lord Jagannath, may You always remain before my eyes."
+      },
+      "keywords": {
+        "hi": [
+          "जगन्नाथ स्वामी",
+          "नयनपथगामी",
+          "जगनाथ"
+        ],
+        "en": [
+          "jagannatha swami",
+          "nayanapathagami",
+          "jagnath",
+          "puri",
+          "krishna",
+          "jugganath"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

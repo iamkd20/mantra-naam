@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "radha_beej_mantra",
+  "category": "krishna",
+  "title": {
+    "hi": "राधा बीज मंत्र",
+    "en": "Radha Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "radha_beej_mantra",
+      "title": {
+        "hi": "राधा बीज मंत्र",
+        "en": "Radha Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं राधिकायै नमः॥",
+        "en": "Om Hrīṁ Rādhikāyai Namaḥ"
+      },
+      "description": {
+        "hi": "श्री राधारानी की कृपा, प्रेमभक्ति एवं अंतःकरण की शुद्धि के लिए जपा जाने वाला बीज मंत्र।",
+        "en": "A bija mantra invoking the grace of Sri Radha for divine love, devotion, and purity of heart."
+      },
+      "meaning": {
+        "hi": "मैं श्री राधिका देवी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Radhika."
+      },
+      "keywords": {
+        "hi": [
+          "राधा बीज",
+          "राधिका",
+          "ह्रीं",
+          "राधे"
+        ],
+        "en": [
+          "radha beej",
+          "radhika",
+          "hrim",
+          "radhe",
+          "radharani",
+          "kishori"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

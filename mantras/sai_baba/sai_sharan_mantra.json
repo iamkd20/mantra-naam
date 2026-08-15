@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "sai_sharan_mantra",
+  "category": "sai_baba",
+  "title": {
+    "hi": "साईं शरण मंत्र",
+    "en": "Sai Sharan Mantra"
+  },
+  "mantras": [
+    {
+      "id": "sai_sharan_mantra",
+      "title": {
+        "hi": "साईं शरण मंत्र",
+        "en": "Sai Sharan Mantra"
+      },
+      "mantra": {
+        "hi": "श्री साईं शरणं मम॥",
+        "en": "Śrī Sāī Śaraṇaṁ Mama"
+      },
+      "description": {
+        "hi": "साईं बाबा की शरणागति एवं पूर्ण समर्पण का सरल मंत्र।",
+        "en": "A simple mantra expressing surrender at the feet of Sai Baba."
+      },
+      "meaning": {
+        "hi": "श्री साईं ही मेरी शरण हैं।",
+        "en": "Shri Sai is my refuge."
+      },
+      "keywords": {
+        "hi": [
+          "साईं शरण",
+          "शरणागति",
+          "साई बाबा"
+        ],
+        "en": [
+          "sai sharan",
+          "surrender",
+          "sai baba",
+          "sai",
+          "baba"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

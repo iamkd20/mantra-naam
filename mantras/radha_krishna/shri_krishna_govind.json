@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shri_krishna_govind",
   "category": "radha_krishna",
   "title": {
@@ -29,14 +29,23 @@
         "hi": [
           "श्री कृष्ण",
           "गोविंद",
-          "मुरारी"
+          "मुरारी",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
           "shri krishna",
           "govind",
           "murari",
           "krisna",
-          "krishan"
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
       "audio": ""

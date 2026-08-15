@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_gam_ganapataye_namah",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ गं गणपतये नमः॥",
-        "transliteration": "Om Gaṁ Gaṇapataye Namaḥ"
+        "en": "Om Gaṁ Gaṇapataye Namaḥ"
       },
       "description": {
         "hi": "भगवान गणपति का सर्वाधिक लोकप्रिय मूल मंत्र।",

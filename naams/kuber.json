@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "names": [
+    {
+      "id": "ku_kuber",
+      "name": {
+        "hi": "कुबेर",
+        "en": "Kuber"
+      }
+    },
+    {
+      "id": "ku_kubera",
+      "name": {
+        "hi": "कुबेरा",
+        "en": "Kubera"
+      }
+    },
+    {
+      "id": "ku_dhanapati",
+      "name": {
+        "hi": "धनपति",
+        "en": "Dhanapati"
+      }
+    },
+    {
+      "id": "ku_yaksharaja",
+      "name": {
+        "hi": "यक्षराज",
+        "en": "Yaksharaja"
+      }
+    }
+  ]
+}

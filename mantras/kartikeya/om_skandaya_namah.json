@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_skandaya_namah",
+  "category": "kartikeya",
+  "title": {
+    "hi": "ॐ स्कन्दाय नमः",
+    "en": "Om Skandaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_skandaya_namah",
+      "title": {
+        "hi": "ॐ स्कन्दाय नमः",
+        "en": "Om Skandaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ स्कन्दाय नमः॥",
+        "en": "Om Skandaya Namaḥ."
+      },
+      "description": {
+        "hi": "भगवान स्कन्द/कार्तिकेय का सरल नाम मंत्र।",
+        "en": "A simple name mantra of Lord Skanda/Kartikeya."
+      },
+      "meaning": {
+        "hi": "भगवान स्कन्द को नमस्कार।",
+        "en": "Salutations to Lord Skanda."
+      },
+      "keywords": {
+        "hi": [
+          "स्कन्द मंत्र",
+          "कार्तिकेय मंत्र",
+          "स्कन्दाय नमः"
+        ],
+        "en": [
+          "skanda mantra",
+          "kartikeya mantra",
+          "om skandaya namah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

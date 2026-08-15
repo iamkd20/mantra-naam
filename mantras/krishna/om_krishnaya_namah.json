@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_krishnaya_namah",
   "category": "krishna",
   "title": {
@@ -33,7 +33,11 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
           "om krishnaya namah",
@@ -50,7 +54,11 @@
           "manter",
           "mntra",
           "mantr",
-          "matra"
+          "matra",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
       "audio": "om_krishnaya_namah.mp3"

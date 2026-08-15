@@ -1,12 +1,14 @@
 {
   "files": [
     "devi/annapurna_stotram.json",
-    "devi/lalita_pancharatnam.json",
     "devi/bhuvaneshwari_mantra.json",
     "devi/chinnamasta_mantra.json",
-    "devi/tara_gayatri.json",
-    "devi/matangi_mantra.json",
+    "devi/devi_gayatri.json",
     "devi/kamakhya_mantra.json",
-    "devi/shodashi_mantra.json"
+    "devi/lalita_pancharatnam.json",
+    "devi/matangi_mantra.json",
+    "devi/navarna_mantra.json",
+    "devi/shodashi_mantra.json",
+    "devi/tara_gayatri.json"
   ]
 }

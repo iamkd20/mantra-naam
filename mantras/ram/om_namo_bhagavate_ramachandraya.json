@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "om_namo_bhagavate_ramachandraya",
+  "category": "ram",
+  "title": {
+    "hi": "ॐ नमो भगवते रामचन्द्राय",
+    "en": "Om Namo Bhagavate Ramachandraya"
+  },
+  "mantras": [
+    {
+      "id": "om_namo_bhagavate_ramachandraya",
+      "title": {
+        "hi": "ॐ नमो भगवते रामचन्द्राय",
+        "en": "Om Namo Bhagavate Ramachandraya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते रामचन्द्राय॥",
+        "en": "Om Namo Bhagavate Rāmacandrāya"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के प्रति पूर्ण समर्पण एवं भक्ति व्यक्त करने वाला वैष्णव मंत्र।",
+        "en": "A Vaishnava mantra expressing complete devotion and surrender to Lord Ramachandra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीरामचन्द्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ramachandra."
+      },
+      "keywords": {
+        "hi": [
+          "रामचन्द्राय",
+          "भगवते",
+          "राम"
+        ],
+        "en": [
+          "ramachandra",
+          "bhagavate",
+          "rama",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

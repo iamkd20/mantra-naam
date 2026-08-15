@@ -63,27 +63,6 @@
       }
     },
     {
-      "id": "shiva_parvati_uma_maheshwar",
-      "name": {
-        "hi": "उमा महेश्वर",
-        "en": "Uma Maheshwar"
-      }
-    },
-    {
-      "id": "shiva_parvati_gauri_shankar",
-      "name": {
-        "hi": "गौरी शंकर",
-        "en": "Gauri Shankar"
-      }
-    },
-    {
-      "id": "shiva_parvati_ardhanarishwar",
-      "name": {
-        "hi": "अर्धनारीश्वर",
-        "en": "Ardhanarishwar"
-      }
-    },
-    {
       "id": "sp_kameshwar",
       "name": {
         "hi": "कामेश्वर",
@@ -95,13 +74,6 @@
       "name": {
         "hi": "भोलेनाथ पार्वती",
         "en": "Bholenath Parvati"
-      }
-    },
-    {
-      "id": "sp_shiv_shakti",
-      "name": {
-        "hi": "शिव शक्ति",
-        "en": "Shiv Shakti"
       }
     }
   ]

@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "om_padmanabhaya_namah",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "ॐ पद्मनाभाय नमः",
+    "en": "Om Padmanabhaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_padmanabhaya_namah",
+      "title": {
+        "hi": "ॐ पद्मनाभाय नमः",
+        "en": "Om Padmanabhaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ पद्मनाभाय नमः॥",
+        "en": "Om Padmanābhāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान विष्णु के पद्मनाभ स्वरूप का संक्षिप्त एवं पवित्र मंत्र।",
+        "en": "A short sacred mantra dedicated to Lord Vishnu in His Padmanabha form."
+      },
+      "meaning": {
+        "hi": "मैं भगवान पद्मनाभ को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Padmanabha."
+      },
+      "keywords": {
+        "hi": [
+          "पद्मनाभ",
+          "विष्णु",
+          "पद्मनाभाय नमः"
+        ],
+        "en": [
+          "padmanabha",
+          "vishnu",
+          "padmanabhaya namah",
+          "narayana"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

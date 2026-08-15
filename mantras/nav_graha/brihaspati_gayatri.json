@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "brihaspati_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बृहस्पति गायत्री",
+    "en": "Brihaspati Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "brihaspati_gayatri",
+      "title": {
+        "hi": "बृहस्पति गायत्री",
+        "en": "Brihaspati Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ बृहस्पतये विद्महे दिव्यदेहाय धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "en": "Om Bṛhaspataye Vidmahe Divyadehāya Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति की कृपा एवं सद्बुद्धि प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Brihaspati for wisdom, virtue, and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम भगवान बृहस्पति का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Brihaspati. May he enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "बृहस्पति गायत्री",
+          "गुरु ग्रह"
+        ],
+        "en": [
+          "brihaspati gayatri",
+          "guru graha",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

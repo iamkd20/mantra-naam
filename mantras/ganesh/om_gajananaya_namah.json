@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_gajananaya_namah",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ गजाननाय नमः॥",
-        "transliteration": "Om Gajānanāya Namaḥ"
+        "en": "Om Gajānanāya Namaḥ"
       },
       "description": {
         "hi": "भगवान गणेश के गजानन स्वरूप का संक्षिप्त एवं पवित्र नाम मंत्र।",

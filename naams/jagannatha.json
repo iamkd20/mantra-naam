@@ -110,6 +110,62 @@
         "hi": "जगन्नाथ बलभद्र सुभद्रा",
         "en": "Jagannatha Balabhadra Subhadra"
       }
+    },
+    {
+      "id": "j_balabhadra",
+      "name": {
+        "hi": "बलभद्र",
+        "en": "Balabhadra"
+      }
+    },
+    {
+      "id": "j_subhadra",
+      "name": {
+        "hi": "सुभद्रा",
+        "en": "Subhadra"
+      }
+    },
+    {
+      "id": "j_purushottama",
+      "name": {
+        "hi": "पुरुषोत्तम",
+        "en": "Purushottama"
+      }
+    },
+    {
+      "id": "j_neelamadhava",
+      "name": {
+        "hi": "नीलमाधव",
+        "en": "Neelamadhava"
+      }
+    },
+    {
+      "id": "j_padmalochana",
+      "name": {
+        "hi": "पद्मलोचन",
+        "en": "Padmalochana"
+      }
+    },
+    {
+      "id": "j_daru_brahma",
+      "name": {
+        "hi": "दारु ब्रह्म",
+        "en": "Daru Brahma"
+      }
+    },
+    {
+      "id": "j_kalia",
+      "name": {
+        "hi": "कालिया",
+        "en": "Kalia"
+      }
+    },
+    {
+      "id": "j_govinda",
+      "name": {
+        "hi": "गोविन्द",
+        "en": "Govinda"
+      }
     }
   ]
 }

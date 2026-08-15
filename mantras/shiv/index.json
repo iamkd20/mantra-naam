@@ -11,7 +11,6 @@
     "shiv/kalabhairava_mantra.json",
     "shiv/karpuragauram_mantra.json",
     "shiv/kedarnath_mantra.json",
-    "shiv/lingashtakam.json",
     "shiv/maha_rudra_mantra.json",
     "shiv/mahakala_mantra.json",
     "shiv/mahakaleshwar_mantra.json",
@@ -32,12 +31,10 @@
     "shiv/shambhu_mantra.json",
     "shiv/shiva_beej_mantra.json",
     "shiv/shiva_gayatri_mantra.json",
-    "shiv/shiva_tandava_stotram.json",
     "shiv/shive_bhagave_mantra.json",
     "shiv/shri_mahadev_mantra.json",
     "shiv/shri_shivaya_namastubhyam.json",
     "shiv/someshwara_mantra.json",
-    "shiv/vishwanath_mantra.json",
-    "shiv/shiva_panchakshara_stotram.json"
+    "shiv/vishwanath_mantra.json"
   ]
 }

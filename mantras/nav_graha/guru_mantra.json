@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "guru_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "गुरु मंत्र",
+    "en": "Guru Mantra"
+  },
+  "mantras": [
+    {
+      "id": "guru_mantra",
+      "title": {
+        "hi": "गुरु मंत्र",
+        "en": "Guru Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर्ब्रह्मा गुरुर्विष्णुः गुरुर्देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्रीगुरवे नमः॥",
+        "en": "Gurur Brahmā Gurur Viṣṇuḥ Gurur Devo Maheśvaraḥ Guruḥ Sākṣāt Paraṁ Brahma Tasmai Śrī Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु को ब्रह्मा, विष्णु, महेश तथा परब्रह्म स्वरूप मानकर किया जाने वाला सर्वाधिक प्रसिद्ध गुरु वंदना मंत्र।",
+        "en": "The most revered Guru mantra, honoring the Guru as Brahma, Vishnu, Shiva, and the Supreme Reality."
+      },
+      "meaning": {
+        "hi": "गुरु ही ब्रह्मा, विष्णु, महेश तथा साक्षात् परब्रह्म हैं। ऐसे श्रीगुरु को मेरा प्रणाम।",
+        "en": "The Guru is Brahma, Vishnu, Shiva, and the Supreme Brahman. I bow to that revered Guru."
+      },
+      "keywords": {
+        "hi": [
+          "गुरु",
+          "गुरुर्ब्रह्मा",
+          "गुरु वंदना"
+        ],
+        "en": [
+          "guru",
+          "gurur brahma",
+          "guru vandana",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

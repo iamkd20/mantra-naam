@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "id": "sankatmochan_narasimha_mantra",
+  "category": "narasimha",
+  "title": {
+    "hi": "संकटमोचन नरसिंह मंत्र",
+    "en": "Sankatmochan Narasimha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "sankatmochan_narasimha_mantra",
+      "title": {
+        "hi": "संकटमोचन नरसिंह मंत्र",
+        "en": "Sankatmochan Narasimha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री लक्ष्मीनृसिंहाय नमः॥",
+        "en": "Om Śrī Lakṣmī Nṛsiṁhāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान लक्ष्मीनृसिंह का मंगलकारी नाम मंत्र, जो संकटों से रक्षा एवं भय निवारण हेतु जपा जाता है।",
+        "en": "A sacred mantra of Lakshmi Narasimha for protection during difficulties and removal of fear."
+      },
+      "meaning": {
+        "hi": "मैं भगवान लक्ष्मीनृसिंह को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Lakshmi Narasimha."
+      },
+      "keywords": {
+        "hi": [
+          "लक्ष्मीनृसिंह",
+          "संकटमोचन",
+          "नृसिंह",
+          "नरसिम्हा",
+          "प्रहलाद",
+          "लक्ष्मीनरसिंह"
+        ],
+        "en": [
+          "lakshmi narasimha",
+          "protection",
+          "narsimha",
+          "nrisimha",
+          "narashimha",
+          "prahlada",
+          "ugra"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

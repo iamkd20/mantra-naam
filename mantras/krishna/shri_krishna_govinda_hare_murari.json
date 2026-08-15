@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "id": "shri_krishna_govinda_hare_murari",
+  "category": "krishna",
+  "title": {
+    "hi": "श्री कृष्ण गोविन्द हरे मुरारे",
+    "en": "Shri Krishna Govinda Hare Murari"
+  },
+  "mantras": [
+    {
+      "id": "shri_krishna_govinda_hare_murari",
+      "title": {
+        "hi": "श्री कृष्ण गोविन्द हरे मुरारे",
+        "en": "Shri Krishna Govinda Hare Murari"
+      },
+      "mantra": {
+        "hi": "श्री कृष्ण गोविन्द हरे मुरारे। हे नाथ नारायण वासुदेव॥",
+        "en": "Śrī Kṛṣṇa Govinda Hare Murāre He Nātha Nārāyaṇa Vāsudeva"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण के विभिन्न दिव्य नामों का मधुर कीर्तन। यह भक्ति, शांति एवं भगवान के स्मरण के लिए अत्यंत लोकप्रिय है।",
+        "en": "A beloved devotional chant invoking Lord Krishna through His divine names, fostering devotion and inner peace."
+      },
+      "meaning": {
+        "hi": "हे श्रीकृष्ण, गोविन्द, मुरारी, नारायण एवं वासुदेव! मैं आपकी शरण में हूँ।",
+        "en": "O Lord Krishna, Govinda, Murari, Narayana, and Vasudeva, I seek refuge in You."
+      },
+      "keywords": {
+        "hi": [
+          "श्री कृष्ण",
+          "गोविन्द",
+          "हरे मुरारे",
+          "वासुदेव",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
+        ],
+        "en": [
+          "krishna",
+          "govinda",
+          "hare murari",
+          "vasudeva",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

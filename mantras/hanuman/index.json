@@ -1,13 +1,14 @@
 {
   "files": [
-    "hanuman/jai_hanuman_japa.json",
-    "hanuman/hanuman_stuti.json",
     "hanuman/hanuman_beej_mantra.json",
-    "hanuman/hanuman_moola_mantra.json",
-    "hanuman/panchamukhi_hanuman_mantra.json",
+    "hanuman/hanuman_gayatri.json",
+    "hanuman/hanuman_stuti.json",
+    "hanuman/jai_hanuman_japa.json",
     "hanuman/namo_hanumate_tubhyam.json",
-    "hanuman/shri_ramadutam_sharanam_prapadye.json",
     "hanuman/om_anjaneyaya_namah.json",
-    "hanuman/hanuman_gayatri.json"
+    "hanuman/om_ham_hanumate_namah.json",
+    "hanuman/om_hanumate_namah.json",
+    "hanuman/panchamukhi_hanuman_mantra.json",
+    "hanuman/shri_ramadutam_sharanam_prapadye.json"
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "om_shri_sainathaya_namah",
+  "category": "sai_baba",
+  "title": {
+    "hi": "ॐ श्री साईनाथाय नमः",
+    "en": "Om Shri Sainathaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_sainathaya_namah",
+      "title": {
+        "hi": "ॐ श्री साईनाथाय नमः",
+        "en": "Om Shri Sainathaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री साईनाथाय नमः॥",
+        "en": "Om Śrī Sāīnathāya Namaḥ"
+      },
+      "description": {
+        "hi": "श्री साईनाथ को समर्पित प्रसिद्ध नमस्कार मंत्र।",
+        "en": "A popular salutation mantra dedicated to Shri Sainath."
+      },
+      "meaning": {
+        "hi": "मैं श्री साईनाथ को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Sainath."
+      },
+      "keywords": {
+        "hi": [
+          "साईनाथ",
+          "साईं बाबा",
+          "शिरडी"
+        ],
+        "en": [
+          "sainath",
+          "sai baba",
+          "shirdi",
+          "sai",
+          "baba"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

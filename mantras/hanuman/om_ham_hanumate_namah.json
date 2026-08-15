@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_ham_hanumate_namah",
+  "category": "hanuman",
+  "title": {
+    "hi": "ॐ हं हनुमते नमः",
+    "en": "Om Ham Hanumate Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_ham_hanumate_namah",
+      "title": {
+        "hi": "ॐ हं हनुमते नमः",
+        "en": "Om Ham Hanumate Namah"
+      },
+      "mantra": {
+        "hi": "ॐ हं हनुमते नमः॥",
+        "en": "Om Haṁ Hanumate Namaḥ."
+      },
+      "description": {
+        "hi": "भगवान हनुमान का प्रचलित संक्षिप्त बीज-जप।",
+        "en": "A commonly used concise bija japa for Lord Hanuman."
+      },
+      "meaning": {
+        "hi": "भगवान हनुमान को नमस्कार।",
+        "en": "Salutations to Lord Hanuman."
+      },
+      "keywords": {
+        "hi": [
+          "हं हनुमते",
+          "हनुमान बीज मंत्र",
+          "हनुमान जप"
+        ],
+        "en": [
+          "ham hanumate",
+          "hanuman bija mantra",
+          "hanuman japa"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

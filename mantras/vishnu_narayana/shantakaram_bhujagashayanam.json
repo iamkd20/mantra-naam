@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "shantakaram_bhujagashayanam",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "शान्ताकारं भुजगशयनम्",
+    "en": "Shantakaram Bhujagashayanam"
+  },
+  "mantras": [
+    {
+      "id": "shantakaram_bhujagashayanam",
+      "title": {
+        "hi": "शान्ताकारं भुजगशयनम्",
+        "en": "Shantakaram Bhujagashayanam"
+      },
+      "mantra": {
+        "hi": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम्। विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम्॥ लक्ष्मीकान्तं कमलनयनं योगिभिर्ध्यानगम्यम्। वन्दे विष्णुं भवभयहरं सर्वलोकैकनाथम्॥",
+        "en": "Śāntākāraṁ Bhujagaśayanaṁ Padmanābhaṁ Sureśam Viśvādhāraṁ Gaganasadṛśaṁ Meghavarṇaṁ Śubhāṅgam Lakṣmīkāntaṁ Kamalanayanaṁ Yogibhirdhyānagamyam Vande Viṣṇuṁ Bhavabhayaharaṁ Sarvalokaikanātham"
+      },
+      "description": {
+        "hi": "भगवान विष्णु के दिव्य स्वरूप का ध्यान करने वाला अत्यंत प्रसिद्ध ध्यान श्लोक।",
+        "en": "A famous meditation verse describing the divine form of Lord Vishnu."
+      },
+      "meaning": {
+        "hi": "मैं भगवान विष्णु को प्रणाम करता हूँ जो शांतस्वरूप, पद्मनाभ, लक्ष्मीपति तथा समस्त लोकों के स्वामी हैं।",
+        "en": "I bow to Lord Vishnu, the peaceful Lord, Padmanabha, consort of Lakshmi, and Lord of all worlds."
+      },
+      "keywords": {
+        "hi": [
+          "शान्ताकारं",
+          "पद्मनाभ",
+          "विष्णु ध्यान"
+        ],
+        "en": [
+          "shantakaram",
+          "padmanabha",
+          "vishnu dhyana",
+          "vishnu",
+          "narayana"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

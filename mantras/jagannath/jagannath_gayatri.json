@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "id": "jagannath_gayatri",
+  "category": "jagannath",
+  "title": {
+    "hi": "जगन्नाथ गायत्री",
+    "en": "Jagannath Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "jagannath_gayatri",
+      "title": {
+        "hi": "जगन्नाथ गायत्री",
+        "en": "Jagannath Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ जगन्नाथाय विद्महे महापुरुषाय धीमहि। तन्नो विष्णुः प्रचोदयात्॥",
+        "en": "Om Jagannāthāya Vidmahe Mahāpuruṣāya Dhīmahi Tanno Viṣṇuḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान जगन्नाथ की कृपा एवं भक्ति के लिए प्रचलित गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Jagannath for devotion and divine guidance."
+      },
+      "meaning": {
+        "hi": "हम भगवान जगन्नाथ का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Jagannath. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "जगन्नाथ गायत्री",
+          "महापुरुष",
+          "जगनाथ"
+        ],
+        "en": [
+          "jagannath gayatri",
+          "mahapurusha",
+          "jagnath",
+          "puri",
+          "krishna",
+          "jugganath"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

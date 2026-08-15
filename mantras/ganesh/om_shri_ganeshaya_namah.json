@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_shri_ganeshaya_namah",
   "category": "ganesh",
   "title": {
@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ श्री गणेशाय नमः॥",
-        "transliteration": "Om Śrī Gaṇeśāya Namaḥ"
+        "en": "Om Śrī Gaṇeśāya Namaḥ"
       },
       "description": {
         "hi": "भगवान श्रीगणेश को समर्पित सरल एवं मंगलकारी नाम मंत्र।",

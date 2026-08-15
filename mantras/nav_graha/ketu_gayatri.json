@@ -1,59 +1,45 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "ketu_gayatri",
   "category": "nav_graha",
   "title": {
-    "hi": "केतु गायत्री मंत्र",
-    "en": "Ketu Gayatri Mantra"
+    "hi": "केतु गायत्री",
+    "en": "Ketu Gayatri"
   },
   "mantras": [
     {
       "id": "ketu_gayatri",
       "title": {
-        "hi": "केतु गायत्री मंत्र",
-        "en": "Ketu Gayatri Mantra"
+        "hi": "केतु गायत्री",
+        "en": "Ketu Gayatri"
       },
       "mantra": {
-        "hi": "ॐ धूम्रवर्णाय विद्महे विकृताननाय धीमहि । तन्नः केतुः प्रचोदयात् ॥",
-        "en": "Om Dhumravarnaya Vidmahe Vikritananaya Dhimahi. Tannah Ketuh Prachodayat."
+        "hi": "ॐ धूम्रकेतवे विद्महे ध्वजस्थाय धीमहि। तन्नः केतुः प्रचोदयात्॥",
+        "en": "Om Dhūmraketave Vidmahe Dhvajasthāya Dhīmahi Tanno Ketuḥ Pracodayāt"
       },
       "description": {
-        "hi": "केतु के वैराग्य और आध्यात्मिक मनन के प्रतीकात्मक स्वरूप का ध्यान।",
-        "en": "A devotional chant associated with Ketu Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान केतु की कृपा, आध्यात्मिक जागरण एवं ग्रहदोष शांति के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Ketu for spiritual awakening, divine grace, and relief from planetary afflictions."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम धूम्रकेतु स्वरूप भगवान केतु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Ketu, the smoky-bannered one. May He enlighten our intellect."
       },
       "keywords": {
         "hi": [
-          "केतु गायत्री मंत्र",
-          "ketu gayatri",
-          "nav_graha",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "केतु गायत्री",
+          "धूम्रकेतु",
+          "केतु"
         ],
         "en": [
-          "ketu gayatri mantra",
           "ketu gayatri",
-          "nav graha",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "ketu gayatri manter",
-          "manter",
-          "ketu gayatri mntra",
-          "mntra",
-          "ketu gayatri mantr",
-          "mantr",
-          "ketu gayatri matra",
-          "matra"
+          "dhumraketu",
+          "ketu",
+          "nav",
+          "graha"
         ]
       },
-      "audio": "ketu_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

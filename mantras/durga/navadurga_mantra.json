@@ -1,29 +1,29 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "navadurga_mantra",
   "category": "durga",
   "title": {
-    "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
-    "en": "Navadurga Devi Mantra"
+    "hi": "या देवी सर्वभूतेषु श्लोक",
+    "en": "Ya Devi Sarvabhuteshu"
   },
   "mantras": [
     {
       "id": "navadurga_mantra",
       "title": {
-        "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
-        "en": "Navadurga Devi Mantra"
+        "hi": "या देवी सर्वभूतेषु श्लोक",
+        "en": "Ya Devi Sarvabhuteshu"
       },
       "mantra": {
         "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
         "en": "Ya Devi Sarva Bhuteshu Shakti Rupena Samsthita Namastasyai Namastasyai Namastasyai Namo Namah"
       },
       "description": {
-        "hi": "देवी शक्ति के व्यापक स्मरण का प्रसिद्ध स्तोत्र-पद।",
-        "en": "A well-known devotional verse invoking the Divine Mother as universal Shakti."
+        "hi": "देवी माहात्म्य का प्रसिद्ध श्लोक, जिसमें देवी को सभी प्राणियों में शक्ति के रूप में नमन किया जाता है।",
+        "en": "A well-known verse from the Devi Mahatmya honoring the Goddess as Shakti present in all beings."
       },
       "meaning": {
-        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
-        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+        "hi": "जो देवी सभी प्राणियों में शक्ति के रूप में स्थित हैं, उन्हें बार-बार नमस्कार है।",
+        "en": "Salutations again and again to the Goddess who abides in all beings in the form of Shakti."
       },
       "keywords": {
         "hi": [

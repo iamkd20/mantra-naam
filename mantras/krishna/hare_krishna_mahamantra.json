@@ -1,74 +1,53 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "hare_krishna_mahamantra",
   "category": "krishna",
   "title": {
     "hi": "हरे कृष्ण महामंत्र",
-    "en": "Hare Krishna Maha Mantra"
+    "en": "Hare Krishna Mahamantra"
   },
   "mantras": [
     {
       "id": "hare_krishna_mahamantra",
       "title": {
         "hi": "हरे कृष्ण महामंत्र",
-        "en": "Hare Krishna Maha Mantra"
+        "en": "Hare Krishna Mahamantra"
       },
       "mantra": {
-        "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे । हरे राम हरे राम राम राम हरे हरे ॥",
-        "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare. Hare Rama Hare Rama Rama Rama Hare Hare."
+        "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+        "en": "Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare Hare Rāma Hare Rāma Rāma Rāma Hare Hare"
       },
       "description": {
-        "hi": "वैष्णव परंपरा में व्यापक रूप से किया जाने वाला नाम-संकीर्तन और भक्ति का प्रसिद्ध महामंत्र।",
-        "en": "A devotional chant associated with Hare Krishna Maha Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "कलियुग का महा-मंत्र, जो भगवान कृष्ण एवं श्रीराम के नामों का संकीर्तन है।",
+        "en": "The Mahamantra for the present age, glorifying the holy names of Lord Krishna and Lord Rama."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हे भगवान! कृपया मुझे अपनी प्रेममयी सेवा में लगाएँ।",
+        "en": "O Lord, please engage me in Your loving devotional service."
       },
       "keywords": {
         "hi": [
-          "हरे कृष्ण महामंत्र",
-          "hare krishna mahamantra",
-          "krishna",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "हरे कृष्ण",
+          "महामंत्र",
+          "हरे राम",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
-          "hare krishna maha mantra",
-          "hare krishna mahamantra",
-          "krishna",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "hare krisna maha mantra",
-          "krisna",
-          "hare krishan maha mantra",
+          "hare krishna",
+          "mahamantra",
+          "hare rama",
           "krishan",
-          "hare kishan maha mantra",
-          "kishan",
-          "hare krishn maha mantra",
           "krishn",
-          "hare kirshna maha mantra",
-          "kirshna",
-          "hare krishna maha manter",
-          "manter",
-          "hare krishna maha mntra",
-          "mntra",
-          "hare krishna maha mantr",
-          "mantr",
-          "hare krishna maha matra",
-          "matra",
-          "hare krisna mahamantra",
-          "hare krishan mahamantra",
-          "hare kishan mahamantra",
-          "hare krishn mahamantra",
-          "hare kirshna mahamantra"
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
-      "audio": "hare_krishna_mahamantra.mp3"
+      "audio": ""
     }
   ]
 }

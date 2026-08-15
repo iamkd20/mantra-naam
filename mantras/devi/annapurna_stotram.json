@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "annapurna_stotram",
   "category": "devi",
   "title": {
@@ -27,12 +27,10 @@
       },
       "keywords": {
         "hi": [
-          "अन्नपूर्णा",
-          "स्तोत्रम्"
+          "अन्नपूर्णा"
         ],
         "en": [
-          "annapurna",
-          "stotram"
+          "annapurna"
         ]
       },
       "audio": ""

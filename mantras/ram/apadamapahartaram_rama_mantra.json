@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "apadamapahartaram_rama_mantra",
+  "category": "ram",
+  "title": {
+    "hi": "आपदामपहर्तारं राम मंत्र",
+    "en": "Apadamapahartaram Rama Mantra"
+  },
+  "mantras": [
+    {
+      "id": "apadamapahartaram_rama_mantra",
+      "title": {
+        "hi": "आपदामपहर्तारं राम मंत्र",
+        "en": "Apadamapahartaram Rama Mantra"
+      },
+      "mantra": {
+        "hi": "आपदामपहर्तारं दातारं सर्वसम्पदाम्। लोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम्॥",
+        "en": "Āpadāmapahartāraṁ Dātāraṁ Sarvasampadām Lokābhirāmaṁ Śrīrāmaṁ Bhūyo Bhūyo Namāmyaham"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम की प्रसिद्ध स्तुति, जो संकटों से रक्षा, समृद्धि एवं दिव्य कृपा की प्राप्ति के लिए जपी जाती है।",
+        "en": "A celebrated prayer to Lord Rama seeking protection from difficulties, prosperity, and divine grace."
+      },
+      "meaning": {
+        "hi": "मैं बार-बार भगवान श्रीराम को प्रणाम करता हूँ, जो सभी आपदाओं का नाश करने वाले एवं समस्त सम्पत्तियों के दाता हैं।",
+        "en": "I repeatedly bow to Lord Rama, the remover of all calamities and the bestower of every blessing."
+      },
+      "keywords": {
+        "hi": [
+          "आपदामपहर्तारम्",
+          "श्रीराम",
+          "संकट नाश"
+        ],
+        "en": [
+          "apadamapahartaram",
+          "shri rama",
+          "protection mantra",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

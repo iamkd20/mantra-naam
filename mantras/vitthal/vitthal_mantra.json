@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "vitthal_mantra",
   "category": "vitthal",
   "title": {
@@ -14,45 +14,30 @@
         "en": "Vitthal Mantra"
       },
       "mantra": {
-        "hi": "पांडुरंग पांडुरंग विठ्ठल विठ्ठल ॥",
-        "en": "Panduranga Panduranga Vitthal Vitthal."
+        "hi": "ॐ श्री विठ्ठलाय नमः॥",
+        "en": "Om Śrī Viṭṭhalāya Namaḥ"
       },
       "description": {
-        "hi": "विठ्ठल या पांडुरंग के नाम का लोकप्रिय भक्तिमय जप।",
-        "en": "A devotional chant associated with Vitthal Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान विठ्ठल (पांडुरंग) का प्रसिद्ध नाम मंत्र।",
+        "en": "A revered nama mantra dedicated to Lord Vitthal (Panduranga)."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं भगवान विठ्ठल को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Vitthal."
       },
       "keywords": {
         "hi": [
-          "विठ्ठल मंत्र",
-          "vitthal mantra",
-          "vitthal",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "विठ्ठल",
+          "पांडुरंग",
+          "विटोबा"
         ],
         "en": [
-          "vitthal mantra",
           "vitthal",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "vitthal manter",
-          "manter",
-          "vitthal mntra",
-          "mntra",
-          "vitthal mantr",
-          "mantr",
-          "vitthal matra",
-          "matra"
+          "panduranga",
+          "vitoba"
         ]
       },
-      "audio": "vitthal_mantra.mp3"
+      "audio": ""
     }
   ]
 }

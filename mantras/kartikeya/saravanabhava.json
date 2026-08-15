@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "id": "saravanabhava",
+  "category": "kartikeya",
+  "title": {
+    "hi": "ॐ सरवणभवाय नमः॥",
+    "en": "Om Saravanabhavaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "saravanabhava",
+      "title": {
+        "hi": "ॐ सरवणभवाय नमः॥",
+        "en": "Om Saravanabhavaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सरवणभवाय नमः॥",
+        "en": "Om Saravanabhavaya Namah"
+      },
+      "description": {
+        "hi": "मुरुगन/स्कंद का प्रसिद्ध मंत्र।",
+        "en": "A popular mantra of Murugan/Skanda."
+      },
+      "meaning": {
+        "hi": "मैं भगवान कार्तिकेय (मुरुगन) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Kartikeya (Murugan)."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ सरवणभवाय नमः॥"
+        ],
+        "en": [
+          "Om Saravanabhavaya Namah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

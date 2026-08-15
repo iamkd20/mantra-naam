@@ -159,6 +159,27 @@
         "hi": "राम कृष्ण हरी",
         "en": "Ram Krishna Hari"
       }
+    },
+    {
+      "id": "r_rama",
+      "name": {
+        "hi": "रामा",
+        "en": "Rama"
+      }
+    },
+    {
+      "id": "r_dasharathi",
+      "name": {
+        "hi": "दाशरथी",
+        "en": "Dasharathi"
+      }
+    },
+    {
+      "id": "r_sitapati",
+      "name": {
+        "hi": "सीतापति",
+        "en": "Sitapati"
+      }
     }
   ]
 }

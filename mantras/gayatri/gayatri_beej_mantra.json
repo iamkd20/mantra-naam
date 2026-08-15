@@ -1,29 +1,29 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "gayatri_beej_mantra",
   "category": "gayatri",
   "title": {
-    "hi": "गायत्री बीज मंत्र",
-    "en": "Gayatri Beej Mantra"
+    "hi": "गायत्री व्याहृति",
+    "en": "Gayatri Vyahriti"
   },
   "mantras": [
     {
       "id": "gayatri_beej_mantra",
       "title": {
-        "hi": "गायत्री बीज मंत्र",
-        "en": "Gayatri Beej Mantra"
+        "hi": "गायत्री व्याहृति",
+        "en": "Gayatri Vyahriti"
       },
       "mantra": {
         "hi": "ॐ भूर्भुवः स्वः॥",
         "en": "Om Bhur Bhuvah Svah"
       },
       "description": {
-        "hi": "गायत्री माता का अत्यंत शक्तिशाली बीज (व्याहृति) मंत्र।",
-        "en": "Highly powerful seed (Vyahriti) mantra of Gayatri Mata."
+        "hi": "गायत्री मंत्र से संबद्ध तीन प्रमुख व्याहृतियाँ — भूः, भुवः और स्वः।",
+        "en": "The three principal vyahritis associated with the Gayatri mantra: Bhuh, Bhuvah, and Svah."
       },
       "meaning": {
-        "hi": "हे ईश्वर, आप प्राणस्वरूप, दुःखनाशक और सुखस्वरूप हैं।",
-        "en": "O God, You are the essence of life, the destroyer of pain, and the embodiment of happiness."
+        "hi": "भूः, भुवः और स्वः — तीन व्याहृतियों का पवित्र उच्चारण।",
+        "en": "The sacred utterance of the three vyahritis: Bhuh, Bhuvah, and Svah."
       },
       "keywords": {
         "hi": [

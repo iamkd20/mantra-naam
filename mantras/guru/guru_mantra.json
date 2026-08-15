@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "id": "guru_mantra",
+  "category": "guru",
+  "title": {
+    "hi": "गुरुर् ब्रह्मा गुरुर् विष्णुः गुरुर् देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
+    "en": "Guru Mantra"
+  },
+  "mantras": [
+    {
+      "id": "guru_mantra",
+      "title": {
+        "hi": "गुरुर् ब्रह्मा गुरुर् विष्णुः गुरुर् देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
+        "en": "Guru Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर् ब्रह्मा गुरुर् विष्णुः गुरुर् देवो महेश्वरः। गुरुः साक्षात् परं ब्रह्म तस्मै श्री गुरवे नमः॥",
+        "en": "Gurur Brahma Gurur Vishnuh Gurur Devo Maheshwarah Guruh Sakshat Param Brahma Tasmai Shri Gurave Namah"
+      },
+      "description": {
+        "hi": "गुरु को दिव्य ज्ञान के स्वरूप में प्रणाम करने वाला प्रसिद्ध श्लोक।",
+        "en": "A well-known verse venerating the Guru as the embodiment of divine knowledge."
+      },
+      "meaning": {
+        "hi": "मैं भगवान Guru को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Guru."
+      },
+      "keywords": {
+        "hi": [
+          "guru"
+        ],
+        "en": [
+          "guru"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

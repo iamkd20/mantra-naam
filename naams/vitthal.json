@@ -166,6 +166,13 @@
         "hi": "विठ्ठल विठ्ठल जय हरि विठ्ठल",
         "en": "Vitthal Vitthal Jai Hari Vitthal"
       }
+    },
+    {
+      "id": "vi_hari",
+      "name": {
+        "hi": "हरि",
+        "en": "Hari"
+      }
     }
   ]
 }
