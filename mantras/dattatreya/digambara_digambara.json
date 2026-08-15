@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "id": "digambara_digambara",
+  "category": "dattatreya",
+  "title": {
+    "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा",
+    "en": "Digambara Digambara"
+  },
+  "mantras": [
+    {
+      "id": "digambara_digambara",
+      "title": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा",
+        "en": "Digambara Digambara"
+      },
+      "mantra": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा॥",
+        "transliteration": "Digambarā Digambarā Śrīpāda Vallabha Digambarā"
+      },
+      "description": {
+        "hi": "श्रीपाद श्रीवल्लभ भगवान दत्तात्रेय की अत्यंत लोकप्रिय स्तुति।",
+        "en": "A famous devotional chant dedicated to Sripada Srivallabha, an incarnation of Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "हे दिगंबर स्वरूप श्रीपाद श्रीवल्लभ! आपको बार-बार प्रणाम।",
+        "en": "Salutations again and again to the divine Digambara Sripada Srivallabha."
+      },
+      "deities": [
+        "dattatreya"
+      ],
+      "deityInfo": {
+        "primary": "dattatreya",
+        "group": "trimurti",
+        "parent": null
+      },
+      "categories": [
+        "dattatreya",
+        "bhajan"
+      ],
+      "keywords": {
+        "hi": [
+          "दिगंबरा",
+          "श्रीपाद",
+          "वल्लभ"
+        ],
+        "en": [
+          "digambara",
+          "sripada",
+          "vallabha"
+        ]
+      },
+      "benefits": {
+        "hi": [
+          "भक्ति",
+          "गुरु कृपा",
+          "शांति",
+          "आंतरिक शक्ति",
+          "सकारात्मकता",
+          "आध्यात्मिक उन्नति"
+        ],
+        "en": [
+          "Devotion",
+          "Guru's grace",
+          "Peace",
+          "Inner strength",
+          "Positivity",
+          "Spiritual growth"
+        ]
+      },
+      "purpose": [
+        "devotion",
+        "guru_bhakti",
+        "peace"
+      ],
+      "recommendedTime": [
+        "morning",
+        "evening"
+      ],
+      "recommendedOccasion": [
+        "daily_prayer",
+        "guru_purnima"
+      ],
+      "recommendedJapa": [
+        11,
+        108
+      ],
+      "usage": {
+        "hi": "दत्तात्रेय भक्ति एवं नामस्मरण में।",
+        "en": "For devotional remembrance of Lord Dattatreya."
+      },
+      "dailyRoutine": [
+        "morning",
+        "evening"
+      ],
+      "difficulty": {
+        "level": "beginner",
+        "requiresInitiation": false
+      },
+      "pronunciation": {
+        "hi": "'श्रीपाद वल्लभ' का स्पष्ट उच्चारण करें।",
+        "en": "Pronounce 'Śrīpāda Vallabha' clearly."
+      },
+      "tradition": "Datta Sampradaya",
+      "source": "Traditional",
+      "related": [
+        "dattatreya_mantra"
+      ],
+      "isPopular": true
+    }
+  ]
+}

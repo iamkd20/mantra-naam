@@ -145,6 +145,62 @@
         "hi": "नृसिंह सरस्वती",
         "en": "Nrisimha Saraswati"
       }
+    },
+    {
+      "id": "dattatreya_anasuya_nandana",
+      "name": {
+        "hi": "अनसूया नन्दन",
+        "en": "Anasuya Nandana"
+      }
+    },
+    {
+      "id": "dattatreya_yogiraja",
+      "name": {
+        "hi": "योगीराज",
+        "en": "Yogiraja"
+      }
+    },
+    {
+      "id": "dattatreya_bhaktavatsala",
+      "name": {
+        "hi": "भक्तवत्सल",
+        "en": "Bhaktavatsala"
+      }
+    },
+    {
+      "id": "dattatreya_smratrugaami",
+      "name": {
+        "hi": "स्मर्तृगामी",
+        "en": "Smratrugaami"
+      }
+    },
+    {
+      "id": "dattatreya_hari_datta",
+      "name": {
+        "hi": "हरि दत्त",
+        "en": "Hari Datta"
+      }
+    },
+    {
+      "id": "dattatreya_bhasmuddhoolita",
+      "name": {
+        "hi": "भस्मोद्धूलित",
+        "en": "Bhasmuddhoolita"
+      }
+    },
+    {
+      "id": "dattatreya_mahayogi",
+      "name": {
+        "hi": "महायोगी",
+        "en": "Mahayogi"
+      }
+    },
+    {
+      "id": "dattatreya_paramahamsa",
+      "name": {
+        "hi": "परमहंस",
+        "en": "Paramahamsa"
+      }
     }
   ]
 }
