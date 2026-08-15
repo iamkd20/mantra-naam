@@ -3,49 +3,49 @@
   "id": "sita_ram_mantra",
   "category": "sita_ram",
   "title": {
-    "hi": "सीता राम मंत्र",
-    "en": "Sita Ram Mantra"
+    "hi": "ॐ सीतारामाभ्यां नमः॥",
+    "en": "Om Sita Ramabhyam Namah"
   },
   "mantras": [
     {
       "id": "sita_ram_mantra",
       "title": {
-        "hi": "सीता राम मंत्र",
-        "en": "Sita Ram Mantra"
+        "hi": "ॐ सीतारामाभ्यां नमः॥",
+        "en": "Om Sita Ramabhyam Namah"
       },
       "mantra": {
-        "hi": "सीता राम सीता राम ॥",
-        "en": "Sita Ram Sita Ram."
+        "hi": "ॐ सीतारामाभ्यां नमः॥",
+        "en": "Om Sītārāmābhyām Namah"
       },
       "description": {
-        "hi": "भगवान राम और माता सीता के संयुक्त स्मरण के लिए सरल नाम-जप।",
-        "en": "A devotional chant associated with Sita Ram Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "सीता और राम के संयुक्त स्मरण का मंत्र।",
+        "en": "A devotional invocation of Sita and Rama together."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
       },
       "keywords": {
         "hi": [
-          "सीता राम मंत्र",
-          "sita ram mantra",
-          "sita_ram",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ॐ सीतारामाभ्यां नमः॥",
+          "मंतर",
+          "मन्त्र",
+          "सीया",
+          "राम"
         ],
         "en": [
-          "Sita Ram Mantra",
-          "sita ram mantra",
-          "sita ram",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "om sita ramabhyam namah",
+          "rama",
+          "raam",
+          "om seeta ramabhyam namah",
+          "seeta",
+          "om siya ramabhyam namah",
+          "siya",
+          "shri ram jai ram",
+          "mangala bhavana"
         ]
       },
-      "audio": "sita_ram_mantra.mp3"
+      "audio": ""
     }
   ]
 }

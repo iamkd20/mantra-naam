@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "shodashi_mantra",
+  "category": "devi",
+  "title": {
+    "hi": "षोडशी (त्रिपुर सुंदरी) मंत्र",
+    "en": "Shodashi (Tripura Sundari) Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shodashi_mantra",
+      "title": {
+        "hi": "षोडशी (त्रिपुर सुंदरी) मंत्र",
+        "en": "Shodashi (Tripura Sundari) Mantra"
+      },
+      "mantra": {
+        "hi": "ऐं ह्रीं श्रीं त्रिपुर सुंदरीयै नमः॥",
+        "en": "Aim Hreem Shreem Tripura Sundariyai Namah"
+      },
+      "description": {
+        "hi": "माता षोडशी या त्रिपुर सुंदरी का बीज मंत्र।",
+        "en": "Beej mantra of Mother Shodashi or Tripura Sundari."
+      },
+      "meaning": {
+        "hi": "त्रिपुर सुंदरी को प्रणाम।",
+        "en": "Salutations to Tripura Sundari."
+      },
+      "keywords": {
+        "hi": [
+          "षोडशी",
+          "त्रिपुर सुंदरी",
+          "महाविद्या"
+        ],
+        "en": [
+          "shodashi",
+          "tripura sundari",
+          "mahavidya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

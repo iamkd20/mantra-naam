@@ -14,38 +14,36 @@
         "en": "Om Krim Kalikayai Namah"
       },
       "mantra": {
-        "hi": "ॐ क्रीं कालिकायै नमः ॥",
-        "en": "Om Krim Kalikayai Namah."
+        "hi": "ॐ क्रीं कालिकायै नमः॥",
+        "en": "Om Krīṁ Kālikāyai Namaḥ"
       },
       "description": {
-        "hi": "काली उपासना का लोकप्रिय बीज सहित मंत्र।",
-        "en": "A devotional chant associated with Om Krim Kalikayai Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "माता काली का प्रसिद्ध बीज मंत्र।",
+        "en": "A renowned bija mantra dedicated to Goddess Kali."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं देवी कालिका को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Kalika."
       },
       "keywords": {
         "hi": [
-          "ॐ क्रीं कालिकायै नमः",
-          "om krim kalikayai namah",
-          "kali",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "क्रीं",
+          "कालिका",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
         ],
         "en": [
-          "Om Krim Kalikayai Namah",
-          "om krim kalikayai namah",
-          "kali",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "krim",
+          "kalika",
+          "kaali",
+          "kalli",
+          "om krim kalyai",
+          "om kreem kali"
         ]
       },
-      "audio": "om_krim_kalikayai_namah.mp3"
+      "audio": ""
     }
   ]
 }

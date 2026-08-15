@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "id": "karagre_vasate_lakshmi",
+  "category": "lakshmi",
+  "title": {
+    "hi": "कराग्रे वसते लक्ष्मी",
+    "en": "Karagre Vasate Lakshmi"
+  },
+  "mantras": [
+    {
+      "id": "karagre_vasate_lakshmi",
+      "title": {
+        "hi": "कराग्रे वसते लक्ष्मी",
+        "en": "Karagre Vasate Lakshmi"
+      },
+      "mantra": {
+        "hi": "कराग्रे वसते लक्ष्मीः करमध्ये सरस्वती। करमूले तु गोविन्दः प्रभाते करदर्शनम्॥",
+        "en": "Karāgre Vasate Lakṣmīḥ Karamadhye Sarasvatī Karamūle Tu Govindaḥ Prabhāte Karadarśanam"
+      },
+      "description": {
+        "hi": "प्रातःकाल हाथों के दर्शन के समय बोला जाने वाला प्रसिद्ध दैनिक मंत्र।",
+        "en": "A well-known morning prayer recited while looking at one's palms."
+      },
+      "meaning": {
+        "hi": "हाथों के अग्रभाग में लक्ष्मी, मध्य में सरस्वती और मूल में गोविन्द का निवास है।",
+        "en": "Lakshmi resides at the fingertips, Saraswati in the middle, and Govinda at the base of the hands."
+      },
+      "keywords": {
+        "hi": [
+          "कराग्रे",
+          "लक्ष्मी",
+          "प्रभाते",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "karagre",
+          "lakshmi",
+          "morning prayer",
+          "laxmi",
+          "luxmi",
+          "laksmi",
+          "lakhsmi",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

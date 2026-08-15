@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "lalita_pancharatnam",
+  "category": "devi",
+  "title": {
+    "hi": "ललिता महामन्त्र",
+    "en": "Lalita Maha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lalita_pancharatnam",
+      "title": {
+        "hi": "ललिता महामन्त्र",
+        "en": "Lalita Maha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री ललिता महात्रिपुरसुन्दर्यै नमः॥",
+        "en": "Om Sri Lalita Maha Tripurasundaryai Namah"
+      },
+      "description": {
+        "hi": "माता ललिता का अत्यंत शुभ ध्यान मंत्र।",
+        "en": "Highly auspicious meditation mantra of Mother Lalita."
+      },
+      "meaning": {
+        "hi": "मैं प्रातःकाल ललिता माता का स्मरण करता हूँ।",
+        "en": "I remember Mother Lalita in the morning."
+      },
+      "keywords": {
+        "hi": [
+          "ललिता",
+          "त्रिपुर सुंदरी"
+        ],
+        "en": [
+          "lalita",
+          "tripura sundari"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

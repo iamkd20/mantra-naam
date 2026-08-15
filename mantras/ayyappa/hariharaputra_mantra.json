@@ -26,8 +26,35 @@
         "en": "I bow to Lord Ayyappa, revered as Hariharaputra."
       },
       "keywords": {
-        "hi": ["हरिहरपुत्र मंत्र", "ॐ श्री हरिहरपुत्राय नमः", "अय्यप्पा", "हरिहरपुत्र"],
-        "en": ["hariharaputra mantra", "om shri hariharaputraya namah", "ayyappa", "hariharaputra"]
+        "hi": [
+          "हरिहरपुत्र मंत्र",
+          "ॐ श्री हरिहरपुत्राय नमः",
+          "अय्यप्पा",
+          "हरिहरपुत्र",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
+        ],
+        "en": [
+          "hariharaputra mantra",
+          "om shri hariharaputraya namah",
+          "ayyappa",
+          "hariharaputra",
+          "hariharaputra manter",
+          "manter",
+          "hariharaputra mntra",
+          "mntra",
+          "hariharaputra mantr",
+          "mantr",
+          "hariharaputra matra",
+          "matra",
+          "ayappa",
+          "ayappaa",
+          "aiyappa",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
+        ]
       },
       "audio": "hariharaputra_mantra.mp3"
     }

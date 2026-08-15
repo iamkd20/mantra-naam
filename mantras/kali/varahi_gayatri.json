@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "varahi_gayatri",
+  "category": "kali",
+  "title": {
+    "hi": "वाराही गायत्री",
+    "en": "Varahi Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "varahi_gayatri",
+      "title": {
+        "hi": "वाराही गायत्री",
+        "en": "Varahi Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ वाराहमुख्यै विद्महे दण्डनायिकायै धीमहि। तन्नो वाराही प्रचोदयात्॥",
+        "en": "Om Vārāhamukhyai Vidmahe Daṇḍanāyikāyai Dhīmahi Tanno Vārāhī Pracodayāt"
+      },
+      "description": {
+        "hi": "देवी वाराही का गायत्री मंत्र।",
+        "en": "The Gayatri mantra of Goddess Varahi."
+      },
+      "meaning": {
+        "hi": "हम देवी वाराही का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Varahi. May She enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "वाराही गायत्री",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "varahi gayatri",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

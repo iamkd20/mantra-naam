@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "id": "mahalakshmi_mantra",
+  "category": "lakshmi",
+  "title": {
+    "hi": "महालक्ष्मी मंत्र",
+    "en": "Mahalakshmi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "mahalakshmi_mantra",
+      "title": {
+        "hi": "महालक्ष्मी मंत्र",
+        "en": "Mahalakshmi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं महालक्ष्म्यै नमः॥",
+        "en": "Om Śrīṁ Mahālakṣmyai Namaḥ"
+      },
+      "description": {
+        "hi": "माता महालक्ष्मी का अत्यंत लोकप्रिय मूल मंत्र, जो धन, सौभाग्य, समृद्धि एवं दिव्य कृपा की प्राप्ति हेतु जपा जाता है।",
+        "en": "A widely recited root mantra of Goddess Mahalakshmi for prosperity, abundance, and divine grace."
+      },
+      "meaning": {
+        "hi": "मैं देवी महालक्ष्मी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Mahalakshmi."
+      },
+      "keywords": {
+        "hi": [
+          "महालक्ष्मी",
+          "श्रीं",
+          "लक्ष्मी मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "mahalakshmi",
+          "shreem",
+          "lakshmi mantra",
+          "laxmi",
+          "luxmi",
+          "laksmi",
+          "lakhsmi",
+          "laxmi mantra",
+          "luxmi mantra",
+          "laksmi mantra",
+          "lakhsmi mantra",
+          "lakshmi manter",
+          "manter",
+          "lakshmi mntra",
+          "mntra",
+          "lakshmi mantr",
+          "mantr",
+          "lakshmi matra",
+          "matra",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

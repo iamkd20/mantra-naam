@@ -33,16 +33,26 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "गायत्री",
+          "गाएत्री",
+          "मंतर",
+          "मन्त्र"
         ],
         "en": [
-          "Gayatri Mahamantra",
           "gayatri mahamantra",
           "gayatri",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om bhurbh bhubat swah",
+          "om bhur bhuva swaha",
+          "gaterti manta"
         ]
       },
       "audio": "gayatri_mahamantra.mp3"

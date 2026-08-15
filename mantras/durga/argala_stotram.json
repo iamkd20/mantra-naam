@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "argala_stotram",
+  "category": "durga",
+  "title": {
+    "hi": "अर्गला स्तोत्रम्",
+    "en": "Argala Stotram"
+  },
+  "mantras": [
+    {
+      "id": "argala_stotram",
+      "title": {
+        "hi": "अर्गला स्तोत्रम्",
+        "en": "Argala Stotram"
+      },
+      "mantra": {
+        "hi": "जयन्ती मङ्गला काली भद्रकाली कपालिनी। दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥",
+        "en": "Jayanti Mangala Kali Bhadrakali Kapalini Durga Kshama Shiva Dhatri Swaha Swadha Namostute"
+      },
+      "description": {
+        "hi": "माँ दुर्गा की स्तुति।",
+        "en": "Praise of Maa Durga."
+      },
+      "meaning": {
+        "hi": "जयंती, मंगला, काली, भद्रकाली, कपालिनी को प्रणाम।",
+        "en": "Salutations to Jayanti, Mangala, Kali, Bhadrakali, Kapalini."
+      },
+      "keywords": {
+        "hi": [
+          "अर्गला",
+          "स्तोत्रम्",
+          "जयन्ती"
+        ],
+        "en": [
+          "argala",
+          "stotram",
+          "jayanti"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

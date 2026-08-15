@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "bhuvaneshwari_mantra",
+  "category": "devi",
+  "title": {
+    "hi": "भुवनेश्वरी मंत्र",
+    "en": "Bhuvaneshwari Mantra"
+  },
+  "mantras": [
+    {
+      "id": "bhuvaneshwari_mantra",
+      "title": {
+        "hi": "भुवनेश्वरी मंत्र",
+        "en": "Bhuvaneshwari Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं भुवनेश्वर्यै नमः॥",
+        "en": "Om Hreem Bhuvaneshwaryai Namah"
+      },
+      "description": {
+        "hi": "दस महाविद्याओं में से एक, माता भुवनेश्वरी का बीज मंत्र।",
+        "en": "Beej mantra of Mother Bhuvaneshwari, one of the Dasa Mahavidyas."
+      },
+      "meaning": {
+        "hi": "मैं माता भुवनेश्वरी को प्रणाम करता हूँ।",
+        "en": "I bow to Mother Bhuvaneshwari."
+      },
+      "keywords": {
+        "hi": [
+          "भुवनेश्वरी",
+          "महाविद्या"
+        ],
+        "en": [
+          "bhuvaneshwari",
+          "mahavidya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

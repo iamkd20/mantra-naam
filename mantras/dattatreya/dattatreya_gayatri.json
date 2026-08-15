@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "dattatreya_gayatri",
+  "category": "dattatreya",
+  "title": {
+    "hi": "दत्तात्रेय गायत्री मंत्र",
+    "en": "Dattatreya Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "dattatreya_gayatri",
+      "title": {
+        "hi": "दत्तात्रेय गायत्री मंत्र",
+        "en": "Dattatreya Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ दिगंबराय विद्महे योगीशराय धीमहि। तन्नो दत्तः प्रचोदयात्॥",
+        "en": "Om Digambaraya Vidmahe Yogishwaraya Dhimahi Tanno Dattah Prachodayat"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय का गायत्री मंत्र।",
+        "en": "Gayatri mantra of Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "हम दिगंबर को जानते हैं, योगीश्वर का ध्यान करते हैं, वह दत्त हमें प्रेरित करें।",
+        "en": "We know Digambara, meditate on Yogishwara, may Dattatreya inspire us."
+      },
+      "keywords": {
+        "hi": [
+          "गायत्री",
+          "दत्तात्रेय"
+        ],
+        "en": [
+          "gayatri",
+          "dattatreya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

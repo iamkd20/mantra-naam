@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "bhavani_ashtakam",
+  "category": "durga",
+  "title": {
+    "hi": "भवानी अष्टकम्",
+    "en": "Bhavani Ashtakam"
+  },
+  "mantras": [
+    {
+      "id": "bhavani_ashtakam",
+      "title": {
+        "hi": "भवानी अष्टकम्",
+        "en": "Bhavani Ashtakam"
+      },
+      "mantra": {
+        "hi": "न तातो न माता न बन्धुर्न दाता... गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥",
+        "en": "Na Tato Na Mata Na Bandhur Na Data... Gatistvam Gatistvam Tvameka Bhavani"
+      },
+      "description": {
+        "hi": "आदि शंकराचार्य द्वारा रचित माँ भवानी की स्तुति।",
+        "en": "Praise of Maa Bhavani composed by Adi Shankaracharya."
+      },
+      "meaning": {
+        "hi": "हे भवानी, तुम ही मेरी एकमात्र गति हो।",
+        "en": "O Bhavani, you are my only refuge."
+      },
+      "keywords": {
+        "hi": [
+          "भवानी",
+          "अष्टकम्"
+        ],
+        "en": [
+          "bhavani",
+          "ashtakam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

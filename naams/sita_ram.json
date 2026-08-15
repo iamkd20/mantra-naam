@@ -145,6 +145,13 @@
         "hi": "सीताराम जानकीवल्लभ",
         "en": "Sita Ram Janaki Vallabha"
       }
+    },
+    {
+      "id": "sita_ram_janaki_raman",
+      "name": {
+        "hi": "जानकी रमण",
+        "en": "Janaki Raman"
+      }
     }
   ]
 }

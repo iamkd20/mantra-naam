@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "karalavadanam_ghoram",
+  "category": "kali",
+  "title": {
+    "hi": "करालवदनां घोरां",
+    "en": "Karalavadanam Ghoram"
+  },
+  "mantras": [
+    {
+      "id": "karalavadanam_ghoram",
+      "title": {
+        "hi": "करालवदनां घोरां",
+        "en": "Karalavadanam Ghoram"
+      },
+      "mantra": {
+        "hi": "करालवदनां घोरां मुक्तकेशीं चतुर्भुजाम्। कालिकां दक्षिणां दिव्यां मुण्डमालाविभूषिताम्॥",
+        "en": "Karālavadanāṁ Ghorāṁ Muktakeśīṁ Caturbhujām Kālikāṁ Dakṣiṇāṁ Divyāṁ Muṇḍamālāvibhūṣitām"
+      },
+      "description": {
+        "hi": "महाकाली के उग्र ध्यान का प्रारम्भिक श्लोक।",
+        "en": "The opening verse of the Mahakali meditation."
+      },
+      "meaning": {
+        "hi": "हम दिव्य महाकाली के उग्र स्वरूप का ध्यान करते हैं।",
+        "en": "We meditate upon the fierce divine form of Mahakali."
+      },
+      "keywords": {
+        "hi": [
+          "करालवदना",
+          "महाकाली",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "karalavadana",
+          "mahakali",
+          "kaali",
+          "kalli",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

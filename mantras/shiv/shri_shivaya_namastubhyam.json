@@ -28,11 +28,21 @@
       "keywords": {
         "hi": [
           "श्री शिवाय नमस्तुभ्यम्",
-          "शिव"
+          "शिव",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "श्री शिवाय नमस्तुभ्यम्",
-          "शिव"
+          "शिव",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "shri_shivaya_namastubhyam.mp3"

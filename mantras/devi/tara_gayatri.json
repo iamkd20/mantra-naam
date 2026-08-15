@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "tara_gayatri",
+  "category": "devi",
+  "title": {
+    "hi": "तारा गायत्री मंत्र",
+    "en": "Tara Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "tara_gayatri",
+      "title": {
+        "hi": "तारा गायत्री मंत्र",
+        "en": "Tara Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ तारायै विद्महे महोग्रायै धीमहि। तन्नो देवी प्रचोदयात्॥",
+        "en": "Om Tarayai Vidmahe Mahograyai Dhimahi Tanno Devi Prachodayat"
+      },
+      "description": {
+        "hi": "माता तारा का गायत्री मंत्र।",
+        "en": "Gayatri mantra of Mother Tara."
+      },
+      "meaning": {
+        "hi": "हम माता तारा को जानते हैं, उग्र देवी का ध्यान करते हैं, वह हमें प्रेरित करें।",
+        "en": "We know Mother Tara, meditate on the fierce Goddess, may she inspire us."
+      },
+      "keywords": {
+        "hi": [
+          "तारा",
+          "महाविद्या"
+        ],
+        "en": [
+          "tara",
+          "mahavidya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

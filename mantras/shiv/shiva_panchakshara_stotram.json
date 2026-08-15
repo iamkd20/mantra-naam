@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "shiva_panchakshara_stotram",
+  "category": "shiv",
+  "title": {
+    "hi": "शिव पञ्चाक्षर स्तोत्रम्",
+    "en": "Shiva Panchakshara Stotram"
+  },
+  "mantras": [
+    {
+      "id": "shiva_panchakshara_stotram",
+      "title": {
+        "hi": "शिव पञ्चाक्षर स्तोत्रम्",
+        "en": "Shiva Panchakshara Stotram"
+      },
+      "mantra": {
+        "hi": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय। नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय॥",
+        "en": "Nagendra Haraya Trilochanaya Bhasmanga Ragaya Maheshwaraya Nityaya Shuddhaya Digambaraya Tasmai Nakaraya Namah Shivaya"
+      },
+      "description": {
+        "hi": "भगवान शिव का पञ्चाक्षर स्तोत्र।",
+        "en": "Panchakshara Stotram of Lord Shiva."
+      },
+      "meaning": {
+        "hi": "नागों के हार वाले शिव को प्रणाम।",
+        "en": "Salutations to Shiva wearing the serpent garland."
+      },
+      "keywords": {
+        "hi": [
+          "पञ्चाक्षर",
+          "स्तोत्रम्"
+        ],
+        "en": [
+          "panchakshara",
+          "stotram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

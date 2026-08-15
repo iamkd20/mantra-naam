@@ -3,49 +3,47 @@
   "id": "kali_gayatri",
   "category": "kali",
   "title": {
-    "hi": "काली गायत्री मंत्र",
-    "en": "Kali Gayatri Mantra"
+    "hi": "काली गायत्री",
+    "en": "Kali Gayatri"
   },
   "mantras": [
     {
       "id": "kali_gayatri",
       "title": {
-        "hi": "काली गायत्री मंत्र",
-        "en": "Kali Gayatri Mantra"
+        "hi": "काली गायत्री",
+        "en": "Kali Gayatri"
       },
       "mantra": {
-        "hi": "ॐ कालिकायै विद्महे श्मशानवासिन्यै धीमहि । तन्नो काली प्रचोदयात् ॥",
-        "en": "Om Kalikayai Vidmahe Smashanavasinyai Dhimahi. Tanno Kali Prachodayat."
+        "hi": "ॐ कालिकायै विद्महे श्मशानवासिन्यै धीमहि। तन्नो घोरा प्रचोदयात्॥",
+        "en": "Om Kālikāyai Vidmahe Śmaśānavāsinyai Dhīmahi Tanno Ghorā Pracodayāt"
       },
       "description": {
-        "hi": "माँ काली के दिव्य शक्ति और निर्भीक स्वरूप के ध्यान के लिए प्रचलित गायत्री शैली का मंत्र।",
-        "en": "A devotional chant associated with Kali Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "माता काली की कृपा एवं निर्भयता हेतु गायत्री मंत्र।",
+        "en": "Gayatri mantra invoking Goddess Kali for fearlessness and divine grace."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम देवी काली का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Kali. May She enlighten our intellect."
       },
       "keywords": {
         "hi": [
-          "काली गायत्री मंत्र",
-          "kali gayatri",
-          "kali",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "काली गायत्री",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
         ],
         "en": [
-          "Kali Gayatri Mantra",
           "kali gayatri",
-          "kali",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "kaali gayatri",
+          "kaali",
+          "kalli gayatri",
+          "kalli",
+          "om krim kalyai",
+          "om kreem kali"
         ]
       },
-      "audio": "kali_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

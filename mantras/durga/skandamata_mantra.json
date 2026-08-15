@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "id": "skandamata_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "स्कन्दमाता मंत्र",
+    "en": "Skandamata Mantra"
+  },
+  "mantras": [
+    {
+      "id": "skandamata_mantra",
+      "title": {
+        "hi": "स्कन्दमाता मंत्र",
+        "en": "Skandamata Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी स्कन्दमातायै नमः॥",
+        "en": "Om Devī Skandamātāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ स्कन्दमाता नवदुर्गा का पंचम स्वरूप हैं। वे मातृत्व, करुणा, संरक्षण एवं ज्ञान की अधिष्ठात्री हैं।",
+        "en": "Goddess Skandamata is the fifth form of Navadurga and symbolizes motherhood, compassion, protection, and wisdom."
+      },
+      "meaning": {
+        "hi": "मैं भगवान स्कन्द की माता देवी स्कन्दमाता को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Skandamata, the divine mother of Lord Skanda."
+      },
+      "keywords": {
+        "hi": [
+          "स्कन्दमाता",
+          "पंचम नवरात्र",
+          "देवी स्कन्दमाता",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "skandamata",
+          "fifth navadurga",
+          "goddess skandamata",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

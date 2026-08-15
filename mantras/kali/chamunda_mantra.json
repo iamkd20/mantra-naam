@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "id": "chamunda_mantra",
+  "category": "kali",
+  "title": {
+    "hi": "चामुण्डा मंत्र",
+    "en": "Chamunda Mantra"
+  },
+  "mantras": [
+    {
+      "id": "chamunda_mantra",
+      "title": {
+        "hi": "चामुण्डा मंत्र",
+        "en": "Chamunda Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे॥",
+        "en": "Om Aiṁ Hrīṁ Klīṁ Cāmuṇḍāyai Vicce"
+      },
+      "description": {
+        "hi": "माता चामुण्डा का प्रसिद्ध नवर्ण मंत्र।",
+        "en": "The famous Navarna mantra of Goddess Chamunda."
+      },
+      "meaning": {
+        "hi": "मैं देवी चामुण्डा का स्मरण करता हूँ।",
+        "en": "I invoke Goddess Chamunda."
+      },
+      "keywords": {
+        "hi": [
+          "चामुण्डा",
+          "नवर्ण मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "chamunda",
+          "navarna mantra",
+          "navarna manter",
+          "manter",
+          "navarna mntra",
+          "mntra",
+          "navarna mantr",
+          "mantr",
+          "navarna matra",
+          "matra",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

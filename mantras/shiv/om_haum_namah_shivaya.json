@@ -28,11 +28,21 @@
       "keywords": {
         "hi": [
           "ॐ हौं नमः शिवाय",
-          "शिव"
+          "शिव",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "Om हौं नमः शिवाय",
-          "शिव"
+          "शिव",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "om_haum_namah_shivaya.mp3"

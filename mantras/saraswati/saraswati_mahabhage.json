@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "saraswati_mahabhage",
+  "category": "saraswati",
+  "title": {
+    "hi": "सरस्वती महाभागे",
+    "en": "Saraswati Mahabhage"
+  },
+  "mantras": [
+    {
+      "id": "saraswati_mahabhage",
+      "title": {
+        "hi": "सरस्वती महाभागे",
+        "en": "Saraswati Mahabhage"
+      },
+      "mantra": {
+        "hi": "सरस्वति महाभागे विद्ये कमललोचने। विद्यां देहि विशालाक्षि नमस्तुभ्यं नमो नमः॥",
+        "en": "Sarasvati Mahābhāge Vidye Kamalalocane Vidyāṁ Dehi Viśālākṣi Namastubhyaṁ Namo Namaḥ"
+      },
+      "description": {
+        "hi": "विद्या, बुद्धि एवं वाणी की अधिष्ठात्री देवी सरस्वती की प्रसिद्ध प्रार्थना।",
+        "en": "A celebrated prayer to Goddess Saraswati for knowledge, wisdom, and eloquence."
+      },
+      "meaning": {
+        "hi": "हे विशाल नेत्रों वाली देवी सरस्वती! मुझे ज्ञान एवं विद्या प्रदान करें।",
+        "en": "O Goddess Saraswati, bless me with knowledge and wisdom."
+      },
+      "keywords": {
+        "hi": [
+          "सरस्वती",
+          "विद्या",
+          "महाभागे",
+          "मंतर",
+          "मन्त्र",
+          "सरसती"
+        ],
+        "en": [
+          "saraswati",
+          "knowledge",
+          "mahabhage",
+          "sarswati",
+          "sarasvati",
+          "sharaswati",
+          "ya kundendu tushar",
+          "om aim saraswatyai"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "jai_mata_di",
+  "category": "vaishno_devi",
+  "title": {
+    "hi": "जय माता दी",
+    "en": "Jai Mata Di"
+  },
+  "mantras": [
+    {
+      "id": "jai_mata_di",
+      "title": {
+        "hi": "जय माता दी",
+        "en": "Jai Mata Di"
+      },
+      "mantra": {
+        "hi": "जय माता दी॥",
+        "en": "Jai Mata Di"
+      },
+      "description": {
+        "hi": "",
+        "en": ""
+      },
+      "meaning": {
+        "hi": "",
+        "en": ""
+      },
+      "keywords": {
+        "hi": [
+          "मंतर",
+          "मन्त्र",
+          "वैष्णो",
+          "बष्णो"
+        ],
+        "en": [
+          "jai mata di",
+          "ya devi sarva bhuteshu"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

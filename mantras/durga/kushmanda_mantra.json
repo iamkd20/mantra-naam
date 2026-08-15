@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "id": "kushmanda_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "कूष्माण्डा मंत्र",
+    "en": "Kushmanda Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kushmanda_mantra",
+      "title": {
+        "hi": "कूष्माण्डा मंत्र",
+        "en": "Kushmanda Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कूष्माण्डायै नमः॥",
+        "en": "Om Devī Kūṣmāṇḍāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कूष्माण्डा नवदुर्गा का चतुर्थ स्वरूप हैं। वे सृष्टि की आदिशक्ति एवं तेज, स्वास्थ्य और समृद्धि की अधिष्ठात्री हैं।",
+        "en": "Goddess Kushmanda is the fourth form of Navadurga and is revered as the cosmic creator, bestowing health, vitality, and prosperity."
+      },
+      "meaning": {
+        "hi": "मैं सृष्टि की आदिशक्ति माँ कूष्माण्डा को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Kushmanda, the primordial creative force of the universe."
+      },
+      "keywords": {
+        "hi": [
+          "कूष्माण्डा",
+          "चतुर्थ नवरात्र",
+          "देवी कूष्माण्डा",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "kushmanda",
+          "fourth navadurga",
+          "goddess kushmanda",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

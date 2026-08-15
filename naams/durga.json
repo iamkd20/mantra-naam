@@ -1,0 +1,291 @@
+{
+  "names": [
+    {
+      "id": "durga_1",
+      "name": {
+        "hi": "दुर्गा",
+        "en": "Durga"
+      }
+    },
+    {
+      "id": "durga_2",
+      "name": {
+        "hi": "दुर्गार्तिशमनी",
+        "en": "Durgartishamani"
+      }
+    },
+    {
+      "id": "durga_3",
+      "name": {
+        "hi": "दुर्गापद्विनिवारिणी",
+        "en": "Durgapadvinivarini"
+      }
+    },
+    {
+      "id": "durga_4",
+      "name": {
+        "hi": "दुर्गमच्छेदनी",
+        "en": "Durgamacchedini"
+      }
+    },
+    {
+      "id": "durga_5",
+      "name": {
+        "hi": "दुर्गसाधिनी",
+        "en": "Durgasadhini"
+      }
+    },
+    {
+      "id": "durga_6",
+      "name": {
+        "hi": "दुर्गनाशिनी",
+        "en": "Durganashini"
+      }
+    },
+    {
+      "id": "durga_7",
+      "name": {
+        "hi": "दुर्गमाश्रय",
+        "en": "Durgamashraya"
+      }
+    },
+    {
+      "id": "durga_8",
+      "name": {
+        "hi": "दुर्गमज्ञानदा",
+        "en": "Durgamagyanada"
+      }
+    },
+    {
+      "id": "durga_9",
+      "name": {
+        "hi": "दुर्गदैत्यलोकदवानला",
+        "en": "Durgadaityalokadavanala"
+      }
+    },
+    {
+      "id": "durga_10",
+      "name": {
+        "hi": "दुर्गमा",
+        "en": "Durgama"
+      }
+    },
+    {
+      "id": "durga_nav_shailaputri",
+      "name": {
+        "hi": "शैलपुत्री",
+        "en": "Shailaputri"
+      }
+    },
+    {
+      "id": "durga_nav_brahmacharini",
+      "name": {
+        "hi": "ब्रह्मचारिणी",
+        "en": "Brahmacharini"
+      }
+    },
+    {
+      "id": "durga_nav_chandraghanta",
+      "name": {
+        "hi": "चन्द्रघण्टा",
+        "en": "Chandraghanta"
+      }
+    },
+    {
+      "id": "durga_nav_kushmanda",
+      "name": {
+        "hi": "कूष्माण्डा",
+        "en": "Kushmanda"
+      }
+    },
+    {
+      "id": "durga_nav_skandamata",
+      "name": {
+        "hi": "स्कन्दमाता",
+        "en": "Skandamata"
+      }
+    },
+    {
+      "id": "durga_nav_katyayani",
+      "name": {
+        "hi": "कात्यायनी",
+        "en": "Katyayani"
+      }
+    },
+    {
+      "id": "durga_nav_kalaratri",
+      "name": {
+        "hi": "कालरात्रि",
+        "en": "Kalaratri"
+      }
+    },
+    {
+      "id": "durga_nav_mahagauri",
+      "name": {
+        "hi": "महागौरी",
+        "en": "Mahagauri"
+      }
+    },
+    {
+      "id": "durga_nav_siddhidatri",
+      "name": {
+        "hi": "सिद्धिदात्री",
+        "en": "Siddhidatri"
+      }
+    },
+    {
+      "id": "durga_11",
+      "name": {
+        "hi": "दुर्गदैत्यलोकदवानला",
+        "en": "Durgadaityalokadavanala"
+      }
+    },
+    {
+      "id": "durga_12",
+      "name": {
+        "hi": "दुर्गमा",
+        "en": "Durgama"
+      }
+    },
+    {
+      "id": "durga_13",
+      "name": {
+        "hi": "दुर्गमालोका",
+        "en": "Durgamaloka"
+      }
+    },
+    {
+      "id": "durga_14",
+      "name": {
+        "hi": "दुर्गमात्मस्वरूपिणी",
+        "en": "Durgamatmaswarupini"
+      }
+    },
+    {
+      "id": "durga_15",
+      "name": {
+        "hi": "दुर्गमार्गप्रदा",
+        "en": "Durgamargaprada"
+      }
+    },
+    {
+      "id": "durga_16",
+      "name": {
+        "hi": "दुर्गमविद्या",
+        "en": "Durgamavidya"
+      }
+    },
+    {
+      "id": "durga_17",
+      "name": {
+        "hi": "दुर्गमाश्रिता",
+        "en": "Durgamashrita"
+      }
+    },
+    {
+      "id": "durga_18",
+      "name": {
+        "hi": "दुर्गमज्ञानसंस्थाना",
+        "en": "Durgamagyansamsthana"
+      }
+    },
+    {
+      "id": "durga_19",
+      "name": {
+        "hi": "दुर्गमध्यानभासिनी",
+        "en": "Durgamadhyanabhasini"
+      }
+    },
+    {
+      "id": "durga_20",
+      "name": {
+        "hi": "दुर्गमोहा",
+        "en": "Durgamoha"
+      }
+    },
+    {
+      "id": "durga_21",
+      "name": {
+        "hi": "दुर्गमगा",
+        "en": "Durgamaga"
+      }
+    },
+    {
+      "id": "durga_22",
+      "name": {
+        "hi": "दुर्गमार्थस्वरूपिणी",
+        "en": "Durgamarthaswarupini"
+      }
+    },
+    {
+      "id": "durga_23",
+      "name": {
+        "hi": "दुर्गमासुरसंहन्त्री",
+        "en": "Durgamasurasanhantri"
+      }
+    },
+    {
+      "id": "durga_24",
+      "name": {
+        "hi": "दुर्गमायुधधारिणी",
+        "en": "Durgamayudhadharini"
+      }
+    },
+    {
+      "id": "durga_25",
+      "name": {
+        "hi": "दुर्गमाङ्गी",
+        "en": "Durgamangi"
+      }
+    },
+    {
+      "id": "durga_26",
+      "name": {
+        "hi": "दुर्गमता",
+        "en": "Durgamata"
+      }
+    },
+    {
+      "id": "durga_27",
+      "name": {
+        "hi": "दुर्गम्या",
+        "en": "Durgamya"
+      }
+    },
+    {
+      "id": "durga_28",
+      "name": {
+        "hi": "दुर्गमेश्वरी",
+        "en": "Durgameshwari"
+      }
+    },
+    {
+      "id": "durga_29",
+      "name": {
+        "hi": "दुर्गभीमा",
+        "en": "Durgabhima"
+      }
+    },
+    {
+      "id": "durga_30",
+      "name": {
+        "hi": "दुर्गभामा",
+        "en": "Durgabhama"
+      }
+    },
+    {
+      "id": "durga_31",
+      "name": {
+        "hi": "दुर्गभा",
+        "en": "Durgabha"
+      }
+    },
+    {
+      "id": "durga_32",
+      "name": {
+        "hi": "दुर्गदारिणी",
+        "en": "Durgadarini"
+      }
+    }
+  ]
+}

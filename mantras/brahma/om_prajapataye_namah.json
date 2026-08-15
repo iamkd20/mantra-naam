@@ -33,16 +33,28 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "मंतर",
+          "मन्त्र",
+          "बरम्हा",
+          "ब्रम्हा"
         ],
         "en": [
-          "Om Prajapataye Namah",
           "om prajapataye namah",
           "brahma",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "bramha",
+          "brama",
+          "brhma",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om vedatmane vidmahe",
+          "gurur brahma"
         ]
       },
       "audio": "om_prajapataye_namah.mp3"

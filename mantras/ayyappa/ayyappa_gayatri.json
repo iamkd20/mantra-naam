@@ -33,23 +33,42 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
         ],
         "en": [
-          "Ayyappa Gayatri Mantra",
+          "ayyappa gayatri mantra",
           "ayyappa gayatri",
           "ayyappa",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "ayyappa gayatri manter",
+          "manter",
+          "ayyappa gayatri mntra",
+          "mntra",
+          "ayyappa gayatri mantr",
+          "mantr",
+          "ayyappa gayatri matra",
+          "matra",
+          "ayappa gayatri mantra",
+          "ayappa",
+          "ayappaa gayatri mantra",
+          "ayappaa",
+          "aiyappa gayatri mantra",
+          "aiyappa",
+          "ayappa gayatri",
+          "ayappaa gayatri",
+          "aiyappa gayatri",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
         ]
       },
       "audio": "ayyappa_gayatri.mp3"
     }
-  ],
-  "meaning": {
-    "hi": "हम भूतनाथ (समस्त प्राणियों के स्वामी) भगवान को जानने का प्रयास करें, महादेव (शास्ता) का ध्यान करें। वे शास्ता हमें ज्ञान और आध्यात्मिक प्रकाश की ओर प्रेरित करें।",
-    "en": "We seek to know Bhutanatha (Lord of all beings), we meditate on Mahadeva. May that Lord Shasta illuminate our intellect and inspire us."
-  }
+  ]
 }

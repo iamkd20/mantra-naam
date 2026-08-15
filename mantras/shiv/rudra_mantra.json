@@ -34,7 +34,12 @@
           "महादेव",
           "रुद्र जप",
           "रुद्र उपासना",
-          "शरणागति"
+          "शरणागति",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "rudra mantra",
@@ -44,7 +49,32 @@
           "mahadev",
           "rudra japa",
           "rudra worship",
-          "surrender"
+          "surrender",
+          "rudra manter",
+          "manter",
+          "rudra mntra",
+          "mntra",
+          "rudra mantr",
+          "mantr",
+          "rudra matra",
+          "matra",
+          "siva mantra",
+          "siva",
+          "shiv mantra",
+          "shiv",
+          "shib mantra",
+          "shib",
+          "siwa mantra",
+          "siwa",
+          "shiva manter",
+          "shiva mntra",
+          "shiva mantr",
+          "shiva matra",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "rudra_mantra.mp3"

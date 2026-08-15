@@ -47,6 +47,34 @@
         "hi": "माँ शेरावाली",
         "en": "Maa Sherawali"
       }
+    },
+    {
+      "id": "vaishno_devi_trikuta",
+      "name": {
+        "hi": "त्रिकुटा",
+        "en": "Trikuta"
+      }
+    },
+    {
+      "id": "vaishno_devi_sherawali",
+      "name": {
+        "hi": "शेरावाली",
+        "en": "Sherawali"
+      }
+    },
+    {
+      "id": "vaishno_devi_pahadawali",
+      "name": {
+        "hi": "पहाड़ावाली",
+        "en": "Pahadawali"
+      }
+    },
+    {
+      "id": "vaishno_devi_jyotawali",
+      "name": {
+        "hi": "ज्योतावाली",
+        "en": "Jyotawali"
+      }
     }
   ]
 }

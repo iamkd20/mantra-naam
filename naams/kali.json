@@ -75,6 +75,13 @@
         "hi": "जय माँ काली",
         "en": "Jai Maa Kali"
       }
+    },
+    {
+      "id": "kali_chandi",
+      "name": {
+        "hi": "चंडी",
+        "en": "Chandi"
+      }
     }
   ]
 }

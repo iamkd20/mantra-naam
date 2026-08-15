@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "durga_saptashati_sloka",
+  "category": "durga",
+  "title": {
+    "hi": "दुर्गा सप्तशती श्लोक",
+    "en": "Durga Saptashati Sloka"
+  },
+  "mantras": [
+    {
+      "id": "durga_saptashati_sloka",
+      "title": {
+        "hi": "दुर्गा सप्तशती श्लोक",
+        "en": "Durga Saptashati Sloka"
+      },
+      "mantra": {
+        "hi": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+        "en": "Sarva Mangala Mangalye Shive Sarvartha Sadhike Sharanye Tryambake Gauri Narayani Namostu Te"
+      },
+      "description": {
+        "hi": "माँ दुर्गा की स्तुति।",
+        "en": "Praise of Maa Durga."
+      },
+      "meaning": {
+        "hi": "हे नारायणी! तुम सब प्रकार का मंगल प्रदान करने वाली मंगलमयी हो।",
+        "en": "O Narayani! You are the auspicious one who bestows all auspiciousness."
+      },
+      "keywords": {
+        "hi": [
+          "सर्वमङ्गलमाङ्गल्ये",
+          "दुर्गा"
+        ],
+        "en": [
+          "sarva mangala",
+          "durga"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

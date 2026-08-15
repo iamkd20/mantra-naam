@@ -3,49 +3,53 @@
   "id": "radha_krishna_mantra",
   "category": "radha_krishna",
   "title": {
-    "hi": "राधा कृष्ण मंत्र",
-    "en": "Radha Krishna Mantra"
+    "hi": "ॐ राधाकृष्णाभ्यां नमः॥",
+    "en": "Om Radha Krishnabhyam Namah"
   },
   "mantras": [
     {
       "id": "radha_krishna_mantra",
       "title": {
-        "hi": "राधा कृष्ण मंत्र",
-        "en": "Radha Krishna Mantra"
+        "hi": "ॐ राधाकृष्णाभ्यां नमः॥",
+        "en": "Om Radha Krishnabhyam Namah"
       },
       "mantra": {
-        "hi": "राधे कृष्ण राधे कृष्ण कृष्ण कृष्ण राधे राधे ॥",
-        "en": "Radhe Krishna Radhe Krishna Krishna Krishna Radhe Radhe."
+        "hi": "ॐ राधाकृष्णाभ्यां नमः॥",
+        "en": "Om Rādhā-Kṛṣṇābhyām Namah"
       },
       "description": {
-        "hi": "राधा-कृष्ण के प्रेम और भक्ति-स्वरूप का संयुक्त नाम-स्मरण।",
-        "en": "A devotional chant associated with Radha Krishna Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "राधा-कृष्ण के संयुक्त स्मरण का मंत्र।",
+        "en": "A devotional invocation of Radha and Krishna together."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
       },
       "keywords": {
         "hi": [
-          "राधा कृष्ण मंत्र",
-          "radha krishna mantra",
-          "radha_krishna",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ॐ राधाकृष्णाभ्यां नमः॥",
+          "मंतर",
+          "मन्त्र",
+          "किसन",
+          "क्रिशन",
+          "रादे"
         ],
         "en": [
-          "Radha Krishna Mantra",
-          "radha krishna mantra",
-          "radha krishna",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "om radha krishnabhyam namah",
+          "krisna",
+          "krishan",
+          "kishan",
+          "krishn",
+          "kirshna",
+          "om radhe krishnabhyam namah",
+          "radhe",
+          "om radhika krishnabhyam namah",
+          "radhika",
+          "radhe radhe",
+          "hare krishna hare rama"
         ]
       },
-      "audio": "radha_krishna_mantra.mp3"
+      "audio": ""
     }
   ]
 }

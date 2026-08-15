@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "lakshmi_beej_mantra",
+  "category": "lakshmi",
+  "title": {
+    "hi": "महालक्ष्मी मंत्र",
+    "en": "Mahalakshmi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lakshmi_beej_mantra",
+      "title": {
+        "hi": "महालक्ष्मी मंत्र",
+        "en": "Mahalakshmi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं महालक्ष्म्यै नमः॥",
+        "en": "Om Shreem Mahalakshmyai Namah"
+      },
+      "description": {
+        "hi": "",
+        "en": ""
+      },
+      "meaning": {
+        "hi": "",
+        "en": ""
+      },
+      "keywords": {
+        "hi": [
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "vaishno_devi_mantra",
+  "category": "vaishno_devi",
+  "title": {
+    "hi": "ॐ श्री वैष्णो देव्यै नमः॥",
+    "en": "Om Shri Vaishno Devyai Namah"
+  },
+  "mantras": [
+    {
+      "id": "vaishno_devi_mantra",
+      "title": {
+        "hi": "ॐ श्री वैष्णो देव्यै नमः॥",
+        "en": "Om Shri Vaishno Devyai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री वैष्णो देव्यै नमः॥",
+        "en": "Om Shri Vaishno Devyai Namah"
+      },
+      "description": {
+        "hi": "माँ वैष्णो देवी के स्मरण का सरल मंत्र।",
+        "en": "A simple devotional invocation of Vaishno Devi."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ श्री वैष्णो देव्यै नमः॥",
+          "मंतर",
+          "मन्त्र",
+          "वैष्णो",
+          "बष्णो"
+        ],
+        "en": [
+          "Om Shri Vaishno Devyai Namah",
+          "jai mata di",
+          "ya devi sarva bhuteshu"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

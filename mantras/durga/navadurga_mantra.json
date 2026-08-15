@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "id": "navadurga_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+    "en": "Navadurga Devi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "navadurga_mantra",
+      "title": {
+        "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+        "en": "Navadurga Devi Mantra"
+      },
+      "mantra": {
+        "hi": "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+        "en": "Ya Devi Sarva Bhuteshu Shakti Rupena Samsthita Namastasyai Namastasyai Namastasyai Namo Namah"
+      },
+      "description": {
+        "hi": "देवी शक्ति के व्यापक स्मरण का प्रसिद्ध स्तोत्र-पद।",
+        "en": "A well-known devotional verse invoking the Divine Mother as universal Shakti."
+      },
+      "meaning": {
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
+      },
+      "keywords": {
+        "hi": [
+          "या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता। नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "navadurga devi mantra",
+          "durge",
+          "doorga",
+          "durgga",
+          "navadurga devi manter",
+          "manter",
+          "navadurga devi mntra",
+          "mntra",
+          "navadurga devi mantr",
+          "mantr",
+          "navadurga devi matra",
+          "matra",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

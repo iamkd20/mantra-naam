@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ नमो भगवते दत्तात्रेयाय॥",
-        "transliteration": "Om Namo Bhagavate Dattatreyaya"
+        "en": "Om Namo Bhagavate Dattatreyaya"
       },
       "description": {
         "hi": "भगवान दत्तात्रेय को समर्पित अत्यंत शक्तिशाली स्मरण मंत्र।",
@@ -29,14 +29,28 @@
         "hi": [
           "दत्तात्रेय",
           "नमो भगवते",
-          "मंत्र"
+          "मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
         ],
         "en": [
           "dattatreya",
           "namo bhagavate",
-          "mantra"
+          "mantra",
+          "datatreya",
+          "datta",
+          "dattatrey",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om dram dattatreyaya",
+          "digambara digambara"
         ]
-      }
+      },
+      "audio": ""
     }
   ]
 }

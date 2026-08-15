@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "bagalamukhi_moola_mantra",
+  "category": "kali",
+  "title": {
+    "hi": "बगलामुखी मूल मंत्र",
+    "en": "Bagalamukhi Moola Mantra"
+  },
+  "mantras": [
+    {
+      "id": "bagalamukhi_moola_mantra",
+      "title": {
+        "hi": "बगलामुखी मूल मंत्र",
+        "en": "Bagalamukhi Moola Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्लीं बगलामुखि सर्वदुष्टानां वाचं मुखं पदं स्तम्भय जिह्वां कीलय बुद्धिं विनाशय ह्लीं ॐ स्वाहा॥",
+        "en": "Om Hlīṁ Bagalāmukhi Sarvaduṣṭānāṁ Vācaṁ Mukhaṁ Padaṁ Stambhaya Jihvāṁ Kīlaya Buddhiṁ Vināśaya Hlīṁ Om Svāhā"
+      },
+      "description": {
+        "hi": "देवी बगलामुखी का प्रसिद्ध मूल स्तम्भन मंत्र।",
+        "en": "The principal mantra of Goddess Bagalamukhi."
+      },
+      "meaning": {
+        "hi": "हे देवी! दुष्टों की वाणी एवं बुद्धि को निष्प्रभावी करें।",
+        "en": "O Goddess, restrain harmful speech and negative intentions."
+      },
+      "keywords": {
+        "hi": [
+          "बगलामुखी",
+          "ह्लीं",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "bagalamukhi",
+          "hleem",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

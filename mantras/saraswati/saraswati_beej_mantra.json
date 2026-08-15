@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "saraswati_beej_mantra",
+  "category": "saraswati",
+  "title": {
+    "hi": "सरस्वती बीज मंत्र",
+    "en": "Saraswati Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "saraswati_beej_mantra",
+      "title": {
+        "hi": "सरस्वती बीज मंत्र",
+        "en": "Saraswati Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं सरस्वत्यै नमः॥",
+        "en": "Om Aim Saraswatyai Namah"
+      },
+      "description": {
+        "hi": "",
+        "en": ""
+      },
+      "meaning": {
+        "hi": "",
+        "en": ""
+      },
+      "keywords": {
+        "hi": [
+          "मंतर",
+          "मन्त्र",
+          "सरसती",
+          "सरस्वती"
+        ],
+        "en": [
+          "ya kundendu tushar",
+          "om aim saraswatyai"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

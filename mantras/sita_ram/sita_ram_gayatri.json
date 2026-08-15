@@ -3,49 +3,47 @@
   "id": "sita_ram_gayatri",
   "category": "sita_ram",
   "title": {
-    "hi": "सीता गायत्री मंत्र",
-    "en": "Sita Gayatri Mantra"
+    "hi": "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+    "en": "Sita Gayatri"
   },
   "mantras": [
     {
       "id": "sita_ram_gayatri",
       "title": {
-        "hi": "सीता गायत्री मंत्र",
-        "en": "Sita Gayatri Mantra"
+        "hi": "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+        "en": "Sita Gayatri"
       },
       "mantra": {
-        "hi": "ॐ जानक्यै विद्महे रामप्रियायै धीमहि । तन्नो सीता प्रचोदयात् ॥",
-        "en": "Om Janakyai Vidmahe Ramapriyayai Dhimahi. Tanno Sita Prachodayat."
+        "hi": "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+        "en": "Om Janakanandinyai Vidmahe Rama-priyāyai Dhimahi Tannah Sita Prachodayat"
       },
       "description": {
-        "hi": "माता सीता के पवित्र आदर्श और दिव्य स्वरूप के ध्यान हेतु प्रचलित गायत्री शैली का जप।",
-        "en": "A devotional chant associated with Sita Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "सीता जी के स्मरण का प्रचलित गायत्री रूप।",
+        "en": "A commonly used Gayatri-style invocation for Sita."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
       },
       "keywords": {
         "hi": [
-          "सीता गायत्री मंत्र",
-          "sita ram gayatri",
-          "sita_ram",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ॐ जनकनन्दिन्यै विद्महे रामप्रियायै धीमहि। तन्नः सीता प्रचोदयात्॥",
+          "मंतर",
+          "मन्त्र",
+          "सीया",
+          "राम"
         ],
         "en": [
-          "Sita Gayatri Mantra",
-          "sita ram gayatri",
-          "sita ram",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "sita gayatri",
+          "seeta gayatri",
+          "seeta",
+          "siya gayatri",
+          "siya",
+          "shri ram jai ram",
+          "mangala bhavana"
         ]
       },
-      "audio": "sita_ram_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

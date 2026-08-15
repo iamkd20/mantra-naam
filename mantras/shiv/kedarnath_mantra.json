@@ -29,12 +29,22 @@
         "hi": [
           "केदारनाथ",
           "जय श्री केदार",
-          "बाबा केदार"
+          "बाबा केदार",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "केदारनाथ",
           "जय श्री केदार",
-          "बाबा केदार"
+          "बाबा केदार",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "kedarnath_mantra.mp3"

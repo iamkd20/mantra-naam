@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "om_shri_vaishnavi_namah",
+  "category": "vaishno_devi",
+  "title": {
+    "hi": "ॐ श्री वैष्णव्यै नमः",
+    "en": "Om Shri Vaishnavyai Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_vaishnavi_namah",
+      "title": {
+        "hi": "ॐ श्री वैष्णव्यै नमः",
+        "en": "Om Shri Vaishnavyai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री वैष्णव्यै नमः॥",
+        "en": "Om Shri Vaishnavyai Namah"
+      },
+      "description": {
+        "hi": "माँ वैष्णो देवी का ध्यान मंत्र।",
+        "en": "Meditation mantra of Maa Vaishno Devi."
+      },
+      "meaning": {
+        "hi": "मैं माँ वैष्णवी को प्रणाम करता हूँ।",
+        "en": "I bow to Maa Vaishnavi."
+      },
+      "keywords": {
+        "hi": [
+          "वैष्णव्यै",
+          "वैष्णो"
+        ],
+        "en": [
+          "vaishnavyai",
+          "vaishno"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

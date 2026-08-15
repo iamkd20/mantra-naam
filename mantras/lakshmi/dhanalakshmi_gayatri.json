@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "id": "dhanalakshmi_gayatri",
+  "category": "lakshmi",
+  "title": {
+    "hi": "धनलक्ष्मी गायत्री",
+    "en": "Dhanalakshmi Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "dhanalakshmi_gayatri",
+      "title": {
+        "hi": "धनलक्ष्मी गायत्री",
+        "en": "Dhanalakshmi Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ धनलक्ष्म्यै च विद्महे महादेव्यै च धीमहि। तन्नो लक्ष्मीः प्रचोदयात्॥",
+        "en": "Om Dhanalakṣmyai Ca Vidmahe Mahādevyai Ca Dhīmahi Tanno Lakṣmīḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "माता धनलक्ष्मी की कृपा, समृद्धि एवं धन-धान्य की प्राप्ति के लिए जपा जाने वाला गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Goddess Dhanalakshmi for prosperity, abundance, and divine blessings."
+      },
+      "meaning": {
+        "hi": "हम धनलक्ष्मी देवी का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें एवं हमें समृद्धि प्रदान करें।",
+        "en": "We meditate upon Goddess Dhanalakshmi. May She illuminate our intellect and bless us with prosperity."
+      },
+      "keywords": {
+        "hi": [
+          "धनलक्ष्मी",
+          "लक्ष्मी गायत्री",
+          "समृद्धि",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "dhanalakshmi",
+          "lakshmi gayatri",
+          "prosperity",
+          "laxmi",
+          "luxmi",
+          "laksmi",
+          "lakhsmi",
+          "laxmi gayatri",
+          "luxmi gayatri",
+          "laksmi gayatri",
+          "lakhsmi gayatri",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

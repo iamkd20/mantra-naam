@@ -29,12 +29,18 @@
         "hi": [
           "हरिवरासनम्",
           "हरिवरासनं",
-          "सबरीमाला स्तोत्र"
+          "सबरीमाला स्तोत्र",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
         ],
         "en": [
           "harivarasanam",
           "harivarasanam vishwamohanam",
-          "sabarimala lullaby"
+          "sabarimala lullaby",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
         ]
       },
       "audio": "harivarasanam.mp3"

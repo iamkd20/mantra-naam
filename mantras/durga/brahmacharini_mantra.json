@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "id": "brahmacharini_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "ब्रह्मचारिणी मंत्र",
+    "en": "Brahmacharini Mantra"
+  },
+  "mantras": [
+    {
+      "id": "brahmacharini_mantra",
+      "title": {
+        "hi": "ब्रह्मचारिणी मंत्र",
+        "en": "Brahmacharini Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी ब्रह्मचारिण्यै नमः॥",
+        "en": "Om Devī Brahmacāriṇyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ ब्रह्मचारिणी नवदुर्गा का द्वितीय स्वरूप हैं। वे तप, संयम, ज्ञान और साधना की अधिष्ठात्री हैं।",
+        "en": "Goddess Brahmacharini is the second form of Navadurga and symbolizes penance, discipline, wisdom, and spiritual practice."
+      },
+      "meaning": {
+        "hi": "मैं तपस्विनी माँ ब्रह्मचारिणी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Brahmacharini, the embodiment of penance and austerity."
+      },
+      "keywords": {
+        "hi": [
+          "ब्रह्मचारिणी",
+          "द्वितीय नवरात्र",
+          "तपस्विनी",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "brahmacharini",
+          "second navadurga",
+          "penance",
+          "bramha",
+          "brama",
+          "brhma",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

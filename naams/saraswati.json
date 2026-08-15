@@ -117,6 +117,20 @@
         "hi": "जय माँ सरस्वती",
         "en": "Jai Maa Saraswati"
       }
+    },
+    {
+      "id": "saraswati_vidyadayini",
+      "name": {
+        "hi": "विद्यादायिनी",
+        "en": "Vidyadayini"
+      }
+    },
+    {
+      "id": "saraswati_shwetambari",
+      "name": {
+        "hi": "श्वेताम्बरी",
+        "en": "Shwetambari"
+      }
     }
   ]
 }

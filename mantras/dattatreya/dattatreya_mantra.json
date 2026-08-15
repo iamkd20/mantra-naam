@@ -15,7 +15,7 @@
       },
       "mantra": {
         "hi": "ॐ द्रां दत्तात्रेयाय नमः॥",
-        "transliteration": "Om Drāṁ Dattātreyāya Namaḥ"
+        "en": "Om Drāṁ Dattātreyāya Namaḥ"
       },
       "description": {
         "hi": "भगवान दत्तात्रेय का सरल एवं लोकप्रिय बीज मंत्र।",
@@ -25,87 +25,27 @@
         "hi": "मैं भगवान दत्तात्रेय को प्रणाम करता हूँ।",
         "en": "I bow to Lord Dattatreya."
       },
-      "deities": [
-        "dattatreya"
-      ],
-      "deityInfo": {
-        "primary": "dattatreya",
-        "group": "trimurti",
-        "parent": null
-      },
-      "categories": [
-        "dattatreya",
-        "nama_japa"
-      ],
       "keywords": {
         "hi": [
           "दत्तात्रेय",
           "दत्त",
-          "गुरु"
+          "गुरु",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
         ],
         "en": [
           "dattatreya",
           "datta",
-          "guru"
+          "guru",
+          "datatreya",
+          "dattatrey",
+          "om dram dattatreyaya",
+          "digambara digambara"
         ]
       },
-      "benefits": {
-        "hi": [
-          "गुरु कृपा",
-          "ज्ञान",
-          "आध्यात्मिक उन्नति",
-          "भक्ति",
-          "शांति",
-          "सद्बुद्धि"
-        ],
-        "en": [
-          "Guru's grace",
-          "Knowledge",
-          "Spiritual growth",
-          "Devotion",
-          "Peace",
-          "Wisdom"
-        ]
-      },
-      "purpose": [
-        "guru_bhakti",
-        "knowledge",
-        "spiritual_growth"
-      ],
-      "recommendedTime": [
-        "morning"
-      ],
-      "recommendedOccasion": [
-        "daily_japa",
-        "guru_purnima"
-      ],
-      "recommendedJapa": [
-        11,
-        27,
-        108
-      ],
-      "usage": {
-        "hi": "दैनिक जप एवं दत्तात्रेय उपासना में।",
-        "en": "For daily chanting and worship of Lord Dattatreya."
-      },
-      "dailyRoutine": [
-        "morning"
-      ],
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
-      "pronunciation": {
-        "hi": "'द्रां' का स्पष्ट उच्चारण करें।",
-        "en": "Pronounce 'Drāṁ' clearly."
-      },
-      "tradition": "Sanatana",
-      "source": "Traditional",
-      "related": [
-        "digambara_digambara",
-        "datta_gayatri"
-      ],
-      "isPopular": true
+      "audio": ""
     }
   ]
 }
