@@ -166,6 +166,111 @@
         "hi": "सिद्धिविनायक",
         "en": "Siddhivinayak"
       }
+    },
+    {
+      "id": "g_ganadhyaksha",
+      "name": {
+        "hi": "गणाध्यक्ष",
+        "en": "Ganadhyaksha"
+      }
+    },
+    {
+      "id": "g_vighnaraja",
+      "name": {
+        "hi": "विघ्नराज",
+        "en": "Vighnaraja"
+      }
+    },
+    {
+      "id": "g_dhumraketu",
+      "name": {
+        "hi": "धूम्रकेतु",
+        "en": "Dhumraketu"
+      }
+    },
+    {
+      "id": "g_bhalachandra",
+      "name": {
+        "hi": "भालचन्द्र",
+        "en": "Bhalachandra"
+      }
+    },
+    {
+      "id": "g_gajakarna",
+      "name": {
+        "hi": "गजकर्ण",
+        "en": "Gajakarna"
+      }
+    },
+    {
+      "id": "g_vikata",
+      "name": {
+        "hi": "विकट",
+        "en": "Vikata"
+      }
+    },
+    {
+      "id": "g_vighnanasha",
+      "name": {
+        "hi": "विघ्ननाश",
+        "en": "Vighnanasha"
+      }
+    },
+    {
+      "id": "g_surpakarna",
+      "name": {
+        "hi": "शूर्पकर्ण",
+        "en": "Surpakarna"
+      }
+    },
+    {
+      "id": "g_skandapurvaja",
+      "name": {
+        "hi": "स्कन्दपूर्वज",
+        "en": "Skandapurvaja"
+      }
+    },
+    {
+      "id": "g_bappa",
+      "name": {
+        "hi": "बप्पा",
+        "en": "Bappa"
+      }
+    },
+    {
+      "id": "g_morya",
+      "name": {
+        "hi": "मोरया",
+        "en": "Morya"
+      }
+    },
+    {
+      "id": "g_mangalamurti",
+      "name": {
+        "hi": "मंगलमूर्ति",
+        "en": "Mangalamurti"
+      }
+    },
+    {
+      "id": "g_chintamani",
+      "name": {
+        "hi": "चिंतामणि",
+        "en": "Chintamani"
+      }
+    },
+    {
+      "id": "g_mahakaya",
+      "name": {
+        "hi": "महाकाय",
+        "en": "Mahakaya"
+      }
+    },
+    {
+      "id": "g_prathamapujya",
+      "name": {
+        "hi": "प्रथमपूज्य",
+        "en": "Prathamapujya"
+      }
     }
   ]
 }

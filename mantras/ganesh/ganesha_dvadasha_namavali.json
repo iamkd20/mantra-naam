@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "ganesha_dvadasha_namavali",
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश द्वादश नामावली",
+    "en": "Ganesha Dvadasha Namavali"
+  },
+  "mantras": [
+    {
+      "id": "ganesha_dvadasha_namavali",
+      "title": {
+        "hi": "गणेश द्वादश नामावली",
+        "en": "Ganesha Dvadasha Namavali"
+      },
+      "mantra": {
+        "hi": "सुमुखश्चैकदन्तश्च कपिलो गजकर्णकः। लम्बोदरश्च विकटो विघ्ननाशो गणाधिपः॥ धूम्रकेतुर्गणाध्यक्षो भालचन्द्रो गजाननः। द्वादशैतानि नामानि यः पठेच्छृणुयादपि॥",
+        "transliteration": "Sumukhaśca Ekadantaśca Kapilo Gajakarṇakaḥ Lambodaraśca Vikaṭo Vighnanāśo Gaṇādhipaḥ Dhūmraketur Gaṇādhyakṣo Bhālacandro Gajānanaḥ"
+      },
+      "description": {
+        "hi": "भगवान गणेश के बारह दिव्य नामों का प्रसिद्ध स्तोत्र।",
+        "en": "The famous hymn listing the twelve sacred names of Lord Ganesha."
+      },
+      "meaning": {
+        "hi": "जो श्रद्धापूर्वक गणेशजी के इन बारह नामों का स्मरण करता है, उसके कार्य सफल होते हैं।",
+        "en": "One who remembers these twelve names of Lord Ganesha with devotion attains success."
+      },
+      "keywords": {
+        "hi": [
+          "द्वादश नाम",
+          "सुमुख",
+          "एकदन्त",
+          "गनेस",
+          "गनपति",
+          "गणपति"
+        ],
+        "en": [
+          "dvadasha nama",
+          "sumukha",
+          "ekadanta",
+          "ganes",
+          "ganesha",
+          "gnesh",
+          "ganpati",
+          "ganapati",
+          "ganeshji"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -33,7 +33,10 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "गनेस",
+          "गनपति",
+          "गणपति"
         ],
         "en": [
           "ganesh gayatri mantra",
@@ -65,7 +68,11 @@
           "gnesh gayatri",
           "ganpati gayatri",
           "ganapati gayatri",
-          "ganeshji gayatri"
+          "ganeshji gayatri",
+          "ganes",
+          "ganpati bappa",
+          "bappa",
+          "morya"
         ]
       },
       "audio": "ganesh_gayatri.mp3"

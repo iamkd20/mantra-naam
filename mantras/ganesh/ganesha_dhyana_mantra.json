@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "ganesha_dhyana_mantra",
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश ध्यान मंत्र",
+    "en": "Ganesha Dhyana Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ganesha_dhyana_mantra",
+      "title": {
+        "hi": "गणेश ध्यान मंत्र",
+        "en": "Ganesha Dhyana Mantra"
+      },
+      "mantra": {
+        "hi": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्। प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥",
+        "transliteration": "Śuklāmbaradharaṁ Viṣṇuṁ Śaśivarṇaṁ Caturbhujam Prasannavadanaṁ Dhyāyet Sarvavighnopaśāntaye"
+      },
+      "description": {
+        "hi": "भगवान गणेश के ध्यान के रूप में व्यापक रूप से प्रयुक्त मंगल श्लोक।",
+        "en": "A widely recited invocation used while meditating on Lord Ganesha."
+      },
+      "meaning": {
+        "hi": "हम प्रसन्नमुख भगवान का ध्यान करते हैं, जिससे सभी विघ्न शांत हो जाएँ।",
+        "en": "We meditate upon the smiling Lord so that all obstacles may be removed."
+      },
+      "keywords": {
+        "hi": [
+          "गणेश ध्यान",
+          "प्रसन्नवदन",
+          "शुक्लाम्बरधरम्",
+          "गनेस",
+          "गनपति",
+          "गणपति"
+        ],
+        "en": [
+          "ganesha dhyana",
+          "prasannavadana",
+          "shuklambaradharam",
+          "ganes",
+          "ganesha",
+          "gnesh",
+          "ganpati",
+          "ganapati",
+          "ganeshji"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

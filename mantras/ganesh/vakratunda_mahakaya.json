@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "vakratunda_mahakaya",
+  "category": "ganesh",
+  "title": {
+    "hi": "वक्रतुण्ड महाकाय",
+    "en": "Vakratunda Mahakaya"
+  },
+  "mantras": [
+    {
+      "id": "vakratunda_mahakaya",
+      "title": {
+        "hi": "वक्रतुण्ड महाकाय",
+        "en": "Vakratunda Mahakaya"
+      },
+      "mantra": {
+        "hi": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ। निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+        "transliteration": "Vakratuṇḍa Mahākāya Sūryakoṭi Samaprabha Nirvighnaṁ Kuru Me Deva Sarvakāryeṣu Sarvadā"
+      },
+      "description": {
+        "hi": "भगवान गणेश का सर्वाधिक प्रसिद्ध प्रार्थना मंत्र, जो प्रत्येक शुभ कार्य से पहले बोला जाता है।",
+        "en": "The most famous prayer to Lord Ganesha, recited before beginning any auspicious work."
+      },
+      "meaning": {
+        "hi": "हे वक्रतुण्ड, महाकाय प्रभु! मेरे सभी कार्य सदैव निर्विघ्न पूर्ण हों।",
+        "en": "O mighty Lord with the curved trunk, remove obstacles from all my endeavors."
+      },
+      "keywords": {
+        "hi": [
+          "वक्रतुण्ड",
+          "महाकाय",
+          "निर्विघ्न",
+          "बिघन",
+          "विघन",
+          "वक्रतुंड",
+          "बक्रतुंड"
+        ],
+        "en": [
+          "vakratunda",
+          "mahakaya",
+          "nirvighnam",
+          "vakartunda",
+          "vakra tunda",
+          "maha kaya",
+          "mahakay"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}
