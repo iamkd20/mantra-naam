@@ -19,6 +19,42 @@
       ]
     },
     {
+      "id": "shiva_parvati",
+      "name": {
+        "hi": "शिव पार्वती",
+        "en": "Shiva Parvati"
+      },
+      "file": "shiva_parvati.json"
+    },
+    {
+      "id": "ayyappa",
+      "name": {
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
+      },
+      "file": "ayyappa.json",
+      "aliases": [
+        "स्वामी अय्यप्पा",
+        "शरणम् अय्यप्पा",
+        "Swami Ayyappa",
+        "Sharanam Ayyappa"
+      ]
+    },
+    {
+      "id": "brahma",
+      "name": {
+        "hi": "ब्रह्मा",
+        "en": "Brahma"
+      },
+      "file": "brahma.json",
+      "aliases": [
+        "ब्रह्मा देव",
+        "प्रजापति",
+        "Brahma Deva",
+        "Prajapati"
+      ]
+    },
+    {
       "id": "ram",
       "name": {
         "hi": "राम",
@@ -217,14 +253,6 @@
       "file": "narasimha.json"
     },
     {
-      "id": "shiva_parvati",
-      "name": {
-        "hi": "शिव पार्वती",
-        "en": "Shiva Parvati"
-      },
-      "file": "shiva_parvati.json"
-    },
-    {
       "id": "nav_durga",
       "name": {
         "hi": "नवदुर्गा",
@@ -328,20 +356,6 @@
       ]
     },
     {
-      "id": "ayyappa",
-      "name": {
-        "hi": "अय्यप्पा",
-        "en": "Ayyappa"
-      },
-      "file": "ayyappa.json",
-      "aliases": [
-        "स्वामी अय्यप्पा",
-        "शरणम् अय्यप्पा",
-        "Swami Ayyappa",
-        "Sharanam Ayyappa"
-      ]
-    },
-    {
       "id": "surya_deva",
       "name": {
         "hi": "सूर्य देव",
@@ -395,20 +409,6 @@
         "वृंदा देवी",
         "Tulsi Mata",
         "Vrinda"
-      ]
-    },
-    {
-      "id": "brahma",
-      "name": {
-        "hi": "ब्रह्मा",
-        "en": "Brahma"
-      },
-      "file": "brahma.json",
-      "aliases": [
-        "ब्रह्मा देव",
-        "प्रजापति",
-        "Brahma Deva",
-        "Prajapati"
       ]
     },
     {

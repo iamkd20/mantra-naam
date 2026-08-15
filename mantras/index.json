@@ -3,6 +3,30 @@
   "type": "mantra_index",
   "categories": [
     {
+      "id": "shiva_parvati",
+      "name": {
+        "hi": "शिव पार्वती",
+        "en": "Shiva Parvati"
+      },
+      "file": "shiva_parvati/index.json"
+    },
+    {
+      "id": "ayyappa",
+      "name": {
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
+      },
+      "file": "ayyappa/index.json"
+    },
+    {
+      "id": "brahma",
+      "name": {
+        "hi": "ब्रह्मा",
+        "en": "Brahma"
+      },
+      "file": "brahma/index.json"
+    },
+    {
       "id": "shiva",
       "name": {
         "hi": "शिव",
@@ -91,14 +115,6 @@
       "file": "radha_krishna/index.json"
     },
     {
-      "id": "shiva_parvati",
-      "name": {
-        "hi": "शिव पार्वती",
-        "en": "Shiva Parvati"
-      },
-      "file": "shiva_parvati/index.json"
-    },
-    {
       "id": "saraswati",
       "name": {
         "hi": "सरस्वती",
@@ -137,14 +153,6 @@
         "en": "Kartikeya / Murugan"
       },
       "file": "kartikeya/index.json"
-    },
-    {
-      "id": "ayyappa",
-      "name": {
-        "hi": "अय्यप्पा",
-        "en": "Ayyappa"
-      },
-      "file": "ayyappa/index.json"
     },
     {
       "id": "surya_deva",
@@ -193,14 +201,6 @@
         "en": "Tulsi Mata"
       },
       "file": "tulsi/index.json"
-    },
-    {
-      "id": "brahma",
-      "name": {
-        "hi": "ब्रह्मा",
-        "en": "Brahma"
-      },
-      "file": "brahma/index.json"
     },
     {
       "id": "narasimha",

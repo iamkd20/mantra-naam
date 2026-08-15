@@ -1,86 +1,13 @@
 {
-  "version": 2,
-  "category": "brahma",
-  "title": {
-    "hi": "ब्रह्मा",
-    "en": "Brahma"
-  },
-  "mantras": [
-    {
-      "id": "brahma_gayatri",
-      "title": {
-        "hi": "ॐ चतुर्मुखाय विद्महे हंसारूढाय धीमहि। तन्नो ब्रह्मा प्रचोदयात्॥",
-        "en": "Brahma Gayatri"
-      },
-      "mantra": {
-        "hi": "ॐ चतुर्मुखाय विद्महे हंसारूढाय धीमहि। तन्नो ब्रह्मा प्रचोदयात्॥",
-        "transliteration": "Om Chaturmukhaya Vidmahe Hamsarudhaya Dhimahi Tanno Brahma Prachodayat"
-      },
-      "description": {
-        "hi": "ब्रह्मा जी के स्मरण का प्रचलित गायत्री रूप।",
-        "en": "A commonly used Gayatri-style invocation of Brahma."
-      },
-      "meaning": {
-        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
-        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
-      },
-      "deities": [
-        "brahma"
-      ],
-      "deityInfo": {
-        "primary": "brahma"
-      },
-      "categories": [
-        "brahma"
-      ],
-      "keywords": {
-        "hi": [
-          "ॐ चतुर्मुखाय विद्महे हंसारूढाय धीमहि। तन्नो ब्रह्मा प्रचोदयात्॥"
-        ],
-        "en": [
-          "Brahma Gayatri"
-        ]
-      },
-      "benefits": {
-        "hi": [
-          "भक्ति",
-          "एकाग्रता",
-          "आंतरिक शांति"
-        ],
-        "en": [
-          "Devotion",
-          "Focus",
-          "Inner peace"
-        ]
-      },
-      "purpose": [
-        "devotion",
-        "spiritual_growth"
-      ],
-      "recommendedTime": [
-        "morning",
-        "evening"
-      ],
-      "recommendedOccasion": [
-        "daily_japa"
-      ],
-      "recommendedJapa": [
-        11,
-        27,
-        108
-      ],
-      "usage": {
-        "hi": "दैनिक जप और श्रद्धापूर्वक उपासना में।",
-        "en": "For daily japa and devotional practice."
-      },
-      "difficulty": {
-        "level": "beginner",
-        "requiresInitiation": false
-      },
-      "tradition": "Traditional",
-      "source": "Traditional",
-      "related": [],
-      "isPopular": true
-    }
+  "files": [
+    "brahma/bija_sachchidananda_brahma.json",
+    "brahma/brahma_gayatri.json",
+    "brahma/guru_brahma_mantra.json",
+    "brahma/om_brahmane_namah.json",
+    "brahma/om_sachchidekam_brahma.json",
+    "brahma/rig_veda_brahma_mantra.json",
+    "brahma/om_prajapataye_namah.json",
+    "brahma/om_hiranyagarbhaya_namah.json",
+    "brahma/om_swayambhuve_namah.json"
   ]
 }

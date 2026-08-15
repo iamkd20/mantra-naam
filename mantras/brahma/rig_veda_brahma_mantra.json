@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "rig_veda_brahma_mantra",
+  "category": "brahma",
+  "title": {
+    "hi": "ऋग्वेद ब्रह्म मंत्र",
+    "en": "Rig Veda Brahma Mantra"
+  },
+  "mantras": [
+    {
+      "id": "rig_veda_brahma_mantra",
+      "title": {
+        "hi": "ऋग्वेद ब्रह्म मंत्र",
+        "en": "Rig Veda Brahma Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ब्रह्म जज्ञानं प्रथमं पुरस्ताद् वि सीमतः सुरुचो वेन आवः ॥",
+        "en": "Om Brahma Jajnanam Prathamam Purastad Vi Seematah Surucho Vena Aavah."
+      },
+      "description": {
+        "hi": "यह ऋग्वेद का एक प्राचीन मंत्र है जो सृष्टि के आरंभ और ब्रह्मा जी के प्रथम प्राकट्य का वर्णन करता है।",
+        "en": "An ancient mantra from the Rig Veda describing the beginning of creation and the first manifestation of Lord Brahma."
+      },
+      "meaning": {
+        "hi": "ब्रह्मा (जो सर्वप्रथम पूर्व दिशा में प्रकट हुए) ने अपनी दिव्य कांति से समस्त दिशाओं और सीमाओं को प्रकाशित किया है।",
+        "en": "Brahma, who first manifested in the east, has illuminated all directions and boundaries with His divine brilliance."
+      },
+      "keywords": {
+        "hi": [
+          "ऋग्वेद",
+          "ब्रह्म जज्ञानं",
+          "सृष्टि मंत्र"
+        ],
+        "en": [
+          "rig veda",
+          "brahma jajnanam",
+          "creation mantra"
+        ]
+      },
+      "audio": "rig_veda_brahma_mantra.mp3"
+    }
+  ]
+}

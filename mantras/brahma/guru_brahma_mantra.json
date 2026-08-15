@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "guru_brahma_mantra",
+  "category": "brahma",
+  "title": {
+    "hi": "गुरु ब्रह्मा गुरुर्विष्णु मंत्र",
+    "en": "Guru Brahma Gurur Vishnu Mantra"
+  },
+  "mantras": [
+    {
+      "id": "guru_brahma_mantra",
+      "title": {
+        "hi": "गुरु ब्रह्मा गुरुर्विष्णु मंत्र",
+        "en": "Guru Brahma Gurur Vishnu Mantra"
+      },
+      "mantra": {
+        "hi": "गुरुर्ब्रह्मा गुरुर्विष्णु गुरुर्देवो महेश्वरः गुरु साक्षात् परब्रह्म तस्मै श्री गुरवे नमः ॥",
+        "en": "Gurur Brahma Gurur Vishnu Gurur Devo Maheshwarah Guru Sakshat Parabrahma Tasmai Shri Gurave Namah."
+      },
+      "description": {
+        "hi": "गुरु की महिमा का वर्णन करने वाला यह विश्वप्रसिद्ध श्लोक गुरु को साक्षात् ब्रह्मा, विष्णु, शिव और परब्रह्म मानता है।",
+        "en": "This world-famous verse glorifies the Guru by identifying them as the direct embodiment of Brahma, Vishnu, Shiva, and the Supreme Brahman."
+      },
+      "meaning": {
+        "hi": "गुरु ही ब्रह्मा हैं, गुरु ही विष्णु हैं, और गुरु ही शिव हैं। गुरु ही साक्षात् परब्रह्म हैं। ऐसे सद्गुरु को मेरा प्रणाम है।",
+        "en": "The Guru is Brahma, the Guru is Vishnu, the Guru is Shiva. The Guru is indeed the Supreme Brahman. Salutations to that Guru."
+      },
+      "keywords": {
+        "hi": [
+          "गुरु ब्रह्मा",
+          "गुरुर्विष्णु",
+          "गुरु श्लोक",
+          "परब्रह्म"
+        ],
+        "en": [
+          "guru brahma",
+          "gurur vishnu",
+          "guru shloka",
+          "parabrahma"
+        ]
+      },
+      "audio": "guru_brahma_mantra.mp3"
+    }
+  ]
+}
