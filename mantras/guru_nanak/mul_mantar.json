@@ -3,52 +3,37 @@
   "id": "mul_mantar",
   "category": "guru_nanak",
   "title": {
-    "hi": "मूल मंत्र",
+    "hi": "मूल मंतर",
     "en": "Mul Mantar"
   },
   "mantras": [
     {
       "id": "mul_mantar",
       "title": {
-        "hi": "मूल मंत्र",
+        "hi": "मूल मंतर",
         "en": "Mul Mantar"
       },
       "mantra": {
-        "hi": "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद ॥",
-        "en": "Ik Onkar Sat Naam Karta Purakh Nirbhau Nirvair Akaal Moorat Ajooni Saibhang Gur Prasaad."
+        "hi": "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद॥",
+        "en": "Ik Onkar Sat Nam Karta Purakh Nirbhau Nirvair Akal Murat Ajuni Saibhang Gur Prasad"
       },
       "description": {
-        "hi": "सिख परंपरा का मूल आध्यात्मिक उद्घोष, जो एक परम सत्य और दिव्य सत्ता की अवधारणा व्यक्त करता है।",
-        "en": "A devotional chant associated with Mul Mantar, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "सिख परंपरा का मूल उद्घोष, गुरु ग्रंथ साहिब के आरंभ में।",
+        "en": "The foundational Sikh invocation at the opening of the Guru Granth Sahib."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "यह मंत्र श्रद्धापूर्वक संबंधित देवता के स्मरण और उपासना के लिए जपा जाता है।",
+        "en": "This mantra is traditionally chanted with devotion in remembrance and worship of the associated deity."
       },
       "keywords": {
         "hi": [
-          "मूल मंत्र",
-          "mul mantar",
-          "guru_nanak",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ੴ सत नाम करता पुरख निरभउ निरवैर अकाल मूरत अजूनी सैभं गुर प्रसाद॥"
         ],
         "en": [
-          "mul mantar",
-          "guru nanak",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion",
-          "manter",
-          "mntra",
-          "mantr",
-          "matra"
+          "Mul Mantar"
         ]
       },
-      "audio": "mul_mantar.mp3"
+      "audio": ""
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "satnam_waheguru",
+  "category": "guru_nanak",
+  "title": {
+    "hi": "सतनाम वाहेगुरु",
+    "en": "Satnam Waheguru"
+  },
+  "mantras": [
+    {
+      "id": "satnam_waheguru",
+      "title": {
+        "hi": "सतनाम वाहेगुरु",
+        "en": "Satnam Waheguru"
+      },
+      "mantra": {
+        "hi": "सतनाम वाहेगुरु॥",
+        "en": "Satnam Waheguru"
+      },
+      "description": {
+        "hi": "सिख धर्म में सबसे अधिक जपा जाने वाला नाम सिमरन।",
+        "en": "The most widely chanted Naam Simran in Sikhism."
+      },
+      "meaning": {
+        "hi": "सत्य ही नाम है, गुरु अद्भुत है।",
+        "en": "Truth is His Name, Wondrous is the Guru."
+      },
+      "keywords": {
+        "hi": [
+          "सतनाम",
+          "वाहेगुरु",
+          "वाहे गुरु",
+          "बाहेगुरु",
+          "सत नाम"
+        ],
+        "en": [
+          "satnam",
+          "waheguru",
+          "wahe guru",
+          "waheguroo",
+          "vaheguru",
+          "sat naam",
+          "satnaamm"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}
