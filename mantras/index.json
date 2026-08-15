@@ -22,7 +22,8 @@
         "parvati",
         "shiva parbati",
         "parbati"
-      ]
+      ],
+      "image": "shiva_parvati.webp"
     },
     {
       "id": "durga",
@@ -30,14 +31,14 @@
         "hi": "माँ दुर्गा",
         "en": "Maa Durga"
       },
-      "image": "placeholder_durga.jpg",
+      "image": "durga.webp",
       "aliases": [
         "Durga",
         "Nav Durga",
         "Maa Durga",
         "दुर्गा"
       ],
-      "path": "durga"
+      "file": "durga/index.json"
     },
     {
       "id": "ayyappa",
@@ -51,7 +52,8 @@
         "ayappa",
         "ayappaa",
         "aiyappa"
-      ]
+      ],
+      "image": "ayyappa.webp"
     },
     {
       "id": "brahma",
@@ -65,7 +67,8 @@
         "bramha",
         "brama",
         "brhma"
-      ]
+      ],
+      "image": "brahma.webp"
     },
     {
       "id": "shiva",
@@ -80,7 +83,8 @@
         "shiv",
         "shib",
         "siwa"
-      ]
+      ],
+      "image": "shiva.webp"
     },
     {
       "id": "ram",
@@ -93,7 +97,8 @@
         "ram",
         "rama",
         "raam"
-      ]
+      ],
+      "image": "ram.webp"
     },
     {
       "id": "krishna",
@@ -109,7 +114,8 @@
         "kishan",
         "krishn",
         "kirshna"
-      ]
+      ],
+      "image": "krishna.webp"
     },
     {
       "id": "hanuman",
@@ -123,7 +129,8 @@
         "hanumann",
         "hanman",
         "hanumanji"
-      ]
+      ],
+      "image": "hanuman.webp"
     },
     {
       "id": "ganesh",
@@ -139,29 +146,21 @@
         "ganpati",
         "ganapati",
         "ganeshji"
-      ]
+      ],
+      "image": "ganesh.webp"
     },
     {
       "id": "devi",
       "name": {
-        "hi": "देवी माता / दुर्गा",
-        "en": "Devi Mata / Durga"
+        "hi": "देवी",
+        "en": "Devi"
       },
       "file": "devi/index.json",
       "aliases": [
-        "nav durga",
-        "नवदुर्गा",
-        "devi mata / durga",
-        "nav durge",
-        "durge",
-        "nav doorga",
-        "doorga",
-        "nav durgga",
-        "durgga",
-        "devi mata / durge",
-        "devi mata / doorga",
-        "devi mata / durgga"
-      ]
+        "देवी",
+        "devi"
+      ],
+      "image": "devi.webp"
     },
     {
       "id": "vishnu_narayana",
@@ -180,7 +179,8 @@
         "narayan",
         "vishnu narain",
         "narain"
-      ]
+      ],
+      "image": "vishnu_narayana.webp"
     },
     {
       "id": "lakshmi",
@@ -195,7 +195,8 @@
         "luxmi",
         "laksmi",
         "lakhsmi"
-      ]
+      ],
+      "image": "lakshmi.webp"
     },
     {
       "id": "radha",
@@ -208,7 +209,8 @@
         "radha",
         "radhe",
         "radhika"
-      ]
+      ],
+      "image": "radha.webp"
     },
     {
       "id": "sita_ram",
@@ -227,7 +229,8 @@
         "seeta",
         "siya ram",
         "siya"
-      ]
+      ],
+      "image": "sita_ram.webp"
     },
     {
       "id": "radha_krishna",
@@ -252,7 +255,8 @@
         "radhe",
         "radhika krishna",
         "radhika"
-      ]
+      ],
+      "image": "radha_krishna.webp"
     },
     {
       "id": "saraswati",
@@ -266,7 +270,8 @@
         "sarswati",
         "sarasvati",
         "sharaswati"
-      ]
+      ],
+      "image": "saraswati.webp"
     },
     {
       "id": "gayatri",
@@ -277,7 +282,8 @@
       "file": "gayatri/index.json",
       "aliases": [
         "Gayatri Mata"
-      ]
+      ],
+      "image": "om.webp"
     },
     {
       "id": "kali",
@@ -292,7 +298,8 @@
         "kaali",
         "maa kalli",
         "kalli"
-      ]
+      ],
+      "image": "kali.webp"
     },
     {
       "id": "vaishno_devi",
@@ -303,7 +310,8 @@
       "file": "vaishno_devi/index.json",
       "aliases": [
         "Maa Vaishno Devi"
-      ]
+      ],
+      "image": "vaishno_devi.webp"
     },
     {
       "id": "kartikeya",
@@ -314,7 +322,8 @@
       "file": "kartikeya/index.json",
       "aliases": [
         "Kartikeya / Murugan"
-      ]
+      ],
+      "image": "kartikeya.webp"
     },
     {
       "id": "surya_deva",
@@ -325,7 +334,8 @@
       "file": "surya_deva/index.json",
       "aliases": [
         "Surya Dev"
-      ]
+      ],
+      "image": "surya_deva.webp"
     },
     {
       "id": "shani_deva",
@@ -340,7 +350,8 @@
         "sani",
         "shanee dev",
         "shanee"
-      ]
+      ],
+      "image": "shani_deva.webp"
     },
     {
       "id": "nav_graha",
@@ -351,7 +362,8 @@
       "file": "nav_graha/index.json",
       "aliases": [
         "Nav Graha"
-      ]
+      ],
+      "image": "nav_graha.webp"
     },
     {
       "id": "santoshi_mata",
@@ -362,7 +374,8 @@
       "file": "santoshi_mata/index.json",
       "aliases": [
         "Santoshi Mata"
-      ]
+      ],
+      "image": "santoshi_mata.webp"
     },
     {
       "id": "tulsi",
@@ -373,7 +386,8 @@
       "file": "tulsi/index.json",
       "aliases": [
         "Tulsi Mata"
-      ]
+      ],
+      "image": "tulsi.webp"
     },
     {
       "id": "narasimha",
@@ -384,7 +398,8 @@
       "file": "narasimha/index.json",
       "aliases": [
         "Narasimha"
-      ]
+      ],
+      "image": "narasimha.webp"
     },
     {
       "id": "dattatreya",
@@ -398,7 +413,8 @@
         "datatreya",
         "datta",
         "dattatrey"
-      ]
+      ],
+      "image": "dattatreya.webp"
     },
     {
       "id": "swami_samarth",
@@ -409,7 +425,8 @@
       "file": "swami_samarth/index.json",
       "aliases": [
         "Swami Samarth"
-      ]
+      ],
+      "image": "swami_samarth.webp"
     },
     {
       "id": "sai_baba",
@@ -420,7 +437,8 @@
       "file": "sai_baba/index.json",
       "aliases": [
         "Sai Baba"
-      ]
+      ],
+      "image": "sai_baba.webp"
     },
     {
       "id": "khatu_shyam",
@@ -431,7 +449,8 @@
       "file": "khatu_shyam/index.json",
       "aliases": [
         "Khatu Shyam"
-      ]
+      ],
+      "image": "khatu_shyam.webp"
     },
     {
       "id": "vitthal",
@@ -442,7 +461,8 @@
       "file": "vitthal/index.json",
       "aliases": [
         "Vitthal"
-      ]
+      ],
+      "image": "vitthal.webp"
     },
     {
       "id": "jagannath",
@@ -453,7 +473,8 @@
       "file": "jagannath/index.json",
       "aliases": [
         "Jagannath"
-      ]
+      ],
+      "image": "jagannath.webp"
     },
     {
       "id": "venkatesh_srinivas",
@@ -464,7 +485,8 @@
       "file": "venkatesh_srinivas/index.json",
       "aliases": [
         "Venkatesh"
-      ]
+      ],
+      "image": "venkatesh_srinivas.webp"
     },
     {
       "id": "guru",
@@ -475,7 +497,8 @@
       "file": "guru/index.json",
       "aliases": [
         "Guru"
-      ]
+      ],
+      "image": "om.webp"
     },
     {
       "id": "guru_nanak",
@@ -486,7 +509,8 @@
       "file": "guru_nanak/index.json",
       "aliases": [
         "Guru Nanak"
-      ]
+      ],
+      "image": "guru_nanak.webp"
     },
     {
       "id": "mahavir",
@@ -497,7 +521,8 @@
       "file": "mahavir/index.json",
       "aliases": [
         "Mahavir Swami"
-      ]
+      ],
+      "image": "mahavir.webp"
     },
     {
       "id": "ganga",
@@ -511,7 +536,8 @@
         "ganges",
         "bhagirathi",
         "jahnavi"
-      ]
+      ],
+      "image": "ganga.webp"
     },
     {
       "id": "kuber",
@@ -525,7 +551,8 @@
         "kubera",
         "kuberan",
         "dhanapati"
-      ]
+      ],
+      "image": "kuber.webp"
     }
   ]
 }
