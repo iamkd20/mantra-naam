@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "namo_hanumate_tubhyam",
+  "category": "hanuman",
+  "title": {
+    "hi": "नमो हनुमते तुभ्यम्",
+    "en": "Namo Hanumate Tubhyam"
+  },
+  "mantras": [
+    {
+      "id": "namo_hanumate_tubhyam",
+      "title": {
+        "hi": "नमो हनुमते तुभ्यम्",
+        "en": "Namo Hanumate Tubhyam"
+      },
+      "mantra": {
+        "hi": "नमो हनुमते तुभ्यं नमो मारुतसूनवे। नमः श्रीरामभक्ताय श्यामास्याय च ते नमः॥",
+        "en": "Namo Hanumate Tubhyaṁ Namo Mārutasūnave Namaḥ Śrīrāmabhaktāya Śyāmāsyāya Ca Te Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हनुमान को प्रणाम करने वाली प्रसिद्ध स्तुति, जिसमें उन्हें श्रीराम के परम भक्त एवं वायुपुत्र के रूप में वंदन किया जाता है।",
+        "en": "A devotional prayer saluting Lord Hanuman as the son of Vayu and the greatest devotee of Lord Rama."
+      },
+      "meaning": {
+        "hi": "हे वायुपुत्र, श्रीरामभक्त हनुमान! आपको मेरा बार-बार प्रणाम।",
+        "en": "O Hanuman, son of Vayu and beloved devotee of Lord Rama, I bow to You again and again."
+      },
+      "keywords": {
+        "hi": [
+          "नमो हनुमते",
+          "मारुतसूनु",
+          "रामभक्त"
+        ],
+        "en": [
+          "namo hanumate",
+          "maruti",
+          "rama devotee",
+          "ram doot",
+          "ramdoot"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

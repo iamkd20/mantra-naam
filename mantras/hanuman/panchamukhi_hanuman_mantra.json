@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "panchamukhi_hanuman_mantra",
+  "category": "hanuman",
+  "title": {
+    "hi": "पंचमुखी हनुमान मंत्र",
+    "en": "Panchamukhi Hanuman Mantra"
+  },
+  "mantras": [
+    {
+      "id": "panchamukhi_hanuman_mantra",
+      "title": {
+        "hi": "पंचमुखी हनुमान मंत्र",
+        "en": "Panchamukhi Hanuman Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ पंचमुखाय हनुमते रुद्रात्मकाय हुं फट्॥",
+        "en": "Om Pañcamukhāya Hanumate Rudrātmakāya Huṁ Phaṭ"
+      },
+      "description": {
+        "hi": "भगवान पंचमुखी हनुमान का शक्तिशाली रक्षा मंत्र, जो भय, नकारात्मक शक्तियों एवं बाधाओं से रक्षा के लिए जपा जाता है।",
+        "en": "A powerful protective mantra of Panchamukhi Hanuman for removing fear, negativity, and obstacles."
+      },
+      "meaning": {
+        "hi": "मैं रुद्रस्वरूप पंचमुखी हनुमान को प्रणाम करता हूँ।",
+        "en": "I bow to Panchamukhi Hanuman, the Rudra manifestation."
+      },
+      "keywords": {
+        "hi": [
+          "पंचमुखी",
+          "हनुमान",
+          "रुद्रात्मक",
+          "हनुमान जी",
+          "हनमान"
+        ],
+        "en": [
+          "panchamukhi",
+          "hanuman",
+          "rudratmaka",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

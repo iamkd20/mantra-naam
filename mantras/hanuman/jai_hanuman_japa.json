@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "jai_hanuman_japa",
+  "category": "hanuman",
+  "title": {
+    "hi": "जय हनुमान जप",
+    "en": "Jai Hanuman Japa"
+  },
+  "mantras": [
+    {
+      "id": "jai_hanuman_japa",
+      "title": {
+        "hi": "जय हनुमान जप",
+        "en": "Jai Hanuman Japa"
+      },
+      "mantra": {
+        "hi": "जय हनुमान। जय हनुमान॥",
+        "en": "Jaya Hanumān, Jaya Hanumān"
+      },
+      "description": {
+        "hi": "भगवान हनुमान के नाम का सरल एवं प्रभावशाली जप। यह साहस, भक्ति, आत्मविश्वास एवं श्रीराम स्मरण को दृढ़ करता है।",
+        "en": "A simple and powerful chant of Lord Hanuman's name for courage, devotion, confidence, and remembrance of Lord Rama."
+      },
+      "meaning": {
+        "hi": "हे प्रभु हनुमान! आपकी जय हो। मैं आपको बार-बार प्रणाम करता हूँ।",
+        "en": "Victory to Lord Hanuman. I repeatedly bow to You."
+      },
+      "keywords": {
+        "hi": [
+          "जय हनुमान",
+          "हनुमान जप",
+          "बजरंगबली",
+          "हनुमान जी",
+          "हनमान",
+          "बजरंग बली"
+        ],
+        "en": [
+          "jai hanuman",
+          "hanuman japa",
+          "bajrangbali",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant",
+          "bajarangbali",
+          "bajrang bali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}
