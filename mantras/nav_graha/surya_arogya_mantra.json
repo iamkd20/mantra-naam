@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "surya_arogya_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "सूर्य आरोग्य मंत्र",
+    "en": "Surya Arogya Mantra"
+  },
+  "mantras": [
+    {
+      "id": "surya_arogya_mantra",
+      "title": {
+        "hi": "सूर्य आरोग्य मंत्र",
+        "en": "Surya Arogya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं घृणिः सूर्य आदित्याय नमः॥",
+        "en": "Om Hrīṁ Ghṛṇiḥ Sūrya Ādityāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान सूर्य की आरोग्य, तेज एवं जीवनशक्ति प्रदान करने वाली उपासना का प्रसिद्ध मंत्र।",
+        "en": "A renowned mantra invoking Lord Surya for health, vitality, and radiant energy."
+      },
+      "meaning": {
+        "hi": "मैं तेजस्वी भगवान सूर्य आदित्य को प्रणाम करता हूँ।",
+        "en": "I bow to the radiant Lord Surya Aditya."
+      },
+      "keywords": {
+        "hi": [
+          "सूर्य",
+          "आरोग्य",
+          "आदित्य"
+        ],
+        "en": [
+          "surya",
+          "arogya",
+          "aditya",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

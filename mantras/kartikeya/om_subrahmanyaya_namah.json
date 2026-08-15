@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_subrahmanyaya_namah",
+  "category": "kartikeya",
+  "title": {
+    "hi": "ॐ सुब्रह्मण्याय नमः",
+    "en": "Om Subrahmanyaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_subrahmanyaya_namah",
+      "title": {
+        "hi": "ॐ सुब्रह्मण्याय नमः",
+        "en": "Om Subrahmanyaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सुब्रह्मण्याय नमः॥",
+        "en": "Om Subrahmaṇyaya Namaḥ."
+      },
+      "description": {
+        "hi": "भगवान सुब्रह्मण्य/कार्तिकेय का सरल नाम मंत्र।",
+        "en": "A simple name mantra of Lord Subrahmanya/Kartikeya."
+      },
+      "meaning": {
+        "hi": "भगवान सुब्रह्मण्य को नमस्कार।",
+        "en": "Salutations to Lord Subrahmanya."
+      },
+      "keywords": {
+        "hi": [
+          "सुब्रह्मण्य मंत्र",
+          "कार्तिकेय मंत्र",
+          "सुब्रह्मण्याय नमः"
+        ],
+        "en": [
+          "subrahmanya mantra",
+          "kartikeya mantra",
+          "om subrahmanyaya namah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

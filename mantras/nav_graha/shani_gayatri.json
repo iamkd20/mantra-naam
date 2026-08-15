@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "shani_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "शनि गायत्री",
+    "en": "Shani Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "shani_gayatri",
+      "title": {
+        "hi": "शनि गायत्री",
+        "en": "Shani Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ काकध्वजाय विद्महे खड्गहस्ताय धीमहि। तन्नः मन्दः प्रचोदयात्॥",
+        "en": "Om Kākadhvajāya Vidmahe Khaḍgahastāya Dhīmahi Tanno Mandaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान शनिदेव की कृपा, धैर्य एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Shani for wisdom, patience, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम काकध्वजधारी भगवान शनि का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Shani. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "शनि गायत्री",
+          "काकध्वज"
+        ],
+        "en": [
+          "shani gayatri",
+          "kakadhwaja",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

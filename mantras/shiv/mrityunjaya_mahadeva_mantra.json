@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "mrityunjaya_mahadeva_mantra",
   "category": "shiva",
   "title": {
@@ -32,7 +32,12 @@
           "शिव मंत्र",
           "महादेव",
           "शिव जप",
-          "शरण मंत्र"
+          "शरण मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "mrityunjaya mahadeva",
@@ -40,7 +45,36 @@
           "shiva mantra",
           "mahadev",
           "shiva japa",
-          "refuge prayer"
+          "refuge prayer",
+          "mrityunjaya manter",
+          "manter",
+          "mrityunjaya mntra",
+          "mntra",
+          "mrityunjaya mantr",
+          "mantr",
+          "mrityunjaya matra",
+          "matra",
+          "siva mantra",
+          "siva",
+          "shiv mantra",
+          "shiv",
+          "shib mantra",
+          "shib",
+          "siwa mantra",
+          "siwa",
+          "shiva manter",
+          "shiva mntra",
+          "shiva mantr",
+          "shiva matra",
+          "siva japa",
+          "shiv japa",
+          "shib japa",
+          "siwa japa",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "mrityunjaya_mahadeva_mantra.mp3"

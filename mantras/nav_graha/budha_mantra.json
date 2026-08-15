@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "budha_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बुध मंत्र",
+    "en": "Budha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "budha_mantra",
+      "title": {
+        "hi": "बुध मंत्र",
+        "en": "Budha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ब्रां ब्रीं ब्रौं सः बुधाय नमः॥",
+        "en": "Om Brāṁ Brīṁ Brauṁ Saḥ Budhāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान बुध (बुध ग्रह) का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Budha (Mercury)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बुध को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Budha."
+      },
+      "keywords": {
+        "hi": [
+          "बुध",
+          "बुध ग्रह",
+          "बुधदेव"
+        ],
+        "en": [
+          "budha",
+          "mercury",
+          "budha graha",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "nilachala_nivasaya",
+  "category": "jagannath",
+  "title": {
+    "hi": "नीलाचल निवासाय",
+    "en": "Nilachala Nivasaya"
+  },
+  "mantras": [
+    {
+      "id": "nilachala_nivasaya",
+      "title": {
+        "hi": "नीलाचल निवासाय",
+        "en": "Nilachala Nivasaya"
+      },
+      "mantra": {
+        "hi": "नीलाचल निवासाय नित्याय परमात्मने। बलभद्रसुभद्राभ्यां जगन्नाथाय ते नमः॥",
+        "en": "Nīlācala Nivāsāya Nityāya Paramātmane Balabhadra Subhadrābhyāṁ Jagannāthāya Te Namaḥ"
+      },
+      "description": {
+        "hi": "पुरी नीलाचल में विराजमान भगवान जगन्नाथ की स्तुति।",
+        "en": "A devotional prayer to Lord Jagannath, who resides at Nilachala (Puri)."
+      },
+      "meaning": {
+        "hi": "नीलाचल में विराजमान परमात्मा भगवान जगन्नाथ को प्रणाम।",
+        "en": "Salutations to Lord Jagannath, the Supreme Lord residing at Nilachala."
+      },
+      "keywords": {
+        "hi": [
+          "नीलाचल",
+          "पुरी",
+          "जगन्नाथ",
+          "जगनाथ"
+        ],
+        "en": [
+          "nilachala",
+          "puri",
+          "jagannath",
+          "jagnath",
+          "krishna",
+          "jugganath"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

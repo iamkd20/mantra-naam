@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "brihaspati_pranam_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "बृहस्पति प्रणाम मंत्र",
+    "en": "Brihaspati Pranam Mantra"
+  },
+  "mantras": [
+    {
+      "id": "brihaspati_pranam_mantra",
+      "title": {
+        "hi": "बृहस्पति प्रणाम मंत्र",
+        "en": "Brihaspati Pranam Mantra"
+      },
+      "mantra": {
+        "hi": "देवतानां ऋषीणां च गुरुं काञ्चनसन्निभम्। बुद्धिभूतं त्रिलोकेशं तं नमामि बृहस्पतिम्॥",
+        "en": "Devatānāṁ Ṛṣīṇāṁ Ca Guruṁ Kāñcanasannibham Buddhibhūtaṁ Trilokeśaṁ Taṁ Namāmi Bṛhaspatim"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति को प्रणाम करने का पारंपरिक मंत्र।",
+        "en": "A traditional salutation mantra dedicated to Brihaspati, the Guru of the Devas."
+      },
+      "meaning": {
+        "hi": "मैं देवताओं के गुरु भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Brihaspati, the divine Guru of the Devas."
+      },
+      "keywords": {
+        "hi": [
+          "बृहस्पति प्रणाम",
+          "देवगुरु"
+        ],
+        "en": [
+          "brihaspati pranam",
+          "deva guru",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

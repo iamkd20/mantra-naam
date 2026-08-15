@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "id": "datta_gayatri",
+  "category": "dattatreya",
+  "title": {
+    "hi": "दत्त गायत्री",
+    "en": "Datta Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "datta_gayatri",
+      "title": {
+        "hi": "दत्त गायत्री",
+        "en": "Datta Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ दत्तात्रेयाय विद्महे अवधूताय धीमहि। तन्नो दत्तः प्रचोदयात्॥",
+        "en": "Om Dattātreyāya Vidmahe Avadhūtāya Dhīmahi Tanno Dattaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय की कृपा, ज्ञान एवं वैराग्य प्राप्त करने का प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Dattatreya for wisdom, renunciation, and divine grace."
+      },
+      "meaning": {
+        "hi": "हम अवधूत भगवान दत्तात्रेय का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Dattatreya, the Avadhuta. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "दत्त गायत्री",
+          "अवधूत",
+          "दत्तात्रेय",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
+        ],
+        "en": [
+          "datta gayatri",
+          "avadhuta",
+          "dattatreya",
+          "datatreya",
+          "datta",
+          "dattatrey",
+          "om dram dattatreyaya",
+          "digambara digambara"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

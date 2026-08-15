@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "lalita_pancharatnam",
+  "category": "devi",
+  "title": {
+    "hi": "ललिता त्रिपुरसुंदरी मंत्र",
+    "en": "Lalita Tripurasundari Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lalita_pancharatnam",
+      "title": {
+        "hi": "ललिता त्रिपुरसुंदरी मंत्र",
+        "en": "Lalita Tripurasundari Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री ललिता महात्रिपुरसुन्दर्यै नमः॥",
+        "en": "Om Sri Lalita Maha Tripurasundaryai Namah"
+      },
+      "description": {
+        "hi": "माता ललिता त्रिपुरसुंदरी को समर्पित सरल नमस्कार मंत्र।",
+        "en": "A simple devotional salutation mantra dedicated to Lalita Tripurasundari."
+      },
+      "meaning": {
+        "hi": "माता ललिता महात्रिपुरसुंदरी को नमस्कार।",
+        "en": "Salutations to Mother Lalita Mahatripurasundari."
+      },
+      "keywords": {
+        "hi": [
+          "ललिता",
+          "त्रिपुर सुंदरी"
+        ],
+        "en": [
+          "lalita",
+          "tripura sundari"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

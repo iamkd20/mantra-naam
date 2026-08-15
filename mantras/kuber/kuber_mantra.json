@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "kuber_mantra",
+  "category": "kuber",
+  "title": {
+    "hi": "कुबेर मंत्र",
+    "en": "Kuber Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kuber_mantra",
+      "title": {
+        "hi": "कुबेर मंत्र",
+        "en": "Kuber Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं श्रीं क्लीं वित्तेश्वराय नमः॥",
+        "en": "Om Shreem Hreem Kleem Shreem Kleem Vitteshvaraya Namah"
+      },
+      "description": {
+        "hi": "धन प्राप्ति के लिए कुबेर मंत्र।",
+        "en": "Kuber mantra for attracting wealth."
+      },
+      "meaning": {
+        "hi": "मैं धन के स्वामी, भगवान कुबेर को प्रणाम करता हूँ।",
+        "en": "I bow to the Lord of Wealth, Lord Kuber."
+      },
+      "keywords": {
+        "hi": [
+          "कुबेर",
+          "धन",
+          "कुबेरा",
+          "धनपति"
+        ],
+        "en": [
+          "kuber",
+          "wealth",
+          "dhana",
+          "kubera",
+          "kuberan",
+          "dhanapati"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

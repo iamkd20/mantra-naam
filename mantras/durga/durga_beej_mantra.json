@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "durga_beej_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "दुर्गा बीज मंत्र",
+    "en": "Durga Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "durga_beej_mantra",
+      "title": {
+        "hi": "दुर्गा बीज मंत्र",
+        "en": "Durga Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ दुं दुर्गायै नमः॥",
+        "en": "Om Dum Durgayei Namah"
+      },
+      "description": {
+        "hi": "माँ दुर्गा का अत्यंत शक्तिशाली बीज मंत्र।",
+        "en": "Highly powerful seed mantra of Maa Durga."
+      },
+      "meaning": {
+        "hi": "मैं माँ दुर्गा को प्रणाम करता हूँ।",
+        "en": "I bow to Maa Durga."
+      },
+      "keywords": {
+        "hi": [
+          "दुर्गा",
+          "बीज",
+          "दुं"
+        ],
+        "en": [
+          "durga",
+          "beej",
+          "dum"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

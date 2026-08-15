@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "surya_dwadasha_namavali",
+  "category": "nav_graha",
+  "title": {
+    "hi": "सूर्य द्वादश नामावली",
+    "en": "Surya Dwadasha Namavali"
+  },
+  "mantras": [
+    {
+      "id": "surya_dwadasha_namavali",
+      "title": {
+        "hi": "सूर्य द्वादश नामावली",
+        "en": "Surya Dwadasha Namavali"
+      },
+      "mantra": {
+        "hi": "ॐ मित्राय नमः। ॐ रवये नमः। ॐ सूर्याय नमः। ॐ भानवे नमः। ॐ खगाय नमः। ॐ पूष्णे नमः। ॐ हिरण्यगर्भाय नमः। ॐ मरीचये नमः। ॐ आदित्याय नमः। ॐ सवित्रे नमः। ॐ अर्काय नमः। ॐ भास्कराय नमः॥",
+        "en": "Om Mitrāya Namaḥ, Om Ravaye Namaḥ, Om Sūryāya Namaḥ, Om Bhānave Namaḥ, Om Khagāya Namaḥ, Om Pūṣṇe Namaḥ, Om Hiraṇyagarbhāya Namaḥ, Om Marīcaye Namaḥ, Om Ādityāya Namaḥ, Om Savitre Namaḥ, Om Arkāya Namaḥ, Om Bhāskarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान सूर्य के बारह पवित्र नामों का जप, जिसे विशेष रूप से सूर्य नमस्कार एवं दैनिक उपासना में किया जाता है।",
+        "en": "The twelve sacred names of Lord Surya, traditionally recited during Surya Namaskar and daily worship."
+      },
+      "meaning": {
+        "hi": "भगवान सूर्य के बारह दिव्य स्वरूपों का स्मरण एवं वंदन।",
+        "en": "A salutation to the twelve divine manifestations of Lord Surya."
+      },
+      "keywords": {
+        "hi": [
+          "द्वादश नाम",
+          "सूर्य नमस्कार",
+          "आदित्य"
+        ],
+        "en": [
+          "dwadasha namavali",
+          "surya namaskar",
+          "aditya",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

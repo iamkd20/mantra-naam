@@ -40,6 +40,41 @@
         "hi": "संतोषदात्री",
         "en": "Santosh Datri"
       }
+    },
+    {
+      "id": "santoshi_mata_vratadhari",
+      "name": {
+        "hi": "व्रतधारी",
+        "en": "Vratadhari"
+      }
+    },
+    {
+      "id": "santoshi_mata_shubhada",
+      "name": {
+        "hi": "शुभदा",
+        "en": "Shubhada"
+      }
+    },
+    {
+      "id": "santoshi_mata_mangalakari",
+      "name": {
+        "hi": "मंगलकरी",
+        "en": "Mangalakari"
+      }
+    },
+    {
+      "id": "santoshi_mata_shukravar_priya",
+      "name": {
+        "hi": "शुक्रवार प्रिया",
+        "en": "Shukravar Priya"
+      }
+    },
+    {
+      "id": "santoshi_mata_ganesha_putri",
+      "name": {
+        "hi": "गणेश पुत्री",
+        "en": "Ganesha Putri"
+      }
     }
   ]
 }

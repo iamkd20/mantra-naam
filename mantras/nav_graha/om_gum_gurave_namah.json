@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_gum_gurave_namah",
+  "category": "nav_graha",
+  "title": {
+    "hi": "ॐ गुं गुरवे नमः",
+    "en": "Om Gum Gurave Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_gum_gurave_namah",
+      "title": {
+        "hi": "ॐ गुं गुरवे नमः",
+        "en": "Om Gum Gurave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ गुं गुरवे नमः॥",
+        "en": "Om Guṁ Gurave Namaḥ"
+      },
+      "description": {
+        "hi": "गुरु तत्व की उपासना का संक्षिप्त एवं शक्तिशाली बीज मंत्र।",
+        "en": "A concise bija mantra invoking the divine Guru principle."
+      },
+      "meaning": {
+        "hi": "मैं श्रीगुरु को प्रणाम करता हूँ।",
+        "en": "I bow to the revered Guru."
+      },
+      "keywords": {
+        "hi": [
+          "गुं",
+          "गुरवे नमः"
+        ],
+        "en": [
+          "gum",
+          "gurave namah",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

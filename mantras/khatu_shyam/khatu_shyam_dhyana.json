@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "khatu_shyam_dhyana",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "खाटू श्याम ध्यान",
+    "en": "Khatu Shyam Dhyana"
+  },
+  "mantras": [
+    {
+      "id": "khatu_shyam_dhyana",
+      "title": {
+        "hi": "खाटू श्याम ध्यान",
+        "en": "Khatu Shyam Dhyana"
+      },
+      "mantra": {
+        "hi": "ध्यायेच्छ्यामं कमलनेत्रं पीताम्बरधरं विभुम्। भक्ताभीष्टप्रदातारं सर्वमङ्गलकारकम्॥",
+        "en": "Dhyāyec Chyāmaṁ Kamalanetraṁ Pītāmbaradharaṁ Vibhum Bhaktābhīṣṭapradātāraṁ Sarvamaṅgalakārakam"
+      },
+      "description": {
+        "hi": "श्री खाटूश्याम बाबा के दिव्य स्वरूप का ध्यान श्लोक।",
+        "en": "A meditation verse describing the divine form of Khatu Shyam Ji."
+      },
+      "meaning": {
+        "hi": "हम कमलनयन, पीताम्बरधारी एवं भक्तों की मनोकामना पूर्ण करने वाले श्याम बाबा का ध्यान करते हैं।",
+        "en": "We meditate upon Khatu Shyam Ji, the compassionate fulfiller of devotees' wishes."
+      },
+      "keywords": {
+        "hi": [
+          "खाटू श्याम ध्यान",
+          "श्याम बाबा",
+          "खाटूश्याम",
+          "स्याम"
+        ],
+        "en": [
+          "khatu shyam dhyana",
+          "shyam baba",
+          "radhe",
+          "radharani",
+          "kishori",
+          "khatushyam",
+          "haare ka sahara",
+          "syam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

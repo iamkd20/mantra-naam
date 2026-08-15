@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "surya_deva_gayatri",
   "category": "surya_deva",
   "title": {
@@ -36,13 +36,21 @@
           "भक्ति"
         ],
         "en": [
-          "Surya Gayatri Mantra",
+          "surya gayatri mantra",
           "surya deva gayatri",
           "surya deva",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "surya gayatri manter",
+          "manter",
+          "surya gayatri mntra",
+          "mntra",
+          "surya gayatri mantr",
+          "mantr",
+          "surya gayatri matra",
+          "matra"
         ]
       },
       "audio": "surya_deva_gayatri.mp3"

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "id": "lakshmi_narayana_mantra",
+  "category": "lakshmi",
+  "title": {
+    "hi": "लक्ष्मी नारायण मंत्र",
+    "en": "Lakshmi Narayana Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lakshmi_narayana_mantra",
+      "title": {
+        "hi": "लक्ष्मी नारायण मंत्र",
+        "en": "Lakshmi Narayana Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री लक्ष्मी नारायणाभ्यां नमः॥",
+        "en": "Om Śrī Lakṣmī Nārāyaṇābhyāṁ Namaḥ"
+      },
+      "description": {
+        "hi": "माता लक्ष्मी एवं भगवान नारायण के दिव्य युगल स्वरूप को समर्पित मंगलमय मंत्र।",
+        "en": "A sacred mantra dedicated to the divine couple, Goddess Lakshmi and Lord Narayana."
+      },
+      "meaning": {
+        "hi": "मैं श्री लक्ष्मी एवं नारायण को प्रणाम करता हूँ।",
+        "en": "I bow to Sri Lakshmi and Lord Narayana."
+      },
+      "keywords": {
+        "hi": [
+          "लक्ष्मी नारायण",
+          "नारायण",
+          "लक्ष्मी",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "lakshmi narayana",
+          "narayana",
+          "lakshmi",
+          "laxmi narayana",
+          "laxmi",
+          "luxmi narayana",
+          "luxmi",
+          "laksmi narayana",
+          "laksmi",
+          "lakhsmi narayana",
+          "lakhsmi",
+          "lakshmi narayan",
+          "narayan",
+          "lakshmi narain",
+          "narain",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

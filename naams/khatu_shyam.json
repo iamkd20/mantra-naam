@@ -180,6 +180,20 @@
         "hi": "खाटू धाम नरेश",
         "en": "Khatu Dham Naresh"
       }
+    },
+    {
+      "id": "ks_shyam_pyare",
+      "name": {
+        "hi": "श्याम प्यारे",
+        "en": "Shyam Pyare"
+      }
+    },
+    {
+      "id": "ks_morvi_nandan",
+      "name": {
+        "hi": "मौरवी नंदन",
+        "en": "Morvi Nandan"
+      }
     }
   ]
 }

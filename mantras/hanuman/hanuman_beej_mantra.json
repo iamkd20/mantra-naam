@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "id": "hanuman_beej_mantra",
+  "category": "hanuman",
+  "title": {
+    "hi": "हनुमान बीज मंत्र",
+    "en": "Hanuman Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "hanuman_beej_mantra",
+      "title": {
+        "hi": "हनुमान बीज मंत्र",
+        "en": "Hanuman Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं भ्रीम हनुमते श्रीरामदूताय नमः॥",
+        "en": "Om Aiṁ Bhrīṁ Hanumate Śrīrāmadūtāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान हनुमान का बीज मंत्र, जो साहस, रक्षा, बुद्धि एवं आध्यात्मिक शक्ति के लिए जपा जाता है।",
+        "en": "A bija mantra of Lord Hanuman for courage, protection, wisdom, and spiritual strength."
+      },
+      "meaning": {
+        "hi": "मैं श्रीरामदूत भगवान हनुमान को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Hanuman, the divine messenger of Lord Rama."
+      },
+      "keywords": {
+        "hi": [
+          "हनुमान बीज",
+          "श्रीरामदूत",
+          "हनुमते",
+          "हनुमान जी",
+          "हनमान"
+        ],
+        "en": [
+          "hanuman beej",
+          "hanumate",
+          "ramaduta",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant",
+          "ram doot",
+          "ramdoot"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "katyayani_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "कात्यायनी मंत्र",
+    "en": "Katyayani Mantra"
+  },
+  "mantras": [
+    {
+      "id": "katyayani_mantra",
+      "title": {
+        "hi": "कात्यायनी मंत्र",
+        "en": "Katyayani Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कात्यायन्यै नमः॥",
+        "en": "Om Devī Kātyāyanyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कात्यायनी नवदुर्गा का षष्ठ स्वरूप हैं। वे साहस, धर्म की विजय और दुष्टों के विनाश की अधिष्ठात्री हैं।",
+        "en": "Goddess Katyayani is the sixth form of Navadurga and represents courage, righteousness, and victory over evil."
+      },
+      "meaning": {
+        "hi": "मैं माँ कात्यायनी को प्रणाम करता हूँ जो धर्म की रक्षा करती हैं।",
+        "en": "I bow to Goddess Katyayani, who protects righteousness."
+      },
+      "keywords": {
+        "hi": [
+          "कात्यायनी",
+          "षष्ठ नवरात्र",
+          "देवी कात्यायनी",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "katyayani",
+          "sixth navadurga",
+          "goddess katyayani",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

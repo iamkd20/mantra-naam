@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "vaishno_devi_gayatri",
+  "category": "vaishno_devi",
+  "title": {
+    "hi": "वैष्णो देवी गायत्री मंत्र",
+    "en": "Vaishno Devi Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "vaishno_devi_gayatri",
+      "title": {
+        "hi": "वैष्णो देवी गायत्री मंत्र",
+        "en": "Vaishno Devi Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ वैष्णव्यै विद्महे महालक्ष्म्यै धीमहि। तन्नो देवी प्रचोदयात्॥",
+        "en": "Om Vaishnavyai Vidmahe Mahalakshmyai Dhimahi Tanno Devi Prachodayat"
+      },
+      "description": {
+        "hi": "वैष्णो देवी का गायत्री मंत्र।",
+        "en": "Gayatri mantra of Maa Vaishno Devi."
+      },
+      "meaning": {
+        "hi": "हम माँ वैष्णवी को जानते हैं, महालक्ष्मी का ध्यान करते हैं, वह देवी हमें प्रेरित करें।",
+        "en": "We know Maa Vaishnavi, meditate on Mahalakshmi, may that Goddess inspire us."
+      },
+      "keywords": {
+        "hi": [
+          "गायत्री",
+          "वैष्णो",
+          "देवी"
+        ],
+        "en": [
+          "gayatri",
+          "vaishno",
+          "devi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

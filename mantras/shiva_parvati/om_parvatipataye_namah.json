@@ -1,0 +1,61 @@
+{
+  "version": 2,
+  "id": "om_parvatipataye_namah",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "ॐ पार्वतीपतये नमः",
+    "en": "Om Parvatipataye Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_parvatipataye_namah",
+      "title": {
+        "hi": "ॐ पार्वतीपतये नमः",
+        "en": "Om Parvatipataye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ पार्वतीपतये नमः ॥",
+        "en": "Om Parvatipataye Namah."
+      },
+      "description": {
+        "hi": "यह शिव-पार्वती का एक सरल और अत्यंत प्रिय नाम-मंत्र है, जिसका नित्य स्मरण करने से घर में सुख-शांति का वास होता है।",
+        "en": "This is a simple and beloved nama-mantra of Shiva-Parvati. Chanting it daily brings peace and happiness to the home."
+      },
+      "meaning": {
+        "hi": "माता पार्वती के पति, भगवान शिव को मेरा प्रणाम है।",
+        "en": "My salutations to Lord Shiva, the consort of Mother Parvati."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ पार्वतीपतये नमः",
+          "पार्वती पति",
+          "शिव पार्वती",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
+        ],
+        "en": [
+          "om parvatipataye namah",
+          "parvati pati",
+          "shiva parvati",
+          "parvati",
+          "parbati",
+          "parbati pati",
+          "siva parvati",
+          "siva",
+          "shiv parvati",
+          "shiv",
+          "shib parvati",
+          "shib",
+          "siwa parvati",
+          "siwa",
+          "shiva parbati",
+          "om namah shivay",
+          "har har mahadev"
+        ]
+      },
+      "audio": "om_parvatipataye_namah.mp3"
+    }
+  ]
+}

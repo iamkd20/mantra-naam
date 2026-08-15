@@ -1,51 +1,45 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "namokar_mantra",
   "category": "mahavir",
   "title": {
-    "hi": "णमोकार मंत्र",
+    "hi": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं। णमो उवज्झायाणं। णमो लोए सव्वसाहूणं॥",
     "en": "Namokar Mantra"
   },
   "mantras": [
     {
       "id": "namokar_mantra",
       "title": {
-        "hi": "णमोकार मंत्र",
+        "hi": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं। णमो उवज्झायाणं। णमो लोए सव्वसाहूणं॥",
         "en": "Namokar Mantra"
       },
       "mantra": {
-        "hi": "णमो अरिहंताणं । णमो सिद्धाणं । णमो आयरियाणं । णमो उवज्झायाणं । णमो लोए सव्वसाहूणं ॥",
-        "en": "Namo Arihantanam. Namo Siddhanam. Namo Ayariyanam. Namo Uvajjhayanam. Namo Loe Savva Sahunam."
+        "hi": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं। णमो उवज्झायाणं। णमो लोए सव्वसाहूणं॥",
+        "en": "Namo Arihantanam Namo Siddhanam Namo Ayariyanam Namo Uvajjhayanam Namo Loe Savva Sahunam"
       },
       "description": {
-        "hi": "जैन परंपरा का सबसे प्रतिष्ठित मूल प्रार्थना मंत्र, जिसमें अरिहंत, सिद्ध, आचार्य, उपाध्याय और साधुओं को नमस्कार किया जाता है।",
-        "en": "A devotional chant associated with Namokar Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "जैन परंपरा का मूल और सर्वाधिक प्रतिष्ठित मंत्र।",
+        "en": "The fundamental and most revered mantra in the Jain tradition."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं भगवान महावीर को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Mahavira."
       },
       "keywords": {
         "hi": [
-          "णमोकार मंत्र",
-          "namokar mantra",
-          "mahavir",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "महावीर",
+          "जैन",
+          "महाबीर"
         ],
         "en": [
-          "Namokar Mantra",
-          "namokar mantra",
           "mahavir",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "jain",
+          "mahavira",
+          "vardhaman",
+          "arihant"
         ]
       },
-      "audio": "namokar_mantra.mp3"
+      "audio": ""
     }
   ]
 }

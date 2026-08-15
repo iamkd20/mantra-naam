@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "id": "dehi_saubhagyam_arogyam",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "सौभाग्य प्राप्ति मंत्र (देहि सौभाग्यं)",
+    "en": "Saubhagya Prapti Mantra"
+  },
+  "mantras": [
+    {
+      "id": "dehi_saubhagyam_arogyam",
+      "title": {
+        "hi": "सौभाग्य प्राप्ति मंत्र (देहि सौभाग्यं)",
+        "en": "Saubhagya Prapti Mantra"
+      },
+      "mantra": {
+        "hi": "देहि सौभाग्यं आरोग्यं देहि मे परमं सुखम्, पुत्र-पौत्रादि समृद्धि देहि में परमेश्वरी॥",
+        "en": "Dehi Saubhagyam Arogyam Dehi Me Paramam Sukham, Putra-Pautradi Samriddhi Dehi Me Parameshwari."
+      },
+      "description": {
+        "hi": "सुख, सौभाग्य, आरोग्य और सम्पूर्ण पारिवारिक समृद्धि की प्राप्ति के लिए माता पार्वती और शिव का प्रार्थना मंत्र।",
+        "en": "A prayer mantra addressed to Mother Parvati and Shiva for the attainment of happiness, good fortune, health, and complete family prosperity."
+      },
+      "meaning": {
+        "hi": "हे परमेश्वरी माता पार्वती! मुझे उत्तम सौभाग्य, आरोग्य और परम सुख प्रदान करें, तथा मुझे पुत्र-पौत्रादि से समृद्ध करें।",
+        "en": "O Supreme Goddess Parvati! Grant me good fortune, health, and supreme happiness, and bless me with the prosperity of children and grandchildren."
+      },
+      "keywords": {
+        "hi": [
+          "सौभाग्य प्राप्ति मंत्र",
+          "आरोग्य मंत्र",
+          "परम सुख",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
+        ],
+        "en": [
+          "saubhagya prapti mantra",
+          "health mantra",
+          "param sukham",
+          "saubhagya prapti manter",
+          "manter",
+          "saubhagya prapti mntra",
+          "mntra",
+          "saubhagya prapti mantr",
+          "mantr",
+          "saubhagya prapti matra",
+          "matra",
+          "health manter",
+          "health mntra",
+          "health mantr",
+          "health matra",
+          "rama",
+          "raam",
+          "om namah shivay",
+          "har har mahadev"
+        ]
+      },
+      "audio": "dehi_saubhagyam_arogyam.mp3"
+    }
+  ]
+}

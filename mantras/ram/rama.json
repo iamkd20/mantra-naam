@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "id": "rama",
+  "category": "ram",
+  "title": {
+    "hi": "राम",
+    "en": "Rama"
+  },
+  "mantras": [
+    {
+      "id": "rama",
+      "title": {
+        "hi": "राम",
+        "en": "Rama"
+      },
+      "mantra": {
+        "hi": "राम॥",
+        "en": "Rāma"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम का एकाक्षरी नामस्मरण, जिसे अनेक संतों ने तारक एवं मोक्षदायक माना है।",
+        "en": "The single sacred name of Lord Rama, revered by saints as a liberating mantra."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम का स्मरण करता हूँ।",
+        "en": "I remember Lord Rama."
+      },
+      "keywords": {
+        "hi": [
+          "राम",
+          "राम नाम"
+        ],
+        "en": [
+          "rama",
+          "rama nama",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

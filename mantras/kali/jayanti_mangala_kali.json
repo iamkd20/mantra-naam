@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "id": "jayanti_mangala_kali",
+  "category": "kali",
+  "title": {
+    "hi": "जयंती मंगला काली",
+    "en": "Jayanti Mangala Kali"
+  },
+  "mantras": [
+    {
+      "id": "jayanti_mangala_kali",
+      "title": {
+        "hi": "जयंती मंगला काली",
+        "en": "Jayanti Mangala Kali"
+      },
+      "mantra": {
+        "hi": "जयंती मंगला काली भद्रकाली कपालिनी। दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥",
+        "en": "Jayantī Maṅgalā Kālī Bhadrakālī Kapālinī Durgā Kṣamā Śivā Dhātrī Svāhā Svadhā Namo'stu Te"
+      },
+      "description": {
+        "hi": "देवी के अनेक दिव्य स्वरूपों का स्तवन।",
+        "en": "A famous hymn praising the many divine forms of the Goddess."
+      },
+      "meaning": {
+        "hi": "हे जयंती, मंगला, काली, भद्रकाली एवं जगदम्बे! आपको प्रणाम।",
+        "en": "Salutations to the Divine Mother in Her many auspicious forms."
+      },
+      "keywords": {
+        "hi": [
+          "जयंती",
+          "भद्रकाली",
+          "देवी",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "jayanti",
+          "bhadrakali",
+          "devi",
+          "kaali",
+          "kalli",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "id": "siddha_lakshmi_mantra",
+  "category": "lakshmi",
+  "title": {
+    "hi": "सिद्ध लक्ष्मी मंत्र",
+    "en": "Siddha Lakshmi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "siddha_lakshmi_mantra",
+      "title": {
+        "hi": "सिद्ध लक्ष्मी मंत्र",
+        "en": "Siddha Lakshmi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं श्री सिद्धलक्ष्म्यै नमः॥",
+        "en": "Om Śrīṁ Hrīṁ Klīṁ Śrī Siddhalakṣmyai Namaḥ"
+      },
+      "description": {
+        "hi": "देवी सिद्धलक्ष्मी का शक्तिशाली मंत्र, जो समृद्धि, सौभाग्य एवं आध्यात्मिक उन्नति के लिए जपा जाता है।",
+        "en": "A powerful mantra of Goddess Siddha Lakshmi for prosperity, good fortune, and spiritual growth."
+      },
+      "meaning": {
+        "hi": "मैं देवी सिद्धलक्ष्मी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Siddha Lakshmi."
+      },
+      "keywords": {
+        "hi": [
+          "सिद्ध लक्ष्मी",
+          "श्रीं",
+          "ह्रीं",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "siddha lakshmi",
+          "shreem",
+          "hreem",
+          "siddha laxmi",
+          "laxmi",
+          "siddha luxmi",
+          "luxmi",
+          "siddha laksmi",
+          "laksmi",
+          "siddha lakhsmi",
+          "lakhsmi",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

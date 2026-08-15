@@ -89,6 +89,34 @@
         "hi": "जय मुरुगन",
         "en": "Jai Murugan"
       }
+    },
+    {
+      "id": "k_kumar",
+      "name": {
+        "hi": "कुमार",
+        "en": "Kumar"
+      }
+    },
+    {
+      "id": "k_guha",
+      "name": {
+        "hi": "गुह",
+        "en": "Guha"
+      }
+    },
+    {
+      "id": "k_velan",
+      "name": {
+        "hi": "वेलन",
+        "en": "Velan"
+      }
+    },
+    {
+      "id": "k_senapati",
+      "name": {
+        "hi": "सेनापति",
+        "en": "Senapati"
+      }
     }
   ]
 }

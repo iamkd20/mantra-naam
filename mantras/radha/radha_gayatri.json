@@ -1,51 +1,55 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "radha_gayatri",
   "category": "radha",
   "title": {
-    "hi": "राधा गायत्री मंत्र",
-    "en": "Radha Gayatri Mantra"
+    "hi": "ॐ वृषभानुजायै विद्महे कृष्णप्रियायै धीमहि। तन्नो राधा प्रचोदयात्॥",
+    "en": "Radha Gayatri"
   },
   "mantras": [
     {
       "id": "radha_gayatri",
       "title": {
-        "hi": "राधा गायत्री मंत्र",
-        "en": "Radha Gayatri Mantra"
+        "hi": "ॐ वृषभानुजायै विद्महे कृष्णप्रियायै धीमहि। तन्नो राधा प्रचोदयात्॥",
+        "en": "Radha Gayatri"
       },
       "mantra": {
-        "hi": "ॐ वृषभानुजायै विद्महे कृष्णप्रियायै धीमहि । तन्नो राधा प्रचोदयात् ॥",
-        "en": "Om Vrishabhanujayayai Vidmahe Krishnapriyayai Dhimahi. Tanno Radha Prachodayat."
+        "hi": "ॐ वृषभानुजायै विद्महे कृष्णप्रियायै धीमहि। तन्नो राधा प्रचोदयात्॥",
+        "en": "Om Vrishabhanujāyai Vidmahe Krishna-priyāyai Dhimahi Tanno Radha Prachodayat"
       },
       "description": {
-        "hi": "राधा रानी के प्रेम, भक्ति और कृष्ण-समर्पण के स्वरूप का स्मरण कराने वाला गायत्री मंत्र।",
-        "en": "A devotional chant associated with Radha Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "राधा रानी के स्मरण और भक्ति के लिए प्रचलित गायत्री रूप।",
+        "en": "A commonly used Gayatri-style invocation for devotional remembrance of Radha Rani."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं वृषभानु नंदिनी, प्रेम स्वरूपा श्री राधा रानी को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Radha Rani, the daughter of Vrishabhanu and the embodiment of divine love."
       },
       "keywords": {
         "hi": [
-          "राधा गायत्री मंत्र",
-          "radha gayatri",
-          "radha",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "राधा",
+          "राधे",
+          "राधारानी",
+          "किशोरी",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
         ],
         "en": [
-          "Radha Gayatri Mantra",
-          "radha gayatri",
           "radha",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "radhe",
+          "radharani",
+          "kishori",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
         ]
       },
-      "audio": "radha_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

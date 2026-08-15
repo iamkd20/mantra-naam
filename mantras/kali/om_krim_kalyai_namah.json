@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_krim_kalyai_namah",
+  "category": "kali",
+  "title": {
+    "hi": "ॐ क्रीं काल्यै नमः",
+    "en": "Om Krim Kalyai Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_krim_kalyai_namah",
+      "title": {
+        "hi": "ॐ क्रीं काल्यै नमः",
+        "en": "Om Krim Kalyai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ क्रीं काल्यै नमः॥",
+        "en": "Om Krim Kalyai Namah"
+      },
+      "description": {
+        "hi": "",
+        "en": ""
+      },
+      "meaning": {
+        "hi": "",
+        "en": ""
+      },
+      "keywords": {
+        "hi": [
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

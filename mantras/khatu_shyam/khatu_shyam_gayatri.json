@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "khatu_shyam_gayatri",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "खाटू श्याम गायत्री",
+    "en": "Khatu Shyam Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "khatu_shyam_gayatri",
+      "title": {
+        "hi": "खाटू श्याम गायत्री",
+        "en": "Khatu Shyam Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ बर्बरीकाय विद्महे श्यामदेवाय धीमहि। तन्नः श्यामः प्रचोदयात्॥",
+        "en": "Om Barbarīkāya Vidmahe Śyāmadevāya Dhīmahi Tanno Śyāmaḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "श्री खाटूश्याम बाबा की कृपा एवं भक्ति प्राप्त करने हेतु प्रचलित गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking the blessings of Shri Khatu Shyam Ji."
+      },
+      "meaning": {
+        "hi": "हम श्यामदेव का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Shyam Dev. May He inspire our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "श्याम गायत्री",
+          "बर्बरीक",
+          "खाटूश्याम",
+          "स्याम"
+        ],
+        "en": [
+          "khatu shyam gayatri",
+          "barbarika",
+          "khatushyam",
+          "shyam baba",
+          "haare ka sahara",
+          "syam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

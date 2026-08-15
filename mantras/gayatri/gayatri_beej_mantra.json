@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "id": "gayatri_beej_mantra",
+  "category": "gayatri",
+  "title": {
+    "hi": "गायत्री व्याहृति",
+    "en": "Gayatri Vyahriti"
+  },
+  "mantras": [
+    {
+      "id": "gayatri_beej_mantra",
+      "title": {
+        "hi": "गायत्री व्याहृति",
+        "en": "Gayatri Vyahriti"
+      },
+      "mantra": {
+        "hi": "ॐ भूर्भुवः स्वः॥",
+        "en": "Om Bhur Bhuvah Svah"
+      },
+      "description": {
+        "hi": "गायत्री मंत्र से संबद्ध तीन प्रमुख व्याहृतियाँ — भूः, भुवः और स्वः।",
+        "en": "The three principal vyahritis associated with the Gayatri mantra: Bhuh, Bhuvah, and Svah."
+      },
+      "meaning": {
+        "hi": "भूः, भुवः और स्वः — तीन व्याहृतियों का पवित्र उच्चारण।",
+        "en": "The sacred utterance of the three vyahritis: Bhuh, Bhuvah, and Svah."
+      },
+      "keywords": {
+        "hi": [
+          "बीज",
+          "व्याहृति",
+          "भूर्भुवः",
+          "गायतरी",
+          "गाएत्री",
+          "भूरभुव"
+        ],
+        "en": [
+          "beej",
+          "vyahriti",
+          "bhur",
+          "gaytri",
+          "gaitri",
+          "gayitri",
+          "gaytari",
+          "om bhurbh bhubat",
+          "om bhurbhuvasvah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

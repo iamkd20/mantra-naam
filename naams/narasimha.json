@@ -194,6 +194,55 @@
         "hi": "लक्ष्मी नरसिंह स्वामी",
         "en": "Lakshmi Narasimha Swami"
       }
+    },
+    {
+      "id": "n_ugra_vira",
+      "name": {
+        "hi": "उग्रवीर",
+        "en": "Ugra Vira"
+      }
+    },
+    {
+      "id": "n_maha_vishnu",
+      "name": {
+        "hi": "महाविष्णु",
+        "en": "Maha Vishnu"
+      }
+    },
+    {
+      "id": "n_jvalantam",
+      "name": {
+        "hi": "ज्वलन्तं",
+        "en": "Jvalantam"
+      }
+    },
+    {
+      "id": "n_sarvatomukham",
+      "name": {
+        "hi": "सर्वतोमुखं",
+        "en": "Sarvatomukham"
+      }
+    },
+    {
+      "id": "n_bhishanam",
+      "name": {
+        "hi": "भीषणं",
+        "en": "Bhishanam"
+      }
+    },
+    {
+      "id": "n_bhadram",
+      "name": {
+        "hi": "भद्रं",
+        "en": "Bhadram"
+      }
+    },
+    {
+      "id": "n_mrityu_mrityum",
+      "name": {
+        "hi": "मृत्युमृत्युं",
+        "en": "Mrityumrityum"
+      }
     }
   ]
 }

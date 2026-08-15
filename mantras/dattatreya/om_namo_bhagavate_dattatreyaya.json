@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "id": "om_namo_bhagavate_dattatreyaya",
+  "category": "dattatreya",
+  "title": {
+    "hi": "ॐ नमो भगवते दत्तात्रेयाय",
+    "en": "Om Namo Bhagavate Dattatreyaya"
+  },
+  "mantras": [
+    {
+      "id": "om_namo_bhagavate_dattatreyaya",
+      "title": {
+        "hi": "ॐ नमो भगवते दत्तात्रेयाय",
+        "en": "Om Namo Bhagavate Dattatreyaya"
+      },
+      "mantra": {
+        "hi": "ॐ नमो भगवते दत्तात्रेयाय॥",
+        "en": "Om Namo Bhagavate Dattatreyaya"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय को समर्पित अत्यंत शक्तिशाली स्मरण मंत्र।",
+        "en": "A powerful remembrance mantra dedicated to Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "मैं भगवान दत्तात्रेय को नमन करता हूँ।",
+        "en": "I bow to Lord Dattatreya."
+      },
+      "keywords": {
+        "hi": [
+          "दत्तात्रेय",
+          "नमो भगवते",
+          "मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
+        ],
+        "en": [
+          "dattatreya",
+          "namo bhagavate",
+          "mantra",
+          "datatreya",
+          "datta",
+          "dattatrey",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om dram dattatreyaya",
+          "digambara digambara"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

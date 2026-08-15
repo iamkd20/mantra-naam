@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "maheshwara_mantra",
   "category": "shiva",
   "title": {
@@ -32,7 +32,12 @@
           "शिव मंत्र",
           "महेश्वर",
           "महादेव",
-          "शिव नाम जप"
+          "शिव नाम जप",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "maheshwara mantra",
@@ -40,7 +45,36 @@
           "shiva mantra",
           "maheshwara",
           "mahadev",
-          "shiva name japa"
+          "shiva name japa",
+          "maheshwara manter",
+          "manter",
+          "maheshwara mntra",
+          "mntra",
+          "maheshwara mantr",
+          "mantr",
+          "maheshwara matra",
+          "matra",
+          "siva mantra",
+          "siva",
+          "shiv mantra",
+          "shiv",
+          "shib mantra",
+          "shib",
+          "siwa mantra",
+          "siwa",
+          "shiva manter",
+          "shiva mntra",
+          "shiva mantr",
+          "shiva matra",
+          "siva name japa",
+          "shiv name japa",
+          "shib name japa",
+          "siwa name japa",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "maheshwara_mantra.mp3"

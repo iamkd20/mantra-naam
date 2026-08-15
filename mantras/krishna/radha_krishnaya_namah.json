@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "id": "radha_krishnaya_namah",
+  "category": "krishna",
+  "title": {
+    "hi": "राधा कृष्णाय नमः",
+    "en": "Radha Krishnaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "radha_krishnaya_namah",
+      "title": {
+        "hi": "राधा कृष्णाय नमः",
+        "en": "Radha Krishnaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ राधा कृष्णाभ्यां नमः॥",
+        "en": "Om Rādhā Kṛṣṇābhyāṁ Namaḥ"
+      },
+      "description": {
+        "hi": "श्री राधा एवं श्रीकृष्ण के दिव्य युगल स्वरूप को समर्पित सरल एवं पवित्र मंत्र।",
+        "en": "A simple sacred mantra dedicated to the divine couple, Radha and Krishna."
+      },
+      "meaning": {
+        "hi": "मैं श्री राधा एवं श्रीकृष्ण को प्रणाम करता हूँ।",
+        "en": "I bow to Sri Radha and Sri Krishna."
+      },
+      "keywords": {
+        "hi": [
+          "राधा कृष्ण",
+          "राधा कृष्णाय नमः",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन",
+          "राधे"
+        ],
+        "en": [
+          "radha krishna",
+          "radha krishnaya namah",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan",
+          "radhe",
+          "radharani",
+          "kishori"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "id": "durga_gayatri",
+  "category": "durga",
+  "title": {
+    "hi": "दुर्गा गायत्री मंत्र",
+    "en": "Durga Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "durga_gayatri",
+      "title": {
+        "hi": "दुर्गा गायत्री मंत्र",
+        "en": "Durga Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ गिरिजायै विद्महे शिवप्रियायै धीमहि । तन्नो दुर्गा प्रचोदयात् ॥",
+        "en": "Om Girijayai Vidmahe Shivapriyayai Dhimahi. Tanno Durga Prachodayat."
+      },
+      "description": {
+        "hi": "माँ दुर्गा के शक्ति और संरक्षणकारी स्वरूप के ध्यान हेतु प्रचलित गायत्री शैली का मंत्र।",
+        "en": "A devotional chant associated with Durga Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+      },
+      "keywords": {
+        "hi": [
+          "दुर्गा गायत्री मंत्र",
+          "durga gayatri",
+          "nav_durga",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "durga gayatri mantra",
+          "durga gayatri",
+          "nav durga",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion",
+          "durge gayatri mantra",
+          "durge",
+          "doorga gayatri mantra",
+          "doorga",
+          "durgga gayatri mantra",
+          "durgga",
+          "durga gayatri manter",
+          "manter",
+          "durga gayatri mntra",
+          "mntra",
+          "durga gayatri mantr",
+          "mantr",
+          "durga gayatri matra",
+          "matra",
+          "durge gayatri",
+          "doorga gayatri",
+          "durgga gayatri",
+          "nav durge",
+          "nav doorga",
+          "nav durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "durga_gayatri.mp3",
+      "category": "durga"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "ganesha_ekakshari",
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश एकाक्षरी मंत्र",
+    "en": "Ganesha Ekakshari Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ganesha_ekakshari",
+      "title": {
+        "hi": "गणेश एकाक्षरी मंत्र",
+        "en": "Ganesha Ekakshari Mantra"
+      },
+      "mantra": {
+        "hi": "गं॥",
+        "en": "Gam."
+      },
+      "description": {
+        "hi": "भगवान गणेश का संक्षिप्त एकाक्षरी बीज मंत्र।",
+        "en": "A concise one-syllable bija mantra of Lord Ganesha."
+      },
+      "meaning": {
+        "hi": "गं गणेश के बीजाक्षर का संक्षिप्त जप है।",
+        "en": "Gam is the seed syllable used in concise invocation of Ganesha."
+      },
+      "keywords": {
+        "hi": [
+          "गं",
+          "गणेश बीज",
+          "गणेश जप"
+        ],
+        "en": [
+          "gam",
+          "ganesha bija",
+          "ganesha japa"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

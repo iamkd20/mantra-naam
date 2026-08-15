@@ -1,51 +1,41 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_namo_venkateshaya",
   "category": "venkatesh_srinivas",
   "title": {
-    "hi": "ॐ नमो वेंकटेशाय",
+    "hi": "ॐ नमो वेंकटेशाय॥",
     "en": "Om Namo Venkateshaya"
   },
   "mantras": [
     {
       "id": "om_namo_venkateshaya",
       "title": {
-        "hi": "ॐ नमो वेंकटेशाय",
+        "hi": "ॐ नमो वेंकटेशाय॥",
         "en": "Om Namo Venkateshaya"
       },
       "mantra": {
-        "hi": "ॐ नमो वेंकटेशाय ॥",
-        "en": "Om Namo Venkateshaya."
+        "hi": "ॐ नमो वेंकटेशाय॥",
+        "en": "Om Namo Venkateshaya"
       },
       "description": {
-        "hi": "भगवान वेंकटेश या बालाजी के प्रति भक्तिपूर्वक प्रणाम।",
-        "en": "A devotional chant associated with Om Namo Venkateshaya, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान वेंकटेश का सरल जप मंत्र।",
+        "en": "A simple devotional mantra for Lord Venkatesha."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं भगवान Venkatesh Srinivas को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Venkatesh Srinivas."
       },
       "keywords": {
         "hi": [
-          "ॐ नमो वेंकटेशाय",
-          "om namo venkateshaya",
-          "venkatesh_srinivas",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ॐ नमो वेंकटेशाय॥"
         ],
         "en": [
           "Om Namo Venkateshaya",
-          "om namo venkateshaya",
-          "venkatesh srinivas",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "venkatesh",
+          "srinivas"
         ]
       },
-      "audio": "om_namo_venkateshaya.mp3"
+      "audio": ""
     }
   ]
 }

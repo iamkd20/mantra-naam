@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "bhairava_mantra",
   "category": "shiva",
   "title": {
@@ -29,12 +29,22 @@
         "hi": [
           "भैरव",
           "काल भैरव",
-          "भैरवनाथ"
+          "भैरवनाथ",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "भैरव",
           "काल भैरव",
-          "भैरवनाथ"
+          "भैरवनाथ",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "bhairava_mantra.mp3"

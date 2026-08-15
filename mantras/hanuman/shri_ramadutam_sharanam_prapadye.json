@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "id": "shri_ramadutam_sharanam_prapadye",
+  "category": "hanuman",
+  "title": {
+    "hi": "श्रीरामदूतं शरणं प्रपद्ये",
+    "en": "Shri Ramadutam Sharanam Prapadye"
+  },
+  "mantras": [
+    {
+      "id": "shri_ramadutam_sharanam_prapadye",
+      "title": {
+        "hi": "श्रीरामदूतं शरणं प्रपद्ये",
+        "en": "Shri Ramadutam Sharanam Prapadye"
+      },
+      "mantra": {
+        "hi": "श्रीरामदूतं शरणं प्रपद्ये॥",
+        "en": "Śrī Rāmadūtaṁ Śaraṇaṁ Prapadye"
+      },
+      "description": {
+        "hi": "भगवान हनुमान को श्रीराम के दिव्य दूत के रूप में पूर्ण समर्पण व्यक्त करने वाला मंत्र।",
+        "en": "A mantra expressing complete surrender to Lord Hanuman as the divine messenger of Lord Rama."
+      },
+      "meaning": {
+        "hi": "मैं श्रीराम के दूत हनुमान की शरण ग्रहण करता हूँ।",
+        "en": "I surrender to Hanuman, the divine messenger of Lord Rama."
+      },
+      "keywords": {
+        "hi": [
+          "रामदूत",
+          "शरणं प्रपद्ये",
+          "हनुमान",
+          "हनुमान जी",
+          "हनमान"
+        ],
+        "en": [
+          "ramaduta",
+          "sharanam prapadye",
+          "hanuman",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant",
+          "ram doot",
+          "ramdoot"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

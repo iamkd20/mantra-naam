@@ -68,6 +68,34 @@
         "hi": "अय्यप्पा स्वामी",
         "en": "Ayyappa Swami"
       }
+    },
+    {
+      "id": "ayyappa_sabarigiri_vasan",
+      "name": {
+        "hi": "शबरीगिरि वासन",
+        "en": "Sabarigiri Vasan"
+      }
+    },
+    {
+      "id": "ayyappa_pamba_vasan",
+      "name": {
+        "hi": "पम्पा वासन",
+        "en": "Pamba Vasan"
+      }
+    },
+    {
+      "id": "ayyappa_hariharasuthan",
+      "name": {
+        "hi": "हरिहरसुधन",
+        "en": "Hariharasuthan"
+      }
+    },
+    {
+      "id": "ayyappa_bhoothanatha",
+      "name": {
+        "hi": "भूथनाथ",
+        "en": "Bhoothanatha"
+      }
     }
   ]
 }

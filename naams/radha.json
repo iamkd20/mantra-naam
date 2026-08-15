@@ -285,6 +285,20 @@
         "hi": "राधे श्यामप्रिया",
         "en": "Radhe Shyamapriya"
       }
+    },
+    {
+      "id": "ra_shyama",
+      "name": {
+        "hi": "श्यामा",
+        "en": "Shyama"
+      }
+    },
+    {
+      "id": "ra_madhavi",
+      "name": {
+        "hi": "माधवी",
+        "en": "Madhavi"
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_hanumate_namah",
   "category": "hanuman",
   "title": {
@@ -36,13 +36,22 @@
           "भक्ति"
         ],
         "en": [
-          "Om Hanumate Namah",
           "om hanumate namah",
           "hanuman",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "hanumann",
+          "hanman",
+          "hanumanji",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "hanumana",
+          "hanmant",
+          "hanumant"
         ]
       },
       "audio": "om_hanumate_namah.mp3"

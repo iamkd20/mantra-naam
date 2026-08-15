@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_rudraya_namah",
   "category": "shiva",
   "title": {
@@ -28,11 +28,21 @@
       "keywords": {
         "hi": [
           "ॐ रुद्राय नमः",
-          "रुद्र"
+          "रुद्र",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "Om रुद्राय नमः",
-          "रुद्र"
+          "रुद्र",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "om_rudraya_namah.mp3"

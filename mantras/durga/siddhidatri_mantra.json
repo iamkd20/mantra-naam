@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "siddhidatri_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "सिद्धिदात्री मंत्र",
+    "en": "Siddhidatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "siddhidatri_mantra",
+      "title": {
+        "hi": "सिद्धिदात्री मंत्र",
+        "en": "Siddhidatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी सिद्धिदात्र्यै नमः॥",
+        "en": "Om Devī Siddhidātryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ सिद्धिदात्री नवदुर्गा का नवम एवं अंतिम स्वरूप हैं। वे सिद्धि, ज्ञान, पूर्णता एवं दिव्य कृपा की अधिष्ठात्री हैं।",
+        "en": "Goddess Siddhidatri is the ninth and final form of Navadurga, bestowing spiritual attainments, wisdom, perfection, and divine grace."
+      },
+      "meaning": {
+        "hi": "मैं माँ सिद्धिदात्री को प्रणाम करता हूँ जो समस्त सिद्धियाँ एवं दिव्य कृपा प्रदान करती हैं।",
+        "en": "I bow to Goddess Siddhidatri, who grants all spiritual attainments and divine blessings."
+      },
+      "keywords": {
+        "hi": [
+          "सिद्धिदात्री",
+          "नवम नवरात्र",
+          "देवी सिद्धिदात्री",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "siddhidatri",
+          "ninth navadurga",
+          "goddess siddhidatri",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

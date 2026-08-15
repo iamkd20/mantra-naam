@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "barbarika_bhagyodaya_mantra",
+  "category": "khatu_shyam",
+  "title": {
+    "hi": "बर्बरीक भाग्योदय मंत्र",
+    "en": "Barbarika Bhagyodaya Mantra"
+  },
+  "mantras": [
+    {
+      "id": "barbarika_bhagyodaya_mantra",
+      "title": {
+        "hi": "बर्बरीक भाग्योदय मंत्र",
+        "en": "Barbarika Bhagyodaya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ बर्बरीकाय नमः॥",
+        "en": "Om Barbarīkāya Namaḥ"
+      },
+      "description": {
+        "hi": "वीर बर्बरीक (खाटूश्याम) को समर्पित सरल नाम मंत्र।",
+        "en": "A simple nama mantra dedicated to the heroic Barbarika, worshipped as Khatu Shyam Ji."
+      },
+      "meaning": {
+        "hi": "मैं वीर बर्बरीक को प्रणाम करता हूँ।",
+        "en": "I bow to the noble Barbarika."
+      },
+      "keywords": {
+        "hi": [
+          "बर्बरीक",
+          "भाग्योदय",
+          "श्याम",
+          "स्याम"
+        ],
+        "en": [
+          "barbarika",
+          "fortune",
+          "shyam",
+          "syam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

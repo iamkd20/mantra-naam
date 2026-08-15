@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "id": "om_ramachandraya_namah",
+  "category": "ram",
+  "title": {
+    "hi": "ॐ रामचन्द्राय नमः",
+    "en": "Om Ramachandraya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_ramachandraya_namah",
+      "title": {
+        "hi": "ॐ रामचन्द्राय नमः",
+        "en": "Om Ramachandraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ रामचन्द्राय नमः॥",
+        "en": "Om Rāmacandrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम के रामचन्द्र स्वरूप का पवित्र नाममंत्र।",
+        "en": "A sacred mantra dedicated to Lord Rama in His Ramachandra form."
+      },
+      "meaning": {
+        "hi": "मैं भगवान रामचन्द्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ramachandra."
+      },
+      "keywords": {
+        "hi": [
+          "रामचन्द्र",
+          "रामचन्द्राय नमः"
+        ],
+        "en": [
+          "ramachandra",
+          "ramachandraya namah",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

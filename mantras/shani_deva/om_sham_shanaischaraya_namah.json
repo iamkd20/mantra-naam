@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_sham_shanaischaraya_namah",
   "category": "shani_deva",
   "title": {
@@ -36,13 +36,20 @@
           "भक्ति"
         ],
         "en": [
-          "Om Sham Shanaischaraya Namah",
           "om sham shanaischaraya namah",
           "shani deva",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "sani deva",
+          "sani",
+          "shanee deva",
+          "shanee",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra"
         ]
       },
       "audio": "om_sham_shanaischaraya_namah.mp3"

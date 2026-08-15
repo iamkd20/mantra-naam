@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "om_kleem_krishnaya_namah",
+  "category": "radha_krishna",
+  "title": {
+    "hi": "ॐ क्लीं कृष्णाय नमः",
+    "en": "Om Kleem Krishnaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_kleem_krishnaya_namah",
+      "title": {
+        "hi": "ॐ क्लीं कृष्णाय नमः",
+        "en": "Om Kleem Krishnaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ क्लीं कृष्णाय नमः॥",
+        "en": "Om Kleem Krishnaya Namah"
+      },
+      "description": {
+        "hi": "भगवान कृष्ण का शक्तिशाली बीज मंत्र।",
+        "en": "A powerful seed mantra of Lord Krishna."
+      },
+      "meaning": {
+        "hi": "मैं भगवान कृष्ण को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Krishna."
+      },
+      "keywords": {
+        "hi": [
+          "क्लीं",
+          "कृष्णाय",
+          "मंत्र",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
+        ],
+        "en": [
+          "kleem",
+          "krishnaya",
+          "mantra",
+          "manter",
+          "krishn",
+          "krishan",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

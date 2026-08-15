@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "navagraha_surya_gayatri",
   "category": "nav_graha",
   "title": {
@@ -36,13 +36,21 @@
           "भक्ति"
         ],
         "en": [
-          "Surya Gayatri Mantra",
+          "surya gayatri mantra",
           "navagraha surya gayatri",
           "nav graha",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "surya gayatri manter",
+          "manter",
+          "surya gayatri mntra",
+          "mntra",
+          "surya gayatri mantr",
+          "mantr",
+          "surya gayatri matra",
+          "matra"
         ]
       },
       "audio": "navagraha_surya_gayatri.mp3"

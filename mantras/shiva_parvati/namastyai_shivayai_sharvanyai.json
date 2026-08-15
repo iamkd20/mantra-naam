@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "id": "namastyai_shivayai_sharvanyai",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "नमस्त्यै शिवायै शर्वाण्यै मंत्र",
+    "en": "Namastyai Shivayai Sharvanyai Mantra"
+  },
+  "mantras": [
+    {
+      "id": "namastyai_shivayai_sharvanyai",
+      "title": {
+        "hi": "नमस्त्यै शिवायै शर्वाण्यै मंत्र",
+        "en": "Namastyai Shivayai Sharvanyai Mantra"
+      },
+      "mantra": {
+        "hi": "नमस्त्यै शिवायै शर्वाण्यै सौभाग्यं संतति शुभा, प्रयच्छ भक्तियुक्तानां नारीणां हरवल्लभे॥",
+        "en": "Namastyai Shivayai Sharvanyai Saubhagyam Santati Shubha, Prayachchha Bhaktiyuktanam Narinam Haravallabhe."
+      },
+      "description": {
+        "hi": "यह मंत्र मुख्य रूप से पति की दीर्घायु, पारिवारिक सुख और उत्तम संतान प्राप्ति के लिए जपा जाता है।",
+        "en": "This mantra is primarily chanted for the longevity of the husband, family happiness, and to be blessed with good progeny."
+      },
+      "meaning": {
+        "hi": "भगवान शिव की प्रिया, माता पार्वती (शिवा, शर्वाणी) को नमस्कार है! हे हरवल्लभे, आप भक्तिपूर्वक आपकी शरण में आई स्त्रियों को अखण्ड सौभाग्य और उत्तम संतान का आशीर्वाद प्रदान करें।",
+        "en": "Salutations to Mother Parvati (Shiva, Sharvani), the beloved of Lord Shiva! O Haravallabhe, bless the women who seek refuge in you with devotion, with eternal marital bliss and auspicious progeny."
+      },
+      "keywords": {
+        "hi": [
+          "सौभाग्य मंत्र",
+          "दीर्घायु पति मंत्र",
+          "संतान प्राप्ति",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
+        ],
+        "en": [
+          "saubhagya mantra",
+          "husband longevity mantra",
+          "progeny mantra",
+          "saubhagya manter",
+          "manter",
+          "saubhagya mntra",
+          "mntra",
+          "saubhagya mantr",
+          "mantr",
+          "saubhagya matra",
+          "matra",
+          "husband longevity manter",
+          "husband longevity mntra",
+          "husband longevity mantr",
+          "husband longevity matra",
+          "progeny manter",
+          "progeny mntra",
+          "progeny mantr",
+          "progeny matra",
+          "om namah shivay",
+          "har har mahadev"
+        ]
+      },
+      "audio": "namastyai_shivayai_sharvanyai.mp3"
+    }
+  ]
+}

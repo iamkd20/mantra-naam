@@ -1,51 +1,53 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "gayatri_mahamantra",
   "category": "gayatri",
   "title": {
-    "hi": "गायत्री महामंत्र",
+    "hi": "गायत्री महामन्त्र",
     "en": "Gayatri Mahamantra"
   },
   "mantras": [
     {
       "id": "gayatri_mahamantra",
       "title": {
-        "hi": "गायत्री महामंत्र",
+        "hi": "गायत्री महामन्त्र",
         "en": "Gayatri Mahamantra"
       },
       "mantra": {
-        "hi": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि । धियो यो नः प्रचोदयात् ॥",
-        "en": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi. Dhiyo Yo Nah Prachodayat."
+        "hi": "ॐ भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात्॥",
+        "en": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo Nah Prachodayat"
       },
       "description": {
-        "hi": "वैदिक परंपरा का अत्यंत प्रतिष्ठित मंत्र, जिसे सविता के दिव्य प्रकाश और बुद्धि-प्रेरणा के भाव से जपा जाता है।",
-        "en": "A devotional chant associated with Gayatri Mahamantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "वेदों में अत्यंत प्रसिद्ध गायत्री महामंत्र।",
+        "en": "The renowned Gayatri Mahamantra from the Vedic tradition."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम उस प्राणस्वरूप, दुःखनाशक, सुखस्वरूप, श्रेष्ठ, तेजस्वी, पापनाशक, देवस्वरूप परमात्मा को अंतरात्मा में धारण करें। वह परमात्मा हमारी बुद्धि को सन्मार्ग में प्रेरित करे।",
+        "en": "We meditate on the glory of that Supreme Being who has produced this universe; may He enlighten our minds."
       },
       "keywords": {
         "hi": [
-          "गायत्री महामंत्र",
-          "gayatri mahamantra",
-          "gayatri",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "गायत्री",
+          "महामंत्र",
+          "भूर्भुवः",
+          "तत्सवितुर्वरेण्यं",
+          "भर्गो",
+          "धीमहि",
+          "गायतरी",
+          "गाएत्री",
+          "भूरभुव"
         ],
         "en": [
-          "Gayatri Mahamantra",
-          "gayatri mahamantra",
           "gayatri",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "mahamantra",
+          "bhur bhuvah",
+          "tat savitur",
+          "gaytri",
+          "gaitri",
+          "om bhurbh bhubat"
         ]
       },
-      "audio": "gayatri_mahamantra.mp3"
+      "audio": ""
     }
   ]
 }

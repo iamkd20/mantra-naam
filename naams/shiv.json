@@ -565,6 +565,20 @@
         "hi": "शिव शिव राम राम",
         "en": "Shiv Shiv Ram Ram"
       }
+    },
+    {
+      "id": "kb_kaal_bhairav",
+      "name": {
+        "hi": "काल भैरव",
+        "en": "Kaal Bhairav"
+      }
+    },
+    {
+      "id": "kb_dandapani",
+      "name": {
+        "hi": "दण्डपाणि",
+        "en": "Dandapani"
+      }
     }
   ]
 }

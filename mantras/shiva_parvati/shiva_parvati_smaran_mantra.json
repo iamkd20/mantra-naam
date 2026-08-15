@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shiva_parvati_smaran_mantra",
   "category": "shiva_parvati",
   "title": {
@@ -30,13 +30,34 @@
           "जय शिव शंकर",
           "जय गौरी शंकर",
           "शिव पार्वती जप",
-          "गौरी शंकर"
+          "गौरी शंकर",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
         ],
         "en": [
-          "Jai Shiva Shankar",
-          "Jai Gauri Shankar",
-          "Shiva Parvati Japa",
-          "Gauri Shankar"
+          "jai shiva shankar",
+          "jai gauri shankar",
+          "shiva parvati japa",
+          "gauri shankar",
+          "jai siva shankar",
+          "siva",
+          "jai shiv shankar",
+          "shiv",
+          "jai shib shankar",
+          "shib",
+          "jai siwa shankar",
+          "siwa",
+          "siva parvati japa",
+          "shiv parvati japa",
+          "shib parvati japa",
+          "siwa parvati japa",
+          "parvati",
+          "shiva parbati japa",
+          "parbati",
+          "om namah shivay",
+          "har har mahadev"
         ]
       },
       "audio": "shiva_parvati_smaran_mantra.mp3"

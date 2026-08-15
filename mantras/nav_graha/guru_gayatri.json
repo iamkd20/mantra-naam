@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "guru_gayatri",
+  "category": "nav_graha",
+  "title": {
+    "hi": "गुरु गायत्री",
+    "en": "Guru Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "guru_gayatri",
+      "title": {
+        "hi": "गुरु गायत्री",
+        "en": "Guru Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ गुरुदेवाय विद्महे परब्रह्मणे धीमहि। तन्नो गुरुः प्रचोदयात्॥",
+        "en": "Om Gurudevāya Vidmahe Parabrahmaṇe Dhīmahi Tanno Guruḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "गुरु के दिव्य स्वरूप का ध्यान करने वाला गायत्री मंत्र।",
+        "en": "A Gayatri mantra meditating upon the divine Guru."
+      },
+      "meaning": {
+        "hi": "हम गुरु का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the Guru. May the Guru enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "गुरु गायत्री",
+          "गुरुदेव"
+        ],
+        "en": [
+          "guru gayatri",
+          "gurudeva",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

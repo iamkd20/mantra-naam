@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "shani_vedic_mantra",
+  "category": "shani_deva",
+  "title": {
+    "hi": "शनि वैदिक मंत्र",
+    "en": "Shani Vedic Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shani_vedic_mantra",
+      "title": {
+        "hi": "शनि वैदिक मंत्र",
+        "en": "Shani Vedic Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ शन्नो देवीरभिष्टय आपो भवन्तु पीतये। शं योरभि स्रवन्तु नः॥",
+        "en": "Om Śanno Devīr Abhiṣṭaya Āpo Bhavantu Pītaye Śaṁ Yor Abhi Sravantu Naḥ"
+      },
+      "description": {
+        "hi": "शनि उपासना में प्रचलित वैदिक शांति मंत्र।",
+        "en": "A Vedic peace mantra traditionally recited during Shani worship."
+      },
+      "meaning": {
+        "hi": "दैवी शक्तियाँ हमें कल्याण, शांति एवं मंगल प्रदान करें।",
+        "en": "May the divine powers bless us with peace, well-being, and auspiciousness."
+      },
+      "keywords": {
+        "hi": [
+          "शनि वैदिक मंत्र",
+          "शन्नो देवी"
+        ],
+        "en": [
+          "shani vedic mantra",
+          "shanno devir",
+          "shani",
+          "deva"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

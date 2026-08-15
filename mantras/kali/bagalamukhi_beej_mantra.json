@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "bagalamukhi_beej_mantra",
+  "category": "kali",
+  "title": {
+    "hi": "बगलामुखी बीज मंत्र",
+    "en": "Bagalamukhi Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "bagalamukhi_beej_mantra",
+      "title": {
+        "hi": "बगलामुखी बीज मंत्र",
+        "en": "Bagalamukhi Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्लीं बगलामुख्यै नमः॥",
+        "en": "Om Hlīṁ Bagalāmukhyai Namaḥ"
+      },
+      "description": {
+        "hi": "देवी बगलामुखी का बीज मंत्र।",
+        "en": "The bija mantra of Goddess Bagalamukhi."
+      },
+      "meaning": {
+        "hi": "मैं देवी बगलामुखी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Bagalamukhi."
+      },
+      "keywords": {
+        "hi": [
+          "ह्लीं",
+          "बगलामुखी",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "hleem",
+          "bagalamukhi",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

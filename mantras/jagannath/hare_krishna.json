@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "hare_krishna",
+  "category": "jagannath",
+  "title": {
+    "hi": "हरे कृष्ण महामंत्र",
+    "en": "Hare Krishna Mahamantra"
+  },
+  "mantras": [
+    {
+      "id": "hare_krishna",
+      "title": {
+        "hi": "हरे कृष्ण महामंत्र",
+        "en": "Hare Krishna Mahamantra"
+      },
+      "mantra": {
+        "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+        "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare, Hare Rama Hare Rama Rama Rama Hare Hare"
+      },
+      "description": {
+        "hi": "कलियुग का तारक महामंत्र।",
+        "en": "The great mantra for deliverance in Kali Yuga."
+      },
+      "meaning": {
+        "hi": "हे भगवान (कृष्ण/राम) और हे उनकी दिव्य शक्ति (राधा/सीता), कृपया मुझे अपनी सेवा में लगाएँ।",
+        "en": "O Lord (Krishna/Rama) and O Divine Energy (Radha/Sita), please engage me in Your service."
+      },
+      "keywords": {
+        "hi": [
+          "हरे कृष्ण",
+          "हरे राम",
+          "महामंत्र"
+        ],
+        "en": [
+          "hare krishna",
+          "hare rama",
+          "mahamantra"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_suryaya_namah",
+  "category": "surya_deva",
+  "title": {
+    "hi": "ॐ सूर्याय नमः",
+    "en": "Om Suryaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_suryaya_namah",
+      "title": {
+        "hi": "ॐ सूर्याय नमः",
+        "en": "Om Suryaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ सूर्याय नमः॥",
+        "en": "Om Suryaya Namaḥ."
+      },
+      "description": {
+        "hi": "भगवान सूर्य का सरल नाम मंत्र।",
+        "en": "A simple name mantra of Lord Surya."
+      },
+      "meaning": {
+        "hi": "भगवान सूर्य को नमस्कार।",
+        "en": "Salutations to Lord Surya."
+      },
+      "keywords": {
+        "hi": [
+          "सूर्य मंत्र",
+          "सूर्य नाम जप",
+          "सूर्याय नमः"
+        ],
+        "en": [
+          "surya mantra",
+          "surya nama japa",
+          "om suryaya namah"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

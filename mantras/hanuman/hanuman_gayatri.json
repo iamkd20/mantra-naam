@@ -1,51 +1,49 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "hanuman_gayatri",
   "category": "hanuman",
   "title": {
-    "hi": "हनुमान गायत्री मंत्र",
-    "en": "Hanuman Gayatri Mantra"
+    "hi": "हनुमान गायत्री",
+    "en": "Hanuman Gayatri"
   },
   "mantras": [
     {
       "id": "hanuman_gayatri",
       "title": {
-        "hi": "हनुमान गायत्री मंत्र",
-        "en": "Hanuman Gayatri Mantra"
+        "hi": "हनुमान गायत्री",
+        "en": "Hanuman Gayatri"
       },
       "mantra": {
-        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि । तन्नो हनुमान् प्रचोदयात् ॥",
-        "en": "Om Anjaneyaya Vidmahe Vayuputraya Dhimahi. Tanno Hanuman Prachodayat."
+        "hi": "ॐ आञ्जनेयाय विद्महे वायुपुत्राय धीमहि। तन्नो हनुमत् प्रचोदयात्॥",
+        "en": "Om Anjaneyaya Vidmahe Vayuputraya Dhimahi. Tanno Hanumat Prachodayat."
       },
       "description": {
-        "hi": "भगवान हनुमान को समर्पित लोकप्रिय गायत्री शैली का मंत्र, जो भक्ति, साहस और सेवा-भाव के स्मरण में जपा जाता है।",
-        "en": "A devotional chant associated with Hanuman Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान हनुमान की कृपा, बुद्धि, साहस एवं आध्यात्मिक शक्ति प्राप्त करने हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Lord Hanuman for wisdom, courage, strength, and divine grace."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम आञ्जनेय, वायुपुत्र हनुमान का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Anjaneya, the son of Vayu. May Hanuman illuminate our intellect."
       },
       "keywords": {
         "hi": [
-          "हनुमान गायत्री मंत्र",
-          "hanuman gayatri",
-          "hanuman",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "हनुमान गायत्री",
+          "आञ्जनेय",
+          "वायुपुत्र",
+          "हनुमान जी",
+          "हनमान"
         ],
         "en": [
-          "Hanuman Gayatri Mantra",
           "hanuman gayatri",
-          "hanuman",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "anjaneya",
+          "vayuputra",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant"
         ]
       },
-      "audio": "hanuman_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

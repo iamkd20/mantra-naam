@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "brahma_beej",
+  "category": "brahma",
+  "title": {
+    "hi": "ब्रह्मा बीज मंत्र",
+    "en": "Brahma Beej Mantra"
+  },
+  "mantras": [
+    {
+      "id": "brahma_beej",
+      "title": {
+        "hi": "ब्रह्मा बीज मंत्र",
+        "en": "Brahma Beej Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं ह्रीं श्रीं क्लीं सौः सः हंसाय नमः॥",
+        "en": "Om Aim Hreem Shreem Kleem Sauh Sah Hamsaya Namah"
+      },
+      "description": {
+        "hi": "भगवान ब्रह्मा का बीज मंत्र।",
+        "en": "Beej mantra of Lord Brahma."
+      },
+      "meaning": {
+        "hi": "मैं सृष्टिकर्ता ब्रह्मा को प्रणाम करता हूँ।",
+        "en": "I bow to the creator Brahma."
+      },
+      "keywords": {
+        "hi": [
+          "बीज",
+          "ब्रह्मा"
+        ],
+        "en": [
+          "beej",
+          "brahma"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

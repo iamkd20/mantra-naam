@@ -14,6 +14,10 @@ const REPO_ROOT = __dirname;
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 app.use(express.static(path.join(REPO_ROOT, 'public')));
+app.use('/mantras', express.static(path.join(REPO_ROOT, 'mantras')));
+app.use('/naams', express.static(path.join(REPO_ROOT, 'naams')));
+app.use('/audio', express.static(path.join(REPO_ROOT, 'audio')));
+app.use('/images', express.static(path.join(REPO_ROOT, 'images')));
 
 // Configure Multer for file uploads
 const storage = multer.diskStorage({

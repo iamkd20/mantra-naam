@@ -54,6 +54,83 @@
         "hi": "कमलासन",
         "en": "Kamalasana"
       }
+    },
+    {
+      "id": "brahma_hiranyagarbha",
+      "name": {
+        "hi": "हिरण्यगर्भ",
+        "en": "Hiranyagarbha"
+      }
+    },
+    {
+      "id": "brahma_swayambhu",
+      "name": {
+        "hi": "स्वयम्भू",
+        "en": "Swayambhu"
+      }
+    },
+    {
+      "id": "brahma_viranchi",
+      "name": {
+        "hi": "विरिञ्चि",
+        "en": "Viranchi"
+      }
+    },
+    {
+      "id": "brahma_srishtikarta",
+      "name": {
+        "hi": "सृष्टिकर्ता",
+        "en": "Srishtikarta"
+      }
+    },
+    {
+      "id": "brahma_vidhata",
+      "name": {
+        "hi": "विधाता",
+        "en": "Vidhata"
+      }
+    },
+    {
+      "id": "brahma_lokesha",
+      "name": {
+        "hi": "लोकेश",
+        "en": "Lokesha"
+      }
+    },
+    {
+      "id": "brahma_padmayoni",
+      "name": {
+        "hi": "पद्मयोनि",
+        "en": "Padmayoni"
+      }
+    },
+    {
+      "id": "brahma_parameshti",
+      "name": {
+        "hi": "परमेष्ठी",
+        "en": "Parameshti"
+      }
+    },
+    {
+      "id": "brahma_hansavahana",
+      "name": {
+        "hi": "हंसवाहन",
+        "en": "Hansavahana"
+      }
+    },
+    {
+      "id": "brahma_dhata",
+      "name": {
+        "hi": "धाता",
+        "en": "Dhata"
+      }
+    },
+    {
+      "id": "brahma_aja",
+      "name": {
+        "hi": "अज",
+        "en": "Aja"
+      }
     }
   ]
 }

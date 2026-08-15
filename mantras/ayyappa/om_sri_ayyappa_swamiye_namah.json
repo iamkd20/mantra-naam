@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "id": "om_sri_ayyappa_swamiye_namah",
+  "category": "ayyappa",
+  "title": {
+    "hi": "ॐ श्री अय्यप्पा स्वामिये नमः",
+    "en": "Om Sri Ayyappa Swamiye Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_sri_ayyappa_swamiye_namah",
+      "title": {
+        "hi": "ॐ श्री अय्यप्पा स्वामिये नमः",
+        "en": "Om Sri Ayyappa Swamiye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री अय्यप्पा स्वामिये नमः ॥",
+        "en": "Om Sri Ayyappa Swamiye Namah."
+      },
+      "description": {
+        "hi": "यह भगवान अय्यप्पा का एक सरल और अत्यंत लोकप्रिय ध्यान मंत्र है, जिसका प्रयोग दैनिक जप के लिए किया जाता है।",
+        "en": "A simple and extremely popular meditation mantra of Lord Ayyappa, used for daily chanting."
+      },
+      "meaning": {
+        "hi": "भगवान अय्यप्पा स्वामी को मेरा प्रणाम।",
+        "en": "My salutations to Lord Ayyappa Swami."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ श्री अय्यप्पा स्वामिये नमः",
+          "अय्यप्पा ध्यान मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
+        ],
+        "en": [
+          "om sri ayyappa swamiye namah",
+          "ayyappa dhyana mantra",
+          "om sri ayappa swamiye namah",
+          "ayappa",
+          "om sri ayappaa swamiye namah",
+          "ayappaa",
+          "om sri aiyappa swamiye namah",
+          "aiyappa",
+          "ayyappa dhyana manter",
+          "manter",
+          "ayyappa dhyana mntra",
+          "mntra",
+          "ayyappa dhyana mantr",
+          "mantr",
+          "ayyappa dhyana matra",
+          "matra",
+          "ayappa dhyana mantra",
+          "ayappaa dhyana mantra",
+          "aiyappa dhyana mantra",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
+        ]
+      },
+      "audio": "om_sri_ayyappa_swamiye_namah.mp3"
+    }
+  ]
+}

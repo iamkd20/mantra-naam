@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "rudra_gayatri_mantra",
   "category": "shiva",
   "title": {
@@ -33,7 +33,12 @@
           "महादेव",
           "शिव जप",
           "रुद्र ध्यान",
-          "आध्यात्मिक प्रकाश"
+          "आध्यात्मिक प्रकाश",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "rudra gayatri",
@@ -42,7 +47,32 @@
           "mahadev",
           "shiva japa",
           "rudra meditation",
-          "spiritual illumination"
+          "spiritual illumination",
+          "siva gayatri",
+          "siva",
+          "shiv gayatri",
+          "shiv",
+          "shib gayatri",
+          "shib",
+          "siwa gayatri",
+          "siwa",
+          "rudra manter",
+          "manter",
+          "rudra mntra",
+          "mntra",
+          "rudra mantr",
+          "mantr",
+          "rudra matra",
+          "matra",
+          "siva japa",
+          "shiv japa",
+          "shib japa",
+          "siwa japa",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "rudra_gayatri_mantra.mp3"

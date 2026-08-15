@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "radha_rani_stuti",
+  "category": "krishna",
+  "title": {
+    "hi": "राधा रानी स्तुति",
+    "en": "Radha Rani Stuti"
+  },
+  "mantras": [
+    {
+      "id": "radha_rani_stuti",
+      "title": {
+        "hi": "राधा रानी स्तुति",
+        "en": "Radha Rani Stuti"
+      },
+      "mantra": {
+        "hi": "तप्तकाञ्चन गौराङ्गी राधे वृन्दावनेश्वरी। वृषभानुसुते देवि प्रणमामि हरिप्रिये॥",
+        "en": "Taptakāñcana Gaurāṅgī Rādhe Vṛndāvaneśvarī Vṛṣabhānusute Devi Praṇamāmi Haripriye"
+      },
+      "description": {
+        "hi": "श्री राधारानी की प्रसिद्ध स्तुति, जिसमें उन्हें वृन्दावन की अधिष्ठात्री एवं भगवान श्रीकृष्ण की परम प्रिया के रूप में वंदन किया जाता है।",
+        "en": "A celebrated prayer glorifying Sri Radha as the Queen of Vrindavan and the beloved of Lord Krishna."
+      },
+      "meaning": {
+        "hi": "हे स्वर्ण के समान गौरवर्ण वाली, वृन्दावन की अधिष्ठात्री, वृषभानु की पुत्री एवं श्रीहरि की प्रिय राधे! आपको मेरा प्रणाम।",
+        "en": "O golden-complexioned Radha, Queen of Vrindavan, daughter of Vrishabhanu and beloved of Lord Hari, I bow to You."
+      },
+      "keywords": {
+        "hi": [
+          "राधा रानी",
+          "वृन्दावनेश्वरी",
+          "हरिप्रिया",
+          "राधे"
+        ],
+        "en": [
+          "radha rani",
+          "vrindavaneshwari",
+          "haripriya",
+          "radhe",
+          "radharani",
+          "kishori"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "mangala_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "मंगल मंत्र",
+    "en": "Mangala Mantra"
+  },
+  "mantras": [
+    {
+      "id": "mangala_mantra",
+      "title": {
+        "hi": "मंगल मंत्र",
+        "en": "Mangala Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्रां क्रीं क्रौं सः भौमाय नमः॥",
+        "en": "Om Krāṁ Krīṁ Krauṁ Saḥ Bhaumāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान मंगल (भौम) का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Mangala (Mars)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान भौम (मंगल) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Bhauma (Mangala)."
+      },
+      "keywords": {
+        "hi": [
+          "मंगल",
+          "भौम",
+          "मंगल ग्रह"
+        ],
+        "en": [
+          "mangala",
+          "bhauma",
+          "mars",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

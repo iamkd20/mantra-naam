@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "mahagauri_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "महागौरी मंत्र",
+    "en": "Mahagauri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "mahagauri_mantra",
+      "title": {
+        "hi": "महागौरी मंत्र",
+        "en": "Mahagauri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी महागौर्यै नमः॥",
+        "en": "Om Devī Mahāgauryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ महागौरी नवदुर्गा का अष्टम स्वरूप हैं। वे पवित्रता, करुणा, शांति एवं जीवन की शुद्धि की अधिष्ठात्री हैं।",
+        "en": "Goddess Mahagauri is the eighth form of Navadurga and represents purity, compassion, peace, and inner cleansing."
+      },
+      "meaning": {
+        "hi": "मैं माँ महागौरी को प्रणाम करता हूँ जो जीवन को पवित्र एवं मंगलमय बनाती हैं।",
+        "en": "I bow to Goddess Mahagauri, who blesses devotees with purity and auspiciousness."
+      },
+      "keywords": {
+        "hi": [
+          "महागौरी",
+          "अष्टम नवरात्र",
+          "देवी महागौरी",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "mahagauri",
+          "eighth navadurga",
+          "goddess mahagauri",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

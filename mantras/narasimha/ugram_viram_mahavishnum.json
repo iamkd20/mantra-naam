@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "ugram_viram_mahavishnum",
+  "category": "narasimha",
+  "title": {
+    "hi": "उग्रं वीरं महाविष्णुं",
+    "en": "Ugram Viram Mahavishnum"
+  },
+  "mantras": [
+    {
+      "id": "ugram_viram_mahavishnum",
+      "title": {
+        "hi": "उग्रं वीरं महाविष्णुं",
+        "en": "Ugram Viram Mahavishnum"
+      },
+      "mantra": {
+        "hi": "उग्रं वीरं महाविष्णुं ज्वलन्तं सर्वतोमुखम्। नृसिंहं भीषणं भद्रं मृत्युर्मृत्युं नमाम्यहम्॥",
+        "en": "Ugraṁ Vīraṁ Mahāviṣṇuṁ Jvalantaṁ Sarvatomukham Nṛsiṁhaṁ Bhīṣaṇaṁ Bhadraṁ Mṛtyor Mṛtyuṁ Namāmyaham"
+      },
+      "description": {
+        "hi": "भगवान नृसिंह का अत्यंत प्रसिद्ध रक्षा एवं अभय प्रदान करने वाला स्तोत्र मंत्र।",
+        "en": "A renowned protective mantra of Lord Narasimha invoking courage, protection, and fearlessness."
+      },
+      "meaning": {
+        "hi": "मैं उग्र, वीर, सर्वव्यापक, तेजस्वी एवं मृत्यु के भी मृत्यु भगवान नृसिंह को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Narasimha, the fierce and radiant Mahavishnu, who is the conqueror of death itself."
+      },
+      "keywords": {
+        "hi": [
+          "उग्रं वीरम्",
+          "नृसिंह",
+          "महाविष्णु"
+        ],
+        "en": [
+          "ugram viram",
+          "narasimha",
+          "mahavishnu",
+          "narsimha",
+          "nrisimha",
+          "narashimha",
+          "lakshmi narasimha",
+          "prahlada",
+          "ugra"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

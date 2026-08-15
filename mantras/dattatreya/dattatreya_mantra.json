@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "id": "dattatreya_mantra",
+  "category": "dattatreya",
+  "title": {
+    "hi": "दत्तात्रेय मंत्र",
+    "en": "Dattatreya Mantra"
+  },
+  "mantras": [
+    {
+      "id": "dattatreya_mantra",
+      "title": {
+        "hi": "दत्तात्रेय मंत्र",
+        "en": "Dattatreya Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां दत्तात्रेयाय नमः॥",
+        "en": "Om Drāṁ Dattātreyāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान दत्तात्रेय का सरल एवं लोकप्रिय बीज मंत्र।",
+        "en": "A simple and widely chanted bija mantra dedicated to Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "मैं भगवान दत्तात्रेय को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Dattatreya."
+      },
+      "keywords": {
+        "hi": [
+          "दत्तात्रेय",
+          "दत्त",
+          "गुरु",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
+        ],
+        "en": [
+          "dattatreya",
+          "datta",
+          "guru",
+          "datatreya",
+          "dattatrey",
+          "om dram dattatreyaya",
+          "digambara digambara"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

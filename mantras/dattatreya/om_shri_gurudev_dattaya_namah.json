@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_shri_gurudev_dattaya_namah",
   "category": "dattatreya",
   "title": {
@@ -33,16 +33,28 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
         ],
         "en": [
-          "Om Shri Gurudev Dattaya Namah",
           "om shri gurudev dattaya namah",
           "dattatreya",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "datatreya",
+          "datta",
+          "dattatrey",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om dram dattatreyaya",
+          "digambara digambara"
         ]
       },
       "audio": "om_shri_gurudev_dattaya_namah.mp3"

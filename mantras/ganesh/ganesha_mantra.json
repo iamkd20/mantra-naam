@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "id": "ganesha_mantra",
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश मंत्र",
+    "en": "Ganesha Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ganesha_mantra",
+      "title": {
+        "hi": "गणेश मंत्र",
+        "en": "Ganesha Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्रीं ह्रीं क्लीं ग्लौं गं गणपतये वर वरद सर्वजनं मे वशमानय स्वाहा॥",
+        "en": "Om Śrīṁ Hrīṁ Klīṁ Glauṁ Gaṁ Gaṇapataye Vara Varada Sarvajanaṁ Me Vaśamānaya Svāhā"
+      },
+      "description": {
+        "hi": "भगवान श्रीगणेश का प्रसिद्ध सिद्धि मंत्र, जो विघ्नों की निवृत्ति, बुद्धि, सफलता एवं शुभारम्भ के लिए जपा जाता है।",
+        "en": "A renowned Siddhi mantra of Lord Ganesha for removing obstacles, gaining wisdom, success, and auspicious beginnings."
+      },
+      "meaning": {
+        "hi": "हे वरदायक गणपति! मेरे कार्यों में सफलता दें तथा सभी विघ्नों को दूर करें।",
+        "en": "O Bestower of boons, Lord Ganesha, remove obstacles and bless my endeavors with success."
+      },
+      "keywords": {
+        "hi": [
+          "गणेश मंत्र",
+          "गणपति",
+          "गं",
+          "गनेस",
+          "गनपति"
+        ],
+        "en": [
+          "ganesha mantra",
+          "ganapati",
+          "gam",
+          "ganes",
+          "ganesha",
+          "gnesh",
+          "ganpati",
+          "ganeshji"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

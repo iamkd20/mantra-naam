@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "om_shri_pandurangaya_namah",
+  "category": "vitthal",
+  "title": {
+    "hi": "ॐ श्री पांडुरंगाय नमः",
+    "en": "Om Shri Pandurangaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_pandurangaya_namah",
+      "title": {
+        "hi": "ॐ श्री पांडुरंगाय नमः",
+        "en": "Om Shri Pandurangaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री पांडुरंगाय नमः॥",
+        "en": "Om Śrī Pāṇḍuraṅgāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान पांडुरंग (विठोबा) का प्रसिद्ध नमस्कार मंत्र।",
+        "en": "A revered salutation mantra dedicated to Lord Panduranga (Vitthal)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान पांडुरंग को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Panduranga."
+      },
+      "keywords": {
+        "hi": [
+          "पांडुरंग",
+          "विठोबा",
+          "विठ्ठल"
+        ],
+        "en": [
+          "panduranga",
+          "vitoba",
+          "vitthal"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

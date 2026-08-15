@@ -1,51 +1,45 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "budha_gayatri",
   "category": "nav_graha",
   "title": {
-    "hi": "बुध गायत्री मंत्र",
-    "en": "Budha Gayatri Mantra"
+    "hi": "बुध गायत्री",
+    "en": "Budha Gayatri"
   },
   "mantras": [
     {
       "id": "budha_gayatri",
       "title": {
-        "hi": "बुध गायत्री मंत्र",
-        "en": "Budha Gayatri Mantra"
+        "hi": "बुध गायत्री",
+        "en": "Budha Gayatri"
       },
       "mantra": {
-        "hi": "ॐ बुद्धिप्रदाय विद्महे सौम्यरूपाय धीमहि । तन्नो बुधः प्रचोदयात् ॥",
-        "en": "Om Buddhipradaya Vidmahe Saumyarupaya Dhimahi. Tanno Budhah Prachodayat."
+        "hi": "ॐ सौम्यरूपाय विद्महे वाणीशाय धीमहि। तन्नो बुधः प्रचोदयात्॥",
+        "en": "Om Saumyarūpāya Vidmahe Vāṇīśāya Dhīmahi Tanno Budhaḥ Pracodayāt"
       },
       "description": {
-        "hi": "बुध के बुद्धि और विवेक के प्रतीकात्मक स्वरूप का स्मरण।",
-        "en": "A devotional chant associated with Budha Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान बुध की कृपा, वाणी की मधुरता, विद्या एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Budha for eloquence, learning, wisdom, and divine guidance."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम सौम्य स्वरूप भगवान बुध का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon the gentle Lord Budha. May He enlighten our intellect."
       },
       "keywords": {
         "hi": [
-          "बुध गायत्री मंत्र",
-          "budha gayatri",
-          "nav_graha",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "बुध गायत्री",
+          "बुधदेव",
+          "बुध ग्रह"
         ],
         "en": [
-          "Budha Gayatri Mantra",
           "budha gayatri",
-          "nav graha",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "budha",
+          "mercury",
+          "nav",
+          "graha"
         ]
       },
-      "audio": "budha_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

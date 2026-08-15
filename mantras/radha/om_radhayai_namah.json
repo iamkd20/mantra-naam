@@ -1,51 +1,43 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_radhayai_namah",
   "category": "radha",
   "title": {
-    "hi": "ॐ राधायै नमः",
+    "hi": "ॐ राधायै नमः॥",
     "en": "Om Radhayai Namah"
   },
   "mantras": [
     {
       "id": "om_radhayai_namah",
       "title": {
-        "hi": "ॐ राधायै नमः",
+        "hi": "ॐ राधायै नमः॥",
         "en": "Om Radhayai Namah"
       },
       "mantra": {
-        "hi": "ॐ राधायै नमः ॥",
-        "en": "Om Radhayai Namah."
+        "hi": "ॐ राधायै नमः॥",
+        "en": "Om Radhāyai Namah"
       },
       "description": {
-        "hi": "राधा रानी के नाम का सरल भक्तिमय जप।",
-        "en": "A devotional chant associated with Om Radhayai Namah, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "राधा रानी का सरल जप मंत्र।",
+        "en": "A simple mantra of remembrance of Radha Rani."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं वृषभानु नंदिनी, प्रेम स्वरूपा श्री राधा रानी को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Radha Rani, the daughter of Vrishabhanu and the embodiment of divine love."
       },
       "keywords": {
         "hi": [
-          "ॐ राधायै नमः",
-          "om radhayai namah",
-          "radha",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "ॐ राधायै नमः॥",
+          "राधे"
         ],
         "en": [
           "Om Radhayai Namah",
-          "om radhayai namah",
-          "radha",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "radhe",
+          "radharani",
+          "kishori"
         ]
       },
-      "audio": "om_radhayai_namah.mp3"
+      "audio": ""
     }
   ]
 }

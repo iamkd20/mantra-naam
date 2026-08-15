@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "id": "om_shri_santoshi_matayai",
+  "category": "santoshi_mata",
+  "title": {
+    "hi": "ॐ श्री संतोषी मातायै नमः",
+    "en": "Om Shri Santoshi Matayai Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_santoshi_matayai",
+      "title": {
+        "hi": "ॐ श्री संतोषी मातायै नमः",
+        "en": "Om Shri Santoshi Matayai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री संतोषी मातायै नमः॥",
+        "en": "Om Shri Santoshi Matayai Namah"
+      },
+      "description": {
+        "hi": "संतोषी माता का मूल ध्यान मंत्र।",
+        "en": "The core meditation mantra of Santoshi Mata."
+      },
+      "meaning": {
+        "hi": "मैं श्री संतोषी माता को प्रणाम करता हूँ।",
+        "en": "I bow to Shri Santoshi Mata."
+      },
+      "keywords": {
+        "hi": [
+          "संतोषी",
+          "मातायै"
+        ],
+        "en": [
+          "santoshi",
+          "matayai",
+          "mata"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

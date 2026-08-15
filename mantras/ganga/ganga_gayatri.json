@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "ganga_gayatri",
+  "category": "ganga",
+  "title": {
+    "hi": "गंगा गायत्री",
+    "en": "Ganga Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "ganga_gayatri",
+      "title": {
+        "hi": "गंगा गायत्री",
+        "en": "Ganga Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ भगीरथ्यै विद्महे विष्णुपत्न्यै धीमहि। तन्नो गङ्गा प्रचोदयात्॥",
+        "en": "Om Bhagirathyai Vidmahe Vishnupatnyai Dhimahi, Tanno Ganga Prachodayat"
+      },
+      "description": {
+        "hi": "गंगा माता का ध्यान मंत्र।",
+        "en": "Meditation mantra for Goddess Ganga."
+      },
+      "meaning": {
+        "hi": "हम भगीरथी माता को जानते हैं और विष्णुपत्नी का ध्यान करते हैं। गंगा माता हमारी बुद्धि को प्रेरित करें।",
+        "en": "We know Goddess Bhagirathi and meditate on the consort of Vishnu. May Goddess Ganga inspire our minds."
+      },
+      "keywords": {
+        "hi": [
+          "गंगा",
+          "गायत्री",
+          "गंगे",
+          "हर हर गंगे"
+        ],
+        "en": [
+          "ganga",
+          "gayatri",
+          "gange",
+          "ganges",
+          "bhagirathi",
+          "har har gange"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

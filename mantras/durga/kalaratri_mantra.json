@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "kalaratri_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "कालरात्रि मंत्र",
+    "en": "Kalaratri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kalaratri_mantra",
+      "title": {
+        "hi": "कालरात्रि मंत्र",
+        "en": "Kalaratri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी कालरात्र्यै नमः॥",
+        "en": "Om Devī Kālarātryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ कालरात्रि नवदुर्गा का सप्तम स्वरूप हैं। वे भय, अज्ञान और नकारात्मक शक्तियों का नाश करती हैं।",
+        "en": "Goddess Kalaratri is the seventh form of Navadurga and destroys fear, ignorance, and negative forces."
+      },
+      "meaning": {
+        "hi": "मैं माँ कालरात्रि को प्रणाम करता हूँ जो सभी भय का नाश करती हैं।",
+        "en": "I bow to Goddess Kalaratri, who removes all fear and darkness."
+      },
+      "keywords": {
+        "hi": [
+          "कालरात्रि",
+          "सप्तम नवरात्र",
+          "देवी कालरात्रि",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "kalaratri",
+          "seventh navadurga",
+          "goddess kalaratri",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

@@ -166,6 +166,83 @@
         "hi": "जय श्री राम हनुमान",
         "en": "Jai Shri Ram Hanuman"
       }
+    },
+    {
+      "id": "h_marutatmaj",
+      "name": {
+        "hi": "मारुतात्मज",
+        "en": "Marutatmaj"
+      }
+    },
+    {
+      "id": "h_tatvagyana_prada",
+      "name": {
+        "hi": "तत्वज्ञानप्रद",
+        "en": "Tatvagyana Prada"
+      }
+    },
+    {
+      "id": "h_sitashoka_vinashana",
+      "name": {
+        "hi": "सीताशोकविनाशन",
+        "en": "Sitashoka Vinashana"
+      }
+    },
+    {
+      "id": "h_ahiraavana_mardana",
+      "name": {
+        "hi": "अहिरावणमर्दन",
+        "en": "Ahiraavana Mardana"
+      }
+    },
+    {
+      "id": "h_pingalaksha",
+      "name": {
+        "hi": "पिङ्गाक्ष",
+        "en": "Pingalaksha"
+      }
+    },
+    {
+      "id": "h_amita_vikrama",
+      "name": {
+        "hi": "अमितविक्रम",
+        "en": "Amita Vikrama"
+      }
+    },
+    {
+      "id": "h_udhikramana",
+      "name": {
+        "hi": "उदधिक्रमण",
+        "en": "Udhikramana"
+      }
+    },
+    {
+      "id": "h_lankadaha",
+      "name": {
+        "hi": "लङ्कादहन",
+        "en": "Lankadaha"
+      }
+    },
+    {
+      "id": "h_kesarinandan",
+      "name": {
+        "hi": "केसरीनंदन",
+        "en": "Kesarinandan"
+      }
+    },
+    {
+      "id": "h_balaji",
+      "name": {
+        "hi": "बालाजी",
+        "en": "Balaji"
+      }
+    },
+    {
+      "id": "h_kapiresh",
+      "name": {
+        "hi": "कपीश",
+        "en": "Kapish"
+      }
     }
   ]
 }

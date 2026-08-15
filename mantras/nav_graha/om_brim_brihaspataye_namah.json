@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "om_brim_brihaspataye_namah",
+  "category": "nav_graha",
+  "title": {
+    "hi": "ॐ बृं बृहस्पतये नमः",
+    "en": "Om Brim Brihaspataye Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_brim_brihaspataye_namah",
+      "title": {
+        "hi": "ॐ बृं बृहस्पतये नमः",
+        "en": "Om Brim Brihaspataye Namah"
+      },
+      "mantra": {
+        "hi": "ॐ बृं बृहस्पतये नमः॥",
+        "en": "Om Bṛiṁ Bṛhaspataye Namaḥ"
+      },
+      "description": {
+        "hi": "देवगुरु बृहस्पति का प्रसिद्ध बीज मंत्र।",
+        "en": "A popular bija mantra dedicated to Brihaspati."
+      },
+      "meaning": {
+        "hi": "मैं भगवान बृहस्पति को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Brihaspati."
+      },
+      "keywords": {
+        "hi": [
+          "बृं",
+          "बृहस्पति",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "brim",
+          "brihaspati",
+          "beej mantra",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

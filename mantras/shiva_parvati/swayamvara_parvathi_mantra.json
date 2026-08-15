@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "swayamvara_parvathi_mantra",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "स्वयंवर पार्वती मंत्र",
+    "en": "Swayamvara Parvathi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "swayamvara_parvathi_mantra",
+      "title": {
+        "hi": "स्वयंवर पार्वती मंत्र",
+        "en": "Swayamvara Parvathi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं योगिनि योगिनि योगेश्वरि योग भयंकरि सकल स्थावर जंगमस्य मुख हृदयम् मम वशमाकर्षय आकर्षय नमः॥",
+        "en": "Om Hreem Yogini Yogini Yogeswari Yoga Bhayankari Sakala Sthavara Jangamasya Mukha Hridayam Mama Vasham Akarshaya Akarshaya Namah"
+      },
+      "description": {
+        "hi": "विवाह और सुखी वैवाहिक जीवन के लिए शक्तिशाली मंत्र।",
+        "en": "Powerful mantra for marriage and happy married life."
+      },
+      "meaning": {
+        "hi": "हे शिव-पार्वती, मुझ पर कृपा करें।",
+        "en": "O Shiva-Parvati, bless me."
+      },
+      "keywords": {
+        "hi": [
+          "स्वयंवर",
+          "पार्वती"
+        ],
+        "en": [
+          "swayamvara",
+          "parvathi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

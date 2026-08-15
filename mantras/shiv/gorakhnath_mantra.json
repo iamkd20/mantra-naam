@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "gorakhnath_mantra",
   "category": "shiva",
   "title": {
@@ -28,11 +28,21 @@
       "keywords": {
         "hi": [
           "गोरखनाथ",
-          "गोरक्षनाथ"
+          "गोरक्षनाथ",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "गोरखनाथ",
-          "गोरक्षनाथ"
+          "गोरक्षनाथ",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "gorakhnath_mantra.mp3"

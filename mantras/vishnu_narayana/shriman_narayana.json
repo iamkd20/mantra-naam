@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "shriman_narayana",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "श्रीमन नारायण",
+    "en": "Shriman Narayana"
+  },
+  "mantras": [
+    {
+      "id": "shriman_narayana",
+      "title": {
+        "hi": "श्रीमन नारायण",
+        "en": "Shriman Narayana"
+      },
+      "mantra": {
+        "hi": "श्रीमन नारायण नारायण नारायण। हरि हरि॥",
+        "en": "Śrīman Nārāyaṇa Nārāyaṇa Nārāyaṇa Hari Hari"
+      },
+      "description": {
+        "hi": "भगवान श्रीमन नारायण का मधुर नामस्मरण मंत्र। यह भक्ति, शांति एवं ईश्वर के प्रति प्रेम जागृत करने के लिए गाया एवं जपा जाता है।",
+        "en": "A devotional chant glorifying Lord Shriman Narayana, recited for devotion, inner peace, and divine remembrance."
+      },
+      "meaning": {
+        "hi": "हे श्रीमन नारायण! मैं बार-बार आपका स्मरण एवं वंदन करता हूँ।",
+        "en": "O Shriman Narayana, I repeatedly remember and bow to You."
+      },
+      "keywords": {
+        "hi": [
+          "श्रीमन नारायण",
+          "नारायण",
+          "हरि"
+        ],
+        "en": [
+          "shriman narayana",
+          "narayana",
+          "hari",
+          "vishnu"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

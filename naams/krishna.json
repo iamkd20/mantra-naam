@@ -334,6 +334,34 @@
         "hi": "द्वारकाधीश",
         "en": "Dwarkadhisha"
       }
+    },
+    {
+      "id": "kr_mohan",
+      "name": {
+        "hi": "मोहन",
+        "en": "Mohan"
+      }
+    },
+    {
+      "id": "kr_nandanandana",
+      "name": {
+        "hi": "नंदनंदन",
+        "en": "Nandanandana"
+      }
+    },
+    {
+      "id": "kr_laddu_gopal",
+      "name": {
+        "hi": "लड्डू गोपाल",
+        "en": "Laddu Gopal"
+      }
+    },
+    {
+      "id": "kr_thakurji",
+      "name": {
+        "hi": "ठाकुरजी",
+        "en": "Thakurji"
+      }
     }
   ]
 }

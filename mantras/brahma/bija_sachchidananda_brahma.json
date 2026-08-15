@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "id": "bija_sachchidananda_brahma",
+  "category": "brahma",
+  "title": {
+    "hi": "बीज सच्चिदानंद ब्रह्म मंत्र",
+    "en": "Bija Sachchidananda Brahma Mantra"
+  },
+  "mantras": [
+    {
+      "id": "bija_sachchidananda_brahma",
+      "title": {
+        "hi": "बीज सच्चिदानंद ब्रह्म मंत्र",
+        "en": "Bija Sachchidananda Brahma Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ऐं ह्रीं श्रीं क्लीं सौह सच्चिद् एकं ब्रह्मे ॥",
+        "en": "Om Aim Hreem Shreem Kleem Sauh Sachchid Ekam Brahme."
+      },
+      "description": {
+        "hi": "बीज मंत्रों (ऐं, ह्रीं, श्रीं, क्लीं) से युक्त यह ब्रह्म मंत्र अत्यधिक ऊर्जावान है, जो ज्ञान, शक्ति, और सर्वोच्च चेतना को जाग्रत करता है।",
+        "en": "Infused with seed syllables (Aim, Hreem, Shreem, Kleem), this energetic Brahma mantra awakens knowledge, power, and supreme consciousness."
+      },
+      "meaning": {
+        "hi": "ब्रह्म ही एकमात्र सर्वोच्च और परम चेतना है। (बीज मंत्रों की शक्ति के साथ)",
+        "en": "Brahman is the one and only supreme and absolute consciousness (invoked with the power of Bija mantras)."
+      },
+      "keywords": {
+        "hi": [
+          "ऐं ह्रीं श्रीं",
+          "सच्चिद् एकं",
+          "बीज मंत्र",
+          "ब्रह्म",
+          "मंतर",
+          "मन्त्र",
+          "बरम्हा",
+          "ब्रम्हा"
+        ],
+        "en": [
+          "aim hreem shreem",
+          "sachchid ekam",
+          "bija mantra",
+          "brahma",
+          "bija manter",
+          "manter",
+          "bija mntra",
+          "mntra",
+          "bija mantr",
+          "mantr",
+          "bija matra",
+          "matra",
+          "bramha",
+          "brama",
+          "brhma",
+          "om vedatmane vidmahe",
+          "gurur brahma"
+        ]
+      },
+      "audio": "bija_sachchidananda_brahma.mp3"
+    }
+  ]
+}

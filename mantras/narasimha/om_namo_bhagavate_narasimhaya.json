@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_namo_bhagavate_narasimhaya",
   "category": "narasimha",
   "title": {
@@ -33,16 +33,29 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "नृसिंह",
+          "नरसिम्हा",
+          "प्रहलाद",
+          "लक्ष्मीनरसिंह"
         ],
         "en": [
-          "Om Namo Bhagavate Narasimhaya",
           "om namo bhagavate narasimhaya",
           "narasimha",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "narsimha",
+          "nrisimha",
+          "narashimha",
+          "lakshmi narasimha",
+          "prahlada",
+          "ugra"
         ]
       },
       "audio": "om_namo_bhagavate_narasimhaya.mp3"

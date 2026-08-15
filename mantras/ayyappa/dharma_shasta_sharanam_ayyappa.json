@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "dharma_shasta_sharanam_ayyappa",
   "category": "ayyappa",
   "title": {
@@ -30,13 +30,39 @@
           "धर्मशास्ता शरणम् अय्यप्पा",
           "धर्मशास्ता",
           "अय्यप्पा शरणम्",
-          "अय्यप्पा मंत्र"
+          "अय्यप्पा मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
         ],
         "en": [
           "dharma shasta sharanam ayyappa",
           "dharma shasta",
           "ayyappa sharanam",
-          "ayyappa mantra"
+          "ayyappa mantra",
+          "dharma shasta sharanam ayappa",
+          "ayappa",
+          "dharma shasta sharanam ayappaa",
+          "ayappaa",
+          "dharma shasta sharanam aiyappa",
+          "aiyappa",
+          "ayappa sharanam",
+          "ayappaa sharanam",
+          "aiyappa sharanam",
+          "ayyappa manter",
+          "manter",
+          "ayyappa mntra",
+          "mntra",
+          "ayyappa mantr",
+          "mantr",
+          "ayyappa matra",
+          "matra",
+          "ayappa mantra",
+          "ayappaa mantra",
+          "aiyappa mantra",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
         ]
       },
       "audio": "dharma_shasta_sharanam_ayyappa.mp3"

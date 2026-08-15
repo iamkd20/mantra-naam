@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "matangi_mantra",
+  "category": "devi",
+  "title": {
+    "hi": "मातंगी मंत्र",
+    "en": "Matangi Mantra"
+  },
+  "mantras": [
+    {
+      "id": "matangi_mantra",
+      "title": {
+        "hi": "मातंगी मंत्र",
+        "en": "Matangi Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं क्लीं हूं मातंग्यै फट् स्वाहा॥",
+        "en": "Om Hreem Kleem Hoom Matangyai Phat Swaha"
+      },
+      "description": {
+        "hi": "माता मातंगी का मंत्र।",
+        "en": "Mantra of Mother Matangi."
+      },
+      "meaning": {
+        "hi": "माता मातंगी को प्रणाम।",
+        "en": "Salutations to Mother Matangi."
+      },
+      "keywords": {
+        "hi": [
+          "मातंगी",
+          "महाविद्या"
+        ],
+        "en": [
+          "matangi",
+          "mahavidya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

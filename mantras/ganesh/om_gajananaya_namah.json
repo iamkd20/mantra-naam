@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "id": "om_gajananaya_namah",
+  "category": "ganesh",
+  "title": {
+    "hi": "ॐ गजाननाय नमः",
+    "en": "Om Gajananaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_gajananaya_namah",
+      "title": {
+        "hi": "ॐ गजाननाय नमः",
+        "en": "Om Gajananaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ गजाननाय नमः॥",
+        "en": "Om Gajānanāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान गणेश के गजानन स्वरूप का संक्षिप्त एवं पवित्र नाम मंत्र।",
+        "en": "A short sacred mantra dedicated to Lord Ganesha as Gajanana."
+      },
+      "meaning": {
+        "hi": "मैं गजानन भगवान गणेश को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Gajanana."
+      },
+      "keywords": {
+        "hi": [
+          "गजानन",
+          "गणेश",
+          "गजाननाय नमः",
+          "गनेस",
+          "गनपति",
+          "गणपति"
+        ],
+        "en": [
+          "gajanana",
+          "ganesha",
+          "gajananaya namah",
+          "ganes",
+          "gnesh",
+          "ganpati",
+          "ganapati",
+          "ganeshji"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

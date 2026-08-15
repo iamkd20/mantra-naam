@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "om_dram_drim_draum_sah_shukraya_namah",
+  "category": "nav_graha",
+  "title": {
+    "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+    "en": "Om Dram Drim Draum Sah Shukraya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_dram_drim_draum_sah_shukraya_namah",
+      "title": {
+        "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः",
+        "en": "Om Dram Drim Draum Sah Shukraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ द्रां द्रीं द्रौं सः शुक्राय नमः॥",
+        "en": "Om Drāṁ Drīṁ Drauṁ Saḥ Śukrāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान शुक्र का प्रसिद्ध बीज मंत्र, जो समृद्धि, सौभाग्य, दाम्पत्य सुख एवं कलात्मक प्रतिभा के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Shukra, chanted for prosperity, marital harmony, artistic excellence, and good fortune."
+      },
+      "meaning": {
+        "hi": "मैं भगवान शुक्र को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Shukra."
+      },
+      "keywords": {
+        "hi": [
+          "शुक्र",
+          "शुक्र ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "shukra",
+          "venus",
+          "beej mantra",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "vanamali_gadi_sharngi",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "वनमाली गदी शार्ङ्गी",
+    "en": "Vanamali Gadi Sharngi"
+  },
+  "mantras": [
+    {
+      "id": "vanamali_gadi_sharngi",
+      "title": {
+        "hi": "वनमाली गदी शार्ङ्गी",
+        "en": "Vanamali Gadi Sharngi"
+      },
+      "mantra": {
+        "hi": "वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी। श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु॥",
+        "en": "Vanamālī Gadī Śārṅgī Śaṅkhī Cakrī Ca Nandakī Śrīmān Nārāyaṇo Viṣṇur Vāsudevo'bhirakṣatu"
+      },
+      "description": {
+        "hi": "भगवान विष्णु के आयुधों एवं दिव्य स्वरूप का स्मरण कराने वाला प्रसिद्ध रक्षा मंत्र।",
+        "en": "A celebrated protective verse describing Lord Vishnu with His divine weapons."
+      },
+      "meaning": {
+        "hi": "वनमाला धारण करने वाले, गदा, शार्ङ्ग धनुष, शंख, चक्र एवं नन्दक तलवार धारण करने वाले श्री विष्णु हमारी रक्षा करें।",
+        "en": "May Lord Vishnu, adorned with the garland and bearing the mace, bow, conch, discus, and sword, protect us."
+      },
+      "keywords": {
+        "hi": [
+          "वनमाली",
+          "शार्ङ्गी",
+          "वासुदेव"
+        ],
+        "en": [
+          "vanamali",
+          "sharngi",
+          "vasudeva",
+          "vishnu",
+          "narayana"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

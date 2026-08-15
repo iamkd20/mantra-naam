@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "id": "narasimha_moola_mantra",
+  "category": "narasimha",
+  "title": {
+    "hi": "नरसिंह मूल मंत्र",
+    "en": "Narasimha Moola Mantra"
+  },
+  "mantras": [
+    {
+      "id": "narasimha_moola_mantra",
+      "title": {
+        "hi": "नरसिंह मूल मंत्र",
+        "en": "Narasimha Moola Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ क्ष्रौं नमो भगवते नृसिंहाय॥",
+        "en": "Om Kṣrauṁ Namo Bhagavate Nṛsiṁhāya"
+      },
+      "description": {
+        "hi": "भगवान नृसिंह का प्रसिद्ध मूल मंत्र, जो रक्षा एवं आध्यात्मिक शक्ति के लिए जपा जाता है।",
+        "en": "The principal mantra of Lord Narasimha for divine protection and spiritual strength."
+      },
+      "meaning": {
+        "hi": "मैं भगवान नृसिंह को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Narasimha."
+      },
+      "keywords": {
+        "hi": [
+          "नृसिंह",
+          "क्ष्रौं",
+          "मूल मंत्र",
+          "नरसिम्हा",
+          "प्रहलाद",
+          "लक्ष्मीनरसिंह"
+        ],
+        "en": [
+          "narasimha",
+          "kshraum",
+          "moola mantra",
+          "narsimha",
+          "nrisimha",
+          "narashimha",
+          "lakshmi narasimha",
+          "prahlada",
+          "ugra"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

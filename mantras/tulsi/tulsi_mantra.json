@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "tulsi_mantra",
   "category": "tulsi",
   "title": {
@@ -36,13 +36,20 @@
           "भक्ति"
         ],
         "en": [
-          "Tulsi Mantra",
           "tulsi mantra",
           "tulsi",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "tulsi manter",
+          "manter",
+          "tulsi mntra",
+          "mntra",
+          "tulsi mantr",
+          "mantr",
+          "tulsi matra",
+          "matra"
         ]
       },
       "audio": "tulsi_mantra.mp3"

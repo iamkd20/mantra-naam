@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "id": "om_vighneshwaraya_namah",
+  "category": "ganesh",
+  "title": {
+    "hi": "ॐ विघ्नेश्वराय नमः",
+    "en": "Om Vighneshwaraya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_vighneshwaraya_namah",
+      "title": {
+        "hi": "ॐ विघ्नेश्वराय नमः",
+        "en": "Om Vighneshwaraya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ विघ्नेश्वराय नमः॥",
+        "en": "Om Vighneśvarāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान गणेश के विघ्नेश्वर स्वरूप का पवित्र नाम मंत्र, जो सभी बाधाओं को दूर करने के लिए जपा जाता है।",
+        "en": "A sacred mantra dedicated to Lord Ganesha as Vighneshwara, the remover of obstacles."
+      },
+      "meaning": {
+        "hi": "मैं विघ्नों के स्वामी भगवान गणेश को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ganesha, the Lord of obstacles."
+      },
+      "keywords": {
+        "hi": [
+          "विघ्नेश्वर",
+          "गणेश",
+          "विघ्न नाश",
+          "गनेस",
+          "गनपति",
+          "गणपति",
+          "बिघन",
+          "विघन"
+        ],
+        "en": [
+          "vighneshwara",
+          "ganesha",
+          "obstacle remover",
+          "ganes",
+          "gnesh",
+          "ganpati",
+          "ganapati",
+          "ganeshji"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "bagalamukhi_gayatri",
+  "category": "kali",
+  "title": {
+    "hi": "बगलामुखी गायत्री",
+    "en": "Bagalamukhi Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "bagalamukhi_gayatri",
+      "title": {
+        "hi": "बगलामुखी गायत्री",
+        "en": "Bagalamukhi Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ बगलामुख्यै विद्महे स्तम्भिन्यै धीमहि। तन्नो देवी प्रचोदयात्॥",
+        "en": "Om Bagalāmukhyai Vidmahe Stambhinyai Dhīmahi Tanno Devī Pracodayāt"
+      },
+      "description": {
+        "hi": "देवी बगलामुखी का गायत्री मंत्र।",
+        "en": "The Gayatri mantra of Goddess Bagalamukhi."
+      },
+      "meaning": {
+        "hi": "हम देवी बगलामुखी का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Bagalamukhi. May She inspire our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "बगलामुखी गायत्री",
+          "मंतर",
+          "मन्त्र",
+          "काली",
+          "कली"
+        ],
+        "en": [
+          "bagalamukhi gayatri",
+          "om krim kalyai",
+          "om kreem kali"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

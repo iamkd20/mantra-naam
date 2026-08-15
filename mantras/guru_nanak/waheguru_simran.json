@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "waheguru_simran",
   "category": "guru_nanak",
   "title": {
@@ -14,38 +14,35 @@
         "en": "Waheguru Simran"
       },
       "mantra": {
-        "hi": "वाहेगुरु वाहेगुरु ॥",
-        "en": "Waheguru Waheguru."
+        "hi": "वाहेगुरु॥",
+        "en": "Waheguru"
       },
       "description": {
-        "hi": "सिख भक्ति परंपरा में अत्यंत लोकप्रिय नाम-सिमरन।",
-        "en": "A devotional chant associated with Waheguru Simran, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "गुरुमत परंपरा में व्यापक नाम सिमरन।",
+        "en": "A widely practiced Naam Simran in the Sikh tradition."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "अद्भुत है वह परमात्मा, जो अंधकार से प्रकाश की ओर ले जाता है।",
+        "en": "Wondrous is the Supreme Lord who dispels the darkness of ignorance and brings the light of truth."
       },
       "keywords": {
         "hi": [
-          "वाहेगुरु सिमरन",
-          "waheguru simran",
-          "guru_nanak",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "वाहेगुरु",
+          "सिमरन",
+          "वाहे गुरु",
+          "बाहेगुरु",
+          "गुरु"
         ],
         "en": [
-          "Waheguru Simran",
-          "waheguru simran",
-          "guru nanak",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "waheguru",
+          "simran",
+          "sikh",
+          "wahe guru",
+          "waheguroo",
+          "vaheguru"
         ]
       },
-      "audio": "waheguru_simran.mp3"
+      "audio": ""
     }
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "id": "ya_kundendu_tusharahara_dhavala",
+  "category": "saraswati",
+  "title": {
+    "hi": "या कुन्देन्दुतुषारहारधवला",
+    "en": "Ya Kundendu Tusharahara Dhavala"
+  },
+  "mantras": [
+    {
+      "id": "ya_kundendu_tusharahara_dhavala",
+      "title": {
+        "hi": "या कुन्देन्दुतुषारहारधवला",
+        "en": "Ya Kundendu Tusharahara Dhavala"
+      },
+      "mantra": {
+        "hi": "या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता। या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना॥",
+        "en": "Yā Kundendu Tuṣārahāra Dhavalā Yā Śubhravastrāvṛtā Yā Vīṇāvaradaṇḍamaṇḍitakarā Yā Śvetapadmāsanā"
+      },
+      "description": {
+        "hi": "देवी सरस्वती के दिव्य एवं श्वेत स्वरूप का प्रसिद्ध ध्यान श्लोक।",
+        "en": "A famous meditation verse describing the radiant form of Goddess Saraswati."
+      },
+      "meaning": {
+        "hi": "हम श्वेतवस्त्रधारिणी, वीणावादिनी एवं ज्ञानस्वरूपा माता सरस्वती का ध्यान करते हैं।",
+        "en": "We meditate upon Goddess Saraswati, clad in white and holding the veena."
+      },
+      "keywords": {
+        "hi": [
+          "या कुन्देन्दु",
+          "वीणावादिनी",
+          "मंतर",
+          "मन्त्र",
+          "सरसती",
+          "सरस्वती"
+        ],
+        "en": [
+          "ya kundendu",
+          "veena",
+          "ya kundendu tushar",
+          "om aim saraswatyai"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

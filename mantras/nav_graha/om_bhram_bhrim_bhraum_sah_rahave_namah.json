@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "om_bhram_bhrim_bhraum_sah_rahave_namah",
+  "category": "nav_graha",
+  "title": {
+    "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+    "en": "Om Bhram Bhrim Bhraum Sah Rahave Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_bhram_bhrim_bhraum_sah_rahave_namah",
+      "title": {
+        "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः",
+        "en": "Om Bhram Bhrim Bhraum Sah Rahave Namah"
+      },
+      "mantra": {
+        "hi": "ॐ भ्रां भ्रीं भ्रौं सः राहवे नमः॥",
+        "en": "Om Bhrāṁ Bhrīṁ Bhrauṁ Saḥ Rāhave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान राहु का प्रसिद्ध बीज मंत्र, जो ग्रह शांति, बाधा निवारण एवं मानसिक स्थिरता के लिए जपा जाता है।",
+        "en": "A renowned bija mantra of Lord Rahu, chanted for planetary harmony, obstacle removal, and mental stability."
+      },
+      "meaning": {
+        "hi": "मैं भगवान राहु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Rahu."
+      },
+      "keywords": {
+        "hi": [
+          "राहु",
+          "राहु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "rahu",
+          "rahu graha",
+          "beej mantra",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

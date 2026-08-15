@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "om_mahasaraswatyai_namah",
+  "category": "saraswati",
+  "title": {
+    "hi": "ॐ महासरस्वत्यै नमः",
+    "en": "Om Mahasaraswatyai Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_mahasaraswatyai_namah",
+      "title": {
+        "hi": "ॐ महासरस्वत्यै नमः",
+        "en": "Om Mahasaraswatyai Namah"
+      },
+      "mantra": {
+        "hi": "ॐ महासरस्वत्यै नमः॥",
+        "en": "Om Mahāsarasvatyai Namaḥ"
+      },
+      "description": {
+        "hi": "देवी महासरस्वती का सरल एवं प्रभावशाली नाम मंत्र।",
+        "en": "A simple and powerful nama mantra dedicated to Goddess Mahasaraswati."
+      },
+      "meaning": {
+        "hi": "मैं देवी महासरस्वती को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Mahasaraswati."
+      },
+      "keywords": {
+        "hi": [
+          "महासरस्वती",
+          "सरस्वती",
+          "मंतर",
+          "मन्त्र",
+          "सरसती"
+        ],
+        "en": [
+          "mahasaraswati",
+          "saraswati",
+          "sarswati",
+          "sarasvati",
+          "sharaswati",
+          "ya kundendu tushar",
+          "om aim saraswatyai"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

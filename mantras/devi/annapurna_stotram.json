@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "id": "annapurna_stotram",
+  "category": "devi",
+  "title": {
+    "hi": "अन्नपूर्णा मंत्र",
+    "en": "Annapurna Mantra"
+  },
+  "mantras": [
+    {
+      "id": "annapurna_stotram",
+      "title": {
+        "hi": "अन्नपूर्णा मंत्र",
+        "en": "Annapurna Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ ह्रीं नमो भगवति अन्नपूर्णेश्वरी॥",
+        "en": "Om Hreem Namo Bhagavati Annapurneshwari"
+      },
+      "description": {
+        "hi": "माता अन्नपूर्णा का बीज मंत्र।",
+        "en": "Beej mantra of Mother Annapurna."
+      },
+      "meaning": {
+        "hi": "हे अन्नपूर्णेश्वरी माता, मुझे भिक्षा (ज्ञान और अन्न) प्रदान करें।",
+        "en": "O Mother Annapurneshwari, grant me alms (of knowledge and food)."
+      },
+      "keywords": {
+        "hi": [
+          "अन्नपूर्णा"
+        ],
+        "en": [
+          "annapurna"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

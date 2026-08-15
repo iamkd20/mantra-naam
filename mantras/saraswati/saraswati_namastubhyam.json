@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "id": "saraswati_namastubhyam",
+  "category": "saraswati",
+  "title": {
+    "hi": "सरस्वति नमस्तुभ्यं",
+    "en": "Saraswati Namastubhyam"
+  },
+  "mantras": [
+    {
+      "id": "saraswati_namastubhyam",
+      "title": {
+        "hi": "सरस्वति नमस्तुभ्यं",
+        "en": "Saraswati Namastubhyam"
+      },
+      "mantra": {
+        "hi": "सरस्वति नमस्तुभ्यं वरदे कामरूपिणि। विद्यारम्भं करिष्यामि सिद्धिर्भवतु मे सदा॥",
+        "en": "Sarasvati Namastubhyaṁ Varade Kāmarūpiṇi Vidyārambhaṁ Kariṣyāmi Siddhir Bhavatu Me Sadā"
+      },
+      "description": {
+        "hi": "विद्यारम्भ एवं अध्ययन से पहले बोली जाने वाली अत्यंत लोकप्रिय प्रार्थना।",
+        "en": "A popular invocation recited before beginning studies."
+      },
+      "meaning": {
+        "hi": "हे वरदायिनी माता सरस्वती! मैं विद्यारम्भ करता हूँ, कृपया मुझे सदैव सफलता प्रदान करें।",
+        "en": "O Bestower of boons, Goddess Saraswati, may my pursuit of knowledge always be successful."
+      },
+      "keywords": {
+        "hi": [
+          "सरस्वति नमस्तुभ्यं",
+          "विद्यारम्भ",
+          "मंतर",
+          "मन्त्र",
+          "सरसती",
+          "सरस्वती"
+        ],
+        "en": [
+          "saraswati namastubhyam",
+          "vidyarambha",
+          "sarswati namastubhyam",
+          "sarswati",
+          "sarasvati namastubhyam",
+          "sarasvati",
+          "saraswati",
+          "sharaswati namastubhyam",
+          "sharaswati",
+          "rama",
+          "raam",
+          "ya kundendu tushar",
+          "om aim saraswatyai"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

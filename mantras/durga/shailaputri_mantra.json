@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "shailaputri_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "शैलपुत्री मंत्र",
+    "en": "Shailaputri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "shailaputri_mantra",
+      "title": {
+        "hi": "शैलपुत्री मंत्र",
+        "en": "Shailaputri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी शैलपुत्र्यै नमः॥",
+        "en": "Om Devī Śailaputryai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ शैलपुत्री नवदुर्गा का प्रथम स्वरूप हैं। वे स्थिरता, शक्ति और आध्यात्मिक आरम्भ की अधिष्ठात्री हैं।",
+        "en": "Goddess Shailaputri is the first form of Navadurga and represents stability, strength, and spiritual beginnings."
+      },
+      "meaning": {
+        "hi": "मैं पर्वतराज हिमालय की पुत्री माँ शैलपुत्री को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Shailaputri, the daughter of the Himalayas."
+      },
+      "keywords": {
+        "hi": [
+          "शैलपुत्री",
+          "प्रथम नवरात्र",
+          "देवी शैलपुत्री",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "shailaputri",
+          "first navadurga",
+          "goddess shailaputri",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

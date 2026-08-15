@@ -28,13 +28,6 @@
       }
     },
     {
-      "id": "shiva_parvati_uma_mahesh",
-      "name": {
-        "hi": "उमा महेश",
-        "en": "Uma Mahesh"
-      }
-    },
-    {
       "id": "shiva_parvati_shiva_shakti",
       "name": {
         "hi": "शिव शक्ति",
@@ -56,27 +49,6 @@
       }
     },
     {
-      "id": "shiva_parvati_mahadev_parvati",
-      "name": {
-        "hi": "महादेव पार्वती",
-        "en": "Mahadev Parvati"
-      }
-    },
-    {
-      "id": "shiva_parvati_mahadev_gauri",
-      "name": {
-        "hi": "महादेव गौरी",
-        "en": "Mahadev Gauri"
-      }
-    },
-    {
-      "id": "shiva_parvati_shivaya_parvati",
-      "name": {
-        "hi": "शिवाय पार्वती",
-        "en": "Shivaya Parvati"
-      }
-    },
-    {
       "id": "shiva_parvati_bhavani_shankara",
       "name": {
         "hi": "भवानी शंकर",
@@ -88,6 +60,20 @@
       "name": {
         "hi": "अर्धनारीश्वर",
         "en": "Ardhanarishvara"
+      }
+    },
+    {
+      "id": "sp_kameshwar",
+      "name": {
+        "hi": "कामेश्वर",
+        "en": "Kameshwar"
+      }
+    },
+    {
+      "id": "sp_bholenath_parvati",
+      "name": {
+        "hi": "भोलेनाथ पार्वती",
+        "en": "Bholenath Parvati"
       }
     }
   ]

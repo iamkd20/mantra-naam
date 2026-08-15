@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "raghupati_raghava",
+  "category": "sita_ram",
+  "title": {
+    "hi": "रघुपति राघव राजाराम",
+    "en": "Raghupati Raghava Raja Ram"
+  },
+  "mantras": [
+    {
+      "id": "raghupati_raghava",
+      "title": {
+        "hi": "रघुपति राघव राजाराम",
+        "en": "Raghupati Raghava Raja Ram"
+      },
+      "mantra": {
+        "hi": "रघुपति राघव राजाराम, पतित पावन सीताराम॥",
+        "en": "Raghupati Raghava Raja Ram, Patita Pavana Sita Ram"
+      },
+      "description": {
+        "hi": "श्री राम की महिमा का गुणगान।",
+        "en": "Chant glorifying Shri Ram."
+      },
+      "meaning": {
+        "hi": "रघुकुल के स्वामी राजा राम और पावन करने वाली सीता राम की जय हो।",
+        "en": "Glory to Raja Ram of the Raghu clan and the purifying Sita Ram."
+      },
+      "keywords": {
+        "hi": [
+          "रघुपति",
+          "राघव",
+          "सीताराम"
+        ],
+        "en": [
+          "raghupati",
+          "raghava",
+          "sitaram",
+          "sita",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

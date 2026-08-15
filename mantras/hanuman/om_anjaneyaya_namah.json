@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "om_anjaneyaya_namah",
+  "category": "hanuman",
+  "title": {
+    "hi": "ॐ आञ्जनेयाय नमः",
+    "en": "Om Anjaneyaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_anjaneyaya_namah",
+      "title": {
+        "hi": "ॐ आञ्जनेयाय नमः",
+        "en": "Om Anjaneyaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ आञ्जनेयाय नमः॥",
+        "en": "Om Āñjaneyāya Namaḥ"
+      },
+      "description": {
+        "hi": "माता अंजना के पुत्र भगवान हनुमान को समर्पित अत्यंत लोकप्रिय नाम मंत्र।",
+        "en": "A popular mantra dedicated to Lord Hanuman as the son of Mother Anjana."
+      },
+      "meaning": {
+        "hi": "मैं भगवान आञ्जनेय (हनुमान) को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Anjaneya (Hanuman)."
+      },
+      "keywords": {
+        "hi": [
+          "आञ्जनेय",
+          "हनुमान",
+          "आञ्जनेयाय नमः",
+          "हनुमान जी",
+          "हनमान"
+        ],
+        "en": [
+          "anjaneya",
+          "hanuman",
+          "anjaneyaya namah",
+          "hanman",
+          "hanumana",
+          "hanmant",
+          "hanumant"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "chinnamasta_mantra",
+  "category": "devi",
+  "title": {
+    "hi": "छिन्नमस्ता मंत्र",
+    "en": "Chinnamasta Mantra"
+  },
+  "mantras": [
+    {
+      "id": "chinnamasta_mantra",
+      "title": {
+        "hi": "छिन्नमस्ता मंत्र",
+        "en": "Chinnamasta Mantra"
+      },
+      "mantra": {
+        "hi": "श्रीं ह्रीं क्लीं ऐं वज्र वैरोचनीये हुं हुं फट् स्वाहा॥",
+        "en": "Shreem Hreem Kleem Aim Vajra Vairochaniye Hum Hum Phat Swaha"
+      },
+      "description": {
+        "hi": "माता छिन्नमस्ता का उग्र मंत्र।",
+        "en": "Fierce mantra of Mother Chinnamasta."
+      },
+      "meaning": {
+        "hi": "माता छिन्नमस्ता को प्रणाम।",
+        "en": "Salutations to Mother Chinnamasta."
+      },
+      "keywords": {
+        "hi": [
+          "छिन्नमस्ता",
+          "महाविद्या"
+        ],
+        "en": [
+          "chinnamasta",
+          "mahavidya"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

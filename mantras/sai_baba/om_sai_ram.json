@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "om_sai_ram",
   "category": "sai_baba",
   "title": {
@@ -14,38 +14,31 @@
         "en": "Om Sai Ram"
       },
       "mantra": {
-        "hi": "ॐ साईं राम ॥",
-        "en": "Om Sai Ram."
+        "hi": "ॐ साईं राम॥",
+        "en": "Om Sāī Rām"
       },
       "description": {
-        "hi": "साईं बाबा के प्रति प्रेम और श्रद्धा से किया जाने वाला लोकप्रिय नाम-जप।",
-        "en": "A devotional chant associated with Om Sai Ram, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "शिरडी साईं बाबा का अत्यंत लोकप्रिय नाम मंत्र।",
+        "en": "A widely chanted nama mantra dedicated to Shirdi Sai Baba."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "मैं साईं बाबा को प्रणाम करता हूँ।",
+        "en": "I bow to Sai Baba."
       },
       "keywords": {
         "hi": [
-          "ॐ साईं राम",
-          "om sai ram",
-          "sai_baba",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "साईं",
+          "साई राम",
+          "शिरडी"
         ],
         "en": [
-          "Om Sai Ram",
-          "om sai ram",
-          "sai baba",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "sai",
+          "sai ram",
+          "shirdi",
+          "baba"
         ]
       },
-      "audio": "om_sai_ram.mp3"
+      "audio": ""
     }
   ]
 }

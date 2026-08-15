@@ -187,6 +187,27 @@
         "hi": "राधावल्लभ श्री हरिवंश",
         "en": "Radhavallabha Shri Harivansh"
       }
+    },
+    {
+      "id": "radha_krishna_shyama_shyam",
+      "name": {
+        "hi": "श्यामा श्याम",
+        "en": "Shyama Shyam"
+      }
+    },
+    {
+      "id": "radha_krishna_yugal_kishor",
+      "name": {
+        "hi": "युगल किशोर",
+        "en": "Yugal Kishor"
+      }
+    },
+    {
+      "id": "rk_yugal_sarkar",
+      "name": {
+        "hi": "युगल सरकार",
+        "en": "Yugal Sarkar"
+      }
     }
   ]
 }

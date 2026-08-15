@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "id": "vande_padmakaram_lakshmi",
+  "category": "lakshmi",
+  "title": {
+    "hi": "वन्दे पद्मकरां लक्ष्मी",
+    "en": "Vande Padmakaram Lakshmi"
+  },
+  "mantras": [
+    {
+      "id": "vande_padmakaram_lakshmi",
+      "title": {
+        "hi": "वन्दे पद्मकरां लक्ष्मी",
+        "en": "Vande Padmakaram Lakshmi"
+      },
+      "mantra": {
+        "hi": "वन्दे पद्मकरां प्रसन्नवदनां सौभाग्यदां भाग्यदाम्। हस्ताभ्यामभयप्रदां मणिगणैर्नानाविधैर्भूषिताम्॥",
+        "en": "Vande Padmakarāṁ Prasannavadanāṁ Saubhāgyadāṁ Bhāgyadām Hastābhyām Abhayapradāṁ Maṇigaṇair Nānāvidhair Bhūṣitām"
+      },
+      "description": {
+        "hi": "देवी महालक्ष्मी की प्रसिद्ध ध्यान-स्तुति, जिसमें उनके मंगलमय स्वरूप का वर्णन है।",
+        "en": "A celebrated meditation hymn describing the auspicious form of Goddess Mahalakshmi."
+      },
+      "meaning": {
+        "hi": "मैं प्रसन्नमुखी, पद्मधारिणी एवं सौभाग्य प्रदान करने वाली माता लक्ष्मी को प्रणाम करता हूँ।",
+        "en": "I bow to Goddess Lakshmi, who holds the lotus and bestows fortune and fearlessness."
+      },
+      "keywords": {
+        "hi": [
+          "वन्दे पद्मकराम्",
+          "महालक्ष्मी",
+          "सौभाग्य",
+          "मंतर",
+          "मन्त्र",
+          "लछमी",
+          "लक्समी",
+          "लखमी"
+        ],
+        "en": [
+          "vande padmakaram",
+          "mahalakshmi",
+          "fortune",
+          "rama",
+          "raam",
+          "laxmi",
+          "luxmi",
+          "laksmi",
+          "lakhsmi",
+          "om shreem mahalakshmyai",
+          "ya devi sarva bhuteshu lakshmi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

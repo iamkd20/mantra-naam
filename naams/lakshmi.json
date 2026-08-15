@@ -173,6 +173,27 @@
         "hi": "वीर लक्ष्मी",
         "en": "Veera Lakshmi"
       }
+    },
+    {
+      "id": "lakshmi_sri",
+      "name": {
+        "hi": "श्री",
+        "en": "Sri"
+      }
+    },
+    {
+      "id": "lakshmi_narayani",
+      "name": {
+        "hi": "नारायणी",
+        "en": "Narayani"
+      }
+    },
+    {
+      "id": "lakshmi_indira",
+      "name": {
+        "hi": "इन्दिरा",
+        "en": "Indira"
+      }
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "ketu_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "केतु मंत्र",
+    "en": "Ketu Mantra"
+  },
+  "mantras": [
+    {
+      "id": "ketu_mantra",
+      "title": {
+        "hi": "केतु मंत्र",
+        "en": "Ketu Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ स्रां स्रीं स्रौं सः केतवे नमः॥",
+        "en": "Om Srāṁ Srīṁ Srauṁ Saḥ Ketave Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान केतु का प्रसिद्ध वैदिक बीज मंत्र।",
+        "en": "A renowned Vedic bija mantra dedicated to Lord Ketu."
+      },
+      "meaning": {
+        "hi": "मैं भगवान केतु को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Ketu."
+      },
+      "keywords": {
+        "hi": [
+          "केतु",
+          "केतु ग्रह",
+          "बीज मंत्र"
+        ],
+        "en": [
+          "ketu",
+          "ketu graha",
+          "beej mantra",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

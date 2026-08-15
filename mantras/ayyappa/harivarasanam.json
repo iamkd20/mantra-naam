@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "harivarasanam",
+  "category": "ayyappa",
+  "title": {
+    "hi": "हरिवरासनम्",
+    "en": "Harivarasanam"
+  },
+  "mantras": [
+    {
+      "id": "harivarasanam",
+      "title": {
+        "hi": "हरिवरासनम्",
+        "en": "Harivarasanam"
+      },
+      "mantra": {
+        "hi": "हरिवरासनं विश्वमोहनं हरिदधीश्वरं आराध्यपादुकम् । अरिविमर्दनं नित्यनर्तनं हरिहरात्मजं देवमाश्रये ॥",
+        "en": "Harivarasanam Vishwamohanam, Haridadhiswaram Aaradhyapadukam | Arivimardanam Nityanartanam, Hariharatmajam Devamashraye ||"
+      },
+      "description": {
+        "hi": "यह सुप्रसिद्ध स्तोत्र भगवान अय्यप्पा को शयन कराने (निद्रा में सुलाने) के लिए प्रतिदिन सबरीमाला मंदिर में गाया जाता है।",
+        "en": "This famous stotram is traditionally sung at the Sabarimala temple every night to lull Lord Ayyappa to sleep."
+      },
+      "meaning": {
+        "hi": "मैं उन भगवान अय्यप्पा की शरण लेता हूँ, जो हरि (विष्णु) और हर (शिव) के पुत्र हैं, जो विश्व को मोहित करते हैं और शत्रुओं का नाश करते हैं।",
+        "en": "I take refuge in Lord Ayyappa, the son of Hari and Hara, who enchants the universe, destroys enemies, and dances eternally."
+      },
+      "keywords": {
+        "hi": [
+          "हरिवरासनम्",
+          "हरिवरासनं",
+          "सबरीमाला स्तोत्र",
+          "मंतर",
+          "मन्त्र",
+          "अय्यपा",
+          "अयप्पा"
+        ],
+        "en": [
+          "harivarasanam",
+          "harivarasanam vishwamohanam",
+          "sabarimala lullaby",
+          "swamiye sharanam ayyappa",
+          "om swamiye"
+        ]
+      },
+      "audio": "harivarasanam.mp3"
+    }
+  ]
+}

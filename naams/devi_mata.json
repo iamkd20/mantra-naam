@@ -264,6 +264,216 @@
         "hi": "माँ अन्नपूर्णा",
         "en": "Maa Annapurna"
       }
+    },
+    {
+      "id": "nav_durga_shailaputri",
+      "name": {
+        "hi": "शैलपुत्री",
+        "en": "Shailaputri"
+      }
+    },
+    {
+      "id": "nav_durga_brahmacharini",
+      "name": {
+        "hi": "ब्रह्मचारिणी",
+        "en": "Brahmacharini"
+      }
+    },
+    {
+      "id": "nav_durga_chandraghanta",
+      "name": {
+        "hi": "चन्द्रघण्टा",
+        "en": "Chandraghanta"
+      }
+    },
+    {
+      "id": "nav_durga_kushmanda",
+      "name": {
+        "hi": "कूष्माण्डा",
+        "en": "Kushmanda"
+      }
+    },
+    {
+      "id": "nav_durga_skandamata",
+      "name": {
+        "hi": "स्कन्दमाता",
+        "en": "Skandamata"
+      }
+    },
+    {
+      "id": "nav_durga_katyayani",
+      "name": {
+        "hi": "कात्यायनी",
+        "en": "Katyayani"
+      }
+    },
+    {
+      "id": "nav_durga_kalaratri",
+      "name": {
+        "hi": "कालरात्रि",
+        "en": "Kalaratri"
+      }
+    },
+    {
+      "id": "nav_durga_mahagauri",
+      "name": {
+        "hi": "महागौरी",
+        "en": "Mahagauri"
+      }
+    },
+    {
+      "id": "nav_durga_siddhidatri",
+      "name": {
+        "hi": "सिद्धिदात्री",
+        "en": "Siddhidatri"
+      }
+    },
+    {
+      "id": "nav_durga_jai_nav_durga",
+      "name": {
+        "hi": "जय नवदुर्गा",
+        "en": "Jai Nav Durga"
+      }
+    },
+    {
+      "id": "nav_durga_durga_mata",
+      "name": {
+        "hi": "दुर्गा माता",
+        "en": "Durga Mata"
+      }
+    },
+    {
+      "id": "nav_durga_jai_maa_durga",
+      "name": {
+        "hi": "जय माँ दुर्गा",
+        "en": "Jai Maa Durga"
+      }
+    },
+    {
+      "id": "nav_durga_maa_shailaputri",
+      "name": {
+        "hi": "माँ शैलपुत्री",
+        "en": "Maa Shailaputri"
+      }
+    },
+    {
+      "id": "nav_durga_maa_brahmacharini",
+      "name": {
+        "hi": "माँ ब्रह्मचारिणी",
+        "en": "Maa Brahmacharini"
+      }
+    },
+    {
+      "id": "nav_durga_maa_chandraghanta",
+      "name": {
+        "hi": "माँ चन्द्रघण्टा",
+        "en": "Maa Chandraghanta"
+      }
+    },
+    {
+      "id": "nav_durga_maa_kushmanda",
+      "name": {
+        "hi": "माँ कूष्माण्डा",
+        "en": "Maa Kushmanda"
+      }
+    },
+    {
+      "id": "nav_durga_maa_skandamata",
+      "name": {
+        "hi": "माँ स्कन्दमाता",
+        "en": "Maa Skandamata"
+      }
+    },
+    {
+      "id": "nav_durga_maa_katyayani",
+      "name": {
+        "hi": "माँ कात्यायनी",
+        "en": "Maa Katyayani"
+      }
+    },
+    {
+      "id": "nav_durga_maa_kalaratri",
+      "name": {
+        "hi": "माँ कालरात्रि",
+        "en": "Maa Kalaratri"
+      }
+    },
+    {
+      "id": "nav_durga_maa_mahagauri",
+      "name": {
+        "hi": "माँ महागौरी",
+        "en": "Maa Mahagauri"
+      }
+    },
+    {
+      "id": "nav_durga_maa_siddhidatri",
+      "name": {
+        "hi": "माँ सिद्धिदात्री",
+        "en": "Maa Siddhidatri"
+      }
+    },
+    {
+      "id": "devi_lalita",
+      "name": {
+        "hi": "ललिता",
+        "en": "Lalita"
+      }
+    },
+    {
+      "id": "devi_tripura_sundari",
+      "name": {
+        "hi": "त्रिपुर सुंदरी",
+        "en": "Tripura Sundari"
+      }
+    },
+    {
+      "id": "devi_bhuvaneshwari",
+      "name": {
+        "hi": "भुवनेश्वरी",
+        "en": "Bhuvaneshwari"
+      }
+    },
+    {
+      "id": "devi_chinnamasta",
+      "name": {
+        "hi": "छिन्नमस्ता",
+        "en": "Chinnamasta"
+      }
+    },
+    {
+      "id": "devi_tara",
+      "name": {
+        "hi": "तारा",
+        "en": "Tara"
+      }
+    },
+    {
+      "id": "devi_matangi",
+      "name": {
+        "hi": "मातंगी",
+        "en": "Matangi"
+      }
+    },
+    {
+      "id": "devi_kamakhya",
+      "name": {
+        "hi": "कामाख्या",
+        "en": "Kamakhya"
+      }
+    },
+    {
+      "id": "devi_shodashi",
+      "name": {
+        "hi": "षोडशी",
+        "en": "Shodashi"
+      }
+    },
+    {
+      "id": "devi_mahavidya",
+      "name": {
+        "hi": "महाविद्या",
+        "en": "Mahavidya"
+      }
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "id": "ganesha_gayatri",
+  "category": "ganesh",
+  "title": {
+    "hi": "गणेश गायत्री",
+    "en": "Ganesha Gayatri"
+  },
+  "mantras": [
+    {
+      "id": "ganesha_gayatri",
+      "title": {
+        "hi": "गणेश गायत्री",
+        "en": "Ganesha Gayatri"
+      },
+      "mantra": {
+        "hi": "ॐ एकदन्ताय विद्महे वक्रतुण्डाय धीमहि। तन्नो दन्तिः प्रचोदयात्॥",
+        "en": "Om Ekadantāya Vidmahe Vakratuṇḍāya Dhīmahi Tanno Dantiḥ Pracodayāt"
+      },
+      "description": {
+        "hi": "भगवान गणेश की कृपा, बुद्धि एवं विघ्नों की निवृत्ति हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Lord Ganesha for wisdom and removal of obstacles."
+      },
+      "meaning": {
+        "hi": "हम एकदन्त भगवान गणेश का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Ekadanta. May He enlighten our intellect."
+      },
+      "keywords": {
+        "hi": [
+          "गणेश गायत्री",
+          "एकदन्त",
+          "वक्रतुण्ड",
+          "गनेस",
+          "गनपति",
+          "गणपति",
+          "वक्रतुंड",
+          "बक्रतुंड"
+        ],
+        "en": [
+          "ganesha gayatri",
+          "ekadanta",
+          "vakratunda",
+          "ganes",
+          "ganesha",
+          "gnesh",
+          "ganpati",
+          "ganapati",
+          "ganeshji",
+          "vakartunda",
+          "vakra tunda"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

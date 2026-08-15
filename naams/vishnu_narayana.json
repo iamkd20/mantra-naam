@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "names": [
+    {
+      "id": "v_vishnu",
+      "name": {
+        "hi": "विष्णु",
+        "en": "Vishnu"
+      }
+    },
+    {
+      "id": "v_narayana",
+      "name": {
+        "hi": "नारायण",
+        "en": "Narayana"
+      }
+    },
+    {
+      "id": "v_hari",
+      "name": {
+        "hi": "हरि",
+        "en": "Hari"
+      }
+    },
+    {
+      "id": "v_keshava",
+      "name": {
+        "hi": "केशव",
+        "en": "Keshava"
+      }
+    },
+    {
+      "id": "v_madhava",
+      "name": {
+        "hi": "माधव",
+        "en": "Madhava"
+      }
+    },
+    {
+      "id": "v_govinda",
+      "name": {
+        "hi": "गोविन्द",
+        "en": "Govinda"
+      }
+    },
+    {
+      "id": "v_padmanabha",
+      "name": {
+        "hi": "पद्मनाभ",
+        "en": "Padmanabha"
+      }
+    },
+    {
+      "id": "v_damodara",
+      "name": {
+        "hi": "दामोदर",
+        "en": "Damodara"
+      }
+    },
+    {
+      "id": "v_mukunda",
+      "name": {
+        "hi": "मुकुंद",
+        "en": "Mukunda"
+      }
+    },
+    {
+      "id": "v_janardana",
+      "name": {
+        "hi": "जनार्दन",
+        "en": "Janardana"
+      }
+    }
+  ]
+}

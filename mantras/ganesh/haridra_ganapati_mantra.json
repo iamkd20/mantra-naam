@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "haridra_ganapati_mantra",
+  "category": "ganesh",
+  "title": {
+    "hi": "हरिद्रा गणपति मंत्र",
+    "en": "Haridra Ganapati Mantra"
+  },
+  "mantras": [
+    {
+      "id": "haridra_ganapati_mantra",
+      "title": {
+        "hi": "हरिद्रा गणपति मंत्र",
+        "en": "Haridra Ganapati Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ हुं गं ग्लौं हरिद्रा गणपतये वर वरद सर्वजनहृदयं स्तम्भय स्तम्भय स्वाहा॥",
+        "en": "Om Huṁ Gaṁ Glauṁ Haridrā Gaṇapataye Vara Varada Sarvajanahṛdayaṁ Stambhaya Stambhaya Svāhā"
+      },
+      "description": {
+        "hi": "हरिद्रा (हल्दी) गणपति का तांत्रिक मंत्र, जो विशेष साधना एवं सिद्धि में प्रयुक्त होता है।",
+        "en": "A Tantric mantra of Haridra Ganapati used in specialized spiritual practices."
+      },
+      "meaning": {
+        "hi": "हे हरिद्रा गणपति! मुझे सफलता एवं अपनी कृपा प्रदान करें।",
+        "en": "O Haridra Ganapati, bless me with success and Your divine grace."
+      },
+      "keywords": {
+        "hi": [
+          "हरिद्रा गणपति",
+          "ग्लौं",
+          "गं"
+        ],
+        "en": [
+          "haridra ganapati",
+          "glaum",
+          "gam"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

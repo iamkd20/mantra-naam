@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "parvati_shiva_namah",
   "category": "shiva_parvati",
   "title": {
@@ -30,13 +30,43 @@
           "पार्वती शिव मंत्र",
           "ॐ पार्वत्यै नमः",
           "ॐ शिवाय नमः",
-          "शिव पार्वती"
+          "शिव पार्वती",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
         ],
         "en": [
-          "Parvati Shiva Mantra",
-          "Om Parvatyai Namah",
-          "Om Shivaya Namah",
-          "Shiva Parvati"
+          "parvati shiva mantra",
+          "om parvatyai namah",
+          "om shivaya namah",
+          "shiva parvati",
+          "parvati siva mantra",
+          "siva",
+          "parvati shiv mantra",
+          "shiv",
+          "parvati shib mantra",
+          "shib",
+          "parvati siwa mantra",
+          "siwa",
+          "parvati shiva manter",
+          "manter",
+          "parvati shiva mntra",
+          "mntra",
+          "parvati shiva mantr",
+          "mantr",
+          "parvati shiva matra",
+          "matra",
+          "parvati",
+          "parbati shiva mantra",
+          "parbati",
+          "siva parvati",
+          "shiv parvati",
+          "shib parvati",
+          "siwa parvati",
+          "shiva parbati",
+          "om namah shivay",
+          "har har mahadev"
         ]
       },
       "audio": "parvati_shiva_namah.mp3"

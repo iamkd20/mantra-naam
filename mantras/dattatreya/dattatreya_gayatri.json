@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "dattatreya_gayatri",
   "category": "dattatreya",
   "title": {
@@ -14,38 +14,28 @@
         "en": "Dattatreya Gayatri Mantra"
       },
       "mantra": {
-        "hi": "ॐ दत्तात्रेयाय विद्महे अवधूताय धीमहि । तन्नो दत्तः प्रचोदयात् ॥",
-        "en": "Om Dattatreyaya Vidmahe Avadhutaya Dhimahi. Tanno Dattah Prachodayat."
+        "hi": "ॐ दिगंबराय विद्महे योगीशराय धीमहि। तन्नो दत्तः प्रचोदयात्॥",
+        "en": "Om Digambaraya Vidmahe Yogishwaraya Dhimahi Tanno Dattah Prachodayat"
       },
       "description": {
-        "hi": "दत्तात्रेय के गुरु और अवधूत स्वरूप के ध्यान हेतु प्रचलित गायत्री शैली का मंत्र।",
-        "en": "A devotional chant associated with Dattatreya Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान दत्तात्रेय का गायत्री मंत्र।",
+        "en": "Gayatri mantra of Lord Dattatreya."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम दिगंबर को जानते हैं, योगीश्वर का ध्यान करते हैं, वह दत्त हमें प्रेरित करें।",
+        "en": "We know Digambara, meditate on Yogishwara, may Dattatreya inspire us."
       },
       "keywords": {
         "hi": [
-          "दत्तात्रेय गायत्री मंत्र",
-          "dattatreya gayatri",
-          "dattatreya",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "गायत्री",
+          "दत्तात्रेय"
         ],
         "en": [
-          "Dattatreya Gayatri Mantra",
-          "dattatreya gayatri",
-          "dattatreya",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "gayatri",
+          "dattatreya"
         ]
       },
-      "audio": "dattatreya_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

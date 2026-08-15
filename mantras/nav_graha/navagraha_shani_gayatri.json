@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "navagraha_shani_gayatri",
   "category": "nav_graha",
   "title": {
@@ -36,13 +36,27 @@
           "भक्ति"
         ],
         "en": [
-          "Shani Gayatri Mantra",
+          "shani gayatri mantra",
           "navagraha shani gayatri",
           "nav graha",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "shani gayatri manter",
+          "manter",
+          "shani gayatri mntra",
+          "mntra",
+          "shani gayatri mantr",
+          "mantr",
+          "shani gayatri matra",
+          "matra",
+          "sani gayatri mantra",
+          "sani",
+          "shanee gayatri mantra",
+          "shanee",
+          "navagraha sani gayatri",
+          "navagraha shanee gayatri"
         ]
       },
       "audio": "navagraha_shani_gayatri.mp3"

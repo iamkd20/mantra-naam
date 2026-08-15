@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "brahma_gayatri",
   "category": "brahma",
   "title": {
@@ -14,16 +14,16 @@
         "en": "Brahma Gayatri Mantra"
       },
       "mantra": {
-        "hi": "ॐ चतुर्मुखाय विद्महे हंसारूढाय धीमहि । तन्नो ब्रह्मा प्रचोदयात् ॥",
-        "en": "Om Chaturmukhaya Vidmahe Hamsarudhaya Dhimahi. Tanno Brahma Prachodayat."
+        "hi": "ॐ वेदात्मने च विद्महे हिरण्यगर्भाय धीमहि । तन्नो ब्रह्मा प्रचोदयात् ॥\n\nॐ चतुर्मुखाय विद्महे कमण्डलुधराय धीमहि । तन्नो ब्रह्मा प्रचोदयात् ॥",
+        "en": "Om Vedatmane Cha Vidmahe Hiranyagarbhaya Dhimahi Tanno Brahma Prachodayat. \n\nOm Chaturmukhaya Vidmahe Kamandaludharaya Dhimahi Tanno Brahma Prachodayat. "
       },
       "description": {
         "hi": "सृष्टिकर्ता ब्रह्मा के ज्ञान और सृजन के प्रतीकात्मक स्वरूप का ध्यान।",
         "en": "A devotional chant associated with Brahma Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "ॐ, हम वेदों की आत्मा को जानने का प्रयास करें, और हिरण्यगर्भ का ध्यान करें। वह भगवान ब्रह्मा हमारी बुद्धि को प्रबुद्ध करें। \nॐ, हम चार मुखों वाले ईश्वर को जानने का प्रयास करें, और कमंडल धारण करने वाले देव का ध्यान करें। वह भगवान ब्रह्मा हमारी बुद्धि को प्रबुद्ध करें। ",
+        "en": "Om, let us seek to know the Soul of the Vedas, and meditate on the Golden Womb. May Lord Brahma illuminate our intellect. \nOm, let us seek to know the four-faced God, and meditate on the deity holding the Kamandalu. May Lord Brahma illuminate our intellect."
       },
       "keywords": {
         "hi": [
@@ -33,16 +33,48 @@
           "मंत्र",
           "जप",
           "ध्यान",
-          "भक्ति"
+          "भक्ति",
+          "संपूर्ण ब्रह्मा गायत्री",
+          "वेदात्मने",
+          "कमण्डलुधराय",
+          "मंतर",
+          "मन्त्र",
+          "बरम्हा",
+          "ब्रम्हा"
         ],
         "en": [
-          "Brahma Gayatri Mantra",
+          "brahma gayatri mantra",
           "brahma gayatri",
           "brahma",
           "mantra",
           "japa",
           "meditation",
-          "devotion"
+          "devotion",
+          "sampoorna brahma gayatri",
+          "vedatmane",
+          "kamandaludharaya",
+          "bramha gayatri mantra",
+          "bramha",
+          "brama gayatri mantra",
+          "brama",
+          "brhma gayatri mantra",
+          "brhma",
+          "brahma gayatri manter",
+          "manter",
+          "brahma gayatri mntra",
+          "mntra",
+          "brahma gayatri mantr",
+          "mantr",
+          "brahma gayatri matra",
+          "matra",
+          "bramha gayatri",
+          "brama gayatri",
+          "brhma gayatri",
+          "sampoorna bramha gayatri",
+          "sampoorna brama gayatri",
+          "sampoorna brhma gayatri",
+          "om vedatmane vidmahe",
+          "gurur brahma"
         ]
       },
       "audio": "brahma_gayatri.mp3"

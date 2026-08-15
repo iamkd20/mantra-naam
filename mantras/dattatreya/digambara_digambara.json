@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "id": "digambara_digambara",
+  "category": "dattatreya",
+  "title": {
+    "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा",
+    "en": "Digambara Digambara"
+  },
+  "mantras": [
+    {
+      "id": "digambara_digambara",
+      "title": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा",
+        "en": "Digambara Digambara"
+      },
+      "mantra": {
+        "hi": "दिगंबरा दिगंबरा श्रीपाद वल्लभ दिगंबरा॥",
+        "en": "Digambarā Digambarā Śrīpāda Vallabha Digambarā"
+      },
+      "description": {
+        "hi": "श्रीपाद श्रीवल्लभ भगवान दत्तात्रेय की अत्यंत लोकप्रिय स्तुति।",
+        "en": "A famous devotional chant dedicated to Sripada Srivallabha, an incarnation of Lord Dattatreya."
+      },
+      "meaning": {
+        "hi": "हे दिगंबर स्वरूप श्रीपाद श्रीवल्लभ! आपको बार-बार प्रणाम।",
+        "en": "Salutations again and again to the divine Digambara Sripada Srivallabha."
+      },
+      "keywords": {
+        "hi": [
+          "दिगंबरा",
+          "श्रीपाद",
+          "वल्लभ",
+          "मंतर",
+          "मन्त्र",
+          "दतात्रेय",
+          "दत्तात्रे"
+        ],
+        "en": [
+          "digambara",
+          "sripada",
+          "vallabha",
+          "om dram dattatreyaya",
+          "digambara digambara"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

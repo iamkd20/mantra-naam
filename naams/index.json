@@ -13,9 +13,96 @@
         "महादेव",
         "भोलेनाथ",
         "शंकर",
-        "Mahadev",
-        "Bholenath",
-        "Shankar"
+        "mahadev",
+        "bholenath",
+        "shankar",
+        "shiva",
+        "siva",
+        "shiv",
+        "shib",
+        "siwa"
+      ]
+    },
+    {
+      "id": "shiva_parvati",
+      "name": {
+        "hi": "शिव पार्वती",
+        "en": "Shiva Parvati"
+      },
+      "file": "shiva_parvati.json",
+      "aliases": [
+        "shiva parvati",
+        "siva parvati",
+        "siva",
+        "shiv parvati",
+        "shiv",
+        "shib parvati",
+        "shib",
+        "siwa parvati",
+        "siwa",
+        "parvati",
+        "shiva parbati",
+        "parbati"
+      ]
+    },
+    {
+      "id": "durga",
+      "name": {
+        "hi": "माँ दुर्गा",
+        "en": "Maa Durga"
+      },
+      "image": "placeholder_durga.jpg",
+      "aliases": [
+        "Durga",
+        "Nav Durga",
+        "Maa Durga",
+        "दुर्गा"
+      ],
+      "file": "durga.json"
+    },
+    {
+      "id": "ayyappa",
+      "name": {
+        "hi": "अय्यप्पा",
+        "en": "Ayyappa"
+      },
+      "file": "ayyappa.json",
+      "aliases": [
+        "स्वामी अय्यप्पा",
+        "शरणम् अय्यप्पा",
+        "swami ayyappa",
+        "sharanam ayyappa",
+        "ayyappa",
+        "swami ayappa",
+        "ayappa",
+        "swami ayappaa",
+        "ayappaa",
+        "swami aiyappa",
+        "aiyappa",
+        "sharanam ayappa",
+        "sharanam ayappaa",
+        "sharanam aiyappa"
+      ]
+    },
+    {
+      "id": "brahma",
+      "name": {
+        "hi": "ब्रह्मा",
+        "en": "Brahma"
+      },
+      "file": "brahma.json",
+      "aliases": [
+        "ब्रह्मा देव",
+        "प्रजापति",
+        "brahma deva",
+        "prajapati",
+        "brahma",
+        "bramha deva",
+        "bramha",
+        "brama deva",
+        "brama",
+        "brhma deva",
+        "brhma"
       ]
     },
     {
@@ -24,7 +111,12 @@
         "hi": "राम",
         "en": "Ram"
       },
-      "file": "ram.json"
+      "file": "ram.json",
+      "aliases": [
+        "ram",
+        "rama",
+        "raam"
+      ]
     },
     {
       "id": "krishna",
@@ -38,10 +130,16 @@
         "कन्हैया",
         "लड्डू गोपाल",
         "बांके बिहारी",
-        "Kanha",
-        "Kanhaiya",
-        "Laddu Gopal",
-        "Banke Bihari"
+        "kanha",
+        "kanhaiya",
+        "laddu gopal",
+        "banke bihari",
+        "krishna",
+        "krisna",
+        "krishan",
+        "kishan",
+        "krishn",
+        "kirshna"
       ]
     },
     {
@@ -54,8 +152,12 @@
       "aliases": [
         "बजरंगबली",
         "संकट मोचन",
-        "Bajrangbali",
-        "Sankat Mochan"
+        "bajrangbali",
+        "sankat mochan",
+        "hanuman",
+        "hanumann",
+        "hanman",
+        "hanumanji"
       ]
     },
     {
@@ -64,7 +166,12 @@
         "hi": "राधा",
         "en": "Radha"
       },
-      "file": "radha.json"
+      "file": "radha.json",
+      "aliases": [
+        "radha",
+        "radhe",
+        "radhika"
+      ]
     },
     {
       "id": "sita_ram",
@@ -72,7 +179,18 @@
         "hi": "सीता राम",
         "en": "Sita Ram"
       },
-      "file": "sita_ram.json"
+      "file": "sita_ram.json",
+      "aliases": [
+        "sita ram",
+        "sita rama",
+        "rama",
+        "sita raam",
+        "raam",
+        "seeta ram",
+        "seeta",
+        "siya ram",
+        "siya"
+      ]
     },
     {
       "id": "radha_krishna",
@@ -80,7 +198,24 @@
         "hi": "राधा कृष्ण",
         "en": "Radha Krishna"
       },
-      "file": "radha_krishna.json"
+      "file": "radha_krishna.json",
+      "aliases": [
+        "radha krishna",
+        "radha krisna",
+        "krisna",
+        "radha krishan",
+        "krishan",
+        "radha kishan",
+        "kishan",
+        "radha krishn",
+        "krishn",
+        "radha kirshna",
+        "kirshna",
+        "radhe krishna",
+        "radhe",
+        "radhika krishna",
+        "radhika"
+      ]
     },
     {
       "id": "ganesh",
@@ -92,22 +227,39 @@
       "aliases": [
         "गणपति",
         "गणपति बप्पा",
-        "Ganpati",
-        "Ganpati Bappa"
+        "ganpati",
+        "ganpati bappa",
+        "ganesh",
+        "ganesha",
+        "gnesh",
+        "ganapati",
+        "ganeshji"
       ]
     },
     {
       "id": "devi",
       "name": {
-        "hi": "देवी माता",
-        "en": "Devi Mata"
+        "hi": "देवी माता / दुर्गा",
+        "en": "Devi Mata / Durga"
       },
       "file": "devi_mata.json",
       "aliases": [
         "माता रानी",
         "जगदम्बा",
-        "Mata Rani",
-        "Jagdamba"
+        "mata rani",
+        "jagdamba",
+        "nav durga",
+        "नवदुर्गा",
+        "devi mata / durga",
+        "nav durge",
+        "durge",
+        "nav doorga",
+        "doorga",
+        "nav durgga",
+        "durgga",
+        "devi mata / durge",
+        "devi mata / doorga",
+        "devi mata / durgga"
       ]
     },
     {
@@ -121,9 +273,18 @@
         "विष्णु",
         "श्री हरि",
         "हरि",
-        "Vishnu",
-        "Shri Hari",
-        "Hari"
+        "vishnu",
+        "shri hari",
+        "hari",
+        "vishnu narayana",
+        "visnu",
+        "bishnu",
+        "visnu narayana",
+        "bishnu narayana",
+        "vishnu narayan",
+        "narayan",
+        "vishnu narain",
+        "narain"
       ]
     },
     {
@@ -132,7 +293,14 @@
         "hi": "लक्ष्मी",
         "en": "Lakshmi"
       },
-      "file": "lakshmi.json"
+      "file": "lakshmi.json",
+      "aliases": [
+        "lakshmi",
+        "laxmi",
+        "luxmi",
+        "laksmi",
+        "lakhsmi"
+      ]
     },
     {
       "id": "swami_samarth",
@@ -140,7 +308,10 @@
         "hi": "स्वामी समर्थ",
         "en": "Swami Samarth"
       },
-      "file": "swami_samarth.json"
+      "file": "swami_samarth.json",
+      "aliases": [
+        "Swami Samarth"
+      ]
     },
     {
       "id": "dattatreya",
@@ -148,7 +319,13 @@
         "hi": "दत्तात्रेय",
         "en": "Dattatreya"
       },
-      "file": "dattatreya.json"
+      "file": "dattatreya.json",
+      "aliases": [
+        "dattatreya",
+        "datatreya",
+        "datta",
+        "dattatrey"
+      ]
     },
     {
       "id": "khatu_shyam",
@@ -161,7 +338,8 @@
         "श्याम बाबा",
         "श्याम जी",
         "Shyam Baba",
-        "Shyam Ji"
+        "Shyam Ji",
+        "Khatu Shyam"
       ]
     },
     {
@@ -175,7 +353,8 @@
         "विठोबा",
         "पांडुरंग",
         "Vithoba",
-        "Pandurang"
+        "Pandurang",
+        "Vitthal"
       ]
     },
     {
@@ -189,7 +368,8 @@
         "जगन्नाथ जी",
         "पुरी जगन्नाथ",
         "Jagannath Ji",
-        "Puri Jagannath"
+        "Puri Jagannath",
+        "Jagannatha"
       ]
     },
     {
@@ -205,7 +385,8 @@
         "गोविंदा",
         "Balaji",
         "Tirupati Balaji",
-        "Govinda"
+        "Govinda",
+        "Venkatesh Srinivasa"
       ]
     },
     {
@@ -214,23 +395,10 @@
         "hi": "नरसिंह",
         "en": "Narasimha"
       },
-      "file": "narasimha.json"
-    },
-    {
-      "id": "shiva_parvati",
-      "name": {
-        "hi": "शिव पार्वती",
-        "en": "Shiva Parvati"
-      },
-      "file": "shiva_parvati.json"
-    },
-    {
-      "id": "nav_durga",
-      "name": {
-        "hi": "नवदुर्गा",
-        "en": "Nav Durga"
-      },
-      "file": "nav_durga.json"
+      "file": "narasimha.json",
+      "aliases": [
+        "Narasimha"
+      ]
     },
     {
       "id": "nav_graha",
@@ -238,7 +406,10 @@
         "hi": "नवग्रह",
         "en": "Nav Graha"
       },
-      "file": "nav_graha.json"
+      "file": "nav_graha.json",
+      "aliases": [
+        "Nav Graha"
+      ]
     },
     {
       "id": "guru",
@@ -246,7 +417,10 @@
         "hi": "गुरु",
         "en": "Guru"
       },
-      "file": "guru.json"
+      "file": "guru.json",
+      "aliases": [
+        "Guru"
+      ]
     },
     {
       "id": "saraswati",
@@ -259,9 +433,16 @@
         "माँ सरस्वती",
         "शारदा",
         "विद्या देवी",
-        "Maa Saraswati",
-        "Sharada",
-        "Vidyadevi"
+        "maa saraswati",
+        "sharada",
+        "vidyadevi",
+        "saraswati",
+        "maa sarswati",
+        "sarswati",
+        "maa sarasvati",
+        "sarasvati",
+        "maa sharaswati",
+        "sharaswati"
       ]
     },
     {
@@ -275,9 +456,14 @@
         "साईं नाथ",
         "शिरडी साईं",
         "ॐ साईं राम",
-        "Sai Nath",
-        "Shirdi Sai",
-        "Om Sai Ram"
+        "sai nath",
+        "shirdi sai",
+        "om sai ram",
+        "sai baba",
+        "om sai rama",
+        "rama",
+        "om sai raam",
+        "raam"
       ]
     },
     {
@@ -290,9 +476,13 @@
       "aliases": [
         "महाकाली",
         "कालिका",
-        "Maa Kali",
-        "Mahakali",
-        "Kalika"
+        "maa kali",
+        "mahakali",
+        "kalika",
+        "maa kaali",
+        "kaali",
+        "maa kalli",
+        "kalli"
       ]
     },
     {
@@ -308,7 +498,8 @@
         "माता रानी",
         "Vaishnavi",
         "Jai Mata Di",
-        "Mata Rani"
+        "Mata Rani",
+        "Maa Vaishno Devi"
       ]
     },
     {
@@ -322,23 +513,12 @@
         "मुरुगन",
         "स्कन्द",
         "सुब्रह्मण्य",
-        "Murugan",
-        "Skanda",
-        "Subramanya"
-      ]
-    },
-    {
-      "id": "ayyappa",
-      "name": {
-        "hi": "अय्यप्पा",
-        "en": "Ayyappa"
-      },
-      "file": "ayyappa.json",
-      "aliases": [
-        "स्वामी अय्यप्पा",
-        "शरणम् अय्यप्पा",
-        "Swami Ayyappa",
-        "Sharanam Ayyappa"
+        "murugan",
+        "skanda",
+        "subramanya",
+        "kartikeya / murugan",
+        "rama",
+        "raam"
       ]
     },
     {
@@ -354,7 +534,8 @@
         "रवि",
         "Aditya",
         "Bhaskar",
-        "Ravi"
+        "Ravi",
+        "Surya Dev"
       ]
     },
     {
@@ -367,8 +548,13 @@
       "aliases": [
         "शनिदेव",
         "शनैश्चर",
-        "Shanidev",
-        "Shanaishchara"
+        "shanidev",
+        "shanaishchara",
+        "shani dev",
+        "sani",
+        "shanee",
+        "sani dev",
+        "shanee dev"
       ]
     },
     {
@@ -380,7 +566,8 @@
       "file": "santoshi_mata.json",
       "aliases": [
         "माँ संतोषी",
-        "Maa Santoshi"
+        "Maa Santoshi",
+        "Santoshi Mata"
       ]
     },
     {
@@ -398,20 +585,6 @@
       ]
     },
     {
-      "id": "brahma",
-      "name": {
-        "hi": "ब्रह्मा",
-        "en": "Brahma"
-      },
-      "file": "brahma.json",
-      "aliases": [
-        "ब्रह्मा देव",
-        "प्रजापति",
-        "Brahma Deva",
-        "Prajapati"
-      ]
-    },
-    {
       "id": "gayatri",
       "name": {
         "hi": "गायत्री माता",
@@ -423,7 +596,8 @@
         "माँ गायत्री",
         "Gayatri",
         "Maa Gayatri",
-        "Ved Mata"
+        "Ved Mata",
+        "Gayatri Mata"
       ]
     },
     {
@@ -438,7 +612,8 @@
         "वर्धमान",
         "वीर प्रभु",
         "Mahavir",
-        "Vardhaman"
+        "Vardhaman",
+        "Mahavir Swami"
       ]
     },
     {
@@ -454,7 +629,36 @@
         "नानक नाम",
         "Waheguru",
         "Guru Nanak",
-        "Nanak"
+        "Nanak",
+        "Guru Nanak Dev Ji"
+      ]
+    },
+    {
+      "id": "ganga",
+      "name": {
+        "hi": "गंगा माता",
+        "en": "Ganga Mata"
+      },
+      "file": "ganga/index.json",
+      "aliases": [
+        "ganga",
+        "ganges",
+        "bhagirathi",
+        "jahnavi"
+      ]
+    },
+    {
+      "id": "kuber",
+      "name": {
+        "hi": "कुबेर देव",
+        "en": "Kuber Dev"
+      },
+      "file": "kuber/index.json",
+      "aliases": [
+        "kuber",
+        "kubera",
+        "kuberan",
+        "dhanapati"
       ]
     }
   ],

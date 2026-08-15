@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "id": "om_sachchidekam_brahma",
+  "category": "brahma",
+  "title": {
+    "hi": "ॐ सच्चिदेकम ब्रह्म",
+    "en": "Om Sachchidekam Brahma"
+  },
+  "mantras": [
+    {
+      "id": "om_sachchidekam_brahma",
+      "title": {
+        "hi": "ॐ सच्चिदेकम ब्रह्म",
+        "en": "Om Sachchidekam Brahma"
+      },
+      "mantra": {
+        "hi": "ॐ सच्चिदेकं ब्रह्म ॥",
+        "en": "Om Sachchidekam Brahma."
+      },
+      "description": {
+        "hi": "ब्रह्म (परमेश्वर) को एकमात्र सत्य और परम चेतना के रूप में स्मरण करने वाला अत्यंत शक्तिशाली और सरल मंत्र।",
+        "en": "A powerful and simple mantra that invokes Brahman as the one and only supreme truth and consciousness."
+      },
+      "meaning": {
+        "hi": "ब्रह्म ही एकमात्र सर्वोच्च और परम चेतना है।",
+        "en": "Brahman is the one and only supreme and absolute consciousness."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ सच्चिदेकम ब्रह्म",
+          "सच्चिदानंद",
+          "ब्रह्म मंत्र",
+          "मंतर",
+          "मन्त्र",
+          "बरम्हा",
+          "ब्रम्हा"
+        ],
+        "en": [
+          "om sachchidekam brahma",
+          "sachchidananda",
+          "brahma mantra",
+          "om sachchidekam bramha",
+          "bramha",
+          "om sachchidekam brama",
+          "brama",
+          "om sachchidekam brhma",
+          "brhma",
+          "bramha mantra",
+          "brama mantra",
+          "brhma mantra",
+          "brahma manter",
+          "manter",
+          "brahma mntra",
+          "mntra",
+          "brahma mantr",
+          "mantr",
+          "brahma matra",
+          "matra",
+          "om vedatmane vidmahe",
+          "gurur brahma"
+        ]
+      },
+      "audio": "om_sachchidekam_brahma.mp3"
+    }
+  ]
+}

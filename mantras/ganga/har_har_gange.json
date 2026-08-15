@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "har_har_gange",
+  "category": "ganga",
+  "title": {
+    "hi": "हर हर गंगे",
+    "en": "Har Har Gange"
+  },
+  "mantras": [
+    {
+      "id": "har_har_gange",
+      "title": {
+        "hi": "हर हर गंगे",
+        "en": "Har Har Gange"
+      },
+      "mantra": {
+        "hi": "हर हर गंगे, जय माँ गंगे।",
+        "en": "Har Har Gange, Jai Maa Gange."
+      },
+      "description": {
+        "hi": "गंगा माता का जयकारा।",
+        "en": "Chant for Goddess Ganga."
+      },
+      "meaning": {
+        "hi": "मैं पतित पावनी माँ गंगा को प्रणाम करता हूँ।",
+        "en": "I bow to the purifying Mother Ganga."
+      },
+      "keywords": {
+        "hi": [
+          "गंगा",
+          "गंगे",
+          "हर हर गंगे"
+        ],
+        "en": [
+          "ganga",
+          "gange",
+          "har har gange",
+          "ganges",
+          "bhagirathi"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

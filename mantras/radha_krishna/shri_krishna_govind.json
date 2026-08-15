@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "shri_krishna_govind",
+  "category": "radha_krishna",
+  "title": {
+    "hi": "श्री कृष्ण गोविंद हरे मुरारी",
+    "en": "Shri Krishna Govind Hare Murari"
+  },
+  "mantras": [
+    {
+      "id": "shri_krishna_govind",
+      "title": {
+        "hi": "श्री कृष्ण गोविंद हरे मुरारी",
+        "en": "Shri Krishna Govind Hare Murari"
+      },
+      "mantra": {
+        "hi": "श्री कृष्ण गोविंद हरे मुरारी, हे नाथ नारायण वासुदेवा॥",
+        "en": "Shri Krishna Govind Hare Murari, Hey Nath Narayan Vasudeva"
+      },
+      "description": {
+        "hi": "भगवान कृष्ण का अत्यंत लोकप्रिय संकीर्तन।",
+        "en": "A very popular chant of Lord Krishna."
+      },
+      "meaning": {
+        "hi": "हे कृष्ण, हे मुरारी, हे नाथ नारायण वासुदेव, आपको बार-बार प्रणाम।",
+        "en": "O Krishna, O Murari, O Lord Narayan Vasudeva, I bow to you."
+      },
+      "keywords": {
+        "hi": [
+          "श्री कृष्ण",
+          "गोविंद",
+          "मुरारी",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन"
+        ],
+        "en": [
+          "shri krishna",
+          "govind",
+          "murari",
+          "krisna",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

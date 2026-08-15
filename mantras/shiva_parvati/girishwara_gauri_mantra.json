@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "girishwara_gauri_mantra",
   "category": "shiva_parvati",
   "title": {
@@ -31,14 +31,39 @@
           "ॐ गौरीपतये नमः",
           "गौरीपति",
           "गौरी शंकर",
-          "शिव पार्वती"
+          "शिव पार्वती",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
         ],
         "en": [
-          "Gauripati Mantra",
-          "Om Gauripataye Namah",
-          "Gauripati",
-          "Gauri Shankar",
-          "Shiva Parvati"
+          "gauripati mantra",
+          "om gauripataye namah",
+          "gauripati",
+          "gauri shankar",
+          "shiva parvati",
+          "gauripati manter",
+          "manter",
+          "gauripati mntra",
+          "mntra",
+          "gauripati mantr",
+          "mantr",
+          "gauripati matra",
+          "matra",
+          "siva parvati",
+          "siva",
+          "shiv parvati",
+          "shiv",
+          "shib parvati",
+          "shib",
+          "siwa parvati",
+          "siwa",
+          "parvati",
+          "shiva parbati",
+          "parbati",
+          "om namah shivay",
+          "har har mahadev"
         ]
       },
       "audio": "girishwara_gauri_mantra.mp3"

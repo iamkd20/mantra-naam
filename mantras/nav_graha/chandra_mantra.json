@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "id": "chandra_mantra",
+  "category": "nav_graha",
+  "title": {
+    "hi": "चन्द्र मंत्र",
+    "en": "Chandra Mantra"
+  },
+  "mantras": [
+    {
+      "id": "chandra_mantra",
+      "title": {
+        "hi": "चन्द्र मंत्र",
+        "en": "Chandra Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ सोम सोमाय नमः॥",
+        "en": "Om Soma Somāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान चन्द्र (सोम) का सरल एवं प्रसिद्ध नाम मंत्र।",
+        "en": "A simple and popular nama mantra dedicated to Lord Chandra (Soma)."
+      },
+      "meaning": {
+        "hi": "मैं भगवान सोम को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Soma."
+      },
+      "keywords": {
+        "hi": [
+          "चन्द्र",
+          "सोम",
+          "चन्द्रदेव"
+        ],
+        "en": [
+          "chandra",
+          "soma",
+          "moon",
+          "nav",
+          "graha"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

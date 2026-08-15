@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "mahakaleshwar_mantra",
   "category": "shiva",
   "title": {
@@ -34,7 +34,12 @@
           "महादेव",
           "महाकालेश्वर",
           "उज्जैन",
-          "ज्योतिर्लिंग"
+          "ज्योतिर्लिंग",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "mahakaleshwar mantra",
@@ -44,7 +49,32 @@
           "mahadev",
           "mahakaleshwar",
           "ujjain",
-          "jyotirlinga"
+          "jyotirlinga",
+          "mahakaleshwar manter",
+          "manter",
+          "mahakaleshwar mntra",
+          "mntra",
+          "mahakaleshwar mantr",
+          "mantr",
+          "mahakaleshwar matra",
+          "matra",
+          "siva mantra",
+          "siva",
+          "shiv mantra",
+          "shiv",
+          "shib mantra",
+          "shib",
+          "siwa mantra",
+          "siwa",
+          "shiva manter",
+          "shiva mntra",
+          "shiva mantr",
+          "shiva matra",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "mahakaleshwar_mantra.mp3"

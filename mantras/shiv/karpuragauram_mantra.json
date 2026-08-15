@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shiva_karpuragauram",
   "category": "shiva",
   "title": {
@@ -27,10 +27,22 @@
       },
       "keywords": {
         "hi": [
-          "कर्पूरगौरं करुणावतारम्"
+          "कर्पूरगौरं करुणावतारम्",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
-          "Karpuragauram Karunavataram"
+          "karpuragauram karunavataram",
+          "rama",
+          "raam",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "shiva_karpuragauram.mp3"

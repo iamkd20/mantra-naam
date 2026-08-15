@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "rameshwaraya_shiva_mantra",
   "category": "shiva",
   "title": {
@@ -34,7 +34,12 @@
           "महादेव",
           "रामेश्वर",
           "रामेश्वरम्",
-          "ज्योतिर्लिंग"
+          "ज्योतिर्लिंग",
+          "मंतर",
+          "मन्त्र",
+          "सिव",
+          "सीव",
+          "महादेब"
         ],
         "en": [
           "rameshwara mantra",
@@ -44,7 +49,38 @@
           "mahadev",
           "rameshwara",
           "rameshwaram",
-          "jyotirlinga"
+          "jyotirlinga",
+          "rameshwara manter",
+          "manter",
+          "rameshwara mntra",
+          "mntra",
+          "rameshwara mantr",
+          "mantr",
+          "rameshwara matra",
+          "matra",
+          "rama",
+          "raam",
+          "rameshwara siva",
+          "siva",
+          "rameshwara shiv",
+          "shiv",
+          "rameshwara shib",
+          "shib",
+          "rameshwara siwa",
+          "siwa",
+          "siva mantra",
+          "shiv mantra",
+          "shib mantra",
+          "siwa mantra",
+          "shiva manter",
+          "shiva mntra",
+          "shiva mantr",
+          "shiva matra",
+          "om namah shivay",
+          "om namah shivaya",
+          "har har mahadev",
+          "mahamrityunjay",
+          "om triyambakam yajamahe"
         ]
       },
       "audio": "rameshwaraya_shiva_mantra.mp3"

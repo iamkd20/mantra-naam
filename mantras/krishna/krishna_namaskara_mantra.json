@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "id": "krishna_namaskara_mantra",
+  "category": "krishna",
+  "title": {
+    "hi": "कृष्ण नमस्कार मंत्र",
+    "en": "Krishna Namaskara Mantra"
+  },
+  "mantras": [
+    {
+      "id": "krishna_namaskara_mantra",
+      "title": {
+        "hi": "कृष्ण नमस्कार मंत्र",
+        "en": "Krishna Namaskara Mantra"
+      },
+      "mantra": {
+        "hi": "हे कृष्ण करुणासिन्धो दीनबन्धो जगत्पते। गोपेश गोपिकाकान्त राधाकान्त नमोऽस्तु ते॥",
+        "en": "He Kṛṣṇa Karuṇāsindho Dīnabandho Jagatpate Gopeśa Gopikākānta Rādhākānta Namo'stu Te"
+      },
+      "description": {
+        "hi": "भगवान श्रीकृष्ण को करुणामय एवं जगत्पति स्वरूप में प्रणाम करने का प्रसिद्ध स्तुति मंत्र।",
+        "en": "A devotional salutation to Lord Krishna as the ocean of compassion and Lord of the universe."
+      },
+      "meaning": {
+        "hi": "हे करुणामय कृष्ण! हे राधाकान्त! आपको मेरा बार-बार प्रणाम।",
+        "en": "O compassionate Krishna, beloved of Radha, I offer my repeated salutations."
+      },
+      "keywords": {
+        "hi": [
+          "हे कृष्ण",
+          "राधाकान्त",
+          "कृष्ण नमस्कार",
+          "कृषण",
+          "किसन",
+          "किशन",
+          "क्रिशन",
+          "राधे"
+        ],
+        "en": [
+          "he krishna",
+          "radhakanta",
+          "krishna namaskara",
+          "krishan",
+          "krishn",
+          "kanha",
+          "kishen",
+          "krsna",
+          "radhe krishan",
+          "radhe",
+          "radharani",
+          "kishori"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

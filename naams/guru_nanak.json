@@ -40,6 +40,104 @@
         "hi": "गुरु नानक देव जी",
         "en": "Guru Nanak Dev Ji"
       }
+    },
+    {
+      "id": "sikh_akal_purakh",
+      "name": {
+        "hi": "अकाल पुरख",
+        "en": "Akal Purakh"
+      }
+    },
+    {
+      "id": "sikh_nirankar",
+      "name": {
+        "hi": "निरंकार",
+        "en": "Nirankar"
+      }
+    },
+    {
+      "id": "sikh_kartar",
+      "name": {
+        "hi": "करतार",
+        "en": "Kartar"
+      }
+    },
+    {
+      "id": "sikh_guru_nanak",
+      "name": {
+        "hi": "गुरु नानक देव",
+        "en": "Guru Nanak Dev"
+      }
+    },
+    {
+      "id": "sikh_guru_angad",
+      "name": {
+        "hi": "गुरु अंगद देव",
+        "en": "Guru Angad Dev"
+      }
+    },
+    {
+      "id": "sikh_guru_amar_das",
+      "name": {
+        "hi": "गुरु अमर दास",
+        "en": "Guru Amar Das"
+      }
+    },
+    {
+      "id": "sikh_guru_ram_das",
+      "name": {
+        "hi": "गुरु राम दास",
+        "en": "Guru Ram Das"
+      }
+    },
+    {
+      "id": "sikh_guru_arjan",
+      "name": {
+        "hi": "गुरु अर्जन देव",
+        "en": "Guru Arjan Dev"
+      }
+    },
+    {
+      "id": "sikh_guru_hargobind",
+      "name": {
+        "hi": "गुरु हरगोबिंद",
+        "en": "Guru Hargobind"
+      }
+    },
+    {
+      "id": "sikh_guru_har_rai",
+      "name": {
+        "hi": "गुरु हर राय",
+        "en": "Guru Har Rai"
+      }
+    },
+    {
+      "id": "sikh_guru_har_krishan",
+      "name": {
+        "hi": "गुरु हर किशन",
+        "en": "Guru Har Krishan"
+      }
+    },
+    {
+      "id": "sikh_guru_tegh_bahadur",
+      "name": {
+        "hi": "गुरु तेग बहादुर",
+        "en": "Guru Tegh Bahadur"
+      }
+    },
+    {
+      "id": "sikh_guru_gobind_singh",
+      "name": {
+        "hi": "गुरु गोबिंद सिंह",
+        "en": "Guru Gobind Singh"
+      }
+    },
+    {
+      "id": "sikh_baba_deep_singh",
+      "name": {
+        "hi": "बाबा दीप सिंह",
+        "en": "Baba Deep Singh"
+      }
     }
   ]
 }

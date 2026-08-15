@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "id": "om_hiranyagarbhaya_namah",
+  "category": "brahma",
+  "title": {
+    "hi": "ॐ हिरण्यगर्भाय नमः",
+    "en": "Om Hiranyagarbhaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_hiranyagarbhaya_namah",
+      "title": {
+        "hi": "ॐ हिरण्यगर्भाय नमः",
+        "en": "Om Hiranyagarbhaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ हिरण्यगर्भाय नमः ॥",
+        "en": "Om Hiranyagarbhaya Namah."
+      },
+      "description": {
+        "hi": "भगवान ब्रह्मा (ॐ हिरण्यगर्भाय नमः) को प्रणाम का मंत्र।",
+        "en": "A devotional chant associated with Om Hiranyagarbhaya Namah, traditionally used for remembrance and spiritual practice."
+      },
+      "meaning": {
+        "hi": "यह जप भगवान ब्रह्मा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
+        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through Lord Brahma."
+      },
+      "keywords": {
+        "hi": [
+          "ॐ हिरण्यगर्भाय नमः",
+          "om hiranyagarbhaya namah",
+          "brahma",
+          "मंत्र",
+          "जप",
+          "ध्यान",
+          "भक्ति",
+          "मंतर",
+          "मन्त्र",
+          "बरम्हा",
+          "ब्रम्हा"
+        ],
+        "en": [
+          "om hiranyagarbhaya namah",
+          "brahma",
+          "mantra",
+          "japa",
+          "meditation",
+          "devotion",
+          "bramha",
+          "brama",
+          "brhma",
+          "manter",
+          "mntra",
+          "mantr",
+          "matra",
+          "om vedatmane vidmahe",
+          "gurur brahma"
+        ]
+      },
+      "audio": "om_hiranyagarbhaya_namah.mp3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "rama_stuti",
+  "category": "ram",
+  "title": {
+    "hi": "राम स्तुति",
+    "en": "Rama Stuti"
+  },
+  "mantras": [
+    {
+      "id": "rama_stuti",
+      "title": {
+        "hi": "राम स्तुति",
+        "en": "Rama Stuti"
+      },
+      "mantra": {
+        "hi": "रामाय रामभद्राय रामचन्द्राय वेधसे। रघुनाथाय नाथाय सीतायाः पतये नमः॥",
+        "en": "Rāmāya Rāmabhadrāya Rāmacandrāya Vedhase Raghunāthāya Nāthāya Sītāyāḥ Pataye Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम की अत्यंत प्रसिद्ध स्तुति, जिसमें उनके विभिन्न दिव्य स्वरूपों का वंदन किया जाता है।",
+        "en": "A celebrated hymn saluting Lord Rama through His various divine names."
+      },
+      "meaning": {
+        "hi": "भगवान राम, रामभद्र, रामचन्द्र, रघुनाथ एवं माता सीता के स्वामी को मेरा प्रणाम।",
+        "en": "Salutations to Lord Rama, Ramabhadra, Ramachandra, Raghunatha, and the consort of Sita."
+      },
+      "keywords": {
+        "hi": [
+          "राम स्तुति",
+          "रामभद्र",
+          "रघुनाथ"
+        ],
+        "en": [
+          "rama stuti",
+          "ramabhadra",
+          "raghunatha",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

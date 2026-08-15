@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "id": "chandraghanta_mantra",
+  "category": "durga",
+  "title": {
+    "hi": "चन्द्रघण्टा मंत्र",
+    "en": "Chandraghanta Mantra"
+  },
+  "mantras": [
+    {
+      "id": "chandraghanta_mantra",
+      "title": {
+        "hi": "चन्द्रघण्टा मंत्र",
+        "en": "Chandraghanta Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ देवी चन्द्रघण्टायै नमः॥",
+        "en": "Om Devī Candraghaṇṭāyai Namaḥ"
+      },
+      "description": {
+        "hi": "माँ चन्द्रघण्टा नवदुर्गा का तृतीय स्वरूप हैं। वे साहस, शौर्य, रक्षा एवं भय के नाश की अधिष्ठात्री हैं।",
+        "en": "Goddess Chandraghanta is the third form of Navadurga and represents courage, valor, protection, and the removal of fear."
+      },
+      "meaning": {
+        "hi": "मैं माँ चन्द्रघण्टा को प्रणाम करता हूँ, जो अपने भक्तों की रक्षा करती हैं।",
+        "en": "I bow to Goddess Chandraghanta, who protects Her devotees and removes fear."
+      },
+      "keywords": {
+        "hi": [
+          "चन्द्रघण्टा",
+          "तृतीय नवरात्र",
+          "देवी चन्द्रघण्टा",
+          "मंतर",
+          "मन्त्र",
+          "दुरगा",
+          "दुर्गे"
+        ],
+        "en": [
+          "chandraghanta",
+          "third navadurga",
+          "goddess chandraghanta",
+          "durge",
+          "doorga",
+          "durgga",
+          "ya devi sarva bhuteshu",
+          "sarva mangal mangalye",
+          "om aing hring kling"
+        ]
+      },
+      "audio": "",
+      "category": "durga"
+    }
+  ]
+}

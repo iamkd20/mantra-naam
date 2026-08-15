@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "names": [
+    {
+      "id": "ga_ganga",
+      "name": {
+        "hi": "गंगा",
+        "en": "Ganga"
+      }
+    },
+    {
+      "id": "ga_bhagirathi",
+      "name": {
+        "hi": "भागीरथी",
+        "en": "Bhagirathi"
+      }
+    },
+    {
+      "id": "ga_jahnavi",
+      "name": {
+        "hi": "जाह्नवी",
+        "en": "Jahnavi"
+      }
+    },
+    {
+      "id": "ga_mandakini",
+      "name": {
+        "hi": "मंदाकिनी",
+        "en": "Mandakini"
+      }
+    },
+    {
+      "id": "ga_vishnupadi",
+      "name": {
+        "hi": "विष्णुपदी",
+        "en": "Vishnupadi"
+      }
+    }
+  ]
+}

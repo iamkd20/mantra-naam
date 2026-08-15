@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "uma_maheshwara_gayatri",
   "category": "shiva_parvati",
   "title": {
@@ -30,13 +30,31 @@
           "उमा महेश्वर गायत्री",
           "शिव पार्वती गायत्री",
           "पार्वतीपति",
-          "उमा महेश्वर"
+          "उमा महेश्वर",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
         ],
         "en": [
-          "Uma Maheshwara Gayatri",
-          "Shiva Parvati Gayatri",
-          "Consort of Parvati",
-          "Uma Maheshwara"
+          "uma maheshwara gayatri",
+          "shiva parvati gayatri",
+          "consort of parvati",
+          "uma maheshwara",
+          "siva parvati gayatri",
+          "siva",
+          "shiv parvati gayatri",
+          "shiv",
+          "shib parvati gayatri",
+          "shib",
+          "siwa parvati gayatri",
+          "siwa",
+          "parvati",
+          "shiva parbati gayatri",
+          "parbati",
+          "consort of parbati",
+          "om namah shivay",
+          "har har mahadev"
         ]
       },
       "audio": "uma_maheshwara_gayatri.mp3"

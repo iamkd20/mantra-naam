@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "id": "om_shri_ramaya_namah",
+  "category": "ram",
+  "title": {
+    "hi": "ॐ श्री रामाय नमः",
+    "en": "Om Shri Ramaya Namah"
+  },
+  "mantras": [
+    {
+      "id": "om_shri_ramaya_namah",
+      "title": {
+        "hi": "ॐ श्री रामाय नमः",
+        "en": "Om Shri Ramaya Namah"
+      },
+      "mantra": {
+        "hi": "ॐ श्री रामाय नमः॥",
+        "en": "Om Śrī Rāmāya Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान श्रीराम को समर्पित संक्षिप्त एवं अत्यंत पवित्र मंत्र।",
+        "en": "A short and sacred mantra dedicated to Lord Rama."
+      },
+      "meaning": {
+        "hi": "मैं भगवान श्रीराम को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Rama."
+      },
+      "keywords": {
+        "hi": [
+          "रामाय नमः",
+          "श्री राम"
+        ],
+        "en": [
+          "ramaya namah",
+          "shri rama",
+          "ram"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

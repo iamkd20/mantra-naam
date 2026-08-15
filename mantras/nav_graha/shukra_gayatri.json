@@ -1,51 +1,45 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "shukra_gayatri",
   "category": "nav_graha",
   "title": {
-    "hi": "शुक्र गायत्री मंत्र",
-    "en": "Shukra Gayatri Mantra"
+    "hi": "शुक्र गायत्री",
+    "en": "Shukra Gayatri"
   },
   "mantras": [
     {
       "id": "shukra_gayatri",
       "title": {
-        "hi": "शुक्र गायत्री मंत्र",
-        "en": "Shukra Gayatri Mantra"
+        "hi": "शुक्र गायत्री",
+        "en": "Shukra Gayatri"
       },
       "mantra": {
-        "hi": "ॐ भृगुसुताय विद्महे दिव्यरूपाय धीमहि । तन्नः शुक्रः प्रचोदयात् ॥",
-        "en": "Om Bhrigusutaya Vidmahe Divyarupaya Dhimahi. Tannah Shukrah Prachodayat."
+        "hi": "ॐ भार्गवाय विद्महे दैत्यगुरवे धीमहि। तन्नः शुक्रः प्रचोदयात्॥",
+        "en": "Om Bhārgavāya Vidmahe Daityagurave Dhīmahi Tanno Śukraḥ Pracodayāt"
       },
       "description": {
-        "hi": "शुक्र के सौंदर्य, संतुलन और कला के प्रतीकात्मक स्वरूप का स्मरण।",
-        "en": "A devotional chant associated with Shukra Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "भगवान शुक्र की कृपा, समृद्धि, सौंदर्य एवं सद्बुद्धि के लिए प्रसिद्ध गायत्री मंत्र।",
+        "en": "A Gayatri mantra invoking Lord Shukra for prosperity, beauty, wisdom, and divine grace."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम महर्षि भृगु के पुत्र एवं दैत्यगुरु भगवान शुक्र का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Lord Shukra, son of Sage Bhrigu and the preceptor of the Asuras. May He enlighten our intellect."
       },
       "keywords": {
         "hi": [
-          "शुक्र गायत्री मंत्र",
-          "shukra gayatri",
-          "nav_graha",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "शुक्र गायत्री",
+          "भार्गव",
+          "दैत्यगुरु"
         ],
         "en": [
-          "Shukra Gayatri Mantra",
           "shukra gayatri",
-          "nav graha",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "bhargava",
+          "venus",
+          "nav",
+          "graha"
         ]
       },
-      "audio": "shukra_gayatri.mp3"
+      "audio": ""
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "id": "lakshmi_narayana_mantra",
+  "category": "vishnu_narayana",
+  "title": {
+    "hi": "लक्ष्मी नारायण मंत्र",
+    "en": "Lakshmi Narayana Mantra"
+  },
+  "mantras": [
+    {
+      "id": "lakshmi_narayana_mantra",
+      "title": {
+        "hi": "लक्ष्मी नारायण मंत्र",
+        "en": "Lakshmi Narayana Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ श्री लक्ष्मी नारायणाभ्यां नमः॥",
+        "en": "Om Śrī Lakṣmī Nārāyaṇābhyāṁ Namaḥ"
+      },
+      "description": {
+        "hi": "भगवान नारायण एवं माता लक्ष्मी के संयुक्त स्वरूप की उपासना का मंगलकारी मंत्र। यह सुख, समृद्धि, परिवार के कल्याण एवं आध्यात्मिक संतुलन के लिए जपा जाता है।",
+        "en": "A sacred mantra dedicated to Lord Narayana and Goddess Lakshmi together for prosperity, harmony, and divine blessings."
+      },
+      "meaning": {
+        "hi": "मैं भगवान नारायण एवं माता लक्ष्मी को प्रणाम करता हूँ।",
+        "en": "I bow to Lord Narayana and Goddess Lakshmi."
+      },
+      "keywords": {
+        "hi": [
+          "लक्ष्मी नारायण",
+          "श्री लक्ष्मी नारायण",
+          "नारायण"
+        ],
+        "en": [
+          "lakshmi narayana",
+          "lakshmi narayan",
+          "narayana",
+          "vishnu"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "id": "kamakhya_mantra",
+  "category": "devi",
+  "title": {
+    "hi": "कामाख्या मंत्र",
+    "en": "Kamakhya Mantra"
+  },
+  "mantras": [
+    {
+      "id": "kamakhya_mantra",
+      "title": {
+        "hi": "कामाख्या मंत्र",
+        "en": "Kamakhya Mantra"
+      },
+      "mantra": {
+        "hi": "कामाख्ये कामसम्पन्ने कामेश्वरि हरिप्रिये। कामदेहि त्वमेवालि कामेश्वरि नमोऽस्तु ते॥",
+        "en": "Kamakhye Kama Sampanne Kameshwari Hari Priye Kama Dehi Tvamevali Kameshwari Namostute"
+      },
+      "description": {
+        "hi": "माता कामाख्या की स्तुति।",
+        "en": "Praise of Mother Kamakhya."
+      },
+      "meaning": {
+        "hi": "हे कामाख्या, कामेश्वरी, मैं आपको प्रणाम करता हूँ।",
+        "en": "O Kamakhya, Kameshwari, I bow to you."
+      },
+      "keywords": {
+        "hi": [
+          "कामाख्या",
+          "कामेश्वरी"
+        ],
+        "en": [
+          "kamakhya",
+          "kameshwari"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

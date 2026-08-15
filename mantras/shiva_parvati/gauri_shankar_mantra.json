@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "gauri_shankar_mantra",
   "category": "shiva_parvati",
   "title": {
@@ -31,14 +31,39 @@
           "ॐ गौरीशंकराय नमः",
           "शिव पार्वती",
           "गौरी",
-          "शंकर"
+          "शंकर",
+          "मंतर",
+          "मन्त्र",
+          "पारबती",
+          "सिव"
         ],
         "en": [
-          "Gauri Shankar Mantra",
-          "Om Gauri Shankaraya Namah",
-          "Shiva Parvati",
-          "Gauri",
-          "Shankar"
+          "gauri shankar mantra",
+          "om gauri shankaraya namah",
+          "shiva parvati",
+          "gauri",
+          "shankar",
+          "gauri shankar manter",
+          "manter",
+          "gauri shankar mntra",
+          "mntra",
+          "gauri shankar mantr",
+          "mantr",
+          "gauri shankar matra",
+          "matra",
+          "siva parvati",
+          "siva",
+          "shiv parvati",
+          "shiv",
+          "shib parvati",
+          "shib",
+          "siwa parvati",
+          "siwa",
+          "parvati",
+          "shiva parbati",
+          "parbati",
+          "om namah shivay",
+          "har har mahadev"
         ]
       },
       "audio": "gauri_shankar_mantra.mp3"

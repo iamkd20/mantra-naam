@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "id": "parvati_gayatri",
+  "category": "shiva_parvati",
+  "title": {
+    "hi": "पार्वती गायत्री मंत्र",
+    "en": "Parvati Gayatri Mantra"
+  },
+  "mantras": [
+    {
+      "id": "parvati_gayatri",
+      "title": {
+        "hi": "पार्वती गायत्री मंत्र",
+        "en": "Parvati Gayatri Mantra"
+      },
+      "mantra": {
+        "hi": "ॐ महादेव्यै विद्महे रुद्रपत्न्यै धीमहि। तन्नो गौरी प्रचोदयात्॥",
+        "en": "Om Mahadevyai Vidmahe Rudra Patnyai Dhimahi Tanno Gauri Prachodayat"
+      },
+      "description": {
+        "hi": "माता पार्वती (गौरी) का गायत्री मंत्र।",
+        "en": "Gayatri mantra of Mother Parvati (Gauri)."
+      },
+      "meaning": {
+        "hi": "हम महादेवी को जानते हैं, रुद्र की पत्नी का ध्यान करते हैं, वह गौरी हमें प्रेरित करें।",
+        "en": "We know Mahadevi, meditate on Rudra's wife, may Gauri inspire us."
+      },
+      "keywords": {
+        "hi": [
+          "पार्वती",
+          "गौरी",
+          "गायत्री"
+        ],
+        "en": [
+          "parvati",
+          "gauri",
+          "gayatri"
+        ]
+      },
+      "audio": ""
+    }
+  ]
+}

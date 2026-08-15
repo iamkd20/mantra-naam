@@ -1,51 +1,54 @@
 {
-  "version": 1,
+  "version": 2,
   "id": "saraswati_gayatri",
   "category": "saraswati",
   "title": {
-    "hi": "सरस्वती गायत्री मंत्र",
-    "en": "Saraswati Gayatri Mantra"
+    "hi": "सरस्वती गायत्री",
+    "en": "Saraswati Gayatri"
   },
   "mantras": [
     {
       "id": "saraswati_gayatri",
       "title": {
-        "hi": "सरस्वती गायत्री मंत्र",
-        "en": "Saraswati Gayatri Mantra"
+        "hi": "सरस्वती गायत्री",
+        "en": "Saraswati Gayatri"
       },
       "mantra": {
-        "hi": "ॐ वाग्देव्यै च विद्महे कामराजाय धीमहि । तन्नो देवी प्रचोदयात् ॥",
-        "en": "Om Vagdeyyai Cha Vidmahe Kamarajaya Dhimahi. Tanno Devi Prachodayat."
+        "hi": "ॐ सरस्वत्यै विद्महे ब्रह्मपुत्र्यै धीमहि। तन्नो देवी प्रचोदयात्॥",
+        "en": "Om Sarasvatyai Vidmahe Brahmaputryai Dhīmahi Tanno Devī Pracodayāt"
       },
       "description": {
-        "hi": "विद्या, वाणी और ज्ञान की देवी सरस्वती के ध्यान के लिए प्रचलित गायत्री मंत्र।",
-        "en": "A devotional chant associated with Saraswati Gayatri Mantra, traditionally used for remembrance, reflection, and focused spiritual practice."
+        "hi": "देवी सरस्वती की कृपा, ज्ञान एवं वाणी की सिद्धि हेतु प्रसिद्ध गायत्री मंत्र।",
+        "en": "A revered Gayatri mantra invoking Goddess Saraswati for wisdom, learning, and eloquence."
       },
       "meaning": {
-        "hi": "यह जप संबंधित आराध्य या आध्यात्मिक परंपरा के प्रति श्रद्धा, स्मरण और आध्यात्मिक प्रेरणा की भावना व्यक्त करता है।",
-        "en": "This chant expresses reverence, remembrance, and a devotional intention to seek inspiration through the associated spiritual tradition or deity."
+        "hi": "हम देवी सरस्वती का ध्यान करते हैं। वे हमारी बुद्धि को प्रेरित करें।",
+        "en": "We meditate upon Goddess Saraswati. May She inspire our intellect."
       },
       "keywords": {
         "hi": [
-          "सरस्वती गायत्री मंत्र",
-          "saraswati gayatri",
-          "saraswati",
-          "मंत्र",
-          "जप",
-          "ध्यान",
-          "भक्ति"
+          "सरस्वती गायत्री",
+          "विद्या",
+          "मंतर",
+          "मन्त्र",
+          "सरसती",
+          "सरस्वती"
         ],
         "en": [
-          "Saraswati Gayatri Mantra",
           "saraswati gayatri",
+          "knowledge",
+          "sarswati gayatri",
+          "sarswati",
+          "sarasvati gayatri",
+          "sarasvati",
           "saraswati",
-          "mantra",
-          "japa",
-          "meditation",
-          "devotion"
+          "sharaswati gayatri",
+          "sharaswati",
+          "ya kundendu tushar",
+          "om aim saraswatyai"
         ]
       },
-      "audio": "saraswati_gayatri.mp3"
+      "audio": ""
     }
   ]
 }
